@@ -364,6 +364,29 @@
     resetAndRender();
   }
 
+  var NEW_BADGE_WINDOW_MS = 21 * 24 * 60 * 60 * 1000;
+
+  /* updateNewBadge: az "ÚJ ESEMÉNY!" jelvény csak akkor látszik, ha a
+   * legutóbbi published incidens ténylegesen friss (21 napon belüli) --
+   * a projekt elve, hogy semmit nem állítunk, ami nem igaz, egy vicces
+   * badge sem kivétel. */
+  function updateNewBadge(incidents) {
+    if (!els.newBadge) return;
+    var published = incidents.filter(function (i) {
+      return i.status === "published";
+    });
+    if (published.length === 0) {
+      els.newBadge.hidden = true;
+      return;
+    }
+    var sorted = published.slice().sort(function (a, b) {
+      return eventSortKey(b).localeCompare(eventSortKey(a));
+    });
+    var latest = incidentDateTime(sorted[0]);
+    var age = new Date().getTime() - latest.getTime();
+    els.newBadge.hidden = !(age >= 0 && age <= NEW_BADGE_WINDOW_MS);
+  }
+
   function populateYearOptions(incidents) {
     var years = Array.from(
       new Set(incidents.map(function (i) { return String(i.event_date).slice(0, 4); }))
@@ -407,6 +430,7 @@
     els.tagChip = document.getElementById("tag-filter-chip");
     els.tagChipLabel = document.getElementById("tag-filter-label");
     els.tagChipClear = document.getElementById("tag-filter-clear");
+    els.newBadge = document.getElementById("new-event-badge");
 
     els.tagChipClear.addEventListener("click", clearTagFilter);
 
@@ -449,6 +473,7 @@
         });
         populateYearOptions(state.incidents);
         els.updatedAt.textContent = formatUpdatedAt(meta.updated_at);
+        updateNewBadge(state.incidents);
         hideError();
         render();
         startCounterTicking();

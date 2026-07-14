@@ -1,50 +1,22 @@
-:root {
-  color-scheme: light dark;
-  --bg: #f5f6f8;
-  --fg: #1a1c1f;
-  --muted: #5b6470;
-  --card-bg: #ffffff;
-  --border: #d8dce1;
-  --accent: #1d5fae;
-  --badge-tram-bg: #d7e8ff;
-  --badge-tram-fg: #123d75;
-  --badge-tramtrain-bg: #ffe6cf;
-  --badge-tramtrain-fg: #7a3d05;
-  --badge-injury-bg: #f0f0f2;
-  --badge-injury-fg: #33383e;
-  --badge-injury-severe-bg: #ffd9d9;
-  --badge-injury-severe-fg: #7a1414;
-  --badge-party-bg: #e6e9ef;
-  --badge-party-fg: #363c46;
-  --badge-type-bg: #eaf3e6;
-  --badge-type-fg: #2e5a20;
-  --error-bg: #ffe4e4;
-  --error-fg: #7a1414;
-}
+/* Szegedi Villamosbalesetek Klub — szándékosan 90-es évekes/Geocities
+ * hangulat. Ez egy tudatosan vállalt, egységes vizuális világ (hazárdcsík,
+ * Comic Sans, rikító színek), ezért NINCS külön sötét/világos téma --
+ * a giccs a lényeg, nem az adaptivitás. */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #14161a;
-    --fg: #eceef1;
-    --muted: #a2acb8;
-    --card-bg: #1e2126;
-    --border: #33383f;
-    --accent: #7db2f5;
-    --badge-tram-bg: #123457;
-    --badge-tram-fg: #cfe3ff;
-    --badge-tramtrain-bg: #5a3410;
-    --badge-tramtrain-fg: #ffdbb0;
-    --badge-injury-bg: #2b2f35;
-    --badge-injury-fg: #d6dae0;
-    --badge-injury-severe-bg: #5a1414;
-    --badge-injury-severe-fg: #ffd0d0;
-    --badge-party-bg: #363c46;
-    --badge-party-fg: #dbe0e8;
-    --badge-type-bg: #2a3d24;
-    --badge-type-fg: #c8e8ba;
-    --error-bg: #4a1414;
-    --error-fg: #ffd0d0;
-  }
+:root {
+  color-scheme: light;
+  --yellow: #ffe600;
+  --black: #101010;
+  --red: #e2001a;
+  --red-dark: #9e1b32;
+  --blue: #0033cc;
+  --green: #009933;
+  --orange: #ff8800;
+  --purple: #7a1fa2;
+  --cream: #fffef0;
+  --ink: #201a00;
+  --muted: #6b5f2d;
+  --border-gold: #c8b878;
 }
 
 * {
@@ -57,59 +29,123 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
-  background: var(--bg);
-  color: var(--fg);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding: 14px;
+  min-height: 100vh;
+  background:
+    repeating-linear-gradient(45deg, var(--yellow) 0 18px, var(--black) 18px 26px);
+  color: var(--ink);
+  font-family: Verdana, Arial, sans-serif;
   line-height: 1.5;
 }
 
-header.site-header,
-main,
-footer.site-footer {
-  max-width: 720px;
+.page-frame {
+  max-width: 760px;
   margin: 0 auto;
-  padding: 1rem 1rem;
+  background: var(--cream);
+  border: 5px ridge var(--red);
+  padding: 18px 20px 4px;
 }
 
-header.site-header h1 {
-  font-size: 1.5rem;
-  margin: 0.5rem 0 0.25rem;
+hr.rainbow {
+  height: 5px;
+  border: none;
+  margin: 14px 0;
+  background: linear-gradient(90deg, #ff0000, #ff9900, #ffee00, #33cc33, #3366ff, #9900cc);
+}
+
+/* ---------- fejléc ---------- */
+
+.site-header {
+  text-align: center;
+}
+
+.site-header h1 {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: clamp(1.4rem, 5vw, 1.9rem);
+  color: var(--red);
+  text-shadow: 2px 2px 0 var(--yellow), -1px -1px 0 var(--black);
+  margin: 0.2rem 0 0.5rem;
+}
+
+.badge-row {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 0.3rem;
+}
+
+.hero-badge {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 0.68rem;
+  font-weight: 700;
+  background: var(--black);
+  color: var(--yellow);
+  padding: 3px 9px;
+  border-radius: 3px;
+  border: 1px solid var(--yellow);
+  white-space: nowrap;
+}
+
+.hero-badge-new {
+  background: var(--red);
+  color: #fff;
+  border-color: #fff;
+  border-radius: 999px;
+  animation: hero-blink 1.1s steps(1) infinite;
+}
+
+.hero-badge-new[hidden] {
+  display: none;
+}
+
+@keyframes hero-blink {
+  50% { opacity: 0.15; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-badge-new { animation: none; }
+}
+
+.hero-footnote {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin: 0 0 0.4rem;
+  font-style: italic;
 }
 
 .updated-at {
   color: var(--muted);
-  font-size: 0.9rem;
-  margin: 0 0 1rem;
+  font-size: 0.82rem;
+  margin: 0 0 0.4rem;
   min-height: 1.2em;
 }
 
+/* ---------- számláló ---------- */
+
 .no-accident-counter {
   text-align: center;
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 1.25rem 1rem 1.5rem;
-  margin-bottom: 1.5rem;
+  background: #fffbde;
+  border: 1px solid var(--border-gold);
+  box-shadow: 2px 2px 0 var(--border-gold);
+  border-radius: 4px;
+  padding: 1rem 0.9rem 1.15rem;
+  margin-bottom: 1rem;
 }
 
 .counter-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin: 0 0 0.15rem;
-}
-
-.counter-subtitle {
-  color: var(--muted);
-  font-size: 0.9rem;
-  font-style: italic;
-  margin: 0 0 0.9rem;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--red-dark);
+  margin: 0 0 0.6rem;
 }
 
 .counter-current {
-  font-size: clamp(1.75rem, 6vw, 2.75rem);
+  font-family: Consolas, "Courier New", monospace;
+  font-size: clamp(1.5rem, 6vw, 2.2rem);
   font-weight: 700;
-  color: var(--accent);
+  color: var(--blue);
   letter-spacing: 0.01em;
   margin: 0 0 0.4rem;
   font-variant-numeric: tabular-nums;
@@ -117,22 +153,24 @@ header.site-header h1 {
 
 .counter-record {
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.88rem;
   margin: 0;
   font-variant-numeric: tabular-nums;
 }
+
+/* ---------- szűrők ---------- */
 
 .filters {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.6rem;
 }
 
 .filter-field {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.2rem;
   flex: 1 1 140px;
 }
 
@@ -141,25 +179,26 @@ header.site-header h1 {
 }
 
 .filter-field label {
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   color: var(--muted);
+  font-weight: 700;
 }
 
 .filter-field select,
 .filter-field input {
-  min-height: 44px;
-  padding: 0.4rem 0.6rem;
-  font-size: 1rem;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--card-bg);
-  color: var(--fg);
+  min-height: 40px;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.95rem;
+  font-family: Verdana, Arial, sans-serif;
+  border: 2px inset var(--black);
+  background: #fff;
+  color: var(--ink);
 }
 
 .tag-hint {
   color: var(--muted);
-  font-size: 0.82rem;
-  margin: -0.4rem 0 0.75rem;
+  font-size: 0.78rem;
+  margin: 0 0 0.6rem;
 }
 
 .tag-filter-chip[hidden] {
@@ -170,40 +209,46 @@ header.site-header h1 {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  background: color-mix(in srgb, var(--accent) 12%, var(--card-bg));
-  border: 1px solid var(--accent);
-  color: var(--fg);
+  background: #eaf1ff;
+  border: 2px dashed var(--blue);
+  color: var(--ink);
   border-radius: 999px;
-  padding: 0.35rem 0.35rem 0.35rem 0.8rem;
-  font-size: 0.85rem;
-  margin: 0 0 1rem;
+  padding: 0.3rem 0.3rem 0.3rem 0.75rem;
+  font-size: 0.82rem;
+  margin: 0 0 0.75rem;
   width: fit-content;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .tag-filter-chip button {
-  min-height: 32px;
-  padding: 0.2rem 0.6rem;
-  font-size: 0.8rem;
-  border: none;
+  min-height: 30px;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.75rem;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 700;
+  border: 1px solid var(--blue);
   border-radius: 999px;
-  background: var(--card-bg);
-  color: var(--accent);
+  background: #fff;
+  color: var(--blue);
   cursor: pointer;
 }
 
 .result-count {
   color: var(--muted);
-  font-size: 0.9rem;
-  margin: 0 0 1rem;
+  font-size: 0.85rem;
+  margin: 0 0 0.75rem;
 }
 
 .status-message {
-  background: var(--error-bg);
-  color: var(--error-fg);
-  border-radius: 8px;
-  padding: 1rem;
+  background: #ffe4e4;
+  color: #7a1414;
+  border: 2px solid var(--red);
+  border-radius: 4px;
+  padding: 0.85rem;
   margin-bottom: 1rem;
 }
+
+/* ---------- eseménykártyák ---------- */
 
 .incident-list {
   list-style: none;
@@ -211,55 +256,64 @@ header.site-header h1 {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0.7rem;
 }
 
 .incident-card {
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 10px;
+  background: #fffbde;
+  border: 3px dashed var(--blue);
+  border-radius: 8px;
+  padding: 0.7rem 0.85rem 0.8rem;
 }
 
 .incident-summary-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.9rem 1rem;
+  align-items: baseline;
+  gap: 0.4rem 0.6rem;
+  margin-bottom: 0.35rem;
 }
 
 .incident-date {
-  font-weight: 600;
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-weight: 700;
 }
 
 .incident-summary-row .incident-location {
-  font-weight: 600;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 700;
+  color: var(--red);
   flex: 1 1 auto;
   min-width: 0;
 }
 
+.incident-summary-row .incident-location::before {
+  content: "📍 ";
+}
+
 .incident-body {
-  padding: 0 1rem 1rem;
-  border-top: 1px solid var(--border);
-  margin-top: -1px;
-  padding-top: 0.75rem;
+  /* nincs elválasztó -- a kártya maga a "keret", minden benne egyben látszik */
 }
 
 .incident-tag-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.5rem;
+  gap: 0.4rem;
+  margin-bottom: 0.45rem;
 }
 
 .badge {
   display: inline-block;
-  padding: 0.15rem 0.55rem;
+  padding: 0.12rem 0.55rem;
   border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 0.72rem;
+  font-weight: 700;
   white-space: nowrap;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #fff;
 }
 
 .badge-clickable {
@@ -269,49 +323,47 @@ header.site-header h1 {
 
 .badge-clickable:hover,
 .badge-clickable:focus-visible {
-  border-color: currentColor;
+  border-color: var(--black);
   outline: none;
+  box-shadow: 1px 1px 0 var(--black);
 }
 
 .badge-mode-tram {
-  background: var(--badge-tram-bg);
-  color: var(--badge-tram-fg);
+  background: var(--blue);
 }
 
 .badge-mode-tramtrain {
-  background: var(--badge-tramtrain-bg);
-  color: var(--badge-tramtrain-fg);
+  background: var(--orange);
+  color: #2a1400;
 }
 
 .badge-party {
-  background: var(--badge-party-bg);
-  color: var(--badge-party-fg);
+  background: var(--green);
 }
 
 .badge-event-type {
-  background: var(--badge-type-bg);
-  color: var(--badge-type-fg);
+  background: var(--purple);
 }
 
 .badge-injury {
-  background: var(--badge-injury-bg);
-  color: var(--badge-injury-fg);
+  background: #6b6b6b;
 }
 
 .badge-injury-severe,
 .badge-injury-fatal {
-  background: var(--badge-injury-severe-bg);
-  color: var(--badge-injury-severe-fg);
+  background: var(--red);
 }
 
 .incident-summary {
-  margin: 0 0 0.75rem;
+  margin: 0 0 0.6rem;
+  font-size: 0.92rem;
 }
 
 .incident-sources-label {
   color: var(--muted);
-  font-size: 0.85rem;
-  margin: 0 0 0.35rem;
+  font-size: 0.78rem;
+  margin: 0 0 0.3rem;
+  font-weight: 700;
 }
 
 .incident-sources ul {
@@ -320,33 +372,51 @@ header.site-header h1 {
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.3rem;
 }
 
 .incident-sources li a {
-  color: var(--accent);
-  text-decoration: none;
-  display: inline-block;
-  min-height: 44px;
-  display: flex;
+  color: var(--blue);
+  text-decoration: underline;
+  display: inline-flex;
   align-items: center;
+  min-height: 36px;
+  font-size: 0.9rem;
+}
+
+.incident-sources li a::before {
+  content: "🔗 ";
+  margin-right: 0.2rem;
+}
+
+.incident-sources li a:visited {
+  color: #551a8b;
 }
 
 .incident-sources li a:hover,
 .incident-sources li a:focus {
-  text-decoration: underline;
+  color: var(--red);
 }
 
 .incident-sources .source-name {
   color: var(--muted);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
+
+.incident-empty {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  color: var(--muted);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+/* ---------- lapozás ---------- */
 
 .list-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;
-  margin-top: 1rem;
+  margin: 0.9rem 0 1.2rem;
 }
 
 .show-more[hidden] {
@@ -356,37 +426,80 @@ header.site-header h1 {
 .show-more {
   display: block;
   flex: 1 1 200px;
-  min-height: 44px;
-  padding: 0.6rem 1rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--accent);
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 10px;
+  min-height: 42px;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: var(--red-dark);
+  background: var(--yellow);
+  border: 2px outset #a07d00;
+  border-radius: 4px;
   cursor: pointer;
+}
+
+.show-more:active {
+  border-style: inset;
 }
 
 .show-more:hover,
 .show-more:focus-visible {
-  background: color-mix(in srgb, var(--accent) 8%, var(--card-bg));
+  background: #ffd400;
 }
 
 .show-all {
-  color: var(--muted);
+  color: var(--blue);
 }
 
-footer.site-footer {
+/* ---------- lábléc ---------- */
+
+.site-footer {
   color: var(--muted);
-  font-size: 0.85rem;
-  border-top: 1px solid var(--border);
-  margin-top: 1.5rem;
+  font-size: 0.82rem;
+  padding-bottom: 1.1rem;
+  text-align: center;
 }
 
-footer.site-footer .disclaimer {
-  font-size: 0.78rem;
-  opacity: 0.85;
-  margin-top: 0.75rem;
+.site-footer p {
+  text-align: left;
+}
+
+.site-footer .disclaimer {
+  font-size: 0.75rem;
+  opacity: 0.9;
+  margin-top: 0.6rem;
+}
+
+.guestbook-row {
+  margin-top: 0.9rem;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 0.72rem;
+}
+
+.guestbook-row span {
+  border: 1px solid var(--black);
+  background: var(--yellow);
+  color: var(--ink);
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+
+.hit-counter-line {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.hit-counter {
+  font-family: Consolas, "Courier New", monospace;
+  background: #000;
+  color: #0f0;
+  padding: 2px 6px;
+  letter-spacing: 0.12em;
+  border-radius: 2px;
 }
 
 @media (max-width: 480px) {

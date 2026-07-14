@@ -7,15 +7,23 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="page-frame">
 <header class="site-header">
-  <h1>Szegedi villamosbalesetek adatbázisa</h1>
+  <h1>🚋 Szegedi Villamosbalesetek Klub 🚋</h1>
+  <div class="badge-row">
+    <span class="hero-badge">100% AUTENTIKUS ADAT</span>
+    <span id="new-event-badge" class="hero-badge hero-badge-new" hidden>ÚJ ESEMÉNY!</span>
+    <span class="hero-badge">MOBILRA IS OPTIMALIZÁLVA*</span>
+  </div>
+  <p class="hero-footnote">*ezt senki nem ellenőrizte</p>
   <p id="updated-at" class="updated-at" aria-live="polite"></p>
 </header>
+
+<hr class="rainbow">
 
 <main>
   <section id="no-accident-counter" class="no-accident-counter" aria-live="polite">
     <h2 class="counter-title">Épp hány napot bírtak ki a szegediek, hogy ne ütközzenek villamossal?</h2>
-    <p class="counter-subtitle">(ritka fényes pillanat, élvezd ki)</p>
     <p id="counter-current" class="counter-current"></p>
     <p id="counter-record" class="counter-record"></p>
   </section>
@@ -37,7 +45,7 @@
     </div>
     <div class="filter-field filter-field-text">
       <label for="filter-text">Keresés (helyszín, összefoglaló, címkék)</label>
-      <input id="filter-text" name="text" type="search" placeholder="pl. Kossuth Lajos sugárút, gyalogos" autocomplete="off">
+      <input id="filter-text" name="text" type="search" placeholder="🔍 pl. Kossuth Lajos sugárút, gyalogos" autocomplete="off">
     </div>
   </form>
 
@@ -60,6 +68,8 @@
   </div>
 </main>
 
+<hr class="rainbow">
+
 <footer class="site-footer">
   <p>
     Az itt szereplő információk nyilvános sajtóhírekből és hivatalos közleményekből
@@ -75,7 +85,17 @@
     valószínűleg tényleg hibás — ez nem hivatalos forrás, csak egy lelkes kísérlet arra,
     hogy összegyűjtsük, mi történt a szegedi síneken.
   </p>
+
+  <div class="guestbook-row">
+    <span>📖 Vendégkönyv</span>
+    <span>✉️ Írj nekünk</span>
+    <span>🔗 Webring: előző · random · következő</span>
+  </div>
+  <p class="hit-counter-line">
+    Te vagy a <span class="hit-counter">003741</span>. látogató! · Legjobb eredmény Netscape Navigator 4.0-val
+  </p>
 </footer>
+</div>
 
 <script src="app.js" defer></script>
 </body>

@@ -183,6 +183,21 @@ hr.rainbow {
   font-variant-numeric: tabular-nums;
 }
 
+.counter-cta {
+  font-family: "Comic Neue", "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 700;
+  color: var(--red);
+  font-size: 0.95rem;
+  margin: 0.7rem 0 0.15rem;
+}
+
+.counter-cta-footnote {
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-style: italic;
+  margin: 0;
+}
+
 /* ---------- szűrők ---------- */
 
 .filters {
@@ -531,12 +546,23 @@ hr.rainbow {
   font-size: 0.72rem;
 }
 
-.guestbook-row span {
+.guestbook-row a {
   border: 1px solid var(--black);
   background: var(--yellow);
   color: var(--ink);
   padding: 3px 8px;
   border-radius: 4px;
+  text-decoration: none;
+  font-weight: 700;
+  min-height: 30px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.guestbook-row a:hover,
+.guestbook-row a:focus-visible {
+  background: #ffd400;
+  text-decoration: underline;
 }
 
 .hit-counter-line {

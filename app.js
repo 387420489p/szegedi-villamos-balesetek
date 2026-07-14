@@ -228,7 +228,7 @@
         var text = spec.labels[entry.value] || entry.value;
         var badge = tagBadge(spec.className(entry.value), text, spec.field, entry.value);
         var weight = maxCount === minCount ? 1 : (entry.count - minCount) / (maxCount - minCount);
-        badge.style.fontSize = (0.68 + weight * 0.27) + "rem";
+        badge.style.fontSize = (0.62 + weight * 0.16) + "rem";
         badge.title = text + " (" + entry.count + " esemény) — " + badge.title;
         els.tagCloud.appendChild(badge);
         els.tagCloudBadges.push({ el: badge, field: spec.field, value: entry.value });
@@ -420,27 +420,25 @@
     resetAndRender();
   }
 
-  var NEW_BADGE_WINDOW_MS = 21 * 24 * 60 * 60 * 1000;
-
-  /* updateNewBadge: az "ÚJ ESEMÉNY!" jelvény csak akkor látszik, ha a
-   * legutóbbi published incidens ténylegesen friss (21 napon belüli) --
-   * a projekt elve, hogy semmit nem állítunk, ami nem igaz, egy vicces
-   * badge sem kivétel. */
-  function updateNewBadge(incidents) {
-    if (!els.newBadge) return;
-    var published = incidents.filter(function (i) {
-      return i.status === "published";
+  /* initHitCounter: valódi, oldalanként egyedi látogatószámláló egy
+   * ingyenes, hitelesítés nélküli badge-szolgáltatáson keresztül (csak egy
+   * <img> kérés, nincs saját backend). Ha a szolgáltatás nem elérhető, a
+   * HTML-ben eleve ott lévő "sok" tartalék szöveg marad látható -- inkább
+   * hiányzó adat, mint kitalált szám. */
+  function initHitCounter() {
+    var img = document.getElementById("hit-counter-img");
+    var fallback = document.getElementById("hit-counter-fallback");
+    if (!img) return;
+    img.addEventListener("load", function () {
+      img.hidden = false;
+      if (fallback) fallback.hidden = true;
     });
-    if (published.length === 0) {
-      els.newBadge.hidden = true;
-      return;
-    }
-    var sorted = published.slice().sort(function (a, b) {
-      return eventSortKey(b).localeCompare(eventSortKey(a));
+    img.addEventListener("error", function () {
+      img.hidden = true;
+      if (fallback) fallback.hidden = false;
     });
-    var latest = incidentDateTime(sorted[0]);
-    var age = new Date().getTime() - latest.getTime();
-    els.newBadge.hidden = !(age >= 0 && age <= NEW_BADGE_WINDOW_MS);
+    img.src =
+      "https://visitor-badge.laobi.icu/badge?page_id=szegedi-villamos-balesetek.github-pages";
   }
 
   function populateYearOptions(incidents) {
@@ -486,8 +484,9 @@
     els.tagChip = document.getElementById("tag-filter-chip");
     els.tagChipLabel = document.getElementById("tag-filter-label");
     els.tagChipClear = document.getElementById("tag-filter-clear");
-    els.newBadge = document.getElementById("new-event-badge");
     els.tagCloud = document.getElementById("tag-cloud");
+
+    initHitCounter();
 
     els.tagChipClear.addEventListener("click", clearTagFilter);
 
@@ -530,7 +529,6 @@
         });
         populateYearOptions(state.incidents);
         els.updatedAt.textContent = formatUpdatedAt(meta.updated_at);
-        updateNewBadge(state.incidents);
         buildTagCloud(state.incidents);
         hideError();
         render();

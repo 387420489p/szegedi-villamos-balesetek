@@ -195,10 +195,34 @@ hr.rainbow {
   color: var(--ink);
 }
 
-.tag-hint {
+.tag-cloud-label {
   color: var(--muted);
-  font-size: 0.78rem;
-  margin: 0 0 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  background: #fffbde;
+  border: 2px dashed var(--border-gold);
+  border-radius: 8px;
+  padding: 0.6rem 0.7rem;
+  margin-bottom: 0.75rem;
+}
+
+.tag-cloud .badge {
+  border: 1px solid transparent;
+}
+
+.tag-cloud .tag-cloud-badge-active {
+  border-color: var(--black);
+  box-shadow: 1px 1px 0 var(--black);
+  outline: 2px solid var(--ink);
+  outline-offset: 1px;
 }
 
 .tag-filter-chip[hidden] {

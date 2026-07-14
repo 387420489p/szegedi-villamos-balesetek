@@ -192,6 +192,61 @@
     return span;
   }
 
+  var TAG_CLOUD_FIELDS = [
+    { field: "mode", labels: MODE_LABELS, className: function (v) { return "badge badge-mode-" + v; } },
+    { field: "other_party", labels: OTHER_PARTY_LABELS, className: partyBadgeClass },
+    { field: "event_type", labels: EVENT_TYPE_LABELS, className: function () { return "badge badge-event-type"; } },
+    { field: "injuries", labels: INJURY_LABELS, className: injuryBadgeClass },
+  ];
+
+  /* buildTagCloud: a kereső alatt egy helyen felsorolja MINDEN ténylegesen
+   * előforduló címkét (nem találjuk ki, csak amit a valós adat tartalmaz),
+   * gyakoriság szerint csökkenő sorrendben, gyakoriság-arányos betűmérettel
+   * -- klasszikus "tag cloud". Így nem kell kártyánként vadászni a
+   * címkékre, egy helyen kattinthatók. */
+  function buildTagCloud(incidents) {
+    if (!els.tagCloud) return;
+    els.tagCloud.innerHTML = "";
+    els.tagCloudBadges = [];
+
+    TAG_CLOUD_FIELDS.forEach(function (spec) {
+      var counts = {};
+      incidents.forEach(function (incident) {
+        var value = incident[spec.field];
+        if (value === undefined || value === null || value === "") return;
+        counts[value] = (counts[value] || 0) + 1;
+      });
+      var entries = Object.keys(counts)
+        .map(function (value) { return { value: value, count: counts[value] }; })
+        .sort(function (a, b) { return b.count - a.count; });
+      if (entries.length === 0) return;
+
+      var maxCount = entries[0].count;
+      var minCount = entries[entries.length - 1].count;
+
+      entries.forEach(function (entry) {
+        var text = spec.labels[entry.value] || entry.value;
+        var badge = tagBadge(spec.className(entry.value), text, spec.field, entry.value);
+        var weight = maxCount === minCount ? 1 : (entry.count - minCount) / (maxCount - minCount);
+        badge.style.fontSize = (0.68 + weight * 0.27) + "rem";
+        badge.title = text + " (" + entry.count + " esemény) — " + badge.title;
+        els.tagCloud.appendChild(badge);
+        els.tagCloudBadges.push({ el: badge, field: spec.field, value: entry.value });
+      });
+    });
+
+    updateTagCloudActiveState();
+  }
+
+  function updateTagCloudActiveState() {
+    if (!els.tagCloudBadges) return;
+    var tag = state.filters.tag;
+    els.tagCloudBadges.forEach(function (entry) {
+      var active = !!tag && tag.field === entry.field && String(tag.value) === String(entry.value);
+      entry.el.classList.toggle("tag-cloud-badge-active", active);
+    });
+  }
+
   /* A kártya minden mezője rögtön látszik -- nincs soronkénti
    * lenyitás/összecsukás, csak a TELJES LISTA van lapozva (render()),
    * hogy 99+ esemény ne töltse meg egyetlen végtelen listává az oldalt. */
@@ -341,10 +396,11 @@
     var tag = state.filters.tag;
     if (!tag) {
       els.tagChip.hidden = true;
-      return;
+    } else {
+      els.tagChip.hidden = false;
+      els.tagChipLabel.textContent = tag.label;
     }
-    els.tagChip.hidden = false;
-    els.tagChipLabel.textContent = tag.label;
+    updateTagCloudActiveState();
   }
 
   /* setTagFilter: tag-badge-re kattintva a teljes listát az adott mező
@@ -431,6 +487,7 @@
     els.tagChipLabel = document.getElementById("tag-filter-label");
     els.tagChipClear = document.getElementById("tag-filter-clear");
     els.newBadge = document.getElementById("new-event-badge");
+    els.tagCloud = document.getElementById("tag-cloud");
 
     els.tagChipClear.addEventListener("click", clearTagFilter);
 
@@ -474,6 +531,7 @@
         populateYearOptions(state.incidents);
         els.updatedAt.textContent = formatUpdatedAt(meta.updated_at);
         updateNewBadge(state.incidents);
+        buildTagCloud(state.incidents);
         hideError();
         render();
         startCounterTicking();

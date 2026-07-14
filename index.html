@@ -14,7 +14,7 @@
 
 <main>
   <section id="no-accident-counter" class="no-accident-counter" aria-live="polite">
-    <h2 class="counter-title">Mennyi ideje NEM történt villamosbaleset Szegeden?</h2>
+    <h2 class="counter-title">Épp hány napot bírtak ki a szegediek, hogy ne ütközzenek villamossal?</h2>
     <p class="counter-subtitle">(ritka fényes pillanat, élvezd ki)</p>
     <p id="counter-current" class="counter-current"></p>
     <p id="counter-record" class="counter-record"></p>
@@ -36,8 +36,8 @@
       </select>
     </div>
     <div class="filter-field filter-field-text">
-      <label for="filter-text">Keresés (helyszín, összefoglaló)</label>
-      <input id="filter-text" name="text" type="search" placeholder="pl. Kossuth Lajos sugárút" autocomplete="off">
+      <label for="filter-text">Keresés (helyszín, összefoglaló, másik fél)</label>
+      <input id="filter-text" name="text" type="search" placeholder="pl. Kossuth Lajos sugárút, gyalogos" autocomplete="off">
     </div>
   </form>
 
@@ -46,6 +46,8 @@
   <div id="status-message" class="status-message" hidden></div>
 
   <ul id="incident-list" class="incident-list" aria-label="Balesetek listája"></ul>
+
+  <button id="show-more" class="show-more" type="button" hidden></button>
 </main>
 
 <footer class="site-footer">
@@ -53,6 +55,15 @@
     Az itt szereplő információk nyilvános sajtóhírekből és hivatalos közleményekből
     származnak. Egy eseményhez több forrás is tartozhat. Ez az oldal nem az SZKT, nem a
     rendőrség és nem az önkormányzat hivatalos adatbázisa.
+  </p>
+  <p class="disclaimer">
+    Ez az oldal egy szórakoztató, hobbiprojektként épülő adatgyűjtemény — NEM hivatalos
+    statisztika, NEM tudományos elemzés, és nem helyettesíti a hivatalos baleseti
+    nyilvántartásokat. Az adatok automatikus (és időnként kézi) feldolgozáson mennek át,
+    hibák, pontatlanságok előfordulhatnak. Semmilyen felelősséget nem vállalunk az itt
+    közölt információk pontosságáért vagy teljességéért. Ha valamit hibásnak találsz, az
+    valószínűleg tényleg hibás — ez nem hivatalos forrás, csak egy lelkes kísérlet arra,
+    hogy összegyűjtsük, mi történt a szegedi síneken.
   </p>
 </footer>
 

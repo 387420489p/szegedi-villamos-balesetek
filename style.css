@@ -14,6 +14,10 @@
   --badge-injury-fg: #33383e;
   --badge-injury-severe-bg: #ffd9d9;
   --badge-injury-severe-fg: #7a1414;
+  --badge-party-bg: #e6e9ef;
+  --badge-party-fg: #363c46;
+  --badge-type-bg: #eaf3e6;
+  --badge-type-fg: #2e5a20;
   --error-bg: #ffe4e4;
   --error-fg: #7a1414;
 }
@@ -34,6 +38,10 @@
     --badge-injury-fg: #d6dae0;
     --badge-injury-severe-bg: #5a1414;
     --badge-injury-severe-fg: #ffd0d0;
+    --badge-party-bg: #363c46;
+    --badge-party-fg: #dbe0e8;
+    --badge-type-bg: #2a3d24;
+    --badge-type-fg: #c8e8ba;
     --error-bg: #4a1414;
     --error-fg: #ffd0d0;
   }
@@ -175,19 +183,71 @@ header.site-header h1 {
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 0.9rem 1rem;
 }
 
-.incident-card .row-top {
+.incident-card-details {
+  padding: 0;
+}
+
+/* A teljes kártya lenyitható -- a natív <details>/<summary> markert
+ * elrejtjük és sajátot rajzolunk, hogy a fejléc-sor tördelése ne törjön
+ * el mobilon. */
+.incident-summary-row {
+  cursor: pointer;
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem;
-  margin-bottom: 0.35rem;
+  padding: 0.9rem 1rem;
+  min-height: 44px;
+}
+
+.incident-summary-row::-webkit-details-marker {
+  display: none;
+}
+
+.incident-summary-row::before {
+  content: "▸";
+  color: var(--muted);
+  font-size: 0.8rem;
+  transition: transform 0.15s ease;
+  flex: 0 0 auto;
+}
+
+.incident-card-details[open] > .incident-summary-row::before {
+  transform: rotate(90deg);
+}
+
+.incident-summary-row:hover,
+.incident-summary-row:focus-visible {
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  border-radius: 10px;
 }
 
 .incident-date {
   font-weight: 600;
+}
+
+.incident-summary-row .incident-location {
+  font-weight: 600;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.incident-body {
+  padding: 0 1rem 1rem;
+  border-top: 1px solid var(--border);
+  margin-top: -1px;
+  padding-top: 0.75rem;
+}
+
+.incident-tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .badge {
@@ -209,6 +269,16 @@ header.site-header h1 {
   color: var(--badge-tramtrain-fg);
 }
 
+.badge-party {
+  background: var(--badge-party-bg);
+  color: var(--badge-party-fg);
+}
+
+.badge-event-type {
+  background: var(--badge-type-bg);
+  color: var(--badge-type-fg);
+}
+
 .badge-injury {
   background: var(--badge-injury-bg);
   color: var(--badge-injury-fg);
@@ -220,33 +290,19 @@ header.site-header h1 {
   color: var(--badge-injury-severe-fg);
 }
 
-.incident-location {
-  font-weight: 600;
-  margin: 0.15rem 0;
-}
-
-.incident-tags {
-  color: var(--muted);
-  font-size: 0.9rem;
-  margin: 0 0 0.4rem;
-}
-
 .incident-summary {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.75rem;
 }
 
-.incident-sources summary {
-  cursor: pointer;
-  min-height: 44px;
-  display: flex;
-  align-items: center;
-  color: var(--accent);
-  font-size: 0.95rem;
+.incident-sources-label {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0 0 0.35rem;
 }
 
 .incident-sources ul {
   list-style: none;
-  margin: 0.25rem 0 0;
+  margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
@@ -272,11 +328,37 @@ header.site-header h1 {
   font-size: 0.85rem;
 }
 
+.show-more {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.show-more:hover,
+.show-more:focus-visible {
+  background: color-mix(in srgb, var(--accent) 8%, var(--card-bg));
+}
+
 footer.site-footer {
   color: var(--muted);
   font-size: 0.85rem;
   border-top: 1px solid var(--border);
   margin-top: 1.5rem;
+}
+
+footer.site-footer .disclaimer {
+  font-size: 0.78rem;
+  opacity: 0.85;
+  margin-top: 0.75rem;
 }
 
 @media (max-width: 480px) {

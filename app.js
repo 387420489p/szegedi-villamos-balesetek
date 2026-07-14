@@ -35,10 +35,13 @@
     unknown: "nincs adat",
   };
 
+  var PAGE_SIZE = 20;
+
   var state = {
     incidents: [],
     filters: { year: "", mode: "", text: "" },
     counterTimer: null,
+    visibleCount: PAGE_SIZE,
   };
 
   var els = {};
@@ -157,44 +160,67 @@
     return node;
   }
 
+  function partyBadgeClass(otherParty) {
+    return "badge badge-party badge-party-" + (otherParty || "unknown");
+  }
+
+  function injuryBadgeClass(injuries) {
+    var cls = "badge badge-injury";
+    if (injuries === "severe" || injuries === "fatal") {
+      cls += " badge-injury-" + injuries;
+    }
+    return cls;
+  }
+
+  /* A teljes kártya egy <details>: összecsukva csak a lényeg (dátum,
+   * jármű-badge, másik fél badge, helyszín), kinyitva a teljes leírás,
+   * sérülés-badge és a források. Így 99+ esemény sem tölti meg egyetlen
+   * végtelen listává az oldalt -- a felhasználó nyitja ki, ami érdekli. */
   function renderIncidentCard(incident) {
     var li = el("li", { className: "incident-card" });
+    var card = el("details", { className: "incident-card-details" });
 
-    var rowTop = el("div", { className: "row-top" });
-    rowTop.appendChild(el("span", { className: "incident-date", text: formatDate(incident) }));
-
-    rowTop.appendChild(
+    var summaryRow = el("summary", { className: "incident-summary-row" });
+    summaryRow.appendChild(el("span", { className: "incident-date", text: formatDate(incident) }));
+    summaryRow.appendChild(
       el("span", {
         className: "badge badge-mode-" + incident.mode,
         text: MODE_LABELS[incident.mode] || incident.mode,
       })
     );
-
-    var injuryClass = "badge badge-injury";
-    if (incident.injuries === "severe" || incident.injuries === "fatal") {
-      injuryClass += " badge-injury-" + incident.injuries;
-    }
-    rowTop.appendChild(
+    summaryRow.appendChild(
       el("span", {
-        className: injuryClass,
+        className: partyBadgeClass(incident.other_party),
+        text: OTHER_PARTY_LABELS[incident.other_party] || incident.other_party,
+      })
+    );
+    summaryRow.appendChild(el("span", { className: "incident-location", text: incident.location }));
+    card.appendChild(summaryRow);
+
+    var body = el("div", { className: "incident-body" });
+
+    var tagRow = el("div", { className: "row-top incident-tag-row" });
+    tagRow.appendChild(
+      el("span", {
+        className: "badge badge-event-type",
+        text: EVENT_TYPE_LABELS[incident.event_type] || incident.event_type,
+      })
+    );
+    tagRow.appendChild(
+      el("span", {
+        className: injuryBadgeClass(incident.injuries),
         text: INJURY_LABELS[incident.injuries] || incident.injuries,
       })
     );
-    li.appendChild(rowTop);
+    body.appendChild(tagRow);
 
-    li.appendChild(el("p", { className: "incident-location", text: incident.location }));
+    body.appendChild(el("p", { className: "incident-summary", text: incident.summary }));
 
-    var tags =
-      (EVENT_TYPE_LABELS[incident.event_type] || incident.event_type) +
-      " · másik fél: " +
-      (OTHER_PARTY_LABELS[incident.other_party] || incident.other_party);
-    li.appendChild(el("p", { className: "incident-tags", text: tags }));
-
-    li.appendChild(el("p", { className: "incident-summary", text: incident.summary }));
-
-    var details = el("details", { className: "incident-sources" });
+    var sourcesBlock = el("div", { className: "incident-sources" });
     var sources = incident.sources || [];
-    details.appendChild(el("summary", { text: "Források (" + sources.length + ")" }));
+    sourcesBlock.appendChild(
+      el("p", { className: "incident-sources-label", text: "Források (" + sources.length + "):" })
+    );
     var ul = el("ul");
     sources.forEach(function (source) {
       var liSource = el("li");
@@ -208,9 +234,11 @@
       );
       ul.appendChild(liSource);
     });
-    details.appendChild(ul);
-    li.appendChild(details);
+    sourcesBlock.appendChild(ul);
+    body.appendChild(sourcesBlock);
 
+    card.appendChild(body);
+    li.appendChild(card);
     return li;
   }
 
@@ -223,8 +251,15 @@
       if (year && String(incident.event_date).slice(0, 4) !== year) return false;
       if (mode && incident.mode !== mode) return false;
       if (text) {
-        var haystack =
-          normalizeForSearch(incident.location) + " " + normalizeForSearch(incident.summary);
+        var haystack = [
+          incident.location,
+          incident.summary,
+          OTHER_PARTY_LABELS[incident.other_party] || incident.other_party,
+          EVENT_TYPE_LABELS[incident.event_type] || incident.event_type,
+          MODE_LABELS[incident.mode] || incident.mode,
+        ]
+          .map(normalizeForSearch)
+          .join(" ");
         if (haystack.indexOf(text) === -1) return false;
       }
       return true;
@@ -240,13 +275,32 @@
       els.list.appendChild(
         el("li", { className: "incident-empty", text: "Nincs a szűrésnek megfelelő esemény." })
       );
+      els.showMore.hidden = true;
       return;
     }
 
-    els.resultCount.textContent = filtered.length + " esemény";
-    filtered.forEach(function (incident) {
+    var visible = filtered.slice(0, state.visibleCount);
+    els.resultCount.textContent =
+      filtered.length + " esemény" +
+      (filtered.length > visible.length ? " (" + visible.length + " megjelenítve)" : "");
+
+    visible.forEach(function (incident) {
       els.list.appendChild(renderIncidentCard(incident));
     });
+
+    var remaining = filtered.length - visible.length;
+    if (remaining > 0) {
+      els.showMore.hidden = false;
+      els.showMore.textContent =
+        "Több esemény mutatása (" + Math.min(remaining, PAGE_SIZE) + " további, összesen " + remaining + " van hátra)";
+    } else {
+      els.showMore.hidden = true;
+    }
+  }
+
+  function resetAndRender() {
+    state.visibleCount = PAGE_SIZE;
+    render();
   }
 
   function populateYearOptions(incidents) {
@@ -287,17 +341,22 @@
     els.updatedAt = document.getElementById("updated-at");
     els.counterCurrent = document.getElementById("counter-current");
     els.counterRecord = document.getElementById("counter-record");
+    els.showMore = document.getElementById("show-more");
 
     els.yearSelect.addEventListener("change", function () {
       state.filters.year = els.yearSelect.value;
-      render();
+      resetAndRender();
     });
     els.modeSelect.addEventListener("change", function () {
       state.filters.mode = els.modeSelect.value;
-      render();
+      resetAndRender();
     });
     els.textInput.addEventListener("input", function () {
       state.filters.text = els.textInput.value;
+      resetAndRender();
+    });
+    els.showMore.addEventListener("click", function () {
+      state.visibleCount += PAGE_SIZE;
       render();
     });
 

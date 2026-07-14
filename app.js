@@ -35,7 +35,7 @@
     unknown: "nincs adat",
   };
 
-  var PAGE_SIZE = 20;
+  var PAGE_SIZE = 10;
 
   var state = {
     incidents: [],

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Szegedi villamosbalesetek adatbázisa</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>Szegedi villamosbalesetek adatbázisa</h1>
+  <p id="updated-at" class="updated-at" aria-live="polite"></p>
+</header>
+
+<main>
+  <section id="no-accident-counter" class="no-accident-counter" aria-live="polite">
+    <h2 class="counter-title">Mennyi ideje NEM történt villamosbaleset Szegeden?</h2>
+    <p class="counter-subtitle">(ritka fényes pillanat, élvezd ki)</p>
+    <p id="counter-current" class="counter-current"></p>
+    <p id="counter-record" class="counter-record"></p>
+  </section>
+
+  <form id="filters" class="filters" aria-label="Szűrők">
+    <div class="filter-field">
+      <label for="filter-year">Év</label>
+      <select id="filter-year" name="year">
+        <option value="">Mind</option>
+      </select>
+    </div>
+    <div class="filter-field">
+      <label for="filter-mode">Járműtípus</label>
+      <select id="filter-mode" name="mode">
+        <option value="">Mind</option>
+        <option value="tram">Villamos</option>
+        <option value="tramtrain">Tram-train</option>
+      </select>
+    </div>
+    <div class="filter-field filter-field-text">
+      <label for="filter-text">Keresés (helyszín, összefoglaló)</label>
+      <input id="filter-text" name="text" type="search" placeholder="pl. Kossuth Lajos sugárút" autocomplete="off">
+    </div>
+  </form>
+
+  <p id="result-count" class="result-count" aria-live="polite"></p>
+
+  <div id="status-message" class="status-message" hidden></div>
+
+  <ul id="incident-list" class="incident-list" aria-label="Balesetek listája"></ul>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Az itt szereplő információk nyilvános sajtóhírekből és hivatalos közleményekből
+    származnak. Egy eseményhez több forrás is tartozhat. Ez az oldal nem az SZKT, nem a
+    rendőrség és nem az önkormányzat hivatalos adatbázisa.
+  </p>
+</footer>
+
+<script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,290 @@
+:root {
+  color-scheme: light dark;
+  --bg: #f5f6f8;
+  --fg: #1a1c1f;
+  --muted: #5b6470;
+  --card-bg: #ffffff;
+  --border: #d8dce1;
+  --accent: #1d5fae;
+  --badge-tram-bg: #d7e8ff;
+  --badge-tram-fg: #123d75;
+  --badge-tramtrain-bg: #ffe6cf;
+  --badge-tramtrain-fg: #7a3d05;
+  --badge-injury-bg: #f0f0f2;
+  --badge-injury-fg: #33383e;
+  --badge-injury-severe-bg: #ffd9d9;
+  --badge-injury-severe-fg: #7a1414;
+  --error-bg: #ffe4e4;
+  --error-fg: #7a1414;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14161a;
+    --fg: #eceef1;
+    --muted: #a2acb8;
+    --card-bg: #1e2126;
+    --border: #33383f;
+    --accent: #7db2f5;
+    --badge-tram-bg: #123457;
+    --badge-tram-fg: #cfe3ff;
+    --badge-tramtrain-bg: #5a3410;
+    --badge-tramtrain-fg: #ffdbb0;
+    --badge-injury-bg: #2b2f35;
+    --badge-injury-fg: #d6dae0;
+    --badge-injury-severe-bg: #5a1414;
+    --badge-injury-severe-fg: #ffd0d0;
+    --error-bg: #4a1414;
+    --error-fg: #ffd0d0;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+header.site-header,
+main,
+footer.site-footer {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem 1rem;
+}
+
+header.site-header h1 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0 0.25rem;
+}
+
+.updated-at {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+  min-height: 1.2em;
+}
+
+.no-accident-counter {
+  text-align: center;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.counter-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.15rem;
+}
+
+.counter-subtitle {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin: 0 0 0.9rem;
+}
+
+.counter-current {
+  font-size: clamp(1.75rem, 6vw, 2.75rem);
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.01em;
+  margin: 0 0 0.4rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.counter-record {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.filter-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1 1 140px;
+}
+
+.filter-field-text {
+  flex: 2 1 220px;
+}
+
+.filter-field label {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.filter-field select,
+.filter-field input {
+  min-height: 44px;
+  padding: 0.4rem 0.6rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--card-bg);
+  color: var(--fg);
+}
+
+.result-count {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+}
+
+.status-message {
+  background: var(--error-bg);
+  color: var(--error-fg);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.incident-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.incident-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+}
+
+.incident-card .row-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.incident-date {
+  font-weight: 600;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.badge-mode-tram {
+  background: var(--badge-tram-bg);
+  color: var(--badge-tram-fg);
+}
+
+.badge-mode-tramtrain {
+  background: var(--badge-tramtrain-bg);
+  color: var(--badge-tramtrain-fg);
+}
+
+.badge-injury {
+  background: var(--badge-injury-bg);
+  color: var(--badge-injury-fg);
+}
+
+.badge-injury-severe,
+.badge-injury-fatal {
+  background: var(--badge-injury-severe-bg);
+  color: var(--badge-injury-severe-fg);
+}
+
+.incident-location {
+  font-weight: 600;
+  margin: 0.15rem 0;
+}
+
+.incident-tags {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 0.4rem;
+}
+
+.incident-summary {
+  margin: 0 0 0.5rem;
+}
+
+.incident-sources summary {
+  cursor: pointer;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-size: 0.95rem;
+}
+
+.incident-sources ul {
+  list-style: none;
+  margin: 0.25rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.incident-sources li a {
+  color: var(--accent);
+  text-decoration: none;
+  display: inline-block;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+.incident-sources li a:hover,
+.incident-sources li a:focus {
+  text-decoration: underline;
+}
+
+.incident-sources .source-name {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+footer.site-footer {
+  color: var(--muted);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--border);
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  .filters {
+    flex-direction: column;
+  }
+  .filter-field,
+  .filter-field-text {
+    flex: 1 1 auto;
+  }
+}

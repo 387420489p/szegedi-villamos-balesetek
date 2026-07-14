@@ -3373,7 +3373,7 @@
     },
     {
       "confidence": 0.95,
-      "created_at": "2026-07-14T16:10:09.161986Z",
+      "created_at": "2026-07-14T16:31:40.753173Z",
       "event_date": "2025-08-22",
       "event_time": null,
       "event_type": "other",
@@ -3385,7 +3385,7 @@
       "other_party": "unknown",
       "sources": [
         {
-          "added_at": "2026-07-14T16:10:09.161986Z",
+          "added_at": "2026-07-14T16:31:40.753173Z",
           "published_at": "2025-08-28T00:00:00",
           "source_name": "szeged365.hu",
           "title": "Tram-train baleset Szegeden: egy 50-as éveiben járó hölgy akkorát esett, hogy maradandó egészségkárosodás lett belőle - Szegedi hírek | Szeged365",
@@ -3394,7 +3394,7 @@
       ],
       "status": "published",
       "summary": "A Hódmezővásárhely-Szeged tram-trainen egy nő az Anna-kút megállónál a jármű hirtelen fékezésekor elesett, bokatöréssel és szalagszakadással megsérült. A sérülés műtétet igényelt, az orvosok szerint maradandó egészségkárosodást okozott.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "updated_at": "2026-07-14T16:31:40.753173Z"
     },
     {
       "confidence": 0.9,
@@ -3545,31 +3545,6 @@
       "status": "published",
       "summary": "Villamos egy autó lökhárítóját elvitte a Kálvária sugárúton. Sérültje nem volt az esetnek.",
       "updated_at": "2026-07-13T17:09:52.180088Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-07-14T15:32:48.944832Z",
-      "event_date": "2025-12-17",
-      "event_time": "16:30",
-      "event_type": "collision",
-      "id": "szvb-20251217-001",
-      "injuries": "none",
-      "location": "Hódmezővásárhely, Kálvin János tér",
-      "location_normalized": "hodmezovasarhely kalvin janos ter",
-      "mode": "tramtrain",
-      "other_party": "car",
-      "sources": [
-        {
-          "added_at": "2026-07-14T15:32:48.944832Z",
-          "published_at": "2025-12-17T00:00:00",
-          "source_name": "Szeged365",
-          "title": "Bővül a tram train balesetek száma: autóval ütközött össze a vasútvillamos Hódmezővásárhelyen - Szegedi hírek | Szeged365",
-          "url": "https://szeged365.hu/2025/12/17/bovul-a-tram-train-balesetek-szama-autoval-utkozott-ossze-a-vasutvillamos-hodmezovasarhelyen/"
-        }
-      ],
-      "status": "published",
-      "summary": "Vasútvillamos autóval ütközött Hódmezővásárhelyen a vasútállomás és a Kálvin János tér között. Az ütközésben senki sem sérült meg.",
-      "updated_at": "2026-07-14T15:32:48.944832Z"
     },
     {
       "confidence": 0.95,
@@ -3927,33 +3902,8 @@
       "status": "published",
       "summary": "Kombi ütközött villamossal a Dugonics téri körforgalomban. Pótlóbuszok közlekedtek az érintett szakaszokon.",
       "updated_at": "2026-07-14T10:52:54.537048Z"
-    },
-    {
-      "confidence": 0.85,
-      "created_at": "2026-07-14T15:32:48.944832Z",
-      "event_date": "2026-07-14",
-      "event_time": "11:00",
-      "event_type": "collision",
-      "id": "szvb-20260714-001",
-      "injuries": "unknown",
-      "location": "Hódmezővásárhely, Andrássy út és Batthyány utca kereszteződése",
-      "location_normalized": "hodmezovasarhely andrassy ut es batthyany utca keresztezodese",
-      "mode": "tramtrain",
-      "other_party": "car",
-      "sources": [
-        {
-          "added_at": "2026-07-14T15:32:48.944832Z",
-          "published_at": "2026-07-14T00:00:00",
-          "source_name": "Szeged365",
-          "title": "Találatok: baleset",
-          "url": "https://szeged365.hu/page/2/?s=baleset"
-        }
-      ],
-      "status": "published",
-      "summary": "Vasútvillamos összeütközött egy gépkocsival pénteken Hódmezővásárhelyen. Az ütközés az Andrássy út és Batthyány utca kereszteződésénél történt.",
-      "updated_at": "2026-07-14T15:32:48.944832Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-14T16:10:09.161986+00:00"
+  "updated_at": "2026-07-14T16:31:40.753173+00:00"
 }

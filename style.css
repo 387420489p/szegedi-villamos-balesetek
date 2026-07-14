@@ -47,12 +47,15 @@
 
 html {
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
   padding: 14px;
   min-height: 100vh;
+  max-width: 100vw;
+  overflow-x: hidden;
   background:
     repeating-linear-gradient(45deg, var(--yellow) 0 18px, var(--black) 18px 26px);
   color: var(--ink);
@@ -429,6 +432,7 @@ hr.rainbow {
   align-items: center;
   min-height: 36px;
   font-size: 0.9rem;
+  overflow-wrap: anywhere;
 }
 
 .incident-sources li a::before {
@@ -557,6 +561,8 @@ hr.rainbow {
 .hit-counter-img {
   vertical-align: middle;
   height: 20px;
+  width: auto;
+  max-width: 100%;
 }
 
 .hit-counter-img[hidden] {

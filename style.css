@@ -595,6 +595,36 @@ hr.rainbow {
   display: none;
 }
 
+/* ---------- retro toast (vendégkönyv / írj nekünk) ---------- */
+
+.retro-toast {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: translateY(100%);
+  transition: transform 0.35s ease;
+  background: var(--black);
+  color: var(--yellow);
+  border-top: 4px solid var(--yellow);
+  font-family: "Comic Neue", "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-align: center;
+  padding: 14px 16px;
+  z-index: 1000;
+}
+
+.retro-toast.retro-toast-visible {
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .retro-toast {
+    transition: none;
+  }
+}
+
 @media (max-width: 480px) {
   .filters {
     flex-direction: column;

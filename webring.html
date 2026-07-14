@@ -16,20 +16,18 @@
 
 <main>
   <section class="no-accident-counter" aria-live="off">
-    <h2 class="counter-title">Gratulálunk, körbeértél!</h2>
-    <p class="counter-current" style="font-size: 1.6rem;">1 / 1</p>
-    <p class="counter-record">ennyi tagja van a webringnek</p>
+    <h2 class="counter-title">A szegedi villamos-webring egyetlen tagja ez az oldal</h2>
+    <p class="counter-current" style="font-size: 1.6rem;">🎲</p>
+    <p class="counter-record">de a „random” gomb tényleg random — máshova visz, minden alkalommal</p>
   </section>
 
   <p style="text-align:center; margin: 1.2rem 0;">
-    Ez a webring pontosan egyetlen oldalból áll: ebből, amit épp most nézel.
-    Nincs „előző”, nincs „következő”, és a „random” gomb is — meglepetés — mindig ide vezet.
+    Klasszikus webring-előző/következő itt nincs (elvégre 1 tagja van), de a random gomb
+    becsületesen véletlenszerű: Wikipédia-cikktől abszurd weboldalig bármi kijöhet belőle.
   </p>
 
   <div class="badge-row">
-    <a class="hero-badge" href="webring.html" style="text-decoration:none;">← Előző (ugyanez)</a>
-    <a class="hero-badge" href="webring.html" style="text-decoration:none;">🎲 Random (ugyanez)</a>
-    <a class="hero-badge" href="webring.html" style="text-decoration:none;">Következő (ugyanez) →</a>
+    <button id="random-btn" class="hero-badge" type="button" style="font-size:0.85rem; cursor:pointer; border:none;">🎲 Random</button>
   </div>
 
   <p style="text-align:center; margin-top: 1.5rem;"><a href="index.html">← Vissza a főoldalra</a></p>
@@ -40,9 +38,32 @@
 <footer class="site-footer">
   <p class="disclaimer" style="text-align:center;">
     Ez egy teljesen haszontalan, humoros aloldal — igazi 90-es évekbeli webring itt nincs,
-    csak a nosztalgia kedvéért idézzük a formáját.
+    csak a nosztalgia kedvéért idézzük a formáját. A „random” gomb valódi külső oldalakra
+    visz (Wikipédia, YouTube és hasonló, mindenki számára biztonságos célpontok) — ezekért
+    természetesen nem mi felelünk.
   </p>
 </footer>
 </div>
+
+<script>
+(function () {
+  "use strict";
+  var DESTINATIONS = [
+    "https://hu.wikipedia.org/wiki/Special:Random",
+    "https://en.wikipedia.org/wiki/Special:Random",
+    "https://commons.wikimedia.org/wiki/Special:Random/File",
+    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "https://theuselessweb.com/",
+    "https://zombo.com/"
+  ];
+  var btn = document.getElementById("random-btn");
+  if (btn) {
+    btn.addEventListener("click", function () {
+      var pick = DESTINATIONS[Math.floor(Math.random() * DESTINATIONS.length)];
+      window.location.href = pick;
+    });
+  }
+})();
+</script>
 </body>
 </html>

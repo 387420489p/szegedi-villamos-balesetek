@@ -26,10 +26,10 @@
     Szegeden úgyis nagy eséllyel arra jár egy villamos, és ő majd biztos meghallja.
   </p>
 
-  <form onsubmit="return false;" style="display:flex; flex-direction:column; gap:0.6rem; margin: 0 0 1.2rem;">
-    <input disabled type="email" placeholder="email-cím (nem lesz elküldve sehova)" style="width:100%; font-family:Verdana,Arial,sans-serif; font-size:0.95rem; padding:0.5rem; border:2px inset #101010; background:#eee; color:#666;">
-    <textarea disabled rows="4" placeholder="üzenet (ez sem)" style="width:100%; font-family:Verdana,Arial,sans-serif; font-size:0.95rem; padding:0.5rem; border:2px inset #101010; background:#eee; color:#666;"></textarea>
-    <button disabled class="show-more" type="button" style="cursor:not-allowed; opacity:0.6;">Küldés (a semmibe)</button>
+  <form data-joke-message="Megmondtuk: nem fog történni semmi! 😄" style="display:flex; flex-direction:column; gap:0.6rem; margin: 0 0 1.2rem;">
+    <input type="email" placeholder="email-cím (nem lesz elküldve sehova)" style="width:100%; font-family:Verdana,Arial,sans-serif; font-size:0.95rem; padding:0.5rem; border:2px inset #101010; background:#fff; color:#101010;">
+    <textarea rows="4" placeholder="üzenet (ez sem)" style="width:100%; font-family:Verdana,Arial,sans-serif; font-size:0.95rem; padding:0.5rem; border:2px inset #101010; background:#fff; color:#101010;"></textarea>
+    <button class="show-more" type="submit">Küldés</button>
   </form>
 
   <p style="text-align:center; margin-top: 1.5rem;"><a href="index.html">← Vissza a főoldalra</a></p>
@@ -44,5 +44,8 @@
   </p>
 </footer>
 </div>
+
+<div id="retro-toast" class="retro-toast" role="status" aria-live="polite"></div>
+<script src="joke-form.js" defer></script>
 </body>
 </html>

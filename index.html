@@ -36,10 +36,17 @@
       </select>
     </div>
     <div class="filter-field filter-field-text">
-      <label for="filter-text">Keresés (helyszín, összefoglaló, másik fél)</label>
+      <label for="filter-text">Keresés (helyszín, összefoglaló, címkék)</label>
       <input id="filter-text" name="text" type="search" placeholder="pl. Kossuth Lajos sugárút, gyalogos" autocomplete="off">
     </div>
   </form>
+
+  <p class="tag-hint">Tipp: kattints egy címkére (pl. „autó”, „gyalogos”) egy eseménynél, és a lista csak az ilyenekre szűrődik.</p>
+
+  <div id="tag-filter-chip" class="tag-filter-chip" hidden>
+    Címke szűrő: <strong id="tag-filter-label"></strong>
+    <button id="tag-filter-clear" type="button" aria-label="Címke szűrő törlése">Törlés ×</button>
+  </div>
 
   <p id="result-count" class="result-count" aria-live="polite"></p>
 

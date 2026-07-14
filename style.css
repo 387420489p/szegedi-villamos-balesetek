@@ -156,6 +156,41 @@ header.site-header h1 {
   color: var(--fg);
 }
 
+.tag-hint {
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin: -0.4rem 0 0.75rem;
+}
+
+.tag-filter-chip[hidden] {
+  display: none;
+}
+
+.tag-filter-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: color-mix(in srgb, var(--accent) 12%, var(--card-bg));
+  border: 1px solid var(--accent);
+  color: var(--fg);
+  border-radius: 999px;
+  padding: 0.35rem 0.35rem 0.35rem 0.8rem;
+  font-size: 0.85rem;
+  margin: 0 0 1rem;
+  width: fit-content;
+}
+
+.tag-filter-chip button {
+  min-height: 32px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8rem;
+  border: none;
+  border-radius: 999px;
+  background: var(--card-bg);
+  color: var(--accent);
+  cursor: pointer;
+}
+
 .result-count {
   color: var(--muted);
   font-size: 0.9rem;
@@ -225,6 +260,17 @@ header.site-header h1 {
   font-size: 0.8rem;
   font-weight: 600;
   white-space: nowrap;
+}
+
+.badge-clickable {
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.badge-clickable:hover,
+.badge-clickable:focus-visible {
+  border-color: currentColor;
+  outline: none;
 }
 
 .badge-mode-tram {

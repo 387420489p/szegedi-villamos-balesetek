@@ -39,7 +39,7 @@
 
   var state = {
     incidents: [],
-    filters: { year: "", mode: "", text: "" },
+    filters: { year: "", mode: "", text: "", tag: null },
     counterTimer: null,
     visibleCount: PAGE_SIZE,
   };
@@ -172,6 +172,26 @@
     return cls;
   }
 
+  /* tagBadge: kattintható/Enter-rel aktiválható badge, ami a listát az
+   * adott mező pontos értékére szűri (tag alapú keresés -- lásd
+   * setTagFilter). */
+  function tagBadge(className, text, field, value) {
+    var span = el("span", { className: className + " badge-clickable", text: text });
+    span.setAttribute("role", "button");
+    span.setAttribute("tabindex", "0");
+    span.setAttribute("title", "Szűrés erre a címkére: " + text);
+    span.addEventListener("click", function () {
+      setTagFilter(field, value, text);
+    });
+    span.addEventListener("keydown", function (ev) {
+      if (ev.key === "Enter" || ev.key === " ") {
+        ev.preventDefault();
+        setTagFilter(field, value, text);
+      }
+    });
+    return span;
+  }
+
   /* A kártya minden mezője rögtön látszik -- nincs soronkénti
    * lenyitás/összecsukás, csak a TELJES LISTA van lapozva (render()),
    * hogy 99+ esemény ne töltse meg egyetlen végtelen listává az oldalt. */
@@ -180,35 +200,46 @@
 
     var summaryRow = el("div", { className: "incident-summary-row" });
     summaryRow.appendChild(el("span", { className: "incident-date", text: formatDate(incident) }));
-    summaryRow.appendChild(
-      el("span", {
-        className: "badge badge-mode-" + incident.mode,
-        text: MODE_LABELS[incident.mode] || incident.mode,
-      })
-    );
-    summaryRow.appendChild(
-      el("span", {
-        className: partyBadgeClass(incident.other_party),
-        text: OTHER_PARTY_LABELS[incident.other_party] || incident.other_party,
-      })
-    );
     summaryRow.appendChild(el("span", { className: "incident-location", text: incident.location }));
     li.appendChild(summaryRow);
 
     var body = el("div", { className: "incident-body" });
 
-    var tagRow = el("div", { className: "row-top incident-tag-row" });
+    /* Minden címke (jármű, másik fél, esemény típusa, sérülés) egy közös
+     * sorban -- korábban a jármű/másik fél a fejlécben, a többi a törzsben
+     * volt, ami két külön helyre szórta szét ugyanazt az információt. */
+    var tagRow = el("div", { className: "incident-tag-row" });
     tagRow.appendChild(
-      el("span", {
-        className: "badge badge-event-type",
-        text: EVENT_TYPE_LABELS[incident.event_type] || incident.event_type,
-      })
+      tagBadge(
+        "badge badge-mode-" + incident.mode,
+        MODE_LABELS[incident.mode] || incident.mode,
+        "mode",
+        incident.mode
+      )
     );
     tagRow.appendChild(
-      el("span", {
-        className: injuryBadgeClass(incident.injuries),
-        text: INJURY_LABELS[incident.injuries] || incident.injuries,
-      })
+      tagBadge(
+        partyBadgeClass(incident.other_party),
+        OTHER_PARTY_LABELS[incident.other_party] || incident.other_party,
+        "other_party",
+        incident.other_party
+      )
+    );
+    tagRow.appendChild(
+      tagBadge(
+        "badge badge-event-type",
+        EVENT_TYPE_LABELS[incident.event_type] || incident.event_type,
+        "event_type",
+        incident.event_type
+      )
+    );
+    tagRow.appendChild(
+      tagBadge(
+        injuryBadgeClass(incident.injuries),
+        INJURY_LABELS[incident.injuries] || incident.injuries,
+        "injuries",
+        incident.injuries
+      )
     );
     body.appendChild(tagRow);
 
@@ -243,10 +274,12 @@
     var year = state.filters.year;
     var mode = state.filters.mode;
     var text = normalizeForSearch(state.filters.text);
+    var tag = state.filters.tag;
 
     return incidents.filter(function (incident) {
       if (year && String(incident.event_date).slice(0, 4) !== year) return false;
       if (mode && incident.mode !== mode) return false;
+      if (tag && incident[tag.field] !== tag.value) return false;
       if (text) {
         var haystack = [
           incident.location,
@@ -304,6 +337,33 @@
     render();
   }
 
+  function updateTagChip() {
+    var tag = state.filters.tag;
+    if (!tag) {
+      els.tagChip.hidden = true;
+      return;
+    }
+    els.tagChip.hidden = false;
+    els.tagChipLabel.textContent = tag.label;
+  }
+
+  /* setTagFilter: tag-badge-re kattintva a teljes listát az adott mező
+   * (jármű / másik fél / esemény típusa / sérülés) pontos értékére
+   * szűri -- ez a "tag alapú keresés". A szabadszavas kereső eddig is
+   * a fordított címke-szövegre is illesztett, de csak részszöveg-egyezés
+   * alapján; ez itt pontos, egykattintásos szűrés. */
+  function setTagFilter(field, value, label) {
+    state.filters.tag = { field: field, value: value, label: label };
+    updateTagChip();
+    resetAndRender();
+  }
+
+  function clearTagFilter() {
+    state.filters.tag = null;
+    updateTagChip();
+    resetAndRender();
+  }
+
   function populateYearOptions(incidents) {
     var years = Array.from(
       new Set(incidents.map(function (i) { return String(i.event_date).slice(0, 4); }))
@@ -344,6 +404,11 @@
     els.counterRecord = document.getElementById("counter-record");
     els.showMore = document.getElementById("show-more");
     els.showAll = document.getElementById("show-all");
+    els.tagChip = document.getElementById("tag-filter-chip");
+    els.tagChipLabel = document.getElementById("tag-filter-label");
+    els.tagChipClear = document.getElementById("tag-filter-clear");
+
+    els.tagChipClear.addEventListener("click", clearTagFilter);
 
     els.yearSelect.addEventListener("change", function () {
       state.filters.year = els.yearSelect.value;

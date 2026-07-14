@@ -3,31 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Webring — Szegedi Villamosbalesetek Klub</title>
+<title>Random — Szegedi Villamosbalesetek Klub</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="page-frame">
 <header class="site-header">
-  <h1>🔗&nbsp;Webring</h1>
+  <h1>🎲&nbsp;Random</h1>
 </header>
 
 <hr class="rainbow">
 
 <main>
   <section class="no-accident-counter" aria-live="off">
-    <h2 class="counter-title">A szegedi villamos-webring egyetlen tagja ez az oldal</h2>
+    <h2 class="counter-title">Egy gomb, ami tényleg véletlenszerű</h2>
     <p class="counter-current" style="font-size: 1.6rem;">🎲</p>
-    <p class="counter-record">de a „random” gomb tényleg random — máshova visz, minden alkalommal</p>
+    <p class="counter-record">minden kattintás egy másik véletlen Wikipédia-cikkre visz</p>
   </section>
 
   <p style="text-align:center; margin: 1.2rem 0;">
-    Klasszikus webring-előző/következő itt nincs (elvégre 1 tagja van), de a random gomb
-    becsületesen véletlenszerű: Wikipédia-cikktől abszurd weboldalig bármi kijöhet belőle.
+    Semmi köze a villamosokhoz — csak egy régimódi "surprise me" gomb, ami mindig egy
+    valódi, véletlenszerűen kisorsolt Wikipédia-cikkre dob.
   </p>
 
   <div class="badge-row">
-    <button id="random-btn" class="hero-badge" type="button" style="font-size:0.85rem; cursor:pointer; border:none;">🎲 Random</button>
+    <button id="random-btn" class="hero-badge" type="button" style="font-size:0.85rem; cursor:pointer; border:none;">🎲 Random Wikipédia-cikk</button>
   </div>
 
   <p style="text-align:center; margin-top: 1.5rem;"><a href="index.html">← Vissza a főoldalra</a></p>
@@ -37,10 +37,9 @@
 
 <footer class="site-footer">
   <p class="disclaimer" style="text-align:center;">
-    Ez egy teljesen haszontalan, humoros aloldal — igazi 90-es évekbeli webring itt nincs,
-    csak a nosztalgia kedvéért idézzük a formáját. A „random” gomb valódi külső oldalakra
-    visz (Wikipédia, YouTube és hasonló, mindenki számára biztonságos célpontok) — ezekért
-    természetesen nem mi felelünk.
+    Ez egy teljesen haszontalan, humoros aloldal. A gomb a Wikipédia hivatalos
+    "Special:Random" funkcióját használja (több nyelvi kiadásban is), semmi mást — a
+    kisorsolt cikk tartalmáért természetesen a Wikipédia felel, nem mi.
   </p>
 </footer>
 </div>
@@ -51,10 +50,9 @@
   var DESTINATIONS = [
     "https://hu.wikipedia.org/wiki/Special:Random",
     "https://en.wikipedia.org/wiki/Special:Random",
-    "https://commons.wikimedia.org/wiki/Special:Random/File",
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "https://theuselessweb.com/",
-    "https://zombo.com/"
+    "https://de.wikipedia.org/wiki/Special:Random",
+    "https://fr.wikipedia.org/wiki/Special:Random",
+    "https://es.wikipedia.org/wiki/Special:Random"
   ];
   var btn = document.getElementById("random-btn");
   if (btn) {

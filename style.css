@@ -185,44 +185,12 @@ header.site-header h1 {
   border-radius: 10px;
 }
 
-.incident-card-details {
-  padding: 0;
-}
-
-/* A teljes kártya lenyitható -- a natív <details>/<summary> markert
- * elrejtjük és sajátot rajzolunk, hogy a fejléc-sor tördelése ne törjön
- * el mobilon. */
 .incident-summary-row {
-  cursor: pointer;
-  list-style: none;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem;
   padding: 0.9rem 1rem;
-  min-height: 44px;
-}
-
-.incident-summary-row::-webkit-details-marker {
-  display: none;
-}
-
-.incident-summary-row::before {
-  content: "▸";
-  color: var(--muted);
-  font-size: 0.8rem;
-  transition: transform 0.15s ease;
-  flex: 0 0 auto;
-}
-
-.incident-card-details[open] > .incident-summary-row::before {
-  transform: rotate(90deg);
-}
-
-.incident-summary-row:hover,
-.incident-summary-row:focus-visible {
-  background: color-mix(in srgb, var(--accent) 6%, transparent);
-  border-radius: 10px;
 }
 
 .incident-date {
@@ -328,11 +296,21 @@ header.site-header h1 {
   font-size: 0.85rem;
 }
 
+.list-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.show-more[hidden] {
+  display: none;
+}
+
 .show-more {
   display: block;
-  width: 100%;
+  flex: 1 1 200px;
   min-height: 44px;
-  margin-top: 1rem;
   padding: 0.6rem 1rem;
   font-size: 0.95rem;
   font-weight: 600;
@@ -346,6 +324,10 @@ header.site-header h1 {
 .show-more:hover,
 .show-more:focus-visible {
   background: color-mix(in srgb, var(--accent) 8%, var(--card-bg));
+}
+
+.show-all {
+  color: var(--muted);
 }
 
 footer.site-footer {

@@ -172,15 +172,13 @@
     return cls;
   }
 
-  /* A teljes kártya egy <details>: összecsukva csak a lényeg (dátum,
-   * jármű-badge, másik fél badge, helyszín), kinyitva a teljes leírás,
-   * sérülés-badge és a források. Így 99+ esemény sem tölti meg egyetlen
-   * végtelen listává az oldalt -- a felhasználó nyitja ki, ami érdekli. */
+  /* A kártya minden mezője rögtön látszik -- nincs soronkénti
+   * lenyitás/összecsukás, csak a TELJES LISTA van lapozva (render()),
+   * hogy 99+ esemény ne töltse meg egyetlen végtelen listává az oldalt. */
   function renderIncidentCard(incident) {
     var li = el("li", { className: "incident-card" });
-    var card = el("details", { className: "incident-card-details" });
 
-    var summaryRow = el("summary", { className: "incident-summary-row" });
+    var summaryRow = el("div", { className: "incident-summary-row" });
     summaryRow.appendChild(el("span", { className: "incident-date", text: formatDate(incident) }));
     summaryRow.appendChild(
       el("span", {
@@ -195,7 +193,7 @@
       })
     );
     summaryRow.appendChild(el("span", { className: "incident-location", text: incident.location }));
-    card.appendChild(summaryRow);
+    li.appendChild(summaryRow);
 
     var body = el("div", { className: "incident-body" });
 
@@ -237,8 +235,7 @@
     sourcesBlock.appendChild(ul);
     body.appendChild(sourcesBlock);
 
-    card.appendChild(body);
-    li.appendChild(card);
+    li.appendChild(body);
     return li;
   }
 
@@ -276,6 +273,7 @@
         el("li", { className: "incident-empty", text: "Nincs a szűrésnek megfelelő esemény." })
       );
       els.showMore.hidden = true;
+      els.showAll.hidden = true;
       return;
     }
 
@@ -292,9 +290,12 @@
     if (remaining > 0) {
       els.showMore.hidden = false;
       els.showMore.textContent =
-        "Több esemény mutatása (" + Math.min(remaining, PAGE_SIZE) + " további, összesen " + remaining + " van hátra)";
+        "Mutass többet (" + Math.min(remaining, PAGE_SIZE) + ")";
+      els.showAll.hidden = false;
+      els.showAll.textContent = "Mutasd az összeset (" + remaining + " további)";
     } else {
       els.showMore.hidden = true;
+      els.showAll.hidden = true;
     }
   }
 
@@ -342,6 +343,7 @@
     els.counterCurrent = document.getElementById("counter-current");
     els.counterRecord = document.getElementById("counter-record");
     els.showMore = document.getElementById("show-more");
+    els.showAll = document.getElementById("show-all");
 
     els.yearSelect.addEventListener("change", function () {
       state.filters.year = els.yearSelect.value;
@@ -357,6 +359,10 @@
     });
     els.showMore.addEventListener("click", function () {
       state.visibleCount += PAGE_SIZE;
+      render();
+    });
+    els.showAll.addEventListener("click", function () {
+      state.visibleCount = Infinity;
       render();
     });
 

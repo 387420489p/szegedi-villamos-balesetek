@@ -2321,6 +2321,31 @@
     },
     {
       "confidence": 0.95,
+      "created_at": "2026-07-15T16:07:42.511701Z",
+      "event_date": "2022-10-12",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20221012-001",
+      "injuries": "none",
+      "location": "Széchenyi tér, Szeged",
+      "location_normalized": "szechenyi ter szeged",
+      "mode": "tramtrain",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:07:42.511701Z",
+          "published_at": "2022-10-12T00:00:00",
+          "source_name": "mavcsoport.hu",
+          "title": "Helyreállhat a vasútvillamosok menetrendje",
+          "url": "https://www.mavcsoport.hu/mavinform/helyreallhat-vasutvillamosok-menetrendje"
+        }
+      ],
+      "status": "published",
+      "summary": "A Hódmezővásárhely vasútállomásról 15:01-kor elindult vasútvillamos (33055) koccant egy személyautóval Szegeden a Széchenyi térnél. Személyi sérülés nem történt, a vonalon 20-40 perces késés keletkezett.",
+      "updated_at": "2026-07-15T16:07:42.511701Z"
+    },
+    {
+      "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2022-11-04",
       "event_time": null,
@@ -5598,5 +5623,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T15:59:22.527524+00:00"
+  "updated_at": "2026-07-15T16:07:42.511701+00:00"
 }

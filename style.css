@@ -148,7 +148,7 @@ hr.rainbow {
   display: flex;
   justify-content: center;
   gap: 8px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 0.3rem;
 }
 
@@ -162,6 +162,16 @@ hr.rainbow {
   border-radius: 3px;
   border: 1px solid var(--yellow);
   white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .badge-row {
+    gap: 2px;
+  }
+  .hero-badge {
+    font-size: 0.42rem;
+    padding: 2px 3px;
+  }
 }
 
 .hero-badge-new {

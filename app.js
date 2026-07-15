@@ -80,6 +80,16 @@
     return days + " nap " + pad2(hours) + " óra " + pad2(minutes) + " perc";
   }
 
+  /* A 2015 előtti időszakból csak elszórt, kézzel utólag megtalált
+   * eseményeink vannak (nem folyamatos forrás-lefedettség) -- egy 2010 és
+   * 2013 közötti "esemény nélküli" évek nem azt jelentik, hogy tényleg nem
+   * volt baleset, csak azt, hogy nincs róla adatunk. A rekord (leghosszabb
+   * baleset-mentes időszak) ezért csak a 2015-től megbízhatóan teljesnek
+   * tekintett adatokból számolható -- lásd a 2026-07-15-i felhasználói
+   * visszajelzést. A lista maga (incident-list) továbbra is mutatja a 2015
+   * előtti eseményeket is, csak a rekord-számításból maradnak ki. */
+  var RECORD_ELIGIBLE_SINCE = "2015-01-01";
+
   /* computeCounterState: a "jelenlegi szünet" és a "rekord" kiszámítása a
    * published incidensekből (ARCHITECTURE.md 7.1). A rekord a published
    * incidensek kronologikus sorrendjében az egymást követő két esemény
@@ -105,10 +115,14 @@
     var currentGapMs = now.getTime() - latestDateTime.getTime();
     if (currentGapMs < 0) currentGapMs = 0;
 
+    var recordEligible = sorted.filter(function (i) {
+      return i.event_date >= RECORD_ELIGIBLE_SINCE;
+    });
+
     var maxHistoricalGapMs = 0;
-    for (var idx = 1; idx < sorted.length; idx++) {
-      var prevDateTime = incidentDateTime(sorted[idx - 1]);
-      var curDateTime = incidentDateTime(sorted[idx]);
+    for (var idx = 1; idx < recordEligible.length; idx++) {
+      var prevDateTime = incidentDateTime(recordEligible[idx - 1]);
+      var curDateTime = incidentDateTime(recordEligible[idx]);
       var gap = curDateTime.getTime() - prevDateTime.getTime();
       if (gap > maxHistoricalGapMs) maxHistoricalGapMs = gap;
     }

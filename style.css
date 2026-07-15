@@ -100,7 +100,8 @@ hr.rainbow {
 }
 
 .top-nav-btn {
-  flex: 1 1 220px;
+  flex: 1 1 0;
+  min-width: 0;
   max-width: 260px;
   display: inline-flex;
   align-items: center;
@@ -115,7 +116,7 @@ hr.rainbow {
   font-size: 0.95rem;
   text-decoration: none;
   color: var(--ink);
-  animation: hero-blink 1.1s steps(1) infinite;
+  white-space: nowrap;
 }
 
 .top-nav-btn-map {
@@ -134,13 +135,13 @@ hr.rainbow {
   text-decoration: underline;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .top-nav-btn { animation: none; }
-}
-
 @media (max-width: 480px) {
-  .top-nav-banner { flex-wrap: wrap; }
-  .top-nav-btn { flex: 1 1 100%; max-width: none; }
+  .top-nav-btn {
+    font-size: 0.72rem;
+    padding: 8px 3px;
+    min-height: 40px;
+    gap: 3px;
+  }
 }
 
 .badge-row {

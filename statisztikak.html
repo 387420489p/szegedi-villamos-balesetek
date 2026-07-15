@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tudományos Statisztikák — Szegedi Villamosbalesetek Klub</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  .stats-section {
+    margin: 1.6rem 0;
+    padding: 1rem 1.1rem 1.2rem;
+    background: #fffef8;
+    border: 2px solid var(--border-gold);
+    border-radius: 6px;
+  }
+  .stats-h2 {
+    text-align: center;
+    color: var(--red-dark);
+    text-shadow: 1px 1px 0 var(--yellow);
+    font-size: 1.15rem;
+    margin: 0 0 0.9rem;
+  }
+  /* --- 1. "tudományos" kördiagram, szándékosan rosszul rajzolva --- */
+  .pie-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.4rem;
+  }
+  .pie {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid var(--black);
+    box-shadow: inset -6px -6px 12px rgba(0,0,0,0.25), 3px 3px 0 rgba(0,0,0,0.2);
+    background: conic-gradient(var(--red) 0deg 234deg, var(--green) 234deg 360deg);
+    flex-shrink: 0;
+  }
+  .pie-legend { font-size: 0.9rem; line-height: 1.9; }
+  .pie-legend .sw { display:inline-block; width:0.9em; height:0.9em; border:1px solid var(--black); margin-right:0.4em; vertical-align:-0.1em; }
+  .pie-legend .sw-red { background: var(--red); }
+  .pie-legend .sw-green { background: var(--green); }
+  .pie-caption { text-align:center; font-size:0.8rem; font-style:italic; color: var(--muted); margin-top: 0.8rem; }
+
+  /* --- 2. kihívók toplistája --- */
+  .rank-row { display:flex; align-items:center; gap:0.6rem; margin: 0.55rem 0; }
+  .rank-medal { font-size: 1.3rem; width: 1.7rem; text-align:center; flex-shrink:0; }
+  .rank-label { width: 9.5rem; font-size: 0.88rem; flex-shrink:0; }
+  .rank-bar-track { flex:1; background:#eee; border:1px solid var(--black); height: 1.1rem; border-radius:3px; overflow:hidden; }
+  .rank-bar-fill { display:block; height:100%; background: linear-gradient(90deg, var(--orange), var(--red)); }
+  .rank-count { width: 5.5rem; text-align:right; font-size:0.82rem; font-weight:bold; color: var(--red-dark); flex-shrink:0; }
+
+  /* --- 3. évek szerinti oszlopdiagram --- */
+  .bar-chart { display:flex; align-items:flex-end; gap: 0.45rem; height: 150px; padding: 0 0.2rem; }
+  .bar-col { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-end; height:100%; }
+  .bar-val { font-size: 0.62rem; font-weight:bold; color: var(--red-dark); margin-bottom: 0.15rem; }
+  .bar-fill { width: 100%; background: linear-gradient(180deg, var(--blue), var(--purple)); border: 1px solid var(--black); border-radius: 2px 2px 0 0; }
+  .bar-year { font-size: 0.6rem; color: var(--muted); margin-top: 0.3rem; writing-mode: vertical-rl; transform: rotate(180deg); height: 2.4rem; }
+
+  /* --- 4. "kézzel, egérrel, MS Paintben" vonaldiagram --- */
+  .paint-chart-wrap { background:#fff; border: 2px inset #999; padding: 0.6rem 0.4rem 0.3rem; }
+  .paint-chart-wrap svg { width: 100%; height: auto; display: block; shape-rendering: crispEdges; }
+  .paint-ink { font-family: "Comic Sans MS", "Comic Neue", cursive; fill: #1a3fa0; }
+  .paint-ink-y { font-family: "Comic Sans MS", "Comic Neue", cursive; fill: #6b1fa0; }
+</style>
+</head>
+<body>
+<div class="page-frame">
+<header class="site-header">
+  <h1>📊&nbsp;Tudományos Statisztikák&nbsp;📊</h1>
+</header>
+
+<hr class="rainbow">
+
+<main>
+  <section class="no-accident-counter" aria-live="off">
+    <h2 class="counter-title">Ki nyer, ha egy villamos találkozik valamivel?</h2>
+    <p class="counter-record">Spoiler: mindig a villamos. Ez a labormunkánk eredménye.</p>
+  </section>
+
+  <section class="stats-section">
+    <h2 class="stats-h2">Nyert már jármű villamos ellen? 🏆</h2>
+    <div class="pie-wrap">
+      <div class="pie" role="img" aria-label="Kördiagram: 0% igen, 100% nem"></div>
+      <div class="pie-legend">
+        <div><span class="sw sw-red"></span>Nem — <strong>100%</strong></div>
+        <div><span class="sw sw-green"></span>Igen — <strong>0%</strong></div>
+      </div>
+    </div>
+    <p class="pie-caption">(Módszertan: megkérdeztünk egy villamost. A diagram aránya és a feliratozott % nem feltétlenül egyezik — ez a tudomány szépsége.)</p>
+  </section>
+
+  <section class="stats-section">
+    <h2 class="stats-h2">Kihívók toplistája 🥊</h2>
+    <div class="rank-row">
+      <span class="rank-medal">🥇</span><span class="rank-label">Autó</span>
+      <span class="rank-bar-track"><span class="rank-bar-fill" style="width:100%"></span></span>
+      <span class="rank-count">113 próbálkozás</span>
+    </div>
+    <div class="rank-row">
+      <span class="rank-medal">🥈</span><span class="rank-label">Teherautó</span>
+      <span class="rank-bar-track"><span class="rank-bar-fill" style="width:6%"></span></span>
+      <span class="rank-count">7 próbálkozás</span>
+    </div>
+    <div class="rank-row">
+      <span class="rank-medal">🥉</span><span class="rank-label">Busz</span>
+      <span class="rank-bar-track"><span class="rank-bar-fill" style="width:5%"></span></span>
+      <span class="rank-count">6 próbálkozás</span>
+    </div>
+    <div class="rank-row">
+      <span class="rank-medal">4.</span><span class="rank-label">Motor</span>
+      <span class="rank-bar-track"><span class="rank-bar-fill" style="width:4%"></span></span>
+      <span class="rank-count">4 próbálkozás</span>
+    </div>
+    <div class="rank-row">
+      <span class="rank-medal">💀</span><span class="rank-label">Másik villamos (öngól)</span>
+      <span class="rank-bar-track"><span class="rank-bar-fill" style="width:4%"></span></span>
+      <span class="rank-count">4 próbálkozás</span>
+    </div>
+    <p class="pie-caption">Nyertes egyik kategóriában sem született.</p>
+  </section>
+
+  <section class="stats-section">
+    <h2 class="stats-h2">GRAFIKON!!! 📈 (események évek szerint)</h2>
+    <div class="bar-chart">
+      <div class="bar-col"><span class="bar-val">3</span><span class="bar-fill" style="height:11%"></span><span class="bar-year">2015</span></div>
+      <div class="bar-col"><span class="bar-val">3</span><span class="bar-fill" style="height:11%"></span><span class="bar-year">2016</span></div>
+      <div class="bar-col"><span class="bar-val">3</span><span class="bar-fill" style="height:11%"></span><span class="bar-year">2017</span></div>
+      <div class="bar-col"><span class="bar-val">4</span><span class="bar-fill" style="height:15%"></span><span class="bar-year">2018</span></div>
+      <div class="bar-col"><span class="bar-val">8</span><span class="bar-fill" style="height:30%"></span><span class="bar-year">2019</span></div>
+      <div class="bar-col"><span class="bar-val">7</span><span class="bar-fill" style="height:26%"></span><span class="bar-year">2020</span></div>
+      <div class="bar-col"><span class="bar-val">13</span><span class="bar-fill" style="height:48%"></span><span class="bar-year">2021</span></div>
+      <div class="bar-col"><span class="bar-val">27</span><span class="bar-fill" style="height:100%"></span><span class="bar-year">2022</span></div>
+      <div class="bar-col"><span class="bar-val">23</span><span class="bar-fill" style="height:85%"></span><span class="bar-year">2023</span></div>
+      <div class="bar-col"><span class="bar-val">27</span><span class="bar-fill" style="height:100%"></span><span class="bar-year">2024</span></div>
+      <div class="bar-col"><span class="bar-val">26</span><span class="bar-fill" style="height:96%"></span><span class="bar-year">2025</span></div>
+      <div class="bar-col"><span class="bar-val">13</span><span class="bar-fill" style="height:48%"></span><span class="bar-year">2026*</span></div>
+    </div>
+    <p class="pie-caption">*2026: az év még nincs vége, de már így is dobogós.</p>
+  </section>
+
+  <section class="stats-section">
+    <h2 class="stats-h2">📈 Növekedési Trend — kézzel, egérrel, MS Paintben 📈</h2>
+    <div class="paint-chart-wrap">
+      <svg viewBox="0 0 570 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kézzel rajzolt vonaldiagram az események számának alakulásáról évenként">
+        <!-- tengelyek: szándékosan görbén, mintha egérrel próbálták volna egyenesre húzni -->
+        <polyline points="23,12 26,50 21,90 25,130 22,170 24,182" fill="none" stroke="#101010" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <polyline points="24,181 100,178 200,183 300,177 400,182 480,179 556,181" fill="none" stroke="#101010" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+        <!-- y tengely számok, kézzel odafirkálva -->
+        <text class="paint-ink-y" x="2" y="20" font-size="13" transform="rotate(-7 2 20)">30</text>
+        <text class="paint-ink-y" x="4" y="73" font-size="15" transform="rotate(5 4 73)">20</text>
+        <text class="paint-ink-y" x="2" y="127" font-size="12" transform="rotate(-4 2 127)">10</text>
+        <text class="paint-ink-y" x="6" y="180" font-size="14" transform="rotate(6 6 180)">0</text>
+
+        <!-- "korrekciós" második vonal, mert az első nem sikerült elsőre -->
+        <polyline points="36,161 55,160 85,155 110,166 128,162 148,155 180,151 206,144 223,138 245,132 273,133 300,125 314,111 336,67 365,28 392,49 413,58 430,39 456,25 486,34 508,37 524,64 552,99"
+          fill="none" stroke="#e2001a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+        <!-- fő vonal -->
+        <polyline points="34,164 53,158 83,157 108,163 126,165 146,153 178,149 204,146 221,136 243,134 271,135 298,127 312,113 334,69 363,30 390,47 411,60 428,41 454,27 484,36 506,39 522,66 550,101"
+          fill="none" stroke="#e2001a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+        <!-- valós adatpontok -->
+        <circle cx="34" cy="164" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="83" cy="157" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="126" cy="165" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="178" cy="149" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="221" cy="136" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="271" cy="135" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="312" cy="113" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="363" cy="30" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="411" cy="60" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="454" cy="27" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="506" cy="39" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+        <circle cx="550" cy="101" r="4" fill="#ffe600" stroke="#101010" stroke-width="1.5"/>
+
+        <!-- x tengely évszámok, mind kézzel odafirkálva, egyik sem egyenes -->
+        <text class="paint-ink" x="20" y="200" font-size="10" transform="rotate(-8 20 200)">2015</text>
+        <text class="paint-ink" x="67" y="203" font-size="10" transform="rotate(6 67 203)">2016</text>
+        <text class="paint-ink" x="114" y="199" font-size="10" transform="rotate(-5 114 199)">2017</text>
+        <text class="paint-ink" x="161" y="204" font-size="10" transform="rotate(7 161 204)">2018</text>
+        <text class="paint-ink" x="208" y="200" font-size="10" transform="rotate(-6 208 200)">2019</text>
+        <text class="paint-ink" x="255" y="202" font-size="10" transform="rotate(8 255 202)">2020</text>
+        <text class="paint-ink" x="301" y="199" font-size="10" transform="rotate(-4 301 199)">2021</text>
+        <text class="paint-ink" x="348" y="203" font-size="10" transform="rotate(5 348 203)">2022</text>
+        <text class="paint-ink" x="395" y="200" font-size="10" transform="rotate(-7 395 200)">2023</text>
+        <text class="paint-ink" x="442" y="203" font-size="10" transform="rotate(6 442 203)">2024</text>
+        <text class="paint-ink" x="489" y="199" font-size="10" transform="rotate(-5 489 199)">2025</text>
+        <text class="paint-ink" x="534" y="203" font-size="10" transform="rotate(8 534 203)">2026*</text>
+
+        <!-- kézzel rajzolt nyílhegy a "trend" végén, mert ugye ez tudomány -->
+        <polyline points="550,101 561,92 555,105 566,98" fill="none" stroke="#101010" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <p class="pie-caption">A grafikonon minden szám és tengelyfelirat kézzel, egérrel lett odafirkálva — a görbe alakja viszont ugyanaz a valós évenkénti adat, mint a fenti oszlopdiagramon.</p>
+  </section>
+
+  <p style="text-align:center; margin-top: 1.5rem;"><a href="index.html">← Vissza a főoldalra</a></p>
+</main>
+
+<hr class="rainbow">
+
+<footer class="site-footer">
+  <p class="disclaimer" style="text-align:center;">
+    Ez az oldal science, csak idézőjelben.
+  </p>
+  <p class="fineprint">A „Kihívók toplistája”, az évenkénti oszlopdiagram és a kézzel rajzolt vonaldiagram is valós adatokból készült (ugyanaz az adatbázis, mint a főoldalon) — csak szándékosan csúnyán vannak megrajzolva. A „Nyert már jármű villamos ellen?” kördiagram viszont 100%-ban kitaláció — ne idézd tudományos dolgozatban.</p>
+</footer>
+</div>
+</body>
+</html>

@@ -3766,8 +3766,8 @@
         }
       ],
       "status": "published",
-      "summary": "Autó és tram-train ütközött a Boldogasszony sugárút és Bécsi körút körforgalmában kedd reggel. A helyszínelés miatt a Hódmezővásárhely-Szeged vasútvillamos 20-30 perces késéssel közlekedett, pótlóbuszok is jártak.",
-      "updated_at": "2026-07-15T10:21:05.745668Z"
+      "summary": "Autó és egy (hagyományos SZKT) villamos ütközött a Boldogasszony sugárút és Bécsi körút körforgalmában kedd reggel. A két résztvevő a körforgalom közepén állt, emiatt a tram-train forgalma is akadozott: 10-15 perces vonali késésekre kellett számítani, pótlóbuszok jártak.",
+      "updated_at": "2026-07-15T16:12:27.301259Z"
     },
     {
       "confidence": 1.0,
@@ -4678,17 +4678,17 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
-      "confidence": 0.85,
+      "confidence": 0.95,
       "created_at": "2026-07-15T10:35:49.568780Z",
       "event_date": "2025-06-13",
       "event_time": null,
-      "event_type": "other",
+      "event_type": "collision",
       "id": "szvb-20250613-001",
       "injuries": "unknown",
-      "location": "Kossuth Lajos sugárút és Vadász utca kereszteződése, Szeged",
-      "location_normalized": "kossuth lajos sugarut es vadasz utca keresztezodese szeged",
-      "mode": "tram",
-      "other_party": "unknown",
+      "location": "Anna-kút, Kossuth Lajos sugárút, Szeged",
+      "location_normalized": "anna-kut kossuth lajos sugarut szeged",
+      "mode": "tramtrain",
+      "other_party": "car",
       "sources": [
         {
           "added_at": "2026-07-15T10:35:49.568780Z",
@@ -4696,11 +4696,18 @@
           "source_name": "szeged365.hu",
           "title": "Baleset történt a Kossuth Lajos sugárúton, nem jár a tram-train - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2025/06/13/baleset-tortent-a-kossuth-lajos-sugaruton-nem-jar-a-tram-train/"
+        },
+        {
+          "added_at": "2026-07-15T16:10:34.110925Z",
+          "published_at": "2025-06-13T00:00:00",
+          "source_name": "mavcsoport.hu",
+          "title": "Változás a vasútvillamosok közlekedésében",
+          "url": "https://www.mavcsoport.hu/mavinform/valtozas-vasutvillamosok-kozlekedeseben-0"
         }
       ],
       "status": "published",
-      "summary": "Baleset történt a Kossuth Lajos sugárút és a Vadász utca kereszteződésénél péntek délután, emiatt pótlóbuszok jártak a 2-es villamos és az 1-es tram-train vonalán.",
-      "updated_at": "2026-07-15T10:35:49.568780Z"
+      "summary": "A Hódmezővásárhelyről 15:07-kor Szegedre induló vasútvillamos (33069) az Anna-kútnál összeütközött egy személyautóval. A baleseti helyszínelés miatt a Szeged-Hódmezővásárhely vonalon hosszabb menetidővel, esetenként rövidebb útvonalon közlekedtek a járatok.",
+      "updated_at": "2026-07-15T16:10:34.110925Z"
     },
     {
       "confidence": 0.95,
@@ -5623,5 +5630,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T16:07:42.511701+00:00"
+  "updated_at": "2026-07-15T16:12:27.301259+00:00"
 }

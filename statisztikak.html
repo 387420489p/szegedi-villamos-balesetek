@@ -65,9 +65,9 @@
   </section>
 
   <section class="stats-section">
-    <h2 class="stats-h2">⏱️ Hányadonta jön a következő? ⏱️</h2>
-    <p style="text-align:center; font-size:clamp(1.8rem, 7vw, 2.4rem); font-weight:700; color:var(--blue); font-family:Consolas,'Courier New',monospace; margin:0 0 0.4rem; font-variant-numeric:tabular-nums;">12,3 nap / esemény</p>
-    <p style="text-align:center; font-size:0.85rem; color:var(--muted); margin:0;">Az elmúlt 5 év (2021.07.15. – 2026.07.15.) 148 eseménye alapján, egyenletesen elosztva — nem évi átlag, hanem a teljes 5 éves gördülő ablak napjainak és eseményeinek hányadosa.</p>
+    <h2 class="stats-h2">⏱️ Hány naponta jön a következő? ⏱️</h2>
+    <p id="days-per-incident" style="text-align:center; font-size:clamp(1.8rem, 7vw, 2.4rem); font-weight:700; color:var(--blue); font-family:Consolas,'Courier New',monospace; margin:0 0 0.4rem; font-variant-numeric:tabular-nums;">…</p>
+    <p id="days-per-incident-caption" style="text-align:center; font-size:0.85rem; color:var(--muted); margin:0;">Számítás folyamatban…</p>
   </section>
 
   <section class="stats-section">
@@ -244,5 +244,63 @@
   <p class="fineprint">A „Kihívók toplistája”, az évenkénti oszlopdiagram és a kézzel rajzolt vonaldiagram is valós adatokból készült (ugyanaz az adatbázis, mint a főoldalon) — csak szándékosan csúnyán vannak megrajzolva. A „Nyert már jármű villamos ellen?” kördiagram viszont 100%-ban kitaláció — ne idézd tudományos dolgozatban.</p>
 </footer>
 </div>
+
+<script>
+(function () {
+  "use strict";
+
+  var DAYS_PER_INCIDENT_WINDOW_YEARS = 5;
+
+  function pad2(n) {
+    return (n < 10 ? "0" : "") + n;
+  }
+
+  function formatDate(d) {
+    return d.getFullYear() + "." + pad2(d.getMonth() + 1) + "." + pad2(d.getDate()) + ".";
+  }
+
+  fetch("data/incidents.json").then(function (r) {
+    return r.json();
+  }).then(function (db) {
+    var incidents = (db.incidents || []).filter(function (i) {
+      return i.status === "published";
+    });
+
+    var now = new Date();
+    var windowStart = new Date(now.getTime());
+    windowStart.setFullYear(windowStart.getFullYear() - DAYS_PER_INCIDENT_WINDOW_YEARS);
+    var windowStartStr = windowStart.toISOString().slice(0, 10);
+
+    var windowed = incidents.filter(function (i) {
+      return i.event_date >= windowStartStr;
+    });
+
+    var valueEl = document.getElementById("days-per-incident");
+    var captionEl = document.getElementById("days-per-incident-caption");
+    if (!valueEl || !captionEl) return;
+
+    if (windowed.length === 0) {
+      valueEl.textContent = "?";
+      captionEl.textContent = "Nincs elég adat az elmúlt " + DAYS_PER_INCIDENT_WINDOW_YEARS + " évből.";
+      return;
+    }
+
+    var totalDays = (now.getTime() - windowStart.getTime()) / 86400000;
+    var avgDays = totalDays / windowed.length;
+    var avgDaysStr = avgDays.toFixed(1).replace(".", ",");
+
+    valueEl.textContent = avgDaysStr + " nap / esemény";
+    captionEl.textContent =
+      "Az elmúlt " + DAYS_PER_INCIDENT_WINDOW_YEARS + " év (" + formatDate(windowStart) + " – " + formatDate(now) + ") " +
+      windowed.length + " eseménye alapján, egyenletesen elosztva — nem évi átlag, hanem a teljes " +
+      DAYS_PER_INCIDENT_WINDOW_YEARS + " éves gördülő ablak napjainak és eseményeinek hányadosa.";
+  }).catch(function () {
+    var valueEl = document.getElementById("days-per-incident");
+    var captionEl = document.getElementById("days-per-incident-caption");
+    if (valueEl) valueEl.textContent = "?";
+    if (captionEl) captionEl.textContent = "Nem sikerült betölteni az adatokat.";
+  });
+})();
+</script>
 </body>
 </html>

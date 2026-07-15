@@ -536,6 +536,14 @@ hr.rainbow {
   margin-top: 0.6rem;
 }
 
+.fineprint {
+  font-size: 0.68rem;
+  color: var(--muted);
+  opacity: 0.75;
+  text-align: center;
+  margin-top: 0.9rem;
+}
+
 .guestbook-row {
   margin-top: 0.9rem;
   display: flex;

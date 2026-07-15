@@ -132,6 +132,74 @@
     return { empty: false, currentGapMs: currentGapMs, recordGapMs: recordGapMs };
   }
 
+  /* PREDICTION_WINDOW_YEARS: a "predikció" (a rekord mellett megjelenő,
+   * tréfás "mikor jön a következő" becslés) csak a legutóbbi 5 év
+   * eseménysűrűségét nézi, nem a teljes történelmi átlagot -- 2026-07-15-i
+   * felhasználói kérés. Indoklás: a korábbi évek forráslefedettsége
+   * egyenetlen (lásd RECORD_ELIGIBLE_SINCE fent), a gördülő 5 éves ablak
+   * jobban tükrözi a "mostani" gyakoriságot. */
+  var PREDICTION_WINDOW_YEARS = 5;
+
+  function computePredictionState(incidents, now) {
+    var published = incidents.filter(function (i) {
+      return i.status === "published";
+    });
+    if (published.length === 0) return { empty: true };
+
+    var windowStart = new Date(now.getTime());
+    windowStart.setFullYear(windowStart.getFullYear() - PREDICTION_WINDOW_YEARS);
+    var windowStartStr = windowStart.toISOString().slice(0, 10);
+
+    var windowed = published.filter(function (i) {
+      return i.event_date >= windowStartStr;
+    });
+    if (windowed.length === 0) return { empty: true };
+
+    var avgGapMs = (now.getTime() - windowStart.getTime()) / windowed.length;
+
+    var sorted = published.slice().sort(function (a, b) {
+      return eventSortKey(a).localeCompare(eventSortKey(b));
+    });
+    var latestDateTime = incidentDateTime(sorted[sorted.length - 1]);
+    var predictedDateTime = new Date(latestDateTime.getTime() + avgGapMs);
+    var untilMs = predictedDateTime.getTime() - now.getTime();
+
+    return {
+      empty: false,
+      avgGapMs: avgGapMs,
+      predictedDateTime: predictedDateTime,
+      untilMs: untilMs
+    };
+  }
+
+  function formatPredictionDate(d) {
+    return d.getFullYear() + ". " + pad2(d.getMonth() + 1) + ". " + pad2(d.getDate()) + ".";
+  }
+
+  function renderPrediction() {
+    if (!els.counterPrediction) return;
+    var result = computePredictionState(state.incidents, new Date());
+    if (result.empty) {
+      els.counterPrediction.textContent = "";
+      return;
+    }
+
+    var avgDays = (result.avgGapMs / 86400000).toFixed(1);
+    if (result.untilMs > 0) {
+      var untilDays = Math.ceil(result.untilMs / 86400000);
+      els.counterPrediction.textContent =
+        "🔮 Predikció (elmúlt " + PREDICTION_WINDOW_YEARS + " év átlaga, " +
+        avgDays + " nap/esemény alapján): kb. " + untilDays + " nap múlva, " +
+        formatPredictionDate(result.predictedDateTime) + " esedékes a következő.";
+    } else {
+      var overdueDays = Math.ceil(-result.untilMs / 86400000);
+      els.counterPrediction.textContent =
+        "🔮 Predikció (elmúlt " + PREDICTION_WINDOW_YEARS + " év átlaga, " +
+        avgDays + " nap/esemény alapján): a statisztika szerint már " + overdueDays +
+        " napja esedékes lenne a következő. Szoros a helyzet.";
+    }
+  }
+
   function renderCounter() {
     if (!els.counterCurrent || !els.counterRecord) return;
     var result = computeCounterState(state.incidents, new Date());
@@ -139,12 +207,14 @@
     if (result.empty) {
       els.counterCurrent.textContent = "Még nincs elég adat a számlálóhoz.";
       els.counterRecord.textContent = "";
+      if (els.counterPrediction) els.counterPrediction.textContent = "";
       return;
     }
 
     els.counterCurrent.textContent = formatDuration(result.currentGapMs);
     els.counterRecord.textContent =
       "Rekord baleset nélkül: " + formatDuration(result.recordGapMs);
+    renderPrediction();
   }
 
   function startCounterTicking() {
@@ -493,6 +563,7 @@
     els.updatedAt = document.getElementById("updated-at");
     els.counterCurrent = document.getElementById("counter-current");
     els.counterRecord = document.getElementById("counter-record");
+    els.counterPrediction = document.getElementById("counter-prediction");
     els.showMore = document.getElementById("show-more");
     els.showAll = document.getElementById("show-all");
     els.tagChip = document.getElementById("tag-filter-chip");

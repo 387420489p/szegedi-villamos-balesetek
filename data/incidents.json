@@ -2295,6 +2295,31 @@
       "updated_at": "2026-07-14T16:10:09.161986Z"
     },
     {
+      "confidence": 0.95,
+      "created_at": "2026-07-15T18:14:13.791371Z",
+      "event_date": "2022-09-19",
+      "event_time": "13:45",
+      "event_type": "collision",
+      "id": "szvb-20220919-001",
+      "injuries": "none",
+      "location": "Brüsszeli körút és József Attila sugárút sarka, Szeged",
+      "location_normalized": "brusszeli korut es jozsef attila sugarut sarka szeged",
+      "mode": "tram",
+      "other_party": "pedestrian",
+      "sources": [
+        {
+          "added_at": "2026-07-15T18:14:13.791371Z",
+          "published_at": "2022-09-19T00:00:00",
+          "source_name": "szeged365.hu",
+          "title": "Elsodort egy embert a villamos a Brüsszeli körút és a József Attila sugárút sarkán (frissítve, videóval)",
+          "url": "https://szeged365.hu/2022/09/19/szemelyi-serulessel-jaro-baleset-tortent-a-brusszeli-korut-es-a-jozsef-attila-sugarut-sarkan/"
+        }
+      ],
+      "status": "published",
+      "summary": "Hétfőn délután egy gyalogos nekisétált egy mozgó villamosnak a Brüsszeli körút és a József Attila sugárút sarkán. A rendőrség szerint a gyalogos vétett szabályt. Végül senki sem sérült meg a balesetben.",
+      "updated_at": "2026-07-15T18:14:13.791371Z"
+    },
+    {
       "confidence": 0.85,
       "created_at": "2026-07-13T21:24:32.572120Z",
       "event_date": "2022-09-30",
@@ -5630,5 +5655,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T17:07:43.094076+00:00"
+  "updated_at": "2026-07-15T18:14:13.791371+00:00"
 }

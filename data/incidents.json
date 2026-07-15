@@ -208,6 +208,31 @@
       "updated_at": "2026-07-15T08:32:05.125775Z"
     },
     {
+      "confidence": 0.95,
+      "created_at": "2026-07-15T15:59:22.527524Z",
+      "event_date": "2016-02-11",
+      "event_time": "11:15",
+      "event_type": "collision",
+      "id": "szvb-20160211-001",
+      "injuries": "none",
+      "location": "Petőfi Sándor sugárút, Szivárvány utca közelében, Szeged",
+      "location_normalized": "petofi sandor sugarut szivarvany utca kozeleben szeged",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-15T15:59:22.527524Z",
+          "published_at": "2016-02-11T00:00:00",
+          "source_name": "delmagyar.hu",
+          "title": "Autó ütközött villamossal a Szivárvány utcánál - fotók",
+          "url": "https://www.delmagyar.hu/szeged-es-kornyeke/2016/02/auto-utkozott-villamossal-a-szivarvany-utcanal-fotok"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden egy bolgár rendszámú személyautó a Petőfi Sándor sugárútról a Szivárvány utca közelében egy udvarba fordulva nem adott elsőbbséget, és összeütközött egy villamossal. Jelentős anyagi kár keletkezett, személyi sérülés nem történt. A 3/3F és 4-es vonalon pótlóbuszok jártak.",
+      "updated_at": "2026-07-15T15:59:22.527524Z"
+    },
+    {
       "confidence": 0.98,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2016-06-01",
@@ -5573,5 +5598,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T10:35:49.568780+00:00"
+  "updated_at": "2026-07-15T15:59:22.527524+00:00"
 }

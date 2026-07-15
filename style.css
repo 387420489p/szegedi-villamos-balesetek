@@ -96,11 +96,7 @@ hr.rainbow {
   display: flex;
   justify-content: center;
   gap: 10px;
-  background: var(--black);
-  border: 2px dashed var(--yellow);
-  border-radius: 8px;
-  padding: 8px;
-  margin: 0.3rem 0 0.6rem;
+  margin: 0.4rem 0 0.2rem;
 }
 
 .top-nav-btn {

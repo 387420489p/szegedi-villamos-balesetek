@@ -397,6 +397,81 @@
       "updated_at": "2026-07-15T10:21:52.720015Z"
     },
     {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2017-09-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20170922-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2017-09-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "Baleset miatti forgalmi változás - megszűnt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatti-forgalmi-valtozas"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2017-10-24",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20171024-001",
+      "injuries": "unknown",
+      "location": "Rákóczi tér, Szeged",
+      "location_normalized": "rakoczi ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2017-10-24T00:00:00",
+          "source_name": "SZKT",
+          "title": "Forgalmi fennakadás baleset miatt az 1, 2-es vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/forgalmi-fennakadas-baleset-miatt-az-1-2-es-vonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Rákóczi tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2017-10-25",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20171025-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút és Gogol utca sarka, Szeged",
+      "location_normalized": "tisza lajos korut es gogol utca sarka szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2017-10-25T00:00:00",
+          "source_name": "SZKT",
+          "title": "Baleset miatti késések a 3-as, 4-es vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatti-kesesek-3-4-es-vonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút és Gogol utca sarka, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2017-12-05",
@@ -522,6 +597,81 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-05-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20180503-001",
+      "injuries": "unknown",
+      "location": "Zrínyi utca és Apáthy utca kereszteződése, Szeged",
+      "location_normalized": "zrinyi utca es apathy utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-05-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE! - Baleset történt a Zrínyi utca - Apáthy utca kereszteződésnél... - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-zrinyi-utca-apathy-utca-keresztezodesnel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Zrínyi utca és Apáthy utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-05-25",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20180525-001",
+      "injuries": "unknown",
+      "location": "Zrínyi utca, Szeged",
+      "location_normalized": "zrinyi utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-05-25T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset miatt terelőútvonalon... - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatt-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Zrínyi utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-06-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20180622-001",
+      "injuries": "unknown",
+      "location": "II. sz. Kórház (Kálvária sgt. térsége), Szeged",
+      "location_normalized": "ii. sz. korhaz (kalvaria sgt. tersege) szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-06-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "Frissítve - Baleset történt... - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) II. sz. Kórház (Kálvária sgt. térsége), Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.93,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2018-07-18",
@@ -545,6 +695,256 @@
       "status": "published",
       "summary": "Csatolt Tatra villamos maga alá gyűrt egy Toyota Yarist a József Attila sugárúton. Személyi sérülés valószínűleg nem történt.",
       "updated_at": "2026-07-14T10:52:54.537048Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-08-21",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20180821-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-08-21T00:00:00",
+          "source_name": "SZKT",
+          "title": "Változás - A közlekedés helyreállt! -Baleset miatt forgalomváltozás a 2es vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatt-forgalomvaltozas-2es-vonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-08-28",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20180828-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-08-28T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt a Kálvária sgt.-n - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-kalvaria-sgt-n"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-10-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181003-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-10-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt... - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-10-11",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181011-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-10-11T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Forgalmi változás - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/forgalmi-valtozas-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-10-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181017-001",
+      "injuries": "unknown",
+      "location": "Földváry utca, Szeged",
+      "location_normalized": "foldvary utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-10-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Koccanás történt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/koccanas-tortent"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Földváry utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-10-29",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181029-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút és Gogol utca kereszteződése, Szeged",
+      "location_normalized": "tisza lajos korut es gogol utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-10-29T00:00:00",
+          "source_name": "SZKT",
+          "title": "Frissítve - Baleset történt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút és Gogol utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-11-06",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181106-001",
+      "injuries": "unknown",
+      "location": "Dózsa György utca és Tisza Lajos körút kereszteződése, Szeged",
+      "location_normalized": "dozsa gyorgy utca es tisza lajos korut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-11-06T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-5"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dózsa György utca és Tisza Lajos körút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-11-07",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181107-001",
+      "injuries": "unknown",
+      "location": "Takaréktár utca és Tisza Lajos körút kereszteződése, Szeged",
+      "location_normalized": "takarektar utca es tisza lajos korut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-11-07T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-6"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Takaréktár utca és Tisza Lajos körút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-11-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181112-001",
+      "injuries": "unknown",
+      "location": "Földváry utca, Szeged",
+      "location_normalized": "foldvary utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-11-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset miatt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/balesett-miatt"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Földváry utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2018-12-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20181204-001",
+      "injuries": "unknown",
+      "location": "Zrínyi utca, Szeged",
+      "location_normalized": "zrinyi utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2018-12-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-9"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Zrínyi utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -672,6 +1072,56 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-03-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20190322-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Tisza Lajos körúti oldal, Szeged",
+      "location_normalized": "dugonics ter tisza lajos koruti oldal szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-03-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "Baleset - Frissítve! - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Tisza Lajos körúti oldal, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-04-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20190404-001",
+      "injuries": "unknown",
+      "location": "Victor Hugo utca és Klauzál tér sarka, Szeged",
+      "location_normalized": "victor hugo utca es klauzal ter sarka szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-04-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset miatt... - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatt-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Victor Hugo utca és Klauzál tér sarka, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2019-05-19",
@@ -754,6 +1204,31 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-10-25",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20191025-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Vitéz utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es vitez utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-10-25T00:00:00",
+          "source_name": "SZKT",
+          "title": "Frissítve - Baleset a Boldogasszony sgt. és a Vitéz utca kereszteződésében - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-10"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Vitéz utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2019-11-05",
@@ -777,6 +1252,106 @@
       "status": "published",
       "summary": "Ford Focus kabrió balra próbálta megelőzni a villamost, ütközés történt. Az autó sofőrje nem szenvedett fizikai sérülést.",
       "updated_at": "2026-07-14T10:52:54.537048Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-12-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20191203-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-12-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a 3F-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-3f-es-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-12-10",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20191210-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-12-10T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset miatt forgalmi zavar a 3/3F-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-miatt-forgalmi-zavar-a-3-3f-es-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-12-13",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20191213-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-12-13T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Újabb baleset a 3-as/4-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/ujabb-baleset-a-3-as-4-es-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2019-12-13",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20191213-002",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2019-12-13T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt a 3-as villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-a-3-as-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -804,6 +1379,81 @@
       "updated_at": "2026-07-14T10:52:54.537048Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-01-21",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200121-001",
+      "injuries": "unknown",
+      "location": "Petőfi Sándor sugárút és Rákóczi utca kereszteződése, Szeged",
+      "location_normalized": "petofi sandor sugarut es rakoczi utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-01-21T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a 4-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-4-es-villamos-vonalan"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Petőfi Sándor sugárút és Rákóczi utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-01-29",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200129-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Batthyány utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es batthyany utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-01-29T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset az 1-es, 2-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-az-1-es-2-es-villamos-vonalan"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Batthyány utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-02-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200204-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút és Gyevi utca kereszteződése, Szeged",
+      "location_normalized": "jozsef attila sugarut es gyevi utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-02-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a 3, 3F, 4-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-3-3f-4-es-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút és Gyevi utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2020-02-10",
@@ -827,6 +1477,106 @@
       "status": "published",
       "summary": "Villamos és Opel személyautó ütközött a Tisza Lajos körúton, senki sem sérült meg.",
       "updated_at": "2026-07-14T10:52:54.537048Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-02-26",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200226-001",
+      "injuries": "unknown",
+      "location": "Glattfelder Gyula tér, Szeged",
+      "location_normalized": "glattfelder gyula ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-02-26T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset történt a 3/3F, 4-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-a-3-3f-4-es-villamos-vonalan"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Glattfelder Gyula tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-03-02",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200302-001",
+      "injuries": "unknown",
+      "location": "Aradi tér / Somogyi utca / Széchenyi tér térsége, Szeged",
+      "location_normalized": "aradi ter / somogyi utca / szechenyi ter tersege szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-03-02T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset az 1-es, 2-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-az-1-es-2-es-villamos-vonalan-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Aradi tér / Somogyi utca / Széchenyi tér térsége, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-04-06",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200406-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-04-06T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a 2-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-2-es-villamos-vonalan"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-04-30",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200430-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-04-30T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Koccanás történt a 3-as villamos vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/koccanas-tortent-a-3-as-villamos-vonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -936,6 +1686,56 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-09-14",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200914-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút és Vásárhelyi Pál utca kereszteződése, Szeged",
+      "location_normalized": "kalvaria sugarut es vasarhelyi pal utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-09-14T00:00:00",
+          "source_name": "SZKT",
+          "title": "Baleset történt a Kálvária sgt. és a Vásárhelyi Pál utca kereszteződésében - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-tortent-a-kalvaria-sgt-es-a-vasarhelyi-pal-utca-keresztezodeseben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút és Vásárhelyi Pál utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-09-15",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20200915-001",
+      "injuries": "unknown",
+      "location": "Vitéz utca és Boldogasszony sugárút kereszteződése, Szeged",
+      "location_normalized": "vitez utca es boldogasszony sugarut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-09-15T00:00:00",
+          "source_name": "SZKT",
+          "title": "Frissítve - Baleset a Vitéz utca - Boldogasszony sgt. kereszteződésénél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-vitez-utca-boldogasszony-sgt-keresztezodesenel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Vitéz utca és Boldogasszony sugárút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2020-10-09",
@@ -959,6 +1759,31 @@
       "status": "published",
       "summary": "Villamos ütközött személygépkocsival a Boldogasszony sugárúton. Az autó a villamosnak fordult be, egy személy megsérült.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-10-15",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20201015-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Liliom utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es liliom utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-10-15T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a 2-es villamos vonalán - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-2-es-villamos-vonalan-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Liliom utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -1023,6 +1848,106 @@
       "status": "published",
       "summary": "Villamos és autóbusz ütközött a Kálvária sugárút és Nagykörút kereszteződésében. A villamos az ütközés erejétől kisiklott, de személyi sérülés nem történt.",
       "updated_at": "2026-07-14T21:35:48.944832Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-11-06",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20201106-001",
+      "injuries": "unknown",
+      "location": "Vitéz utca és Boldogasszony sugárút kereszteződése, Szeged",
+      "location_normalized": "vitez utca es boldogasszony sugarut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-11-06T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Vitéz utca - Boldogasszony sgt. kereszteződésnél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-vitez-utca-boldogasszony-sgt-keresztezodesnel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Vitéz utca és Boldogasszony sugárút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-11-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20201112-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-11-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2020-12-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20201203-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2020-12-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sugaruton"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-01-14",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20210114-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút, Szeged",
+      "location_normalized": "jozsef attila sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-01-14T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József Attila sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-attila-sugaruton"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -1196,6 +2121,31 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-05-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20210518-001",
+      "injuries": "unknown",
+      "location": "Vadász utca és Kossuth Lajos sugárút kereszteződése, Szeged",
+      "location_normalized": "vadasz utca es kossuth lajos sugarut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-05-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset az 1-es, 2-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-az-1-es-2-es-villamosvonalon"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Vadász utca és Kossuth Lajos sugárút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 1.0,
       "created_at": "2026-07-15T08:24:59.759511Z",
       "event_date": "2021-06-08",
@@ -1278,6 +2228,81 @@
       "updated_at": "2026-07-14T16:10:09.161986Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-08-27",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20210827-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút és Vadász utca kereszteződése, Szeged",
+      "location_normalized": "kossuth lajos sugarut es vadasz utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-08-27T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth Lajos sugárút-Vadász utca kereszteződésében - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-lajos-sugarut-vadasz-utca-keresztezodeseben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút és Vadász utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-09-07",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20210907-001",
+      "injuries": "unknown",
+      "location": "Galamb utca, Szeged",
+      "location_normalized": "galamb utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-09-07T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Galamb utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-galamb-utcanal"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Galamb utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-09-11",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20210911-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-09-11T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Pótlóbusz közlekedik a 3, 3F, 4-es vonalon baleset miatt - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/potlobusz-kozlekedik-a-3-3f-4-es-vonalon-baleset-miatt"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2021-09-24",
@@ -1308,6 +2333,81 @@
       "status": "published",
       "summary": "Egy villamos és egy személyautó ütközött a Kossuth Lajos és Párizsi körút sarkán. Az anyagi káros baleset az 1-es és 2-es villamosvonalon okozott forgalmi fennakadást, de nem volt személyi sérülés.",
       "updated_at": "2026-07-14T21:35:48.944832Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-10-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20211018-001",
+      "injuries": "unknown",
+      "location": "Takaréktár utca és Tisza Lajos körút kereszteződése, Szeged",
+      "location_normalized": "takarektar utca es tisza lajos korut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-10-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Takaréktár u. Tisza Lajos krt kereszteződésénél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-takarektar-u-tisza-lajos-krt-keresztezodesenel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Takaréktár utca és Tisza Lajos körút kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-10-21",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20211021-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-10-21T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sugaruton-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2021-11-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20211104-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút és Szilágyi utca kereszteződése, Szeged",
+      "location_normalized": "kossuth lajos sugarut es szilagyi utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2021-11-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth Lajos sgt. és Szilágyi u. kereszteződésében - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-lajos-sgt-es-szilagyi-u-keresztezodeseben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút és Szilágyi utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -1715,6 +2815,31 @@
       "updated_at": "2026-07-15T09:30:22.621022Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-03-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20220304-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút, Szeged",
+      "location_normalized": "boldogasszony sugarut szeged",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-03-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sugaruton-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút, Szeged térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.85,
       "created_at": "2026-07-15T10:35:49.568780Z",
       "event_date": "2022-03-09",
@@ -1900,6 +3025,31 @@
       "updated_at": "2026-07-15T08:24:59.759511Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-03-21",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20220321-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút és Kecskeméti utca kereszteződése, Szeged",
+      "location_normalized": "jozsef attila sugarut es kecskemeti utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-03-21T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József Attilla sgt. Kecskeméti utca ker.-ben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-attilla-sgt-kecskemeti-utca-ker-ben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút és Kecskeméti utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2022-04-12",
@@ -1955,6 +3105,31 @@
       "status": "published",
       "summary": "Elesett egy utas a villamoson az Aradi Vértanúk terén csütörtök reggel, a rendőrség is megerősítette az esetet, emiatt pótlóbuszok jártak.",
       "updated_at": "2026-07-15T10:35:49.568780Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-05-05",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20220505-001",
+      "injuries": "unknown",
+      "location": "Rókusi körút és Körtöltés utca kereszteződése, Szeged",
+      "location_normalized": "rokusi korut es kortoltes utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-05-05T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset a Rókusi krt.-Körtöltés u. kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-rokusi-krt-kortoltes-u-keresztezodesben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Rókusi körút és Körtöltés utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.85,
@@ -2295,6 +3470,56 @@
       "updated_at": "2026-07-14T16:10:09.161986Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-09-19",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20220919-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút, Szeged",
+      "location_normalized": "jozsef attila sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-09-19T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József Attila sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-attila-sgt-on"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-09-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20220922-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Liliom utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es liliom utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-09-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt. – Liliom u. kereszteződésnél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-liliom-u-keresztezodesnel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Liliom utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.85,
       "created_at": "2026-07-13T21:24:32.572120Z",
       "event_date": "2022-09-30",
@@ -2370,6 +3595,106 @@
       "updated_at": "2026-07-14T16:10:09.161986Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-11-10",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20221110-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-11-10T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-11-10",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20221110-002",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút és Tavasz utca kereszteződése, Szeged",
+      "location_normalized": "kossuth lajos sugarut es tavasz utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-11-10T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth L. sgt. – Tavasz u. kereszteződésénél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-l-sgt-tavasz-u-keresztezodesenel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút és Tavasz utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-11-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20221112-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-11-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-7"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-11-16",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20221116-001",
+      "injuries": "unknown",
+      "location": "Rókusi körút és Körtöltés utca kereszteződése, Szeged",
+      "location_normalized": "rokusi korut es kortoltes utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-11-16T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Rókusi krt. – Körtöltés utca kereszteződésénél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-rokusi-krt-kortoltes-utca-keresztezodesenel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Rókusi körút és Körtöltés utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2022-11-30",
@@ -2393,6 +3718,31 @@
       "status": "published",
       "summary": "Szegeden, a Boldogasszony sugárúton a Hódmezővásárhelyről indult tram-train (33053) egy személygépjárművel ütközött. A helyszínelés alatt pótlóbuszok közlekedtek, és késések voltak a tram-train és 2-es vonalakon.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2022-12-13",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20221213-001",
+      "injuries": "unknown",
+      "location": "Szivárvány utca, Szeged",
+      "location_normalized": "szivarvany utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2022-12-13T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Szivárvány utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szivarvany-utcanal"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szivárvány utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -2443,6 +3793,81 @@
       "status": "published",
       "summary": "Autó ütközött tram-train szerelvénnyel a Kossuth Lajos sugárúton. Személyi sérülés nem történt.",
       "updated_at": "2026-07-13T21:10:42.744550Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-01-02",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230102-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-01-02T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sgt-on"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-01-13",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230113-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút és Vadász utca kereszteződése, Szeged",
+      "location_normalized": "kossuth lajos sugarut es vadasz utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-01-13T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth L.sgt. – Vadász u. kereszteződésnél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-l-sgt-vadasz-u-keresztezodesnel"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút és Vadász utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-01-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230122-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút és Gyevi sor kereszteződése, Szeged",
+      "location_normalized": "jozsef attila sugarut es gyevi sor keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-01-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József A.sgt – Gyevi sor kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-a-sgt-gyevi-sor-keresztezodesben-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút és Gyevi sor kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -2543,6 +3968,31 @@
       "status": "published",
       "summary": "Egy villamos és egy autó ütközött a Kossuth Lajos sugárúton az Anna kútnál. A forgalom helyreállt, 10-15 perces késések voltak három vonalon.",
       "updated_at": "2026-07-13T21:24:32.572120Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-03-22",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230322-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút (Rókus vasútállomás térsége), Szeged",
+      "location_normalized": "kossuth lajos sugarut (rokus vasutallomas tersege) szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-03-22T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth Lajos sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-lajos-sugaruton-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút (Rókus vasútállomás térsége), Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.9,
@@ -2720,6 +4170,31 @@
       "updated_at": "2026-07-15T08:24:59.759511Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-06-05",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230605-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Vitéz utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es vitez utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-06-05T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt – Vitéz u. kereszteződés - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-vitez-u-keresztezodes-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Vitéz utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-13T21:24:32.572120Z",
       "event_date": "2023-06-14",
@@ -2807,6 +4282,106 @@
       "status": "published",
       "summary": "Villamos kisiklott a Tisza Lajos körúton, valószínűleg egy trolibusz lökte ki. Az SZKT megerősítette, hogy sérülés nem történt.",
       "updated_at": "2026-07-15T08:24:59.759511Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-07-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230712-001",
+      "injuries": "unknown",
+      "location": "Anna-kút és Rókus vasútállomás közötti szakasz, Szeged",
+      "location_normalized": "anna-kut es rokus vasutallomas kozotti szakasz szeged",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-07-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a TramTrain vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tramtrain-vonalon-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Anna-kút és Rókus vasútállomás közötti szakasz, Szeged térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-07-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230712-002",
+      "injuries": "unknown",
+      "location": "Damjanich utca és Rókus vasútállomás közötti szakasz, Szeged",
+      "location_normalized": "damjanich utca es rokus vasutallomas kozotti szakasz szeged",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-07-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a TramTrain vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tramtrain-vonalon-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Damjanich utca és Rókus vasútállomás közötti szakasz, Szeged térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-07-25",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230725-001",
+      "injuries": "unknown",
+      "location": "Szatymazi utca, Szeged",
+      "location_normalized": "szatymazi utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-07-25T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Szatymazi utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szatymazi-utcanal"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szatymazi utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-08-05",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20230805-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-08-05T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-9"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -3069,6 +4644,56 @@
       "updated_at": "2026-07-14T16:10:09.161986Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-10-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20231018-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút, Szeged",
+      "location_normalized": "jozsef attila sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-10-18T20:39:29+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József A. sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-a-sgt-on-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-11-15",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20231115-001",
+      "injuries": "unknown",
+      "location": "Szeged (TramTrain vonal, Rókus vá.-Szeged vá. között)",
+      "location_normalized": "szeged (tramtrain vonal rokus va.-szeged va. kozott)",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-11-15T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-11"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged (TramTrain vonal, Rókus vá.-Szeged vá. között) térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2023-12-07",
@@ -3092,6 +4717,31 @@
       "status": "published",
       "summary": "Autó és villamos ütköztek össze reggel 7 óra körül a Szegedi Vadasparknál. A baleset miatt pótlóbuszok közlekedtek Anna kút és Fonógyári út között.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2023-12-11",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20231211-001",
+      "injuries": "unknown",
+      "location": "Rókusi körút, Szeged",
+      "location_normalized": "rokusi korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2023-12-11T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset a Rókusi körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/35186-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Rókusi körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -3149,6 +4799,56 @@
       "status": "published",
       "summary": "Egy autó és egy villamos ütközött 2024. január 12-én, reggel fél 9 körül a szegedi Dugonics téri körforgalomban. Az ütközés a 3-as, 3F-es és 4-es villamosvonalakon 10-15 perces késéseket okozott.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-01-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240117-001",
+      "injuries": "unknown",
+      "location": "Kelemen utca, Szeged",
+      "location_normalized": "kelemen utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-01-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kelemen utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kelemen-utcaban-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kelemen utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-01-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240118-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút, Szeged",
+      "location_normalized": "boldogasszony sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-01-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-on-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -3213,6 +4913,31 @@
       "status": "published",
       "summary": "Autó kanyarodott a 3F-es villamos elé a Tisza Lajos körúton, a villamos megtolta az autót. Személyi sérülés nem történt.",
       "updated_at": "2026-07-15T09:57:10.932122Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-03-01",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240301-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-03-01T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sgt-on-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -3284,6 +5009,56 @@
       "status": "published",
       "summary": "A Hódmezővásárhelyről érkező tram-train (33019) egy gyalogost gázolt meg a szegedi Rókusi Templomnál. A forgalom ideiglenesen részlegesen korlátozva volt a helyszínelés alatt.",
       "updated_at": "2026-07-15T09:57:48.392006Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-03-28",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240328-001",
+      "injuries": "unknown",
+      "location": "Szeged (TramTrain vonal, Rókus vá. térsége)",
+      "location_normalized": "szeged (tramtrain vonal rokus va. tersege)",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-03-28T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-13"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged (TramTrain vonal, Rókus vá. térsége) térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-04-08",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240408-001",
+      "injuries": "unknown",
+      "location": "Veres Ács utca, Szeged",
+      "location_normalized": "veres acs utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-04-08T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Forgalmi zavar a Veres ács utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/forgalmi-zavar-a-veres-acs-utcanal"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Veres Ács utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -3501,6 +5276,56 @@
       "status": "published",
       "summary": "Egy BMW X3 nekiment a 2-es villamosnak a Boldogasszony sugárút és a Liliom utca kereszteződésénél szerda reggel. A Hódmezővásárhely-Szeged tram-train csak Anna-kútig közlekedett, az SZKT pótlóbuszt állított forgalomba.",
       "updated_at": "2026-07-15T10:21:05.745682Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-06-30",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240630-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút, Szeged",
+      "location_normalized": "kossuth lajos sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-06-30T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth Lajos sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-lajos-sgt-on"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-07-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240703-001",
+      "injuries": "unknown",
+      "location": "Fonógyári út, Szeged",
+      "location_normalized": "fonogyari ut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-07-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Forgalmi zavar - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/forgalmi-zavar-76"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Fonógyári út, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -3768,6 +5593,31 @@
       "status": "published",
       "summary": "Autó és egy (hagyományos SZKT) villamos ütközött a Boldogasszony sugárút és Bécsi körút körforgalmában kedd reggel. A két résztvevő a körforgalom közepén állt, emiatt a tram-train forgalma is akadozott: 10-15 perces vonali késésekre kellett számítani, pótlóbuszok jártak.",
       "updated_at": "2026-07-15T16:12:27.301259Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2024-09-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20240917-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2024-09-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren-10"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -4386,6 +6236,31 @@
       "updated_at": "2026-07-15T10:07:13.239893Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-03-14",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250314-001",
+      "injuries": "unknown",
+      "location": "Glattfelder tér, Szeged",
+      "location_normalized": "glattfelder ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-03-14T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Glattfelder térnél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-glattfelder-ternel-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Glattfelder tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2025-03-20",
@@ -4571,6 +6446,31 @@
       "updated_at": "2026-07-15T10:08:35.125018Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-04-30",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250430-001",
+      "injuries": "unknown",
+      "location": "Széchenyi tér, Szeged",
+      "location_normalized": "szechenyi ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-04-30T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Széchényi téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szechenyi-teren-6"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Széchenyi tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2025-05-13",
@@ -4596,6 +6496,31 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-05-20",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250520-001",
+      "injuries": "unknown",
+      "location": "Glattfelder Gyula tér, Szeged",
+      "location_normalized": "glattfelder gyula ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-05-20T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-22"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Glattfelder Gyula tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2025-05-24",
@@ -4619,6 +6544,31 @@
       "status": "published",
       "summary": "Daewoo Nubira ütközött a tram-trainbe a Boldogasszony sugárúton. A sofőr nem sérült meg komolyabban, szállítási zavarok keletkeztek.",
       "updated_at": "2026-07-13T21:10:42.744550Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-05-28",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250528-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-05-28T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-23"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -4678,6 +6628,31 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-06-08",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250608-001",
+      "injuries": "unknown",
+      "location": "Zrínyi utca, Szeged",
+      "location_normalized": "zrinyi utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-06-08T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset a Zrínyi utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-zrinyi-utcaban-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Zrínyi utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-15T10:35:49.568780Z",
       "event_date": "2025-06-13",
@@ -4708,6 +6683,31 @@
       "status": "published",
       "summary": "A Hódmezővásárhelyről 15:07-kor Szegedre induló vasútvillamos (33069) az Anna-kútnál összeütközött egy személyautóval. A baleseti helyszínelés miatt a Szeged-Hódmezővásárhely vonalon hosszabb menetidővel, esetenként rövidebb útvonalon közlekedtek a járatok.",
       "updated_at": "2026-07-15T16:10:34.110925Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-06-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250618-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-06-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE – Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren-13"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -4749,6 +6749,31 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-07-05",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250705-001",
+      "injuries": "unknown",
+      "location": "Fonógyári út, Szeged",
+      "location_normalized": "fonogyari ut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-07-05T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Fonógyári úton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-fonogyari-uton"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Fonógyári út, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 1.0,
       "created_at": "2026-07-14T15:32:48.944832Z",
       "event_date": "2025-07-15",
@@ -4779,6 +6804,31 @@
       "status": "published",
       "summary": "Tram-train ütközött autóval Szegeden a Pulz utcánál. Az autó eleje és a villamos is sérüléseket szenvedett.",
       "updated_at": "2026-07-15T10:10:15.728148Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-07-21",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250721-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-07-21T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-11"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -4927,6 +6977,31 @@
       "updated_at": "2026-07-15T10:35:49.568780Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250901-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-09-01T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-13"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 1.0,
       "created_at": "2026-07-13T17:09:52.180088Z",
       "event_date": "2025-09-15",
@@ -4982,6 +7057,31 @@
       "status": "published",
       "summary": "Baleset történt a Kálvária sugárút és a Jósika utca kereszteződésében hétfő délután, emiatt pótlóbuszok jártak a 3-as, 3F-es villamosvonalon.",
       "updated_at": "2026-07-15T10:35:49.568780Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-09-26",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20250926-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-09-26T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-15"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -5048,6 +7148,206 @@
       "updated_at": "2026-07-15T10:12:58.878693Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-08",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251008-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-08T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-16"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-11",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251011-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-11T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sgt-on-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-13",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251013-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-13T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sgt-on-5"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-27",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251027-001",
+      "injuries": "unknown",
+      "location": "Glattfelder tér, Szeged",
+      "location_normalized": "glattfelder ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-27T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Glattfelder téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-glattfelder-teren-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Glattfelder tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-27",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251027-002",
+      "injuries": "unknown",
+      "location": "Széchenyi tér, Szeged",
+      "location_normalized": "szechenyi ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-27T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Széchényi téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szechenyi-teren-7"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Széchenyi tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-28",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251028-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút, Szeged",
+      "location_normalized": "boldogasszony sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-28T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-on-7"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-10-30",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251030-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút, Szeged",
+      "location_normalized": "kossuth lajos sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-10-30T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-29"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-11-03",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251103-001",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Markovits utca kereszteződése, Szeged",
+      "location_normalized": "boldogasszony sugarut es markovits utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-11-03T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt – Markovits u. kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-markovits-u-keresztezodesben-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Boldogasszony sugárút és Markovits utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2025-11-10",
@@ -5096,6 +7396,81 @@
       "status": "published",
       "summary": "Hétfő reggel villamos ütközött egy autóval a Kelemen László utcában Szegeden. A baleset sérülteket nem okozott, de közlekedési zavarokat és pótlóbusz-közlekedést eredményezett.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-11-15",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251115-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-11-15T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-17"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-11-16",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251116-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-11-16T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren-15"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251117-001",
+      "injuries": "unknown",
+      "location": "Rókusi körút és Vértói út kereszteződése, Szeged",
+      "location_normalized": "rokusi korut es vertoi ut keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-11-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-31"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Rókusi körút és Vértói út kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -5153,6 +7528,106 @@
       "status": "published",
       "summary": "A 4-es villamos elé lépett és elsodort egy fiatalt a Petőfi Sándor sugárúton, az Ady utcai kereszteződés közelében. A gyalogos könnyebben megsérült, a mentők elszállították.",
       "updated_at": "2026-07-15T10:12:58.878693Z"
+    },
+    {
+      "confidence": 0.65,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-11-28",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251128-001",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-11-28T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-32"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-12-12",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251212-001",
+      "injuries": "unknown",
+      "location": "József Attila sugárút, Szeged",
+      "location_normalized": "jozsef attila sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-12-12T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-34"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) József Attila sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-12-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251217-001",
+      "injuries": "unknown",
+      "location": "Szeged (TramTrain vonal, Rókus vá. térsége)",
+      "location_normalized": "szeged (tramtrain vonal rokus va. tersege)",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-12-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-35"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged (TramTrain vonal, Rókus vá. térsége) térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2025-12-17",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20251217-002",
+      "injuries": "unknown",
+      "location": "Kecskeméti utca, Szeged",
+      "location_normalized": "kecskemeti utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2025-12-17T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kecskeméti utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kecskemeti-utcanal-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kecskeméti utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 0.95,
@@ -5262,6 +7737,56 @@
       "updated_at": "2026-07-13T17:09:52.180088Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-01-16",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260116-001",
+      "injuries": "unknown",
+      "location": "Pulz utca, Szeged",
+      "location_normalized": "pulz utca szeged",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-01-16T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Pulz utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-pulz-utcaban-2"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Pulz utca, Szeged térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-01-24",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260124-001",
+      "injuries": "unknown",
+      "location": "Zrínyi utca, Szeged",
+      "location_normalized": "zrinyi utca szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-01-24T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Zrínyi utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-zrinyi-utcaban-8"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Zrínyi utca, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-13T17:09:52.180088Z",
       "event_date": "2026-01-30",
@@ -5285,6 +7810,31 @@
       "status": "published",
       "summary": "Villamos teherautóval ütközött a Kossuth Lajos sugárút és a Párizsi körút kereszteződésénél. A menetrend gyorsan helyreállt.",
       "updated_at": "2026-07-13T17:09:52.180088Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-02-05",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260205-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút, Szeged",
+      "location_normalized": "kalvaria sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-02-05T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kálvária sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kalvaria-sugaruton-5"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kálvária sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     },
     {
       "confidence": 1.0,
@@ -5426,6 +7976,31 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-03-04",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260304-001",
+      "injuries": "unknown",
+      "location": "Szeged (TramTrain vonal, Rókus vá. térsége)",
+      "location_normalized": "szeged (tramtrain vonal rokus va. tersege)",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-03-04T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-41"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Szeged (TramTrain vonal, Rókus vá. térsége) térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2026-03-10",
@@ -5565,6 +8140,56 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-05-02",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260502-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút, Szeged",
+      "location_normalized": "tisza lajos korut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-05-02T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos körúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-koruton-19"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-05-07",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260507-001",
+      "injuries": "unknown",
+      "location": "Pulz utca, Szeged",
+      "location_normalized": "pulz utca szeged",
+      "mode": "tramtrain",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-05-07T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Pulz utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-pulz-utcaban-3"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Pulz utca, Szeged térségében (tram-train vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-13T17:09:52.180088Z",
       "event_date": "2026-05-13",
@@ -5597,6 +8222,31 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-05-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260518-001",
+      "injuries": "unknown",
+      "location": "Dugonics tér, Szeged",
+      "location_normalized": "dugonics ter szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-05-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Dugonics téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-dugonics-teren-16"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Dugonics tér, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2026-05-26",
@@ -5627,8 +8277,83 @@
       "status": "published",
       "summary": "Kombi ütközött villamossal a Dugonics téri körforgalomban. Pótlóbuszok közlekedtek az érintett szakaszokon.",
       "updated_at": "2026-07-14T21:35:48.944832Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-06-18",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260618-001",
+      "injuries": "unknown",
+      "location": "Petőfi Sándor sugárút, Szeged",
+      "location_normalized": "petofi sandor sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-06-18T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Petőfi Sándor sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-petofi-sandor-sgt-on-4"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Petőfi Sándor sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-06-23",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260623-001",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút, Szeged",
+      "location_normalized": "kossuth lajos sugarut szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-06-23T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth Lajos sugárúton - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-lajos-sugaruton-5"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Kossuth Lajos sugárút, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
+    },
+    {
+      "confidence": 0.75,
+      "created_at": "2026-07-15T16:34:11.004601Z",
+      "event_date": "2026-07-11",
+      "event_time": null,
+      "event_type": "other",
+      "id": "szvb-20260711-001",
+      "injuries": "unknown",
+      "location": "Tisza Lajos körút és Juhász Gyula utca kereszteződése, Szeged",
+      "location_normalized": "tisza lajos korut es juhasz gyula utca keresztezodese szeged",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-07-15T16:34:11.004601Z",
+          "published_at": "2026-07-11T00:00:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Tisza Lajos krt. – Juhász Gyula u. kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tisza-lajos-krt-juhasz-gyula-u-keresztezodesben"
+        }
+      ],
+      "status": "published",
+      "summary": "Az SZKT tájékoztatása szerint baleset történt a(z) Tisza Lajos körút és Juhász Gyula utca kereszteződése, Szeged térségében (villamos vonalon). A pontos ütközési körülmények (mi ütközött, történt-e személyi sérülés) nem ismertek — a közlemény csak a menetrendi hatásról (pótlóbuszok, vonali késések) számol be.",
+      "updated_at": "2026-07-15T16:34:11.004601Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T16:12:27.301259+00:00"
+  "updated_at": "2026-07-15T16:34:42.175726+00:00"
 }

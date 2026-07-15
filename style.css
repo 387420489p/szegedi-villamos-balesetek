@@ -643,4 +643,10 @@ hr.rainbow {
   .filter-field-text {
     flex: 1 1 auto;
   }
+  .guestbook-row {
+    flex-wrap: wrap;
+  }
+  .guestbook-row a {
+    flex: 1 1 calc(33.333% - 7px);
+  }
 }

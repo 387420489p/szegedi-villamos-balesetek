@@ -547,24 +547,26 @@ hr.rainbow {
 .guestbook-row {
   margin-top: 0.9rem;
   display: flex;
-  justify-content: center;
+  justify-content: stretch;
   gap: 10px;
-  flex-wrap: wrap;
   font-family: "Comic Neue", "Comic Sans MS", "Comic Sans", cursive;
-  font-size: 0.72rem;
+  font-size: 0.95rem;
 }
 
 .guestbook-row a {
-  border: 1px solid var(--black);
+  flex: 1;
+  border: 2px solid var(--black);
   background: var(--yellow);
   color: var(--ink);
-  padding: 3px 8px;
-  border-radius: 4px;
+  padding: 10px 6px;
+  border-radius: 6px;
   text-decoration: none;
   font-weight: 700;
-  min-height: 30px;
+  min-height: 46px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .guestbook-row a:hover,

@@ -231,6 +231,15 @@
     return out;
   }
 
+  /* AUDIT.md M4: setAttribute("href", ...) still executes a "javascript:"
+     URL on click even though it's a real DOM API call, not innerHTML --
+     source URLs come from scraped articles, so restrict what can ever
+     reach an href attribute. */
+  function safeUrl(url) {
+    if (typeof url === "string" && /^https?:\/\//i.test(url)) return url;
+    return "#";
+  }
+
   function el(tag, opts) {
     var node = document.createElement(tag);
     opts = opts || {};
@@ -394,7 +403,7 @@
       var liSource = el("li");
       var a = el("a", {
         text: source.title || source.url,
-        attrs: { href: source.url, target: "_blank", rel: "noopener" },
+        attrs: { href: safeUrl(source.url), target: "_blank", rel: "noopener" },
       });
       liSource.appendChild(a);
       liSource.appendChild(

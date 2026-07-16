@@ -56,6 +56,18 @@
     height: 480px;
     border-radius: 3px;
   }
+  .leaflet-tooltip {
+    font-family: "Comic Neue", "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: 700;
+    font-size: 0.78rem;
+    color: var(--ink, #201a00);
+    background: #ffe600;
+    border: 2px solid #101010;
+    border-radius: 6px;
+    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.35);
+    padding: 4px 8px;
+  }
+  .leaflet-tooltip-top:before { border-top-color: #101010; }
   .map-caption {
     text-align: center;
     font-size: 0.8rem;
@@ -233,6 +245,7 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
     marker.on("click", function () {
       openZonePanel(id);
     });
+    marker.bindTooltip("", { direction: "top", offset: [0, -6], opacity: 1 });
     markersById[id] = marker;
   });
 
@@ -315,11 +328,19 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
       var marker = markersById[id];
       if (count === 0) {
         marker.setStyle({ fillOpacity: 0, opacity: 0, radius: 1 });
+        marker.unbindTooltip();
         return;
       }
       var r = radiusFor(count, maxThis);
       var fill = colorFor(count, maxThis);
       marker.setStyle({ fillOpacity: 0.8, opacity: 1, radius: r, fillColor: fill });
+      var suffix = year === "all"
+        ? (count === 1 ? "1 baleset" : count + " baleset összesen")
+        : count + " baleset (" + year + ")";
+      if (!marker.getTooltip()) {
+        marker.bindTooltip("", { direction: "top", offset: [0, -6], opacity: 1 });
+      }
+      marker.setTooltipContent("🚩 " + zone.label + " — " + suffix);
     });
 
     if (currentZoneId && !detailPanel.hidden) {

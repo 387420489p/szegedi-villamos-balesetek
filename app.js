@@ -550,7 +550,7 @@
     if (!iso) return "";
     var d = new Date(iso);
     if (isNaN(d.getTime())) return "";
-    return "Utolsó frissítés: " + d.toLocaleString("hu-HU");
+    return "Utolsó ellenőrzés: " + d.toLocaleString("hu-HU");
   }
 
   function init() {

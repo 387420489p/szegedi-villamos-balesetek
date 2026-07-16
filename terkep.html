@@ -97,7 +97,51 @@
     font-size: 0.72rem;
     color: var(--muted);
   }
-  .legend-dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; border: 1px solid #101010; }
+  .legend-dot { display: inline-block; border-radius: 50%; border: 1px solid #101010; vertical-align: middle; }
+  .legend-dot-sm { width: 9px; height: 9px; }
+  .legend-dot-md { width: 14px; height: 14px; }
+  .legend-dot-lg { width: 20px; height: 20px; }
+  .legend-note { width: 100%; font-style: italic; }
+  .list-view-details {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+  }
+  .list-view-details summary {
+    cursor: pointer;
+    color: var(--blue);
+    font-weight: 700;
+    padding: 4px 0;
+  }
+  .list-view {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    max-height: 280px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .list-view li { border-bottom: 1px solid #eee; }
+  .list-view li:last-child { border-bottom: none; }
+  .list-view button {
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    padding: 8px 10px;
+    font: inherit;
+    cursor: pointer;
+    color: var(--ink, #201a00);
+  }
+  .list-view button:hover,
+  .list-view button:focus-visible {
+    background: #fff3d6;
+  }
+  .list-view .list-view-count {
+    float: right;
+    font-weight: 700;
+    color: var(--red, #e2001a);
+  }
   .zone-detail {
     margin-top: 1rem;
     background: #fffbde;
@@ -166,12 +210,18 @@
     </div>
 
     <div class="legend-row">
-      <span class="legend-dot" style="background:#ffe600;"></span> kevés
-      <span class="legend-dot" style="background:#ff8800;"></span> közepes
-      <span class="legend-dot" style="background:#e2001a;"></span> sok baleset
+      <span class="legend-dot legend-dot-sm" style="background:#ffe600;"></span> kevés
+      <span class="legend-dot legend-dot-md" style="background:#ff8800;"></span> közepes
+      <span class="legend-dot legend-dot-lg" style="background:#e2001a;"></span> sok baleset
+      <span class="legend-note">(a pöttyök mérete ÉS színe is a balesetszámot jelzi)</span>
     </div>
 
     <p class="map-caption">A pöttyök mérete és színe a kiválasztott évben az adott helyszínhez köthető balesetek számát mutatja. Minden pötty a villamos-/tram-train-pályára igazítva áll (OpenStreetMap-sínadatok alapján): ahol a forrás kereszteződést vagy tereptárgyat nevez meg, ott a pálya azon pontján; ahol csak az utca neve ismert, ott az utcához legközelebbi pályaponton. 2 esemény helyszíne túl általános volt (pl. csak "Szeged"), ezek nincsenek a térképen. <strong>Kattints egy pöttyre a listáért!</strong></p>
+
+    <details class="list-view-details">
+      <summary>📋 Szöveges lista nézet (billentyűzettel/felolvasóval is használható)</summary>
+      <ul id="list-view" class="list-view" aria-label="Helyszínek listája a kiválasztott évben"></ul>
+    </details>
 
     <div id="zone-detail" class="zone-detail" hidden>
       <div class="zone-detail-header">
@@ -268,6 +318,7 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
   var detailTitle = document.getElementById("zone-detail-title");
   var detailList = document.getElementById("zone-detail-list");
   var detailClose = document.getElementById("zone-detail-close");
+  var listViewEl = document.getElementById("list-view");
 
   function escapeHtml(str) {
     return String(str)
@@ -338,6 +389,51 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
     currentZoneId = null;
   });
 
+  /* renderListView: AUDIT.md #13 -- a Leaflet circleMarker-ek (SVG <path>
+     elemek) natívan nem érhetők el billentyűzettel, és nincs natív
+     screen-reader szemantikájuk sem. Ahelyett, hogy minden path-ra
+     tabindex/role/keydown kezelést ragasztanánk (törékeny, Leaflet-verzió-
+     függő), egy teljesen sima, valódi <button> elemekből álló szöveges
+     lista ad ugyanahhoz a funkcióhoz (openZonePanel) egy billentyűzettel/
+     felolvasóval is natívan használható elérési utat -- ugyanúgy
+     frissül, mint a pöttyök, az aktuális év-szűrő szerint. */
+  function renderListView(year) {
+    if (!listViewEl) return;
+    listViewEl.innerHTML = "";
+    var rows = Object.keys(ZONES).map(function (id) {
+      return { id: id, zone: ZONES[id], count: totalFor(ZONES[id], year) };
+    }).filter(function (row) {
+      return row.count > 0;
+    }).sort(function (a, b) {
+      return b.count - a.count;
+    });
+
+    if (rows.length === 0) {
+      var li = document.createElement("li");
+      li.textContent = "Nincs esemény ebben az évben.";
+      li.style.padding = "8px 10px";
+      listViewEl.appendChild(li);
+      return;
+    }
+
+    rows.forEach(function (row) {
+      var li = document.createElement("li");
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = row.zone.label;
+      var countSpan = document.createElement("span");
+      countSpan.className = "list-view-count";
+      countSpan.textContent = row.count;
+      btn.appendChild(countSpan);
+      btn.addEventListener("click", function () {
+        openZonePanel(row.id);
+        detailPanel.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      });
+      li.appendChild(btn);
+      listViewEl.appendChild(li);
+    });
+  }
+
   function render(year) {
     currentYear = year;
     var maxThis = year === "all" ? maxAllTime : Math.max.apply(null, Object.keys(ZONES).map(function (id) {
@@ -364,6 +460,8 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
       }
       marker.setTooltipContent("🚩 " + zone.label + " — " + suffix);
     });
+
+    renderListView(year);
 
     if (currentZoneId && !detailPanel.hidden) {
       renderPanel();

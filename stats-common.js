@@ -55,10 +55,19 @@
     };
   }
 
-  global.VillamosStats = {
+  var api = {
     STATS_WINDOW_YEARS: STATS_WINDOW_YEARS,
     pad2: pad2,
     formatDateHu: formatDateHu,
     computeAvgDaysPerIncident: computeAvgDaysPerIncident
   };
-})(window);
+
+  /* AUDIT.md #15: same dual-export pattern as dom-safety.js -- CommonJS
+     when `module` exists (tests/js/, Node), otherwise window.VillamosStats
+     (browsers). */
+  if (typeof module !== "undefined" && module.exports) {
+    module.exports = api;
+  } else {
+    global.VillamosStats = api;
+  }
+})(typeof window !== "undefined" ? window : this);

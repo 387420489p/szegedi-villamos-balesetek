@@ -245,6 +245,7 @@
 </div>
 
 <script src="vendor/leaflet/leaflet.js"></script>
+<script src="dom-safety.js"></script>
 <script>
 (function () {
   "use strict";
@@ -320,23 +321,10 @@ var INCIDENTS_BY_ZONE = {"boldogasszony_sugarut_liliom_utca": [{"id": "szvb-2024
   var detailClose = document.getElementById("zone-detail-close");
   var listViewEl = document.getElementById("list-view");
 
-  function escapeHtml(str) {
-    return String(str)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
-  }
-
-  /* AUDIT.md M4: escapeHtml alone does not stop a "javascript:" (or other
-     non-http(s)) href from executing on click -- it only escapes markup
-     characters, not URL schemes. Source URLs come from scraped articles,
-     so restrict what can ever reach an href attribute. */
-  function safeUrl(url) {
-    if (typeof url === "string" && /^https?:\/\//i.test(url)) return url;
-    return "#";
-  }
+  /* AUDIT.md #12: shared with app.js via dom-safety.js instead of two
+     copies of the same escape/URL-safety logic. */
+  var escapeHtml = window.VillamosSafe.escapeHtml;
+  var safeUrl = window.VillamosSafe.safeUrl;
 
   function incidentsFor(zoneId, year) {
     var all = INCIDENTS_BY_ZONE[zoneId] || [];

@@ -226,14 +226,9 @@
     return out;
   }
 
-  /* AUDIT.md M4: setAttribute("href", ...) still executes a "javascript:"
-     URL on click even though it's a real DOM API call, not innerHTML --
-     source URLs come from scraped articles, so restrict what can ever
-     reach an href attribute. */
-  function safeUrl(url) {
-    if (typeof url === "string" && /^https?:\/\//i.test(url)) return url;
-    return "#";
-  }
+  /* AUDIT.md #12: shared with terkep.html via dom-safety.js instead of a
+     second copy here -- see that file for why safeUrl exists at all. */
+  var safeUrl = window.VillamosSafe.safeUrl;
 
   function el(tag, opts) {
     var node = document.createElement(tag);
@@ -634,7 +629,22 @@
       });
   }
 
-  if (document.readyState === "loading") {
+  /* AUDIT.md #15: in a browser `module` is undefined, so this branch never
+     runs there -- zero behavior change for the site. Under Node (tests/js/),
+     it exports the pure, DOM-free helpers instead of wiring up the page,
+     since init() needs a real document/fetch this file was never meant to
+     bring along a DOM stub for. */
+  if (typeof module !== "undefined" && module.exports) {
+    module.exports = {
+      eventSortKey: eventSortKey,
+      incidentDateTime: incidentDateTime,
+      formatDuration: formatDuration,
+      computeCounterState: computeCounterState,
+      computePredictionState: computePredictionState,
+      formatPredictionDate: formatPredictionDate,
+      safeUrl: safeUrl,
+    };
+  } else if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
   } else {
     init();

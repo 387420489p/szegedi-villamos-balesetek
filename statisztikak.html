@@ -253,55 +253,41 @@
 </footer>
 </div>
 
+<script src="stats-common.js"></script>
 <script>
 (function () {
   "use strict";
 
-  var DAYS_PER_INCIDENT_WINDOW_YEARS = 5;
-
-  function pad2(n) {
-    return (n < 10 ? "0" : "") + n;
-  }
-
-  function formatDate(d) {
-    return d.getFullYear() + "." + pad2(d.getMonth() + 1) + "." + pad2(d.getDate()) + ".";
-  }
+  /* AUDIT.md #12: az ablak-átlag számítása a stats-common.js-beli közös
+   * VillamosStats.computeAvgDaysPerIncident-ből jön -- ugyanaz a logika,
+   * mint amit a főoldal "predikció" sora használ, egy helyen karbantartva. */
+  var WINDOW_YEARS = window.VillamosStats.STATS_WINDOW_YEARS;
 
   fetch("data/incidents.json").then(function (r) {
     return r.json();
   }).then(function (db) {
-    var incidents = (db.incidents || []).filter(function (i) {
-      return i.status === "published";
-    });
-
+    var incidents = db.incidents || [];
     var now = new Date();
-    var windowStart = new Date(now.getTime());
-    windowStart.setFullYear(windowStart.getFullYear() - DAYS_PER_INCIDENT_WINDOW_YEARS);
-    var windowStartStr = windowStart.toISOString().slice(0, 10);
-
-    var windowed = incidents.filter(function (i) {
-      return i.event_date >= windowStartStr;
-    });
+    var result = window.VillamosStats.computeAvgDaysPerIncident(incidents, now, WINDOW_YEARS);
 
     var valueEl = document.getElementById("days-per-incident");
     var captionEl = document.getElementById("days-per-incident-caption");
     if (!valueEl || !captionEl) return;
 
-    if (windowed.length === 0) {
+    if (result.empty) {
       valueEl.textContent = "?";
-      captionEl.textContent = "Nincs elég adat az elmúlt " + DAYS_PER_INCIDENT_WINDOW_YEARS + " évből.";
+      captionEl.textContent = "Nincs elég adat az elmúlt " + WINDOW_YEARS + " évből.";
       return;
     }
 
-    var totalDays = (now.getTime() - windowStart.getTime()) / 86400000;
-    var avgDays = totalDays / windowed.length;
-    var avgDaysStr = avgDays.toFixed(1).replace(".", ",");
+    var avgDaysStr = result.avgDays.toFixed(1).replace(".", ",");
 
     valueEl.textContent = avgDaysStr + " nap / esemény";
     captionEl.textContent =
-      "Az elmúlt " + DAYS_PER_INCIDENT_WINDOW_YEARS + " év (" + formatDate(windowStart) + " – " + formatDate(now) + ") " +
-      windowed.length + " eseménye alapján, egyenletesen elosztva — nem évi átlag, hanem a teljes " +
-      DAYS_PER_INCIDENT_WINDOW_YEARS + " éves gördülő ablak napjainak és eseményeinek hányadosa.";
+      "Az elmúlt " + WINDOW_YEARS + " év (" + window.VillamosStats.formatDateHu(result.windowStart) +
+      " – " + window.VillamosStats.formatDateHu(now) + ") " +
+      result.windowedCount + " eseménye alapján, egyenletesen elosztva — nem évi átlag, hanem a teljes " +
+      WINDOW_YEARS + " éves gördülő ablak napjainak és eseményeinek hányadosa.";
   }).catch(function () {
     var valueEl = document.getElementById("days-per-incident");
     var captionEl = document.getElementById("days-per-incident-caption");

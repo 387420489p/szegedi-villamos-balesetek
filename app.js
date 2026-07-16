@@ -137,8 +137,11 @@
    * eseménysűrűségét nézi, nem a teljes történelmi átlagot -- 2026-07-15-i
    * felhasználói kérés. Indoklás: a korábbi évek forráslefedettsége
    * egyenetlen (lásd RECORD_ELIGIBLE_SINCE fent), a gördülő 5 éves ablak
-   * jobban tükrözi a "mostani" gyakoriságot. */
-  var PREDICTION_WINDOW_YEARS = 5;
+   * jobban tükrözi a "mostani" gyakoriságot. Az ablak-átlag számítása
+   * (AUDIT.md #12 óta) a stats-common.js-beli közös
+   * VillamosStats.computeAvgDaysPerIncident-ből jön -- ugyanaz a logika,
+   * mint amit a statisztikak.html "nap/esemény" száma használ. */
+  var PREDICTION_WINDOW_YEARS = window.VillamosStats.STATS_WINDOW_YEARS;
 
   function computePredictionState(incidents, now) {
     var published = incidents.filter(function (i) {
@@ -146,27 +149,19 @@
     });
     if (published.length === 0) return { empty: true };
 
-    var windowStart = new Date(now.getTime());
-    windowStart.setFullYear(windowStart.getFullYear() - PREDICTION_WINDOW_YEARS);
-    var windowStartStr = windowStart.toISOString().slice(0, 10);
-
-    var windowed = published.filter(function (i) {
-      return i.event_date >= windowStartStr;
-    });
-    if (windowed.length === 0) return { empty: true };
-
-    var avgGapMs = (now.getTime() - windowStart.getTime()) / windowed.length;
+    var avg = window.VillamosStats.computeAvgDaysPerIncident(incidents, now, PREDICTION_WINDOW_YEARS);
+    if (avg.empty) return { empty: true };
 
     var sorted = published.slice().sort(function (a, b) {
       return eventSortKey(a).localeCompare(eventSortKey(b));
     });
     var latestDateTime = incidentDateTime(sorted[sorted.length - 1]);
-    var predictedDateTime = new Date(latestDateTime.getTime() + avgGapMs);
+    var predictedDateTime = new Date(latestDateTime.getTime() + avg.avgGapMs);
     var untilMs = predictedDateTime.getTime() - now.getTime();
 
     return {
       empty: false,
-      avgGapMs: avgGapMs,
+      avgGapMs: avg.avgGapMs,
       predictedDateTime: predictedDateTime,
       untilMs: untilMs
     };

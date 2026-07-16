@@ -343,8 +343,8 @@
         }
       ],
       "status": "published",
-      "summary": "Kisteherautó villamos-sal ütközött Szeged központjában. Az ütközés miatt az autó megcsúszott és elsodort egy gyalogost, aki meghalt.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "summary": "Kisteherautó villamossal ütközött Szeged központjában. Az ütközés miatt az autó megcsúszott és elsodort egy gyalogost, aki meghalt.",
+      "updated_at": "2026-07-16T12:56:01.608479Z"
     },
     {
       "confidence": 0.98,
@@ -4674,8 +4674,8 @@
         }
       ],
       "status": "published",
-      "summary": "A 4-es villamos elütött egy gyalogost a Tisza Lajos körúton, aki szabálytalanul kívántott átkelni. A Pesa burkolatainak köszönhetően a gyalogos nem kerültt a szerelvény alá.",
-      "updated_at": "2026-07-15T08:24:59.759511Z"
+      "summary": "A 4-es villamos elütött egy gyalogost a Tisza Lajos körúton, aki szabálytalanul kívánt átkelni. A Pesa burkolatainak köszönhetően a gyalogos nem került a szerelvény alá.",
+      "updated_at": "2026-07-16T12:56:01.608460Z"
     },
     {
       "confidence": 0.95,
@@ -5655,5 +5655,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-15T18:14:13.791371+00:00"
+  "updated_at": "2026-07-16T12:56:01.608497+00:00"
 }

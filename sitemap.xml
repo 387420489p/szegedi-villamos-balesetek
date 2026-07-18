@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://szegedivillamosbalesetek.hu/</loc></url>
-  <url><loc>https://szegedivillamosbalesetek.hu/terkep.html</loc></url>
-  <url><loc>https://szegedivillamosbalesetek.hu/statisztikak.html</loc></url>
-  <url><loc>https://szegedivillamosbalesetek.hu/vendegkonyv.html</loc></url>
-  <url><loc>https://szegedivillamosbalesetek.hu/irj-nekunk.html</loc></url>
+  <url><loc>https://szegedivillamosbalesetek.hu/</loc><lastmod>2026-07-16</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://szegedivillamosbalesetek.hu/terkep.html</loc><lastmod>2026-07-16</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://szegedivillamosbalesetek.hu/statisztikak.html</loc><lastmod>2026-07-16</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://szegedivillamosbalesetek.hu/vendegkonyv.html</loc><lastmod>2026-07-16</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://szegedivillamosbalesetek.hu/irj-nekunk.html</loc><lastmod>2026-07-16</lastmod><changefreq>monthly</changefreq></url>
 </urlset>

@@ -5656,36 +5656,11 @@
     {
       "confidence": 0.95,
       "created_at": "2026-07-20T09:06:48.973330Z",
-      "event_date": "2026-07-09",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20260709-001",
-      "injuries": "none",
-      "location": "Szeged, Jósika utca és Kálvária sugárút kereszteződése",
-      "location_normalized": "szeged josika utca es kalvaria sugarut keresztezodese",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
-        {
-          "added_at": "2026-07-20T09:06:48.973330Z",
-          "published_at": "2026-07-09T00:00:00",
-          "source_name": "szeged.hu",
-          "title": "Villamos és személyautó ütközött a Jósika utca és a Kálvária sugárút kereszteződésénél",
-          "url": "https://szeged.hu/cikk/villamos-es-szemelyauto-utkozott-a-josika-utca-es-a-kalvaria-sugarut-keresztezodesenel"
-        }
-      ],
-      "status": "published",
-      "summary": "Villamos és személygépkocsi ütközött Szegeden a Kálvária sugárút és Jósika utca kereszteződésénél. A balesetben személyi sérülés nem történt.",
-      "updated_at": "2026-07-20T09:06:48.973330Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-07-20T09:06:48.973330Z",
       "event_date": "2026-07-20",
       "event_time": null,
       "event_type": "collision",
       "id": "szvb-20260720-001",
-      "injuries": "unknown",
+      "injuries": "none",
       "location": "Szeged, Jósika utca és Kálvária sugárút kereszteződése",
       "location_normalized": "szeged josika utca es kalvaria sugarut keresztezodese",
       "mode": "tram",
@@ -5699,50 +5674,25 @@
           "url": "https://szeged365.hu/2026/07/20/villamossal-utkozott-egy-auto-szegeden-lezartak-a-kalvaria-sugarut-belvaros-fele-vezeto-oldalat/"
         },
         {
-          "added_at": "2026-07-20T12:07:48.962755Z",
-          "published_at": "2026-07-20T00:00:00",
-          "source_name": "Szeged365",
-          "title": "Szegedi hírek | Szeged365",
-          "url": "https://szeged365.hu/"
-        },
-        {
-          "added_at": "2026-07-20T12:07:48.962755Z",
-          "published_at": "2026-07-20T00:00:00",
-          "source_name": "Szeged365",
-          "title": "Bartok Zsófia",
-          "url": "https://szeged365.hu/author/bartokzs_365/"
-        }
-      ],
-      "status": "published",
-      "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
-      "updated_at": "2026-07-20T12:07:48.962755Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-07-20T09:06:48.973330Z",
-      "event_date": "2026-07-20",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20260720-002",
-      "injuries": "unknown",
-      "location": "Szeged, Jósika utca és Kálvária sugárút kereszteződése",
-      "location_normalized": "szeged josika utca es kalvaria sugarut keresztezodese",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
-        {
           "added_at": "2026-07-20T09:06:48.973330Z",
           "published_at": "2026-07-20T00:00:00",
           "source_name": "Rádió 88",
           "title": "Villamos és személyautó ütközött Szegeden",
           "url": "https://www.radio88.hu/villamos-es-szemelyauto-utkozott-szegeden/"
+        },
+        {
+          "added_at": "2026-07-20T09:06:48.973330Z",
+          "published_at": "2026-07-20T10:28:00",
+          "source_name": "szeged.hu",
+          "title": "Villamos és személyautó ütközött a Jósika utca és a Kálvária sugárút kereszteződésénél",
+          "url": "https://szeged.hu/cikk/villamos-es-szemelyauto-utkozott-a-josika-utca-es-a-kalvaria-sugarut-keresztezodesenel"
         }
       ],
       "status": "published",
-      "summary": "Szegeden a Jósika utca és a Kálvária sugárút kereszteződésében villamos és személyautó ütközött. A tűzoltók áramtalanították a járműveket, az utat lezárták.",
-      "updated_at": "2026-07-20T09:06:48.973330Z"
+      "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
+      "updated_at": "2026-07-21T07:30:58.197379Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-20T12:07:48.962755+00:00"
+  "updated_at": "2026-07-21T07:30:58.197379+00:00"
 }

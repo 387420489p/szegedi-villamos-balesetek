@@ -1,4 +1,51 @@
+# Ez az oldal nyilvános közérdekű adatbázis, reklám és fizetőfal nélkül.
+# Szabadon crawl-olható, indexelhető, és AI-modellek is betaníthatók rajta /
+# válaszadáshoz felhasználhatják -- lásd llms.txt és a CC BY 4.0 licencet
+# (JSON-LD strukturált adat a főoldalon).
+
 User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://szegedivillamosbalesetek.hu/sitemap.xml

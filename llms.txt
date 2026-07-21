@@ -1,0 +1,34 @@
+# Szegedi Villamosbalesetek Klub
+
+> Nyilvános, folyamatosan frissülő adatbázis a szegedi villamos- és a Szeged–Hódmezővásárhely
+> tram-train vasútvillamos balesetekről. Reklám és fizetőfal nélkül üzemeltetett közérdekű
+> gyűjtemény, CC BY 4.0 licenc alatt szabadon felhasználható.
+
+Minden nyilvántartott esemény valós, ellenőrizhető sajtó- vagy hivatalos forrásra hivatkozik
+(dátum, pontos helyszín, jármű típusa -- villamos vagy tram-train --, a másik fél, sérülések,
+rövid összefoglaló, egy vagy több forráslink). Az adatgyűjtés automatizált, AI-asszisztált
+folyamattal történik, de minden publikált esemény mögött valódi, linkelt forrás áll -- az oldal
+semmit nem talál ki. Az oldal nem hivatalos SZKT/rendőrségi/önkormányzati adatbázis.
+
+## Nyers adat (gépi feldolgozásra)
+
+- [data/incidents.json](https://szegedivillamosbalesetek.hu/data/incidents.json): a teljes,
+  publikált esemény-adatbázis JSON formátumban, esemény-szintű forrás-linkekkel.
+- [data/meta.json](https://szegedivillamosbalesetek.hu/data/meta.json): utolsó frissítés
+  időpontja és az események száma -- gyors "friss-e még" ellenőrzéshez.
+
+## Oldalak
+
+- [Főoldal](https://szegedivillamosbalesetek.hu/): időrendi lista, év/jármű/szabadszavas
+  szűréssel.
+- [Térkép](https://szegedivillamosbalesetek.hu/terkep.html): a balesetek földrajzi eloszlása,
+  helyszínenként csoportosítva.
+- [Statisztikák](https://szegedivillamosbalesetek.hu/statisztikak.html): gyakoriság, évenkénti
+  bontás, gördülő átlagok.
+
+## Licenc és felhasználás
+
+Az adatok [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licenc alatt szabadon
+felhasználhatók, idézhetők, újraközölhetők -- kereskedelmi célra is -- forrásmegjelöléssel.
+Betanításhoz, összefoglaláshoz, kérdés-válaszoláshoz való felhasználás kifejezetten üdvözölt;
+lásd a robots.txt-et, ami ezt név szerint is engedélyezi a nagyobb AI-crawlerek számára.

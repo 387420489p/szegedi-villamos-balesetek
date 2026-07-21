@@ -5236,11 +5236,18 @@
           "source_name": "szegeder.hu",
           "title": "TramTrain és autó ütközött Szegeden, utóbbi egy vasúti teherkocsira sodródott",
           "url": "https://szegeder.hu/szeged/2025-10-02/tramtrain-es-auto-utkozott-szegeden-utobbi-egy-vasuti-teherkocsira-sodrodott/"
+        },
+        {
+          "added_at": "2026-07-21T10:36:31.181448Z",
+          "published_at": "2025-10-02T13:50:49Z",
+          "source_name": "HódPress",
+          "title": "Ma is baleset történt a tram-train vonalán",
+          "url": "https://www.hodpress.hu/ma-is-baleset-tortent-a-tram-train-vonalan/"
         }
       ],
       "status": "published",
       "summary": "Egy személyautó ütközött a vasútvil­lamossal elektromos sorompó nélküli vasúti kereszteződésben. Az autóban négyen utaztak, de senkit sem szállítottak kórházba.",
-      "updated_at": "2026-07-15T10:12:58.878693Z"
+      "updated_at": "2026-07-21T10:36:31.181448Z"
     },
     {
       "confidence": 0.9,
@@ -5896,5 +5903,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-21T10:31:34.953369+00:00"
+  "updated_at": "2026-07-21T10:36:31.181448+00:00"
 }

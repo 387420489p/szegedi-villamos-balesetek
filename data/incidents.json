@@ -5895,13 +5895,20 @@
           "source_name": "szeged.hu",
           "title": "Villamos és személyautó ütközött a Jósika utca és a Kálvária sugárút kereszteződésénél",
           "url": "https://szeged.hu/cikk/villamos-es-szemelyauto-utkozott-a-josika-utca-es-a-kalvaria-sugarut-keresztezodesenel"
+        },
+        {
+          "added_at": "2026-07-21T12:00:48.948425Z",
+          "published_at": "2026-07-21T11:36:39Z",
+          "source_name": "HódPress",
+          "title": "Egy hektáron pusztított a tűz Vásárhely külterületén",
+          "url": "https://www.hodpress.hu/egy-hektaron-pusztitott-a-tuz-vasarhely-kulteruleten/"
         }
       ],
       "status": "published",
       "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
-      "updated_at": "2026-07-21T07:30:58.197379Z"
+      "updated_at": "2026-07-21T12:00:48.948425Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-21T10:36:31.181448+00:00"
+  "updated_at": "2026-07-21T12:00:48.948425+00:00"
 }

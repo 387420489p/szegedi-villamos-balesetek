@@ -391,14 +391,13 @@
     var ul = el("ul");
     sources.forEach(function (source) {
       var liSource = el("li");
+      var attrs = { href: safeUrl(source.url), target: "_blank", rel: "noopener" };
+      if (source.title) attrs.title = source.title;
       var a = el("a", {
-        text: source.title || source.url,
-        attrs: { href: safeUrl(source.url), target: "_blank", rel: "noopener" },
+        text: source.source_name || source.url,
+        attrs: attrs,
       });
       liSource.appendChild(a);
-      liSource.appendChild(
-        el("span", { className: "source-name", text: " – " + source.source_name })
-      );
       ul.appendChild(liSource);
     });
     sourcesBlock.appendChild(ul);

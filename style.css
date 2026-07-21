@@ -508,8 +508,9 @@ hr.rainbow {
   margin: 0;
   padding: 0;
   display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.9rem;
 }
 
 .incident-sources li a {
@@ -534,11 +535,6 @@ hr.rainbow {
 .incident-sources li a:hover,
 .incident-sources li a:focus {
   color: var(--red);
-}
-
-.incident-sources .source-name {
-  color: var(--muted);
-  font-size: 0.8rem;
 }
 
 .incident-empty {

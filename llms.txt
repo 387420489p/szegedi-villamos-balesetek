@@ -2,7 +2,7 @@
 
 > Nyilvános, folyamatosan frissülő adatbázis a szegedi villamos- és a Szeged–Hódmezővásárhely
 > tram-train vasútvillamos balesetekről. Reklám és fizetőfal nélkül üzemeltetett közérdekű
-> gyűjtemény, CC BY 4.0 licenc alatt szabadon felhasználható.
+> gyűjtemény, CC BY-NC 4.0 licenc alatt szabadon felhasználható (nem kereskedelmi célra).
 
 Minden nyilvántartott esemény valós, ellenőrizhető sajtó- vagy hivatalos forrásra hivatkozik
 (dátum, pontos helyszín, jármű típusa -- villamos vagy tram-train --, a másik fél, sérülések,
@@ -28,7 +28,8 @@ semmit nem talál ki. Az oldal nem hivatalos SZKT/rendőrségi/önkormányzati a
 
 ## Licenc és felhasználás
 
-Az adatok [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licenc alatt szabadon
-felhasználhatók, idézhetők, újraközölhetők -- kereskedelmi célra is -- forrásmegjelöléssel.
-Betanításhoz, összefoglaláshoz, kérdés-válaszoláshoz való felhasználás kifejezetten üdvözölt;
-lásd a robots.txt-et, ami ezt név szerint is engedélyezi a nagyobb AI-crawlerek számára.
+Az adatok [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licenc alatt
+szabadon felhasználhatók, idézhetők, újraközölhetők, nem kereskedelmi céllal,
+forrásmegjelöléssel. Betanításhoz, összefoglaláshoz, kérdés-válaszoláshoz való felhasználás
+kifejezetten üdvözölt; lásd a robots.txt-et, ami ezt név szerint is engedélyezi a nagyobb
+AI-crawlerek számára.

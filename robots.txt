@@ -1,6 +1,6 @@
 # Ez az oldal nyilvános közérdekű adatbázis, reklám és fizetőfal nélkül.
 # Szabadon crawl-olható, indexelhető, és AI-modellek is betaníthatók rajta /
-# válaszadáshoz felhasználhatják -- lásd llms.txt és a CC BY 4.0 licencet
+# válaszadáshoz felhasználhatják -- lásd llms.txt és a CC BY-NC 4.0 licencet
 # (JSON-LD strukturált adat a főoldalon).
 
 User-agent: *

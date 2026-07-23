@@ -1018,7 +1018,7 @@
       "updated_at": "2026-07-15T09:17:17.882060Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 1.0,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2020-10-21",
       "event_time": null,
@@ -1043,11 +1043,18 @@
           "source_name": "SZKT",
           "title": "FRISSÍTVE - Baleset a Kálvária sugárút - Londoni körút kereszteződésénél - Szegedi Közlekedési Társaság",
           "url": "https://szkt.hu/baleset-a-kalvaria-sugarut-londoni-korut-keresztezodesenel"
+        },
+        {
+          "added_at": "2026-07-23T09:43:59.058676Z",
+          "published_at": "2020-10-21T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Busz miatt siklott ki egy villamos Szegeden",
+          "url": "https://webradio.hu/hirek/kek-hirek/busz-miatt-siklott-ki-egy-villamos-szegeden"
         }
       ],
       "status": "published",
       "summary": "Villamos és autóbusz ütközött a Kálvária sugárút és Nagykörút kereszteződésében. A villamos az ütközés erejétől kisiklott, de személyi sérülés nem történt.",
-      "updated_at": "2026-07-14T21:35:48.944832Z"
+      "updated_at": "2026-07-23T09:43:59.058676Z"
     },
     {
       "confidence": 0.95,
@@ -1740,11 +1747,18 @@
           "source_name": "HódPress",
           "title": "Villamos gázolt halálra egy gyalogost Szegeden",
           "url": "https://www.hodpress.hu/villamos-gazolt-halalra-egy-gyalogost-szegeden/"
+        },
+        {
+          "added_at": "2026-07-23T09:43:59.058676Z",
+          "published_at": "2022-02-22T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos gázolt halálra egy gyalogost Szegeden (Frissítve)",
+          "url": "https://webradio.hu/hirek/belfold/villamos-gazolt-halalra-egy-gyalogost-szegeden-frissitve"
         }
       ],
       "status": "published",
       "summary": "A villamos gyalogossal ütközött a József Attila sugárút és Murányi utca kereszteződésénél. A gyalogos az ütközés következtében meghalt.",
-      "updated_at": "2026-07-21T10:31:34.953369Z"
+      "updated_at": "2026-07-23T09:43:59.058676Z"
     },
     {
       "confidence": 0.85,
@@ -3951,11 +3965,18 @@
           "source_name": "szegeder.hu",
           "title": "Rendőrautó került villamos elé a kiskörúton",
           "url": "https://szegeder.hu/szeged/2024-09-02/rendorauto-kerult-villamos-ele-a-kiskoruton/"
+        },
+        {
+          "added_at": "2026-07-23T09:43:59.058676Z",
+          "published_at": "2024-09-02T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos és rendőrautó ütközött a Tisza Lajos körúton",
+          "url": "https://webradio.hu/hirek/belfold/villamos-es-rendorauto-utkozott-a-tisza-lajos-koruton"
         }
       ],
       "status": "published",
       "summary": "Villamos és rendőrautó ütközött a Tisza Lajos körúton. A rendőrautó kikanyarodhatott a villamos elé, személyi sérülés nem történt.",
-      "updated_at": "2026-07-15T10:01:35.618418Z"
+      "updated_at": "2026-07-23T09:43:59.058676Z"
     },
     {
       "confidence": 0.85,
@@ -5935,5 +5956,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T09:20:45.016783+00:00"
+  "updated_at": "2026-07-23T09:43:59.058676+00:00"
 }

@@ -176,6 +176,31 @@
       "updated_at": "2026-07-15T08:30:07.818179Z"
     },
     {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T20:33:40.545486Z",
+      "event_date": "2015-10-22",
+      "event_time": null,
+      "event_type": "pedestrian_hit",
+      "id": "szvb-20151022-001",
+      "injuries": "unknown",
+      "location": "Rókusi körút és Szatymazi utca kereszteződése",
+      "location_normalized": "rokusi korut es szatymazi utca keresztezodese",
+      "mode": "tram",
+      "other_party": "pedestrian",
+      "sources": [
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2015-10-23T13:43:00",
+          "source_name": "szeged.hu",
+          "title": "13 éves fiút gázolt el a villamos a Rókusi körúton csütörtök este",
+          "url": "https://szeged.hu/cikk/13-eves-fiut-gazolt-el-a-villamos-a-rokusi-koruton-csutortok-este"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy 13 éves fiú lépett a villamos elé Szegeden, a Rókusi körút és a Szatymazi utca kereszteződésében. A fiút a mentők kórházba szállították.",
+      "updated_at": "2026-07-23T20:33:40.545486Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2015-11-11",
@@ -2376,15 +2401,15 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 1.0,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2022-08-31",
       "event_time": null,
       "event_type": "collision",
       "id": "szvb-20220831-001",
-      "injuries": "unknown",
-      "location": "Tisza Lajos körút",
-      "location_normalized": "tisza lajos korut",
+      "injuries": "minor",
+      "location": "Tisza Lajos körút és Kálvin tér közelében",
+      "location_normalized": "tisza lajos korut es kalvin ter kozeleben",
       "mode": "tram",
       "other_party": "car",
       "sources": [
@@ -2394,11 +2419,18 @@
           "source_name": "szegedma.hu",
           "title": "Villamossal ütközött egy kocsi a Tisza Lajos körúton, feszítővágóval szabadították ki a sofőrt - Szeged Ma",
           "url": "https://szegedma.hu/kozelet/2022/08/villamossal-utkozott-egy-kocsi-a-tisza-lajos-koruton-feszitovagoval-szabaditottak-ki-a-sofort"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2022-08-31T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamosnak ütközött egy autós Szegeden (Frissítve)",
+          "url": "https://webradio.hu/hirek/belfold/villamosnak-utkozott-egy-autos-szegeden-frissitve"
         }
       ],
       "status": "published",
       "summary": "Villamos ütközött személyautóval a Tisza Lajos körúton. A sofőrt feszítővágóval kellett kiszabadítani.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 0.95,
@@ -3306,11 +3338,18 @@
           "source_name": "Rádió 88",
           "title": "Elgázolt egy embert a tram-train szerda este",
           "url": "https://www.radio88.hu/elgazolt-egy-embert-a-tram-train-szerda-este/"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2023-10-05T10:35:00",
+          "source_name": "szeged.hu",
+          "title": "Halálos baleset: először gázolt embert a vasútvillamos (frissítve)",
+          "url": "https://szeged.hu/cikk/halalos-baleset-eloszor-gazolt-embert-a-vasutvillamos"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely TramTrain egy személyt gázolt el Rókus és Algyő között. Az áldozat nem élte túl a balesetet.",
-      "updated_at": "2026-07-23T20:30:47.464967Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 1.0,
@@ -5018,8 +5057,8 @@
       "event_type": "collision",
       "id": "szvb-20250422-001",
       "injuries": "minor",
-      "location": "Kálvária sugárút",
-      "location_normalized": "kalvaria sugarut",
+      "location": "Kálvária sugárút, Aktív szakáruházzal szemben",
+      "location_normalized": "kalvaria sugarut aktiv szakaruhazzal szemben",
       "mode": "tram",
       "other_party": "car",
       "sources": [
@@ -5036,11 +5075,18 @@
           "source_name": "szegeder.hu",
           "title": "Behajtott egy autós a 3-as villamos elé",
           "url": "https://szegeder.hu/szeged/2025-04-22/behajtott-egy-autos-a-3-as-villamos-ele/"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2025-04-22T12:10:00",
+          "source_name": "szeged.hu",
+          "title": "Személyautó ütközött villamossal a Vadasparknál",
+          "url": "https://szeged.hu/cikk/szemelyauto-utkozott-villamossal-a-vadasparknal"
         }
       ],
       "status": "published",
       "summary": "Egy autó ütközött villamossal a Kálvária sugárúton. Az utasok evakuálva lettek, a 3-as és 3F-es vonalak közlekedése zavarva volt.",
-      "updated_at": "2026-07-15T10:08:35.125018Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 1.0,
@@ -5135,7 +5181,7 @@
       "confidence": 1.0,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2025-06-01",
-      "event_time": null,
+      "event_time": "11:00",
       "event_type": "pedestrian_hit",
       "id": "szvb-20250601-001",
       "injuries": "minor",
@@ -5171,11 +5217,18 @@
           "source_name": "SzegedMa",
           "title": "Könnyebben sérült az a férfi akit villamos ütött el Szegeden - Szeged Ma",
           "url": "https://szegedma.hu/szeged/2025/06/konnyebben-serult-az-a-ferfi-akit-villamos-utott-el-szegeden"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2025-06-01T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos ütött el egy embert a Tisza Lajos körúton",
+          "url": "https://webradio.hu/hirek/belfold/villamos-utott-el-egy-embert-a-tisza-lajos-koruton"
         }
       ],
       "status": "published",
       "summary": "A 4-es villamos elütött egy gyalogost a Tisza Lajos körúton, aki szabálytalanul kívánt átkelni. A Pesa burkolatainak köszönhetően a gyalogos nem került a szerelvény alá.",
-      "updated_at": "2026-07-23T20:30:47.464967Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 0.95,
@@ -5705,11 +5758,18 @@
           "source_name": "szegeder.hu",
           "title": "Elsodort egy fiatalt a 4-es villamos, pótlóbuszok járnak",
           "url": "https://szegeder.hu/szeged/2025-11-24/elsodort-egy-fiatalt-a-4-es-villamos-potlobuszok-jarnak/"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2025-11-24T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Elütött egy fiatalt a 4-es villamos Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/elutott-egy-fiatalt-a-4-es-villamos-szegeden"
         }
       ],
       "status": "published",
       "summary": "A 4-es villamos elé lépett és elsodort egy fiatalt a Petőfi Sándor sugárúton, az Ady utcai kereszteződés közelében. A gyalogos könnyebben megsérült, a mentők elszállították.",
-      "updated_at": "2026-07-15T10:12:58.878693Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 0.95,
@@ -5794,7 +5854,7 @@
       "updated_at": "2026-07-15T10:35:49.568780Z"
     },
     {
-      "confidence": 0.93,
+      "confidence": 1.0,
       "created_at": "2026-07-13T17:09:52.180088Z",
       "event_date": "2026-01-12",
       "event_time": null,
@@ -5812,11 +5872,25 @@
           "source_name": "Szeged365",
           "title": "Villamosbaleset történt Szegeden, mentőt is riasztottak a helyszínre (frissítve) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2026/01/12/villamosbaleset-tortent-szegeden-mentot-is-riasztottak-a-helyszinre/"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2026-01-12T10:17:00",
+          "source_name": "szeged.hu",
+          "title": "Egy Tesla és egy Tatra villamos ütközött a József Attila sugárúton",
+          "url": "https://szeged.hu/cikk/egy-tesla-es-egy-tatra-villamos-utkozott-a-glattfelder-ternel"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2026-01-12T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos és személyautó karambolozott Szegeden",
+          "url": "https://webradio.hu/hirek/kek-hirek/villamos-es-szemelyauto-karambolozott-szegeden"
         }
       ],
       "status": "published",
       "summary": "Szegeden, a József Attila sugárúton villamos ütközött össze egy autóval, amelynek sofőrje megsérült.",
-      "updated_at": "2026-07-13T17:09:52.180088Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 0.9,
@@ -6129,15 +6203,15 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 1.0,
       "created_at": "2026-07-13T17:09:52.180088Z",
       "event_date": "2026-05-13",
       "event_time": "15:00",
       "event_type": "collision",
       "id": "szvb-20260513-001",
       "injuries": "none",
-      "location": "Kálvária sugárút",
-      "location_normalized": "kalvaria sugarut",
+      "location": "Kálvária sugárút 69.",
+      "location_normalized": "kalvaria sugarut 69",
       "mode": "tram",
       "other_party": "motorcycle",
       "sources": [
@@ -6154,11 +6228,18 @@
           "source_name": "SZKT",
           "title": "FRISSÍTVE - Baleset a Kálvária sugárúton - Szegedi Közlekedési Társaság",
           "url": "https://szkt.hu/baleset-a-kalvaria-sugaruton-6"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2026-05-13T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Motorossal ütközött egy villamos Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/motorossal-utkozott-egy-villamos-szegeden"
         }
       ],
       "status": "published",
       "summary": "Szegeden, a Kálvária sugárúton motoros ütközött össze villamossal. Személyi sérülés nem történt.",
-      "updated_at": "2026-07-14T21:35:48.944832Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     },
     {
       "confidence": 0.95,
@@ -6264,13 +6345,20 @@
           "source_name": "SzegedInap",
           "title": "Rendőrség Archives - Szegedi Nap",
           "url": "https://szegedinap.hu/./rendorseg/"
+        },
+        {
+          "added_at": "2026-07-23T20:33:40.545486Z",
+          "published_at": "2026-07-20T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamossal ütközött egy személyautó a Kálvária sugárúton, utóbbi totálkárosra tört",
+          "url": "https://webradio.hu/hirek/kek-hirek/villamossal-utkozott-egy-szemelyauto-a-kalvaria-sugaruton-utobbi-totalkarosra-tort"
         }
       ],
       "status": "published",
       "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
-      "updated_at": "2026-07-23T09:51:16.214516Z"
+      "updated_at": "2026-07-23T20:33:40.545486Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:30:47.464967+00:00"
+  "updated_at": "2026-07-23T20:33:40.545486+00:00"
 }

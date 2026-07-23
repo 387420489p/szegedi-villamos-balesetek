@@ -522,6 +522,31 @@
       "updated_at": "2026-07-14T21:35:48.944832Z"
     },
     {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T09:20:45.016783Z",
+      "event_date": "2018-07-10",
+      "event_time": "18:30",
+      "event_type": "collision",
+      "id": "szvb-20180710-001",
+      "injuries": "none",
+      "location": "Kossuth Lajos sugárút és Párizsi körút kereszteződése",
+      "location_normalized": "kossuth lajos sugarut es parizsi korut keresztezodese",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-23T09:20:45.016783Z",
+          "published_at": "2018-07-10T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Személyautó ütközött villamosnak Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/szemelyauto-utkozott-villamosnak-szegeden"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy személyautó villamossal ütközött Szegeden, a Kossuth Lajos sugárút és a Párizsi körút kereszteződésében. A balesetben nem történt személyi sérülés, a helyszínelés idején pótlóbuszok közlekedtek.",
+      "updated_at": "2026-07-23T09:20:45.016783Z"
+    },
+    {
       "confidence": 0.93,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2018-07-18",
@@ -5910,5 +5935,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-21T12:00:48.948425+00:00"
+  "updated_at": "2026-07-23T09:20:45.016783+00:00"
 }

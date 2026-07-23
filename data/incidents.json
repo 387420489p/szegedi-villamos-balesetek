@@ -1999,11 +1999,18 @@
           "source_name": "szegeder.hu",
           "title": "Hibázott a villamosvezető, ezért történt a hétfői remízbaleset, amiben megsérült egy tram-train",
           "url": "https://szegeder.hu/szeged/2022-03-17/hibazott-a-villamosvezeto-ezert-tortent-a-hetfoi-remizbaleset-amiben-megserult-egy-tram-train/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2022-03-18T06:05:00+01:00",
+          "source_name": "Index",
+          "title": "Kisiklott a villamos egy szegedi remízben, összetört egy tram-traint",
+          "url": "https://index.hu/belfold/2022/03/18/szeged-baleset-tram-train/"
         }
       ],
       "status": "published",
       "summary": "Az SZKT Pulz utcai villamosremízében a Pesa 120Nb típusú villamos kisiklott és ütközött az ott tárolt Stadler Citylink tram-trainnel. Személyi sérülés nem történt, mindkét jármű jelentős károsodást szenvedett.",
-      "updated_at": "2026-07-15T09:31:29.362350Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 1.0,
@@ -3352,11 +3359,18 @@
           "source_name": "szeged.hu",
           "title": "Halálos baleset: először gázolt embert a vasútvillamos (frissítve)",
           "url": "https://szeged.hu/cikk/halalos-baleset-eloszor-gazolt-embert-a-vasutvillamos"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2023-10-05T11:05:00+02:00",
+          "source_name": "Index",
+          "title": "Elgázolt egy embert a tram-train Szegeden",
+          "url": "https://index.hu/belfold/2023/10/05/tramtrain-szeged-hodmezovasarhely-baleset-gazolas-mav/"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely TramTrain egy személyt gázolt el Rókus és Algyő között. Az áldozat nem élte túl a balesetet.",
-      "updated_at": "2026-07-23T20:33:40.545486Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 1.0,
@@ -3683,11 +3697,18 @@
           "source_name": "HódPress",
           "title": "Vasútvillamos: baleset történt Szegeden",
           "url": "https://www.hodpress.hu/vasutvillamos-baleset-tortent-szegeden/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2024-03-19T09:34:00+01:00",
+          "source_name": "Index",
+          "title": "Elgázolt egy embert a szegedi tram-train",
+          "url": "https://index.hu/belfold/2024/03/19/elgazolt-gyalogos-gazolt-a-tram-train-szeged-rendorseg-baleset/"
         }
       ],
       "status": "published",
       "summary": "A Hódmezővásárhelyről érkező tram-train (33019) egy gyalogost gázolt meg a szegedi Rókusi Templomnál. A forgalom ideiglenesen részlegesen korlátozva volt a helyszínelés alatt.",
-      "updated_at": "2026-07-21T10:31:34.953369Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 1.0,
@@ -4633,11 +4654,18 @@
           "source_name": "szegeder.hu",
           "title": "Embert gázolt a tram-train a Kossuth Lajos sugárúton",
           "url": "https://szegeder.hu/szeged/2024-12-16/embert-gazolt-a-tram-train-a-kossuth-lajos-sugaruton/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2024-12-17T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Életveszélyes sérüléseket szenvedett a Tram-train által elgázolt ember Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/eletveszelyes-seruleseket-szenvedett-a-tram-train-altal-elgazolt-ember-szegeden"
         }
       ],
       "status": "published",
       "summary": "A Hódmezővásárhelyről Szegedre tartó vasútvillamos elgázolt egy embert a Rókusi templom és Anna-kút között. Sérülés nem történt.",
-      "updated_at": "2026-07-15T10:04:38.371468Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 0.85,
@@ -4668,10 +4696,10 @@
       "confidence": 1.0,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2025-01-06",
-      "event_time": null,
+      "event_time": "11:30",
       "event_type": "collision",
       "id": "szvb-20250106-001",
-      "injuries": "unknown",
+      "injuries": "none",
       "location": "Kossuth Lajos sugárút, Török utca kereszteződése",
       "location_normalized": "kossuth lajos sugarut torok utca keresztezodese",
       "mode": "tramtrain",
@@ -4697,11 +4725,18 @@
           "source_name": "szegeder.hu",
           "title": "Autó és tram-train ütközött Szegeden, az Anna-kút és a Szeged Plaza között pótlóbuszok járnak",
           "url": "https://szegeder.hu/szeged/2025-01-06/auto-es-tram-train-utkozott-szegeden-az-anna-kut-es-a-szeged-plaza-kozott-potlobuszok-jarnak/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2025-01-06T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Tram-train-el ütközött egy Opel a Kossuth Lajos sugárúton Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/tram-train-el-utkozott-egy-opel-a-kossuth-lajos-sugaruton-szegeden"
         }
       ],
       "status": "published",
       "summary": "Autó és a tram-train ütköztek a Kossuth Lajos sugárút – Török utca kereszteződésben. Az érintett szakaszon pótlóbuszok közlekedtek.",
-      "updated_at": "2026-07-15T10:05:13.948016Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 1.0,
@@ -5575,7 +5610,7 @@
       "event_time": "10:17",
       "event_type": "collision",
       "id": "szvb-20251001-001",
-      "injuries": "unknown",
+      "injuries": "minor",
       "location": "Szeged, Kossuth Lajos sugárút és Vadász utca kereszteződése",
       "location_normalized": "szeged kossuth lajos sugarut es vadasz utca keresztezodese",
       "mode": "tramtrain",
@@ -5594,14 +5629,21 @@
           "source_name": "szeged365.hu",
           "title": "Újabb baleset: telibekapott egy autót a tram-train a Kossuth Lajos sugárúton (frissítve) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2025/10/01/ujabb-baleset-telibekapott-egy-autot-a-tram-train-a-kossuth-lajos-sugaruton/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2025-10-01T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Tram-train-el ütközött egy személyautó Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/tram-train-el-utkozott-egy-szemelyauto-szegeden"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely vonalon közlekedő TramTrain (33042) ütközött egy személyautóval a Kossuth Lajos sugárút és Vadász utca kereszteződésében. Pótlóbusz közlekedés szükséges volt.",
-      "updated_at": "2026-07-15T10:12:58.878693Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 1.0,
       "created_at": "2026-07-14T10:52:54.537048Z",
       "event_date": "2025-10-02",
       "event_time": "14:00",
@@ -5633,11 +5675,18 @@
           "source_name": "HódPress",
           "title": "Ma is baleset történt a tram-train vonalán",
           "url": "https://www.hodpress.hu/ma-is-baleset-tortent-a-tram-train-vonalan/"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2025-10-02T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Tram-train és személyautó ütközött össze a Szatymazi utcában Szegeden (Frissítve)",
+          "url": "https://webradio.hu/hirek/belfold/tram-train-es-szemelyauto-utkozott-ossze-a-szatymazi-utcaban-szegeden-frissitve"
         }
       ],
       "status": "published",
       "summary": "Egy személyautó ütközött a vasútvil­lamossal elektromos sorompó nélküli vasúti kereszteződésben. Az autóban négyen utaztak, de senkit sem szállítottak kórházba.",
-      "updated_at": "2026-07-21T10:36:31.181448Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 0.9,
@@ -6039,7 +6088,7 @@
       "updated_at": "2026-07-13T21:10:42.744550Z"
     },
     {
-      "confidence": 0.9,
+      "confidence": 1.0,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2026-02-25",
       "event_time": "20:00",
@@ -6057,11 +6106,18 @@
           "source_name": "MÁVINFORM",
           "title": "Tram-Train baleset vége",
           "url": "https://www.mavcsoport.hu/mavinform/tram-train-baleset-vege"
+        },
+        {
+          "added_at": "2026-07-23T20:38:08.635730Z",
+          "published_at": "2026-02-25T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Tram-train és személyautó ütközött a Boldogasszony sugárúton",
+          "url": "https://webradio.hu/hirek/belfold/tram-train-es-szemelyauto-utkozott-a-boldogasszony-sugaruton"
         }
       ],
       "status": "published",
       "summary": "Tram-train ütközött össze egy személykocsival a Boldogasszony sugárút és Galamb utca keresztezésénél. Sérülés nem történt.",
-      "updated_at": "2026-07-13T21:10:42.744550Z"
+      "updated_at": "2026-07-23T20:38:08.635730Z"
     },
     {
       "confidence": 0.95,
@@ -6367,5 +6423,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:36:44.032206+00:00"
+  "updated_at": "2026-07-23T20:38:08.635730+00:00"
 }

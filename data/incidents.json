@@ -1121,11 +1121,18 @@
           "source_name": "Webrádió",
           "title": "Busz miatt siklott ki egy villamos Szegeden",
           "url": "https://webradio.hu/hirek/kek-hirek/busz-miatt-siklott-ki-egy-villamos-szegeden"
+        },
+        {
+          "added_at": "2026-07-23T20:55:45.412922Z",
+          "published_at": "2020-10-21T00:00:00",
+          "source_name": "Délmagyarország",
+          "title": "Leugrott a sínekről a villamos az ütközés erejétől Szegeden – Fotók",
+          "url": "https://www.delmagyar.hu/kek-hirek/helyi-kek-hirek/leugrott-a-sinekrol-a-villamos-az-utkozes-erejetol-szegeden-6924619/"
         }
       ],
       "status": "published",
       "summary": "Villamos és autóbusz ütközött a Kálvária sugárút és Nagykörút kereszteződésében. A villamos az ütközés erejétől kisiklott, de személyi sérülés nem történt.",
-      "updated_at": "2026-07-23T09:43:59.058676Z"
+      "updated_at": "2026-07-23T20:55:45.412922Z"
     },
     {
       "confidence": 0.95,
@@ -6497,5 +6504,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:54:03.194992+00:00"
+  "updated_at": "2026-07-23T20:55:45.412922+00:00"
 }

@@ -233,13 +233,13 @@
       "updated_at": "2026-07-15T15:59:22.527524Z"
     },
     {
-      "confidence": 0.98,
+      "confidence": 1.0,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2016-06-01",
       "event_time": "15:05",
       "event_type": "collision",
       "id": "szvb-20160601-001",
-      "injuries": "unknown",
+      "injuries": "minor",
       "location": "Híd utca és Kelemen utca",
       "location_normalized": "hid utca es kelemen utca",
       "mode": "tram",
@@ -258,14 +258,21 @@
           "source_name": "24.hu",
           "title": "Villamos és busz karambolozott Szegeden – videó | 24.hu",
           "url": "https://24.hu/belfold/2016/06/01/villamos-es-busz-karambolozott-szegeden-video/"
+        },
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2016-06-01T16:21:00+02:00",
+          "source_name": "Index",
+          "title": "Hatalmas busz-villamos ütközés Szegeden",
+          "url": "https://index.hu/belfold/2016/06/01/hatalmas_busz-villamos_utkozes_szegeden/"
         }
       ],
       "status": "published",
       "summary": "Egy autóbusz és egy villamos ütközött a Híd utca és Kelemen utca kereszteződésében. Az ütközésben öten sérültek.",
-      "updated_at": "2026-07-15T08:24:59.759511Z"
+      "updated_at": "2026-07-23T09:56:17.463776Z"
     },
     {
-      "confidence": 0.98,
+      "confidence": 1.0,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2016-09-19",
       "event_time": "08:00",
@@ -290,11 +297,18 @@
           "source_name": "www.blikk.hu",
           "title": "Biciklist gázolt halálra a villamos Szegeden",
           "url": "https://www.blikk.hu/aktualis/belfold/biciklist-gazolt-halalra-a-villamos-szegeden/pp6pm9s"
+        },
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2016-09-19T10:40:00Z",
+          "source_name": "NLC",
+          "title": "Tragédiát okozott a villamos, meghalt a kerékpáros",
+          "url": "https://nlc.hu/ezvan/20160919/villamos-halalos-kerekparos-gazoloas-szeged/"
         }
       ],
       "status": "published",
       "summary": "Egy kerékpáros a Horgosi úton nem adott elsőbbséget a jobbról érkező villamosnak, amely elé hajtott. A kerékpáros a kórházban meghalt.",
-      "updated_at": "2026-07-15T08:24:59.759511Z"
+      "updated_at": "2026-07-23T09:56:17.463776Z"
     },
     {
       "confidence": 0.95,
@@ -1754,11 +1768,18 @@
           "source_name": "Webrádió",
           "title": "Villamos gázolt halálra egy gyalogost Szegeden (Frissítve)",
           "url": "https://webradio.hu/hirek/belfold/villamos-gazolt-halalra-egy-gyalogost-szegeden-frissitve"
+        },
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2022-02-21T21:53:00+01:00",
+          "source_name": "Index",
+          "title": "Elgázolt egy gyalogost a villamos Szegeden",
+          "url": "https://index.hu/belfold/2022/02/21/szeged-kozlekedesi-baleset-villamos-halaleset/"
         }
       ],
       "status": "published",
       "summary": "A villamos gyalogossal ütközött a József Attila sugárút és Murányi utca kereszteződésénél. A gyalogos az ütközés következtében meghalt.",
-      "updated_at": "2026-07-23T09:43:59.058676Z"
+      "updated_at": "2026-07-23T09:56:17.463776Z"
     },
     {
       "confidence": 0.85,
@@ -2951,11 +2972,18 @@
           "source_name": "szegeder.hu",
           "title": "Kisiklott egy villamos a Tisza Lajos körúton, a busz tolta le a sínekről",
           "url": "https://szegeder.hu/szeged/2023-06-28/kisiklott-egy-villamos-a-tisza-lajos-koruton-a-busz-tolta-le-a-sinekrol/"
+        },
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2023-06-28T15:19:01Z",
+          "source_name": "Telex",
+          "title": "Kisiklott egy villamos Szegeden, pótlóbusz tolta le a sínekről",
+          "url": "https://telex.hu/belfold/2023/06/28/kisiklott-villamos-potlobusz-szeged-tisza-lajos-korut-baleset"
         }
       ],
       "status": "published",
       "summary": "Villamos kisiklott a Tisza Lajos körúton, valószínűleg egy trolibusz lökte ki. Az SZKT megerősítette, hogy sérülés nem történt.",
-      "updated_at": "2026-07-15T08:24:59.759511Z"
+      "updated_at": "2026-07-23T09:56:17.463776Z"
     },
     {
       "confidence": 0.95,
@@ -4207,6 +4235,31 @@
       "updated_at": "2026-07-15T08:24:59.759511Z"
     },
     {
+      "confidence": 0.95,
+      "created_at": "2026-07-23T09:56:17.463776Z",
+      "event_date": "2024-11-19",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20241119-003",
+      "injuries": "unknown",
+      "location": "Glattfelder Gyula tér, Szeged",
+      "location_normalized": "glattfelder gyula ter szeged",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2024-11-24T18:58:00+01:00",
+          "source_name": "Index",
+          "title": "Villamos elé hajtott egy Mercedes Szegeden",
+          "url": "https://index.hu/belfold/2024/11/24/szeged-villamos-ele-hajtott-az-auto-baleset-kozlekedes/"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden a Glattfelder Gyula téren egy Mercedes hajtott a villamos elé. A villamos vezetője a vészjelzés ellenére sem tudta elkerülni az ütközést.",
+      "updated_at": "2026-07-23T09:56:17.463776Z"
+    },
+    {
       "confidence": 1.0,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2024-11-21",
@@ -4271,11 +4324,18 @@
           "source_name": "szegeder.hu",
           "title": "Rokkantkocsi törte ki a tram-train ajtaját az Aradi vértanúk terén",
           "url": "https://szegeder.hu/szeged/2024-11-25/rokkantkocsi-torte-ki-a-tram-train-ajtajat-az-aradi-vertanuk-teren/"
+        },
+        {
+          "added_at": "2026-07-23T09:56:17.463776Z",
+          "published_at": "2024-11-25T11:37:09Z",
+          "source_name": "Telex",
+          "title": "Rokkantkocsi törte ki a tram-train ajtaját Szegeden",
+          "url": "https://telex.hu/belfold/2024/11/25/rokkantkocsi-torte-ki-a-tram-train-ajtajat-szegeden"
         }
       ],
       "status": "published",
       "summary": "Szegeden az Aradi vértanúk terén egy rokkantkocsival közlekedő személy felszállás közben gázt adott, így a tram-train ajtajához ütközött. Szerencsére nem sérült meg senki.",
-      "updated_at": "2026-07-15T10:04:01.128068Z"
+      "updated_at": "2026-07-23T09:56:17.463776Z"
     },
     {
       "confidence": 1.0,
@@ -5963,5 +6023,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T09:51:16.214516+00:00"
+  "updated_at": "2026-07-23T09:56:17.463776+00:00"
 }

@@ -1509,11 +1509,18 @@
           "source_name": "szegeder.hu",
           "title": "Szerencsétlen véletlen okozta a kora esti szegedi villamosbalesetet",
           "url": "https://szegeder.hu/szeged/2021-12-03/szerencsetlen-veletlen-okozta-a-kora-esti-szegedi-villamosbalesetet/"
+        },
+        {
+          "added_at": "2026-07-23T21:35:58.678438Z",
+          "published_at": "2021-12-03T18:24:49Z",
+          "source_name": "Délmagyarország",
+          "title": "DELMAGYAR - Kisiklott egy villamos a vasúti átjáróban a Bajai úton",
+          "url": "https://www.delmagyar.hu/helyi-kek-hirek/2021/12/baleset-miatt-potlobuszok-jarnak-a-3f-es-villamos-ket-megalloja-kozt"
         }
       ],
       "status": "published",
       "summary": "Villamos kisiklott a Bajai úti vasúti átjáróban. Műszaki mentés szükségessé vált.",
-      "updated_at": "2026-07-15T09:25:43.412499Z"
+      "updated_at": "2026-07-23T21:35:58.678438Z"
     },
     {
       "confidence": 1.0,
@@ -3110,11 +3117,18 @@
           "source_name": "Telex",
           "title": "Kisiklott egy villamos Szegeden, pótlóbusz tolta le a sínekről",
           "url": "https://telex.hu/belfold/2023/06/28/kisiklott-villamos-potlobusz-szeged-tisza-lajos-korut-baleset"
+        },
+        {
+          "added_at": "2026-07-23T21:35:58.678438Z",
+          "published_at": "2023-06-28T12:20:10Z",
+          "source_name": "Délmagyarország",
+          "title": "DELMAGYAR - Busz miatt siklott ki a villamos - Fotók",
+          "url": "https://www.delmagyar.hu/helyi-kek-hirek/2023/06/kisiklott-egy-villamos-szegeden"
         }
       ],
       "status": "published",
       "summary": "Villamos kisiklott a Tisza Lajos körúton, valószínűleg egy trolibusz lökte ki. Az SZKT megerősítette, hogy sérülés nem történt.",
-      "updated_at": "2026-07-23T09:56:17.463776Z"
+      "updated_at": "2026-07-23T21:35:58.678438Z"
     },
     {
       "confidence": 0.95,
@@ -6034,11 +6048,25 @@
           "source_name": "Webrádió",
           "title": "Villamos és személyautó karambolozott Szegeden",
           "url": "https://webradio.hu/hirek/kek-hirek/villamos-es-szemelyauto-karambolozott-szegeden"
+        },
+        {
+          "added_at": "2026-07-23T21:35:58.678438Z",
+          "published_at": "2026-01-12T10:27:14+01:00",
+          "source_name": "Délmagyarország",
+          "title": "Villamossal ütközött egy személyautó, mentő is a helyszínen",
+          "url": "https://www.delmagyar.hu/helyi-kek-hirek/2026/01/baleset-villamos-szeged-katasztrofavedelem"
+        },
+        {
+          "added_at": "2026-07-23T21:35:58.678438Z",
+          "published_at": "2026-01-12T11:05:25+01:00",
+          "source_name": "Délmagyarország",
+          "title": "Képeken mutatjuk a teljesen összetört Teslát, ami egy villamossal ütközött",
+          "url": "https://www.delmagyar.hu/helyi-kek-hirek/2026/01/baleset-tesla-villamos-szeged"
         }
       ],
       "status": "published",
       "summary": "Szegeden, a József Attila sugárúton villamos ütközött össze egy autóval, amelynek sofőrje megsérült.",
-      "updated_at": "2026-07-23T20:33:40.545486Z"
+      "updated_at": "2026-07-23T21:35:58.678438Z"
     },
     {
       "confidence": 0.9,
@@ -6543,5 +6571,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T21:32:37.028507+00:00"
+  "updated_at": "2026-07-23T21:35:58.678438+00:00"
 }

@@ -1548,11 +1548,18 @@
           "source_name": "szegeder.hu",
           "title": "Nagyon csúnyán összetörték a tram-traint, ami novemberben még a legelső járatot teljesítette",
           "url": "https://szegeder.hu/szeged/2022-01-12/nagyon-csunyan-osszetortek-a-tramtraint-ami-novemberben-meg-a-legelso-jaratot-teljesitette/"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2022-01-12T00:00:00",
+          "source_name": "Szegeder",
+          "title": "Hétfőig leállítja az 1-es villamost az SZKT",
+          "url": "https://szegeder.hu/szeged/2022-01-12/hetfoig-leallitja-az-1es-villamost-az-szkt/"
         }
       ],
       "status": "published",
       "summary": "BMW X5 ütközött tram-train-nel a Boldogasszony sugárúton. Az autó vezetője sérült meg.",
-      "updated_at": "2026-07-15T09:28:25.954150Z"
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
       "confidence": 1.0,
@@ -3292,14 +3299,21 @@
           "source_name": "HódPress",
           "title": "Öngyilkos lehetett a nyugdíjas, aki a tram-train elé lépett",
           "url": "https://www.hodpress.hu/ongyilkos-lehetett-a-nyugdijas-aki-a-tram-train-ele-lepett/"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2023-10-05T07:06:37Z",
+          "source_name": "Rádió 88",
+          "title": "Elgázolt egy embert a tram-train szerda este",
+          "url": "https://www.radio88.hu/elgazolt-egy-embert-a-tram-train-szerda-este/"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely TramTrain egy személyt gázolt el Rókus és Algyő között. Az áldozat nem élte túl a balesetet.",
-      "updated_at": "2026-07-21T10:31:34.953369Z"
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 1.0,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2023-10-05",
       "event_time": "12:00",
@@ -3317,11 +3331,18 @@
           "source_name": "szeged365.hu",
           "title": "Újabb baleset, ezúttal Szegeden: kihajtott a villamos elé egy autó a Tisza Lajos körúton - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2023/10/05/ujabb-baleset-ezuttal-szegeden-kihajtott-a-villamos-ele-egy-auto-a-tisza-lajos-koruton/"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2023-10-05T00:00:00",
+          "source_name": "Szegeder",
+          "title": "Villamos elé kanyarodott egy autós a Tisza Lajos körúton",
+          "url": "https://szegeder.hu/szeged/2023-10-05/villamos-ele-kanyarodott-egy-autos-a-tisza-lajos-koruton/"
         }
       ],
       "status": "published",
       "summary": "Csütörtökön délelőtt 12 óra körül egy autó kihajtott a közlekedő villamos elé a Tisza Lajos körúton, összeütköztek. A villamosközlekedés mindkét irányban állásban volt.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
       "confidence": 0.95,
@@ -4292,6 +4313,31 @@
       "updated_at": "2026-07-15T10:21:05.745686Z"
     },
     {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T20:30:47.464967Z",
+      "event_date": "2024-11-07",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20241107-002",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút, Szeged",
+      "location_normalized": "kossuth lajos sugarut szeged",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2024-11-07T13:21:45+01:00",
+          "source_name": "SzegedMa",
+          "title": "Villamos és autó ütközött a Kossuth Lajos sugárúton - Szeged Ma",
+          "url": "https://szegedma.hu/hirzona/2024/11/helyreallt-a-forgalmi-rend-szegeden"
+        }
+      ],
+      "status": "published",
+      "summary": "Autó és villamos ütközött a Kossuth Lajos sugárúton Szegeden. A baleset miatt 10-15 perces késések alakultak ki a 2-es villamos és a tram-train vonalán.",
+      "updated_at": "2026-07-23T20:30:47.464967Z"
+    },
+    {
       "confidence": 0.9,
       "created_at": "2026-07-13T21:10:42.744550Z",
       "event_date": "2024-11-19",
@@ -4365,6 +4411,31 @@
       "status": "published",
       "summary": "Szegeden a Glattfelder Gyula téren egy Mercedes hajtott a villamos elé. A villamos vezetője a vészjelzés ellenére sem tudta elkerülni az ütközést.",
       "updated_at": "2026-07-23T09:56:17.463776Z"
+    },
+    {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T20:30:47.464967Z",
+      "event_date": "2024-11-19",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20241119-004",
+      "injuries": "unknown",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2024-11-23T16:09:39+01:00",
+          "source_name": "SzegedMa",
+          "title": "Hatalmasat megy TikTok-on, ahogy a szegedi villamossal ütközik egy Mercedes - Szeged Ma",
+          "url": "https://szegedma.hu/szeged/2024/11/hatalmasat-megy-tiktok-on-ahogy-a-szegedi-villamossal-utkozik-egy-mercedes"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy Mercedes személyautó hajtott a villamos elé Szegeden, amely elütötte azt. Az esetről készült fedélzeti videó nagy népszerűségnek örvend a TikTokon.",
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
       "confidence": 1.0,
@@ -4477,11 +4548,18 @@
           "source_name": "szeged365.hu",
           "title": "Így trafálta telibe a villamos az elé kanyarodó személyautót a Kossuth Lajos sugárúton (videó) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2024/11/29/igy-trafalta-telibe-a-villamos-az-ele-kanyarodo-szemelyautot-a-kossuth-lajos-sugaruton-video/"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2024-11-30T08:38:31+01:00",
+          "source_name": "SzegedMa",
+          "title": "Egy újabb villamosbaleset Szegeden - videón mutatjuk - Szeged Ma",
+          "url": "https://szegedma.hu/szeged/2024/11/egy-ujabb-villamosbaleset-szegeden-videon-mutatjuk"
         }
       ],
       "status": "published",
       "summary": "Szabálytalanul kanyarodó autó ütközött a villamossal a Kossuth Lajos sugárút és a Párizsi körút (Nagykörút) kereszteződésénél, a Mars térnél, csütörtök délután 16:15 körül. Személyi sérülés nem történt.",
-      "updated_at": "2026-07-15T10:04:38.371468Z"
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
       "confidence": 1.0,
@@ -5079,11 +5157,25 @@
           "source_name": "szegedma.hu",
           "title": "Gyalogost ütött el egy villamos Szegeden a Tisza Lajos körúton - Szeged Ma",
           "url": "https://szegedma.hu/szeged/2025/06/baleset-villamos-szeged-tisza-lajos-korut"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2025-06-03T11:06:23+02:00",
+          "source_name": "SzegedMa",
+          "title": "Újabb fejlemények derültek ki a vasárnapi villamosgázolással kapcsolatban - Szeged Ma",
+          "url": "https://szegedma.hu/szeged/2025/06/ujabb-fejlemenyek-derultek-ki-a-vasarnapi-villamosgazolassal-kapcsolatban"
+        },
+        {
+          "added_at": "2026-07-23T20:30:47.464967Z",
+          "published_at": "2025-06-02T13:12:55+02:00",
+          "source_name": "SzegedMa",
+          "title": "Könnyebben sérült az a férfi akit villamos ütött el Szegeden - Szeged Ma",
+          "url": "https://szegedma.hu/szeged/2025/06/konnyebben-serult-az-a-ferfi-akit-villamos-utott-el-szegeden"
         }
       ],
       "status": "published",
       "summary": "A 4-es villamos elütött egy gyalogost a Tisza Lajos körúton, aki szabálytalanul kívánt átkelni. A Pesa burkolatainak köszönhetően a gyalogos nem került a szerelvény alá.",
-      "updated_at": "2026-07-16T12:56:01.608460Z"
+      "updated_at": "2026-07-23T20:30:47.464967Z"
     },
     {
       "confidence": 0.95,
@@ -6180,5 +6272,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T10:53:38.849945+00:00"
+  "updated_at": "2026-07-23T20:30:47.464967+00:00"
 }

@@ -1839,11 +1839,18 @@
           "source_name": "Index",
           "title": "Elgázolt egy gyalogost a villamos Szegeden",
           "url": "https://index.hu/belfold/2022/02/21/szeged-kozlekedesi-baleset-villamos-halaleset/"
+        },
+        {
+          "added_at": "2026-07-23T20:39:50.705533Z",
+          "published_at": "2022-02-21T21:51:49+01:00",
+          "source_name": "Origo",
+          "title": "Villamos gázolt halálra egy embert Szegeden - ORIGO",
+          "url": "https://www.origo.hu/itthon/2022/02/villamos-gazolt-halalra-egy-gyalogost-szegeden"
         }
       ],
       "status": "published",
       "summary": "A villamos gyalogossal ütközött a József Attila sugárút és Murányi utca kereszteződésénél. A gyalogos az ütközés következtében meghalt.",
-      "updated_at": "2026-07-23T09:56:17.463776Z"
+      "updated_at": "2026-07-23T20:39:50.705533Z"
     },
     {
       "confidence": 0.85,
@@ -6415,13 +6422,20 @@
           "source_name": "Webrádió",
           "title": "Villamossal ütközött egy személyautó a Kálvária sugárúton, utóbbi totálkárosra tört",
           "url": "https://webradio.hu/hirek/kek-hirek/villamossal-utkozott-egy-szemelyauto-a-kalvaria-sugaruton-utobbi-totalkarosra-tort"
+        },
+        {
+          "added_at": "2026-07-23T20:39:50.705533Z",
+          "published_at": "2026-07-20T07:42:57Z",
+          "source_name": "SzegedInap",
+          "title": "Villamos és személyautó ütközött Szegeden",
+          "url": "https://szegedinap.hu/rendorseg/2026/07/20/villamos-es-szemelyauto-utkozott-szegeden/"
         }
       ],
       "status": "published",
       "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
-      "updated_at": "2026-07-23T20:33:40.545486Z"
+      "updated_at": "2026-07-23T20:39:50.705533Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:38:08.635730+00:00"
+  "updated_at": "2026-07-23T20:39:50.705533+00:00"
 }

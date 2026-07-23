@@ -258,6 +258,31 @@
       "updated_at": "2026-07-15T08:32:05.125775Z"
     },
     {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T21:41:18.947730Z",
+      "event_date": "2015-12-20",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20151220-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút - Vásárhelyi Pál utca",
+      "location_normalized": "kalvaria sugarut x vasarhelyi pal utca",
+      "mode": "tram",
+      "other_party": "motorcycle",
+      "sources": [
+        {
+          "added_at": "2026-07-23T21:41:18.947730Z",
+          "published_at": "2015-12-20T00:00:00",
+          "source_name": "Délmagyarország",
+          "title": "Motorost gázolt a villamos az öntödénél",
+          "url": "http://www.delmagyar.hu/szeged_hirek/motorost_gazolt_a_villamos_az_ontodenel/2456815/"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy kanyarodó motoros összeütközött a 3-as villamossal Szegeden, a Kálvária sugárút és a Vásárhelyi Pál utca kereszteződésében. A baleset miatt ideiglenesen szünetelt a villamosközlekedés.",
+      "updated_at": "2026-07-23T21:41:18.947730Z"
+    },
+    {
       "confidence": 0.95,
       "created_at": "2026-07-15T15:59:22.527524Z",
       "event_date": "2016-02-11",
@@ -384,6 +409,31 @@
       "status": "published",
       "summary": "A 2-es villamos személygépkocsival ütközött a Boldogasszony sugárúton. A baleset az autó vezetője hibájából történt.",
       "updated_at": "2026-07-14T16:10:09.161986Z"
+    },
+    {
+      "confidence": 1.0,
+      "created_at": "2026-07-23T21:41:18.947730Z",
+      "event_date": "2016-11-14",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20161114-001",
+      "injuries": "unknown",
+      "location": "Európa liget végállomás",
+      "location_normalized": "europa liget vegallomas",
+      "mode": "tram",
+      "other_party": "other_tram",
+      "sources": [
+        {
+          "added_at": "2026-07-23T21:41:18.947730Z",
+          "published_at": "2016-11-16T00:00:00",
+          "source_name": "Délmagyarország",
+          "title": "Tatra villamos ütközött a bent álló Pesának a végállomáson - galériával!",
+          "url": "http://www.delmagyar.hu/szeged_hirek/tatra_villamos_utkozott_a_bent_allo_pesanak_a_vegallomason_-_galeriaval/2492587/"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy Tatra típusú villamos nekiütközött egy álló Pesa villamosnak az Európa liget végállomáson. A baleset után két utast kórházba szállítottak kivizsgálásra.",
+      "updated_at": "2026-07-23T21:41:18.947730Z"
     },
     {
       "confidence": 0.95,
@@ -6571,5 +6621,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T21:35:58.678438+00:00"
+  "updated_at": "2026-07-23T21:41:18.947730+00:00"
 }

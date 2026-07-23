@@ -379,11 +379,18 @@
           "source_name": "24.hu",
           "title": "Meghalt a gyalogos, akit egy villamossal ütköző kisteherautó sodort el Szegeden | 24.hu",
           "url": "https://24.hu/belfold/2017/04/27/meghalt-a-gyalogos-akit-egy-villamossal-utkozo-kisteherauto-sodort-el-szegeden/"
+        },
+        {
+          "added_at": "2026-07-23T20:36:44.032206Z",
+          "published_at": "2018-02-14T19:53:00",
+          "source_name": "szeged.hu",
+          "title": "Villamossal ütközött a teherautó, egy ember meghalt, most vádat emeltek a sofőr ellen",
+          "url": "https://szeged.hu/cikk/villamossal-utkozott-a-teherauto-egy-ember-meghalt-most-vadat-emeltek-a-sofor-ellen"
         }
       ],
       "status": "published",
       "summary": "Kisteherautó villamossal ütközött Szeged központjában. Az ütközés miatt az autó megcsúszott és elsodort egy gyalogost, aki meghalt.",
-      "updated_at": "2026-07-16T12:56:01.608479Z"
+      "updated_at": "2026-07-23T20:36:44.032206Z"
     },
     {
       "confidence": 0.98,
@@ -6360,5 +6367,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:33:40.545486+00:00"
+  "updated_at": "2026-07-23T20:36:44.032206+00:00"
 }

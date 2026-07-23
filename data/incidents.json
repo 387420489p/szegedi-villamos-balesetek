@@ -51,6 +51,31 @@
       "updated_at": "2026-07-15T08:24:59.759511Z"
     },
     {
+      "confidence": 0.97,
+      "created_at": "2026-07-23T21:32:37.028507Z",
+      "event_date": "2014-08-26",
+      "event_time": "07:10",
+      "event_type": "other",
+      "id": "szvb-20140826-001",
+      "injuries": "none",
+      "location": "Pulz utcai kocsiszín, Szeged",
+      "location_normalized": "pulz utcai kocsiszin szeged",
+      "mode": "tram",
+      "other_party": "other",
+      "sources": [
+        {
+          "added_at": "2026-07-23T21:32:37.028507Z",
+          "published_at": "2014-08-26T00:00:00Z",
+          "source_name": "KBSZ (Közlekedésbiztonsági Szervezet)",
+          "title": "ZARÓJELENTÉS 2014-0823-5 - Szeged, Pulz u. kocsiszín, 2014. augusztus 26.",
+          "url": "https://www.era.europa.eu/system/files/2023-07/HU%2026.08.2014%202014_0823_5_SzegedVill.pdf"
+        }
+      ],
+      "status": "published",
+      "summary": "A Pulz utcai kocsiszinbol kiallni keszulo 205. palyaszamu Tatra KT4-D villamos vezetoje leszallt a jarmurol, hogy a 26. szamu valtot atallitsa; eközben az ajto bezarodott mogotte es a villamos vezeto nelkul elindult. A jarmu athaladt a kocsiszin kapujan, majd az utcan tovabbgurulva kb. 670 metert tett meg, mire a Vasarhelyi Pal uti (Kossuth Lajos sugarut) megallohelynel lenduletet vesztve megallt. Szemelyi serules nem tortent; a villamos aramszedoje letort, a palya kismertekben megrongalodott, a villamosforgalom 180 percig szunetelt.",
+      "updated_at": "2026-07-23T21:32:37.028507Z"
+    },
+    {
       "confidence": 1.0,
       "created_at": "2026-07-15T08:24:59.759511Z",
       "event_date": "2015-01-09",
@@ -6518,5 +6543,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T21:25:46.781181+00:00"
+  "updated_at": "2026-07-23T21:32:37.028507+00:00"
 }

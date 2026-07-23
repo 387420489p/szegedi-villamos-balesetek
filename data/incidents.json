@@ -1740,11 +1740,18 @@
           "source_name": "szeged365.hu",
           "title": "Biciklis gázolta el a villamost az Aradi vértanúk terén Szegeden - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2022/02/08/biciklis-gazolta-el-a-villamost-az-aradi-vertanuk-teren-szegeden/"
+        },
+        {
+          "added_at": "2026-07-23T21:25:46.781181Z",
+          "published_at": "2022-02-08T10:43:41Z",
+          "source_name": "Délmagyarország",
+          "title": "DELMAGYAR - Villamosnak ütközött egy biciklis az Aradi vértanúk terén",
+          "url": "https://www.delmagyar.hu/vezeto-hirek/2022/02/villamosnak-utkozott-egy-biciklis-az-aradi-vertanuk-teren"
         }
       ],
       "status": "published",
       "summary": "Az Aradi vértanúk terén villamos elütött egy kerékpárost Szegeden. Az eset szignifikáns közlekedési zavarokat okozott.",
-      "updated_at": "2026-07-15T09:29:45.559605Z"
+      "updated_at": "2026-07-23T21:25:46.781181Z"
     },
     {
       "confidence": 1.0,
@@ -2857,7 +2864,7 @@
       "updated_at": "2026-07-21T10:31:34.953369Z"
     },
     {
-      "confidence": 0.92,
+      "confidence": 1.0,
       "created_at": "2026-07-14T16:10:09.161986Z",
       "event_date": "2023-04-27",
       "event_time": "15:00",
@@ -2875,11 +2882,18 @@
           "source_name": "szeged365.hu",
           "title": "Villamos és egy BMW csattant össze a Tisza Lajos körúton, félpályás útlezárás van a helyszínen (frissítve, videóval) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2023/04/27/villamos-es-auto-csattant-ossze-a-tisza-lajos-koruton-felpalyas-utlezaras-van-a-helyszinen/"
+        },
+        {
+          "added_at": "2026-07-23T21:25:46.781181Z",
+          "published_at": "2023-04-27T13:58:47Z",
+          "source_name": "Délmagyarország",
+          "title": "DELMAGYAR - Villamos és autó ütközött Szegeden",
+          "url": "https://www.delmagyar.hu/helyi-kek-hirek/2023/04/villamos-es-auto-utkozott-szegeden-2"
         }
       ],
       "status": "published",
       "summary": "Villamos ütközött egy BMW-vel a Tisza Lajos körúton délután. A baleset félpályás útlezárást okozott.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "updated_at": "2026-07-23T21:25:46.781181Z"
     },
     {
       "confidence": 0.95,
@@ -6504,5 +6518,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T20:55:45.412922+00:00"
+  "updated_at": "2026-07-23T21:25:46.781181+00:00"
 }

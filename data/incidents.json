@@ -1157,11 +1157,18 @@
           "source_name": "szeged365.hu",
           "title": "Villamos és autó ütközött a Tisza Lajos körúton - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2020/10/19/villamos-es-auto-utkozott-a-tisza-lajos-koruton/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:43.782950Z",
+          "published_at": "2020-10-19T07:56:43+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-3"
         }
       ],
       "status": "published",
       "summary": "Személyautó és a négyes villamos karambolozott a Tisza Lajos körút és Dózsa György utca sarkánál, villamosforgalom szüneteltetésre került.",
-      "updated_at": "2026-07-15T09:17:17.882060Z"
+      "updated_at": "2026-07-24T00:54:43.782950Z"
     },
     {
       "confidence": 1.0,
@@ -1228,11 +1235,18 @@
           "source_name": "Szeged365",
           "title": "Villamos ütközött személyautóval a Petőfi Sándor sugárúton - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2021/01/22/villamos-utkozott-szemelyautoval-a-petofi-sandor-sugaruton/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:34.175220Z",
+          "published_at": "2021-01-22T09:50:35+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Forgalmi fennakadás a 4-es villamos vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/forgalmi-fennakadas-a-4-es-villamos-vonalon"
         }
       ],
       "status": "published",
       "summary": "A 4-es villamos ütközött egy Peugeot 206-tal a Petőfi Sándor sugárút és Vitéz utca kereszteződésében. Személyi sérülés nem történt.",
-      "updated_at": "2026-07-13T21:10:42.744550Z"
+      "updated_at": "2026-07-24T00:54:34.175220Z"
     },
     {
       "confidence": 1.0,
@@ -1374,11 +1388,25 @@
           "source_name": "Szeged365",
           "title": "Egy villamos és egy tehergépkocsi ütközött a Városi Műjégpálya előtt (frissítve) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2021/03/24/villamos-es-tehergepkocsi-utkozott-a-varosi-mujegpalya-elott/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:32.828210Z",
+          "published_at": "2021-03-24T15:49:33+02:00",
+          "source_name": "SZKT",
+          "title": "Frissítve! A forgalom helyreállt - Baleset a 4-es villamosvonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-4-es-villamosvonalon"
+        },
+        {
+          "added_at": "2026-07-24T00:54:43.071322Z",
+          "published_at": "2021-03-24T16:17:34+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Szent Ferenc u. - Boldogasszony sgt. kereszteződésénél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szent-ferenc-u-boldogasszony-sgt-keresztezodesenel"
         }
       ],
       "status": "published",
       "summary": "Villamos ütközött tehergépkocsival a Városi Műjégpálya előtt. A teherautó sofőrénél nincs súlyos sérülés, a villamosutasok közül senki sem sérült meg.",
-      "updated_at": "2026-07-13T21:10:42.744550Z"
+      "updated_at": "2026-07-24T00:54:43.071322Z"
     },
     {
       "confidence": 1.0,
@@ -1829,11 +1857,18 @@
           "source_name": "Délmagyarország",
           "title": "DELMAGYAR - Villamosnak ütközött egy biciklis az Aradi vértanúk terén",
           "url": "https://www.delmagyar.hu/vezeto-hirek/2022/02/villamosnak-utkozott-egy-biciklis-az-aradi-vertanuk-teren"
+        },
+        {
+          "added_at": "2026-07-24T00:54:42.341584Z",
+          "published_at": "2022-02-08T12:40:02+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a József A. sgt.-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-jozsef-a-sgt-on"
         }
       ],
       "status": "published",
       "summary": "Az Aradi vértanúk terén villamos elütött egy kerékpárost Szegeden. Az eset szignifikáns közlekedési zavarokat okozott.",
-      "updated_at": "2026-07-23T21:25:46.781181Z"
+      "updated_at": "2026-07-24T00:54:42.341584Z"
     },
     {
       "confidence": 1.0,
@@ -2422,11 +2457,18 @@
           "source_name": "szegeder.hu",
           "title": "Ezúttal egy SZKT-s villamossal ütközött egy autó Szegeden, pótlóbuszok járnak a helyszínelés idején",
           "url": "https://szegeder.hu/szeged/2022-07-07/ezuttal-egy-szkt-s-villamossal-utkozott-egy-auto-szegeden-potlobuszok-jarnak-a-helyszineles-idejen/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:41.627171Z",
+          "published_at": "2022-07-07T10:17:56+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-4"
         }
       ],
       "status": "published",
       "summary": "SZKT villamos és személyautó ütközött a Damjanich utcánál csütörtök délelőtt. A helyszínelés ideje alatt a vasútvillamosok csak Hódmezővásárhely és Szeged-Rókus között jártak, a városi szakaszon pótlóbusz közlekedett.",
-      "updated_at": "2026-07-15T10:21:05.745688Z"
+      "updated_at": "2026-07-24T00:54:41.627171Z"
     },
     {
       "confidence": 1.0,
@@ -2650,11 +2692,18 @@
           "source_name": "SZKT",
           "title": "FRISSÍTVE - Baleset a Vörösmarty utca – Takaréktár utca kereszteződésben - Szegedi Közlekedési Társaság",
           "url": "https://szkt.hu/baleset-a-vorosmarty-utca-takarektar-utca-keresztezodesben"
+        },
+        {
+          "added_at": "2026-07-24T00:54:40.911128Z",
+          "published_at": "2022-10-12T12:48:29+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset az Anna-kútnál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-az-anna-kutnal"
         }
       ],
       "status": "published",
       "summary": "A Hódmezővásárhely vasútállomásról 15:01-kor elindult vasútvillamos (33055) koccant egy személyautóval Szegeden a Széchenyi térnél. Személyi sérülés nem történt, a vonalon 20-40 perces késés keletkezett.",
-      "updated_at": "2026-07-23T22:08:36.748184Z"
+      "updated_at": "2026-07-24T00:54:40.911128Z"
     },
     {
       "confidence": 0.95,
@@ -2789,11 +2838,18 @@
           "source_name": "HódPress",
           "title": "Ismét Szegeden ütköztek a tram-trainnel",
           "url": "https://www.hodpress.hu/ismet-szegeden-utkoztek-a-tram-trainnel/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:40.177908Z",
+          "published_at": "2023-01-23T10:05:01+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth l. sgt. Párizsi krt. kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-l-sgt-parizsi-krt-keresztezodesben"
         }
       ],
       "status": "published",
       "summary": "Vasútvillamos ütközött egy autóval Szegeden, a Kossuth Lajos sugárút és Vadász utca kereszteződésénél. A baleset miatt egy járat kimaradt.",
-      "updated_at": "2026-07-21T10:31:34.953369Z"
+      "updated_at": "2026-07-24T00:54:40.177908Z"
     },
     {
       "confidence": 0.95,
@@ -3049,11 +3105,18 @@
           "source_name": "MÁVINFORM",
           "title": "A vasútvillamos vonalán délelőttig helyreáll a menetrend",
           "url": "https://www.mavcsoport.hu/mavinform/vasutvillamos-vonalan-delelottig-helyreall-menetrend"
+        },
+        {
+          "added_at": "2026-07-24T00:54:32.105908Z",
+          "published_at": "2023-05-20T14:30:54+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a TramTrain vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tramtrain-vonalon"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely vonalon közlekedő TramTrain (33024) ütközött egy személyautóval a Damjanich utcánál. Személyi sérülés nem történt, a helyszínelés 30 percet hozzáadott az utazási időhöz.",
-      "updated_at": "2026-07-13T21:10:42.744550Z"
+      "updated_at": "2026-07-24T00:54:32.105908Z"
     },
     {
       "confidence": 0.95,
@@ -3518,11 +3581,18 @@
           "source_name": "Index",
           "title": "Elgázolt egy embert a tram-train Szegeden",
           "url": "https://index.hu/belfold/2023/10/05/tramtrain-szeged-hodmezovasarhely-baleset-gazolas-mav/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:31.391764Z",
+          "published_at": "2023-10-04T21:27:12+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a TramTrain vonalon - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-tramtrain-vonalon-4"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely TramTrain egy személyt gázolt el Rókus és Algyő között. Az áldozat nem élte túl a balesetet.",
-      "updated_at": "2026-07-23T20:38:08.635730Z"
+      "updated_at": "2026-07-24T00:54:31.391764Z"
     },
     {
       "confidence": 1.0,
@@ -3664,11 +3734,18 @@
           "source_name": "szeged365.hu",
           "title": "Balesetes reggel: villamossal ütközött egy autós a Dugonics téren - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2024/01/12/balesetes-reggel-villamossal-utkozott-egy-autos-a-dugonics-teren/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:39.451270Z",
+          "published_at": "2024-01-12T07:33:39+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kecskeméti utcánál - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kecskemeti-utcanal-2"
         }
       ],
       "status": "published",
       "summary": "Egy autó és egy villamos ütközött 2024. január 12-én, reggel fél 9 körül a szegedi Dugonics téri körforgalomban. Az ütközés a 3-as, 3F-es és 4-es villamosvonalakon 10-15 perces késéseket okozott.",
-      "updated_at": "2026-07-14T16:10:09.161986Z"
+      "updated_at": "2026-07-24T00:54:39.451270Z"
     },
     {
       "confidence": 0.95,
@@ -4823,11 +4900,18 @@
           "source_name": "SzegedMa",
           "title": "Egy újabb villamosbaleset Szegeden - videón mutatjuk - Szeged Ma",
           "url": "https://szegedma.hu/szeged/2024/11/egy-ujabb-villamosbaleset-szegeden-videon-mutatjuk"
+        },
+        {
+          "added_at": "2026-07-24T00:54:38.727710Z",
+          "published_at": "2024-11-28T13:12:30+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-17"
         }
       ],
       "status": "published",
       "summary": "Szabálytalanul kanyarodó autó ütközött a villamossal a Kossuth Lajos sugárút és a Párizsi körút (Nagykörút) kereszteződésénél, a Mars térnél, csütörtök délután 16:15 körül. Személyi sérülés nem történt.",
-      "updated_at": "2026-07-23T20:30:47.464967Z"
+      "updated_at": "2026-07-24T00:54:38.727710Z"
     },
     {
       "confidence": 1.0,
@@ -5161,11 +5245,18 @@
           "source_name": "szeged365.hu",
           "title": "Egy Tatra villamos mínusz mára, nekiment egy autó a Petőfi Sándor sugárúton - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2025/02/17/egy-tatra-villamos-minusz-mara-nekiment-egy-auto-a-petofi-sandor-sugaruton/"
+        },
+        {
+          "added_at": "2026-07-24T00:54:38.021692Z",
+          "published_at": "2025-02-17T10:22:02+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Széchényi téren - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-szechenyi-teren-5"
         }
       ],
       "status": "published",
       "summary": "Egy autó ütközött a villamosnak Szegeden, a Földváry utca és a Petőfi Sándor sugárút sarkán. A baleset miatt pótlóbuszok közlekedtek a 4-es vonalon.",
-      "updated_at": "2026-07-15T10:06:48.036420Z"
+      "updated_at": "2026-07-24T00:54:38.021692Z"
     },
     {
       "confidence": 1.0,
@@ -5225,11 +5316,18 @@
           "source_name": "SZKT",
           "title": "FRISSÍTVE - Baleset a Somogyi utcában - Szegedi Közlekedési Társaság",
           "url": "https://szkt.hu/baleset-a-somogyi-utcaban-2"
+        },
+        {
+          "added_at": "2026-07-24T00:55:32.414461Z",
+          "published_at": "2025-03-20T10:13:07+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt- Lililom utcai kereszteződésben - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-lililom-utcai-keresztezodesben-2"
         }
       ],
       "status": "published",
       "summary": "Vasútvillamos Somogyi utcában hirtelen fékezésbe kezdett, melynek következtében egy utas elesett. Az 1-es tram-train vonal zavarása miatt pótlóbuszok közlekedtek Anna kút és Szeged vasútállomás között.",
-      "updated_at": "2026-07-23T22:06:11.175466Z"
+      "updated_at": "2026-07-24T00:55:32.414461Z"
     },
     {
       "confidence": 0.85,
@@ -5314,11 +5412,18 @@
           "source_name": "szegeder.hu",
           "title": "Tizenéves lányt sodort el a tram-train a Klauzál térnél",
           "url": "https://szegeder.hu/szeged/2025-04-02/tizeneves-lanyt-sodort-el-a-tram-train-a-klauzal-ternel/"
+        },
+        {
+          "added_at": "2026-07-24T00:55:28.830782Z",
+          "published_at": "2025-04-02T12:06:51+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kelemen utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kelemen-utcaban-6"
         }
       ],
       "status": "published",
       "summary": "A tramtrain gyalogossal ütközött Szeged Kelemen utcáján. A 16-17 éves sérült lány könnyebb sérüléseket szenvedett, és mentőkkel szállították el.",
-      "updated_at": "2026-07-15T10:08:07.337817Z"
+      "updated_at": "2026-07-24T00:55:28.830782Z"
     },
     {
       "confidence": 1.0,
@@ -5566,11 +5671,18 @@
           "source_name": "mavcsoport.hu",
           "title": "Változás a vasútvillamosok közlekedésében",
           "url": "https://www.mavcsoport.hu/mavinform/valtozas-vasutvillamosok-kozlekedeseben-0"
+        },
+        {
+          "added_at": "2026-07-24T00:55:31.699435Z",
+          "published_at": "2025-06-13T16:03:44+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth L sgt-n Vadász u-i kereszteződésnél - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-l-sgt-n-vadasz-u-i-keresztezodesnel"
         }
       ],
       "status": "published",
       "summary": "A Hódmezővásárhelyről 15:07-kor Szegedre induló vasútvillamos (33069) az Anna-kútnál összeütközött egy személyautóval. A baleseti helyszínelés miatt a Szeged-Hódmezővásárhely vonalon hosszabb menetidővel, esetenként rövidebb útvonalon közlekedtek a járatok.",
-      "updated_at": "2026-07-15T16:10:34.110925Z"
+      "updated_at": "2026-07-24T00:55:31.699435Z"
     },
     {
       "confidence": 0.95,
@@ -5815,11 +5927,18 @@
           "source_name": "szegeder.hu",
           "title": "Motorossal ütközött a tram-train a Somogyi utca közelében",
           "url": "https://szegeder.hu/szeged/2025-09-15/motorossal-utkozott-a-tram-train-a-somogyi-utca-kozeleben/"
+        },
+        {
+          "added_at": "2026-07-24T00:55:30.965504Z",
+          "published_at": "2025-09-15T10:56:21+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Zrínyi utcában - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-zrinyi-utcaban-5"
         }
       ],
       "status": "published",
       "summary": "A Tram-Train motorkerékpárossal ütközött a Somogyi utca megálló közelében. Az utasokat pótlóbuszok szállították.",
-      "updated_at": "2026-07-15T10:11:55.143108Z"
+      "updated_at": "2026-07-24T00:55:30.965504Z"
     },
     {
       "confidence": 0.85,
@@ -5879,11 +5998,18 @@
           "source_name": "Webrádió",
           "title": "Tram-train-el ütközött egy személyautó Szegeden",
           "url": "https://webradio.hu/hirek/belfold/tram-train-el-utkozott-egy-szemelyauto-szegeden"
+        },
+        {
+          "added_at": "2026-07-24T00:55:30.245337Z",
+          "published_at": "2025-10-01T10:23:29+03:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Boldogasszony sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-boldogasszony-sgt-on-6"
         }
       ],
       "status": "published",
       "summary": "A Szeged–Hódmezővásárhely vonalon közlekedő TramTrain (33042) ütközött egy személyautóval a Kossuth Lajos sugárút és Vadász utca kereszteződésében. Pótlóbusz közlekedés szükséges volt.",
-      "updated_at": "2026-07-23T20:38:08.635730Z"
+      "updated_at": "2026-07-24T00:55:30.245337Z"
     },
     {
       "confidence": 1.0,
@@ -6363,11 +6489,18 @@
           "source_name": "Rádió 88",
           "title": "Villamossal ütközött egy autó Szegeden",
           "url": "https://www.radio88.hu/villamossal-utkozott-egy-auto-szegeden/"
+        },
+        {
+          "added_at": "2026-07-24T00:55:29.540888Z",
+          "published_at": "2026-02-20T07:48:16+02:00",
+          "source_name": "SZKT",
+          "title": "FRISSÍTVE - Baleset a Kossuth L. sgt-on - Szegedi Közlekedési Társaság",
+          "url": "https://szkt.hu/baleset-a-kossuth-l-sgt-on-2"
         }
       ],
       "status": "published",
       "summary": "Autó ütközött villamossal a Kossuth Lajos sugárúton Szegeden. A villamos vonalán 5-15 perces késések voltak.",
-      "updated_at": "2026-07-13T21:10:42.744550Z"
+      "updated_at": "2026-07-24T00:55:29.540888Z"
     },
     {
       "confidence": 1.0,
@@ -6477,11 +6610,18 @@
           "source_name": "Szeged365",
           "title": "Baleset történt: villamos elé hajtott egy személygépkocsi Szegeden (helyszíni fotókkal) - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2026/03/20/baleset-tortent-villamosnak-utkozott-egy-szemelygepkocsi-szegeden/"
+        },
+        {
+          "added_at": "2026-07-24T00:55:33.119029Z",
+          "published_at": "2026-03-20T12:33:27+01:00",
+          "source_name": "Délmagyarország",
+          "title": "Drámai pillanatok a Kossuth Lajos sugárúton, baleset miatt torlódik a villamosforgalom",
+          "url": "https://www.delmagyar.hu/helyi-kozelet/2026/03/kossuth-lajos-sugarut-baleset-2"
         }
       ],
       "status": "published",
       "summary": "Szegeden, a Kossuth Lajos sugárúton személygépkocsi ütközött össze a 2-es villamossal.",
-      "updated_at": "2026-07-13T17:09:52.180088Z"
+      "updated_at": "2026-07-24T00:55:33.119029Z"
     },
     {
       "confidence": 1.0,
@@ -6733,5 +6873,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-23T22:08:36.748184+00:00"
+  "updated_at": "2026-07-24T00:55:33.119029+00:00"
 }

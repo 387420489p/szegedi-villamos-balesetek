@@ -111,7 +111,9 @@
    * szerinti (Vasárnap..Szombat) eloszlása, teljes adatbázisra összesítve.
    * A dátum helyi éjfélként értelmezve (nem UTC-ként), hogy elkerüljük az
    * időzóna-eltolásból adódó napcsúszást -- lásd app.js incidentDateTime
-   * hasonló megjegyzését. */
+   * hasonló megjegyzését. Az `avgs` (évi átlag naponta) ugyanazzal az
+   * évszámmal oszt, mint computeAccidentsByMonth, hogy a két bontás
+   * (hónap / hét napja) összemérhető legyen. */
   function computeAccidentsByWeekday(incidents) {
     var published = incidents.filter(function (i) {
       return i.status === "published";
@@ -122,10 +124,17 @@
     }
 
     var counts = [0, 0, 0, 0, 0, 0, 0];
+    var years = {};
     published.forEach(function (i) {
       var parts = i.event_date.split("-");
       var d = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
       counts[d.getDay()] += 1;
+      years[parts[0]] = true;
+    });
+
+    var yearCount = Object.keys(years).length;
+    var avgs = counts.map(function (c) {
+      return c / yearCount;
     });
 
     var topIndex = 0;
@@ -136,10 +145,13 @@
     return {
       empty: false,
       counts: counts,
+      avgs: avgs,
+      yearCount: yearCount,
       total: published.length,
       topWeekdayIndex: topIndex,
       topWeekdayName: WEEKDAY_NAMES_HU[topIndex],
       topWeekdayCount: counts[topIndex],
+      topWeekdayAvg: avgs[topIndex],
       topWeekdayShare: counts[topIndex] / published.length
     };
   }

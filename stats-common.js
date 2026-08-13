@@ -12,6 +12,15 @@
 
   var STATS_WINDOW_YEARS = 5;
 
+  var MONTH_NAMES_HU = [
+    "Január", "Február", "Március", "Április", "Május", "Június",
+    "Július", "Augusztus", "Szeptember", "Október", "November", "December"
+  ];
+
+  var WEEKDAY_NAMES_HU = [
+    "Vasárnap", "Hétfő", "Kedd", "Szerda", "Csütörtök", "Péntek", "Szombat"
+  ];
+
   function pad2(n) {
     return (n < 10 ? "0" : "") + n;
   }
@@ -55,11 +64,95 @@
     };
   }
 
+  /* computeAccidentsByMonth: a `published` incidensek naptári hónaponkénti
+   * (Január..December, évektől függetlenül összesítve) átlagos száma --
+   * a hónap incidens-számának és az adatban előforduló évek számának
+   * hányadosa. A `topMonthIndex` a legmagasabb átlagú hónapot adja. */
+  function computeAccidentsByMonth(incidents) {
+    var published = incidents.filter(function (i) {
+      return i.status === "published";
+    });
+
+    if (published.length === 0) {
+      return { empty: true };
+    }
+
+    var counts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    var years = {};
+    published.forEach(function (i) {
+      var month = parseInt(i.event_date.slice(5, 7), 10) - 1;
+      counts[month] += 1;
+      years[i.event_date.slice(0, 4)] = true;
+    });
+
+    var yearCount = Object.keys(years).length;
+    var avgs = counts.map(function (c) {
+      return c / yearCount;
+    });
+
+    var topIndex = 0;
+    for (var m = 1; m < 12; m++) {
+      if (avgs[m] > avgs[topIndex]) topIndex = m;
+    }
+
+    return {
+      empty: false,
+      counts: counts,
+      avgs: avgs,
+      yearCount: yearCount,
+      topMonthIndex: topIndex,
+      topMonthName: MONTH_NAMES_HU[topIndex],
+      topMonthAvg: avgs[topIndex],
+      topMonthCount: counts[topIndex]
+    };
+  }
+
+  /* computeAccidentsByWeekday: a `published` incidensek hét napjai
+   * szerinti (Vasárnap..Szombat) eloszlása, teljes adatbázisra összesítve.
+   * A dátum helyi éjfélként értelmezve (nem UTC-ként), hogy elkerüljük az
+   * időzóna-eltolásból adódó napcsúszást -- lásd app.js incidentDateTime
+   * hasonló megjegyzését. */
+  function computeAccidentsByWeekday(incidents) {
+    var published = incidents.filter(function (i) {
+      return i.status === "published";
+    });
+
+    if (published.length === 0) {
+      return { empty: true };
+    }
+
+    var counts = [0, 0, 0, 0, 0, 0, 0];
+    published.forEach(function (i) {
+      var parts = i.event_date.split("-");
+      var d = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+      counts[d.getDay()] += 1;
+    });
+
+    var topIndex = 0;
+    for (var w = 1; w < 7; w++) {
+      if (counts[w] > counts[topIndex]) topIndex = w;
+    }
+
+    return {
+      empty: false,
+      counts: counts,
+      total: published.length,
+      topWeekdayIndex: topIndex,
+      topWeekdayName: WEEKDAY_NAMES_HU[topIndex],
+      topWeekdayCount: counts[topIndex],
+      topWeekdayShare: counts[topIndex] / published.length
+    };
+  }
+
   var api = {
     STATS_WINDOW_YEARS: STATS_WINDOW_YEARS,
+    MONTH_NAMES_HU: MONTH_NAMES_HU,
+    WEEKDAY_NAMES_HU: WEEKDAY_NAMES_HU,
     pad2: pad2,
     formatDateHu: formatDateHu,
-    computeAvgDaysPerIncident: computeAvgDaysPerIncident
+    computeAvgDaysPerIncident: computeAvgDaysPerIncident,
+    computeAccidentsByMonth: computeAccidentsByMonth,
+    computeAccidentsByWeekday: computeAccidentsByWeekday
   };
 
   /* AUDIT.md #15: same dual-export pattern as dom-safety.js -- CommonJS

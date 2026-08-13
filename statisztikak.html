@@ -78,6 +78,18 @@
   </section>
 
   <section class="stats-section">
+    <h2 class="stats-h2">📅 A balesetek hónapja 📅</h2>
+    <p id="top-month" style="text-align:center; font-size:clamp(1.8rem, 7vw, 2.4rem); font-weight:700; color:var(--blue); font-family:Consolas,'Courier New',monospace; margin:0 0 0.4rem;">…</p>
+    <p id="top-month-caption" style="text-align:center; font-size:0.85rem; color:var(--muted); margin:0;">Számítás folyamatban…</p>
+  </section>
+
+  <section class="stats-section">
+    <h2 class="stats-h2">🗓️ A hét legveszélyesebb napja 🗓️</h2>
+    <p id="top-weekday" style="text-align:center; font-size:clamp(1.8rem, 7vw, 2.4rem); font-weight:700; color:var(--blue); font-family:Consolas,'Courier New',monospace; margin:0 0 0.4rem;">…</p>
+    <p id="top-weekday-caption" style="text-align:center; font-size:0.85rem; color:var(--muted); margin:0;">Számítás folyamatban…</p>
+  </section>
+
+  <section class="stats-section">
     <h2 class="stats-h2">Nyert már jármű villamos ellen? 🏆</h2>
     <div class="pie-wrap paint-chart-wrap">
       <svg viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kézzel rajzolt kördiagram: kb. 0,5% igen (1 eset), 99,5% nem">
@@ -288,11 +300,53 @@
       " – " + window.VillamosStats.formatDateHu(now) + ") " +
       result.windowedCount + " eseménye alapján, egyenletesen elosztva — nem évi átlag, hanem a teljes " +
       WINDOW_YEARS + " éves gördülő ablak napjainak és eseményeinek hányadosa.";
+
+    var monthResult = window.VillamosStats.computeAccidentsByMonth(incidents);
+    var monthValueEl = document.getElementById("top-month");
+    var monthCaptionEl = document.getElementById("top-month-caption");
+    if (monthValueEl && monthCaptionEl) {
+      if (monthResult.empty) {
+        monthValueEl.textContent = "?";
+        monthCaptionEl.textContent = "Nincs elég adat.";
+      } else {
+        var monthAvgStr = monthResult.topMonthAvg.toFixed(1).replace(".", ",");
+        monthValueEl.textContent = monthResult.topMonthName;
+        monthCaptionEl.textContent =
+          "A teljes adatbázis alapján (" + monthResult.yearCount + " év) ebben a hónapban történik átlagosan " +
+          "a legtöbb baleset: évi " + monthAvgStr + " db (összesen " + monthResult.topMonthCount + " eset).";
+      }
+    }
+
+    var weekdayResult = window.VillamosStats.computeAccidentsByWeekday(incidents);
+    var weekdayValueEl = document.getElementById("top-weekday");
+    var weekdayCaptionEl = document.getElementById("top-weekday-caption");
+    if (weekdayValueEl && weekdayCaptionEl) {
+      if (weekdayResult.empty) {
+        weekdayValueEl.textContent = "?";
+        weekdayCaptionEl.textContent = "Nincs elég adat.";
+      } else {
+        var weekdaySharePct = (weekdayResult.topWeekdayShare * 100).toFixed(1).replace(".", ",");
+        weekdayValueEl.textContent = weekdayResult.topWeekdayName;
+        weekdayCaptionEl.textContent =
+          "A teljes adatbázis " + weekdayResult.total + " esete közül " + weekdayResult.topWeekdayCount +
+          " (" + weekdaySharePct + "%) erre a napra esik — ez a leggyakoribb.";
+      }
+    }
   }).catch(function () {
     var valueEl = document.getElementById("days-per-incident");
     var captionEl = document.getElementById("days-per-incident-caption");
     if (valueEl) valueEl.textContent = "?";
     if (captionEl) captionEl.textContent = "Nem sikerült betölteni az adatokat.";
+
+    var monthValueEl = document.getElementById("top-month");
+    var monthCaptionEl = document.getElementById("top-month-caption");
+    if (monthValueEl) monthValueEl.textContent = "?";
+    if (monthCaptionEl) monthCaptionEl.textContent = "Nem sikerült betölteni az adatokat.";
+
+    var weekdayValueEl = document.getElementById("top-weekday");
+    var weekdayCaptionEl = document.getElementById("top-weekday-caption");
+    if (weekdayValueEl) weekdayValueEl.textContent = "?";
+    if (weekdayCaptionEl) weekdayCaptionEl.textContent = "Nem sikerült betölteni az adatokat.";
   });
 })();
 </script>

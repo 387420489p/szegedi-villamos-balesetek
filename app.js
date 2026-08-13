@@ -133,15 +133,17 @@
   }
 
   /* PREDICTION_WINDOW_YEARS: a "predikció" (a rekord mellett megjelenő,
-   * tréfás "mikor jön a következő" becslés) csak a legutóbbi 5 év
-   * eseménysűrűségét nézi, nem a teljes történelmi átlagot -- 2026-07-15-i
-   * felhasználói kérés. Indoklás: a korábbi évek forráslefedettsége
-   * egyenetlen (lásd RECORD_ELIGIBLE_SINCE fent), a gördülő 5 éves ablak
-   * jobban tükrözi a "mostani" gyakoriságot. Az ablak-átlag számítása
-   * (AUDIT.md #12 óta) a stats-common.js-beli közös
-   * VillamosStats.computeAvgDaysPerIncident-ből jön -- ugyanaz a logika,
-   * mint amit a statisztikak.html "nap/esemény" száma használ. */
-  var PREDICTION_WINDOW_YEARS = window.VillamosStats.STATS_WINDOW_YEARS;
+   * tréfás "mikor jön a következő" becslés) csak a legutóbbi 2 év
+   * eseménysűrűségét nézi, nem a teljes történelmi átlagot -- 2026-08-13-i
+   * felhasználói kérés (korábban 5 év volt, lásd git history). Indoklás:
+   * a korábbi évek forráslefedettsége egyenetlen (lásd RECORD_ELIGIBLE_SINCE
+   * fent), a gördülő 2 éves ablak jobban tükrözi a "mostani" gyakoriságot.
+   * Szándékosan NEM a stats-common.js-beli STATS_WINDOW_YEARS-t használja --
+   * az a statisztikak.html "nap/esemény" számához kell 5 évesen, ez a két
+   * érték most szándékosan eltér egymástól. Az ablak-átlag számítási logika
+   * (AUDIT.md #12 óta) magától továbbra is a közös
+   * VillamosStats.computeAvgDaysPerIncident-ből jön. */
+  var PREDICTION_WINDOW_YEARS = 2;
 
   function computePredictionState(incidents, now) {
     var published = incidents.filter(function (i) {

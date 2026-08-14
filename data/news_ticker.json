@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-14T15:01:48.991389Z",
+      "published_at": "2026-08-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Eltüntetjük az európai hírű szakadást” – végre össze fog érni a Szeged és Baja közti kerékpárút - Szegedi hírek | Szeged365",
+      "url": "https://szeged365.hu/2026/08/14/eltuntetjuk-az-europai-hiru-szakadast-vegre-ossze-fog-erni-a-szeged-es-baja-kozti-kerekparut/"
+    },
+    {
+      "first_seen": "2026-08-14T15:01:48.991389Z",
+      "published_at": "2026-08-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: hamarosan elkezdik a bárkák elsüllyesztését Paksnál (videó) - Szegedi hírek | Szeged365",
+      "url": "https://szeged365.hu/2026/08/14/magyar-peter-elkezdik-a-barkak-elsullyeszteset-paksnal-video/"
+    },
+    {
       "first_seen": "2026-08-14T13:25:03.061353Z",
       "published_at": "2026-08-14T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egyre több szegedinek lovasítják meg a kétkerekűjét – a rendőrség adatai szerint július óta 18 kerékpár és 5 roller eltűnését jelentették be - Szegedi hírek | Szeged365",
       "url": "https://szeged365.hu/2026/08/13/egyre-tobb-szegedinek-lovasitjak-meg-a-ketkerekujet-a-rendorseg-adatai-szerint-julius-ota-18-kerekpar-es-5-roller-eltuneset-jelentettek-be/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "500 egzotikus madár, 4 napon keresztül Szegeden – jön az 58. Díszmadár Kiállítás - Szegedi hírek | Szeged365",
-      "url": "https://szeged365.hu/2026/08/13/500-egzotikus-madar-4-napon-keresztul-szegeden-jon-az-58-diszmadar-kiallitas/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szép munka! – Elsőként sietett egy közlekedési baleset sérültjének segítségére a szegedi Csillagbörtön munkatársa (fotók) - Szegedi hírek | Szeged365",
-      "url": "https://szeged365.hu/2026/08/13/szep-munka-elsokent-sietett-egy-kozlekedesi-baleset-serultjenek-segitsegere-a-szegedi-csillagborton-munkatarsa-fotok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-14T13:25:03.061353Z"
+  "updated_at": "2026-08-14T15:01:48.991389Z"
 }

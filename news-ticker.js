@@ -39,9 +39,31 @@
   var PIXELS_PER_SECOND = 55;
   var MIN_DURATION_SECONDS = 20;
 
+  /* Clicking a headline opens it in a new tab (target="_blank"), but the
+   * anchor itself keeps DOM focus in *this* tab afterwards -- and
+   * .news-ticker-viewport:focus-within's CSS pause rule (style.css) then
+   * never clears again on its own, since nothing else removes focus from
+   * that link once the new tab has the user's attention. Result: the
+   * ticker looked permanently stuck after the first click (2026-08-14
+   * user report: "ha kattintok akkor megáll"). Blurring the link right on
+   * click clears that focus immediately, so the animation resumes as soon
+   * as the mouse also stops hovering it. */
+  function handleTrackClick(event) {
+    var target = event.target;
+    while (target && target !== event.currentTarget) {
+      if (target.classList && target.classList.contains("news-ticker-item")) {
+        target.blur();
+        return;
+      }
+      target = target.parentNode;
+    }
+  }
+
   function init(doc, win, fetchFn) {
     var bar = doc.getElementById("news-ticker");
     if (!bar) return;
+
+    bar.addEventListener("click", handleTrackClick);
 
     fetchFn("data/news_ticker.json")
       .then(function (r) {

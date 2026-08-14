@@ -28,6 +28,17 @@
       .join('<span class="news-ticker-sep" aria-hidden="true">&bull;</span>');
   }
 
+  /* PIXELS_PER_SECOND: a fix, tartalom-hosszúságtól független időtartamú
+   * CSS animáció (2026-08-13-i első verzió, 40s/kör) minél több elem
+   * gyűlt össze a data/news_ticker.json-ban (max. 40, lásd
+   * news_ticker.DEFAULT_MAX_ITEMS), annál gyorsabban, olvashatatlanul
+   * pörgött -- 2026-08-14-i felhasználói jelzés. Ehelyett az időtartamot
+   * futásidőben, a ténylegesen renderelt szöveg szélességéből számoljuk,
+   * állandó sebességgel -- így a görgetés tempója független attól, hány
+   * hír van éppen bent. */
+  var PIXELS_PER_SECOND = 55;
+  var MIN_DURATION_SECONDS = 20;
+
   function init(doc, win, fetchFn) {
     var bar = doc.getElementById("news-ticker");
     if (!bar) return;
@@ -50,6 +61,11 @@
         trackA.innerHTML = html;
         trackB.innerHTML = html; // duplicate track for the seamless CSS loop
         bar.hidden = false;
+
+        var width = trackA.scrollWidth;
+        var durationSeconds = Math.max(width / PIXELS_PER_SECOND, MIN_DURATION_SECONDS);
+        trackA.style.animationDuration = durationSeconds + "s";
+        trackB.style.animationDuration = durationSeconds + "s";
       })
       .catch(function () {
         // Decorative banner, not core content -- fail silent (no

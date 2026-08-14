@@ -196,6 +196,68 @@ hr.rainbow {
   .hero-badge-new { animation: none; }
 }
 
+/* news-ticker.js (2026-08-13): scrolling Szeged365-headline banner, first
+   child of <main>. Two identical tracks (A+B) placed side by side give a
+   seamless translateX(-100%) loop -- see the paired @keyframes/prefers-
+   reduced-motion convention already used for .hero-badge-new above. */
+.news-ticker-bar {
+  overflow: hidden;
+  margin: 0 0 0.8rem;
+  background: var(--cream);
+  border-top: 2px solid var(--border-gold);
+  border-bottom: 2px solid var(--border-gold);
+}
+
+.news-ticker-bar[hidden] {
+  display: none;
+}
+
+.news-ticker-viewport {
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0.35rem 0;
+}
+
+.news-ticker-track {
+  display: inline-block;
+  white-space: nowrap;
+  animation: news-ticker-scroll 40s linear infinite;
+}
+
+.news-ticker-viewport:hover .news-ticker-track,
+.news-ticker-viewport:focus-within .news-ticker-track {
+  animation-play-state: paused;
+}
+
+.news-ticker-item {
+  display: inline-block;
+  padding: 0 0.6em;
+  color: var(--ink);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.news-ticker-item:hover,
+.news-ticker-item:focus-visible {
+  text-decoration: underline;
+  color: var(--red-dark);
+}
+
+.news-ticker-sep {
+  color: var(--muted);
+}
+
+@keyframes news-ticker-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-100%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .news-ticker-track { animation: none; }
+  .news-ticker-viewport { overflow-x: auto; }
+  #news-ticker-track-b { display: none; }
+}
+
 .hero-footnote {
   font-size: 0.72rem;
   color: var(--muted);

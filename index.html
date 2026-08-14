@@ -17,7 +17,7 @@
 <meta name="twitter:description" content="Szegedi villamos- és tram-train balesetek nyilvános, folyamatosan frissülő adatbázisa: dátum, helyszín, jármű és forrás szerint kereshető lista.">
 <meta name="twitter:image" content="https://szegedivillamosbalesetek.hu/og-image.png">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="style.css?v=f66d633f30">
+<link rel="stylesheet" href="style.css?v=9e0fe4ed0e">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -66,6 +66,13 @@
 <hr class="rainbow">
 
 <main>
+  <div id="news-ticker" class="news-ticker-bar" hidden aria-label="Legfrissebb szegedi hírek">
+    <div class="news-ticker-viewport">
+      <div class="news-ticker-track" id="news-ticker-track-a"></div>
+      <div class="news-ticker-track" id="news-ticker-track-b"></div>
+    </div>
+  </div>
+
   <section id="no-accident-counter" class="no-accident-counter" aria-live="polite">
     <h2 class="counter-title">Épp hány napot bírtak ki a szegediek, hogy ne ütközzenek villamossal?</h2>
     <p id="counter-current" class="counter-current"></p>
@@ -165,6 +172,7 @@
 
 <script src="stats-common.js" defer></script>
 <script src="dom-safety.js" defer></script>
+<script src="news-ticker.js" defer></script>
 <script src="app.js?v=4b70dca6c6" defer></script>
 </body>
 </html>

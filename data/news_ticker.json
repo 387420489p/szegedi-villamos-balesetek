@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: Wicked premier, Szuperkupa, autócsodák az Árkádban és végtelen mennyiségű buli – mutatjuk a hétvégi menetrendet Szegeden!",
+      "url": "https://szeged365.hu/2026/08/14/szeged365-kikapcs-wicked-premier-szuperkupa-autocsodak-az-arkadban-es-vegtelen-mennyisegu-buli-mutatjuk-a-hetvegi-menetrendet-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: enyhült a hőség, vár a Wicked családi nap!",
+      "url": "https://szeged365.hu/2026/08/09/napi-pakk-enyhult-a-hoseg-var-a-wicked-csaladi-nap/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már gyülekeznek a sportolók a Maty-éren, hamarosan rajtol az Egyetemi Kajak-Kenu Világbajnokság",
+      "url": "https://szeged365.hu/2026/08/15/mar-gyulekeznek-a-sportolok-a-maty-eren-hamarosan-rajtol-az-egyetemi-kajak-kenu-vilagbajnoksag/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nyaralni készülsz? A külügyminisztérium figyelmeztet: több kedvelt úti célnál is tüzek pusztítanak",
+      "url": "https://szeged365.hu/2026/08/15/nyaralni-keszulsz-a-kulugyminiszterium-figyelmeztet-tobb-kedvelt-uti-celnal-is-tuzek-pusztitanak/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Béketelep felé inkább kerüljetek: a tűz miatt rendőrök irányítják a forgalmat",
+      "url": "https://szeged365.hu/2026/08/15/beketelep-fele-inkabb-keruljetek-a-tuz-miatt-rendorok-iranyitjak-a-forgalmat/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem tudott tovább menni a tram-train, olvasónk szerint tűzről tájékoztatták az utasokat",
+      "url": "https://szeged365.hu/2026/08/15/nem-tudott-tovabb-menni-a-tram-train-olvasonk-szerint-avartuzrol-tajekoztattak-oket/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Durva, ami a Dunánál történik: bárkákat süllyesztenek, katonai helikopterek dolgoznak",
+      "url": "https://szeged365.hu/2026/08/15/durva-ami-a-dunanal-tortenik-barkakat-sullyesztenek-katonai-helikopterek-dolgoznak/"
+    },
+    {
+      "first_seen": "2026-08-15T12:04:48.957703Z",
+      "published_at": "2026-08-14T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Elütött egy embert a vonat a Szabadkai úti vasúti átjáróban Szegeden (frissítve)",
+      "url": "https://szeged365.hu/2026/08/14/elutott-egy-embert-a-vonat-a-szabadkai-uti-vasuti-atjaroban-szegeden/"
+    },
+    {
       "first_seen": "2026-08-15T09:07:48.960608Z",
       "published_at": "2026-08-15T00:00:00",
       "reason": "prefiltered",
@@ -165,14 +229,6 @@
       "published_at": "2026-08-14T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: Wicked premier, Szuperkupa, autócsodák az Árkádban és végtelen mennyiségű buli – mutatjuk a hétvégi menetrendet Szegeden!",
-      "url": "https://szeged365.hu/2026/08/14/szeged365-kikapcs-wicked-premier-szuperkupa-autocsodak-az-arkadban-es-vegtelen-mennyisegu-buli-mutatjuk-a-hetvegi-menetrendet-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Egy autó, amely átírta a versenyzés szabályait: Szegeden áll a 101 éves Bugatti Type 13 „Brescia” (videó)",
       "url": "https://szeged365.hu/2026/08/14/egy-auto-amely-atirta-a-versenyzes-szabalyait-szegeden-all-a-101-eves-bugatti-type-13-brescia-video/"
     },
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Friss infók: legalább 58 magyar állampolgárt kellett kimenekíteni a horvát erdőtűz által érintett területről, egy ember meg is sérült",
       "url": "https://szeged365.hu/2026/08/14/friss-infok-legalabb-58-magyar-allampolgart-kellett-kimenekiteni-a-horvat-erdotuz-altal-erintett-teruletrol-egy-ember-meg-is-serult/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vitézy Dávid: elkezdtek dolgozni a Kiskunfélegyháza-Szentes vasútvonal felújításán, még idén megszüntetik a lassújeleket a pálya egy szakaszán",
-      "url": "https://szeged365.hu/2026/08/14/vitezy-david-elkezdtek-dolgozni-a-kiskunfelegyhaza-szentes-vasutvonal-felujitasan-meg-iden-megszuntetik-a-lassujeleket-a-palya-egy-szakaszan/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Saját szállásadóját bántalmazta egy férfi: megütötte az idős nőt, most vádat emeltek ellene Szegeden",
-      "url": "https://szeged365.hu/2026/08/14/sajat-szallasadojat-bantalmazta-egy-ferfi-megutotte-az-idos-not-most-vadat-emeltek-ellene-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar családok is menekülésre kényszerültek, akkora erdőtűz pusztított a horvát tengerparton (videóval)",
-      "url": "https://szeged365.hu/2026/08/14/magyar-csaladok-is-menekulesre-kenyszerultek-erdotuz-pusztitott-a-horvat-tengerparton-megszolalt-orban-anita-kulugyminiszter/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedről érkezett a segítség: különleges eszközt kaptak a nyelészavarral küzdő betegek Budapesten a Szent Vincent Rehabilitációs Alapítványtól (videó)",
-      "url": "https://szeged365.hu/2026/08/13/szegedrol-erkezett-a-segitseg-kulonleges-eszkozt-kaptak-a-nyeleszavarral-kuzdo-betegek-budapesten-a-szent-vincent-rehabilitacios-alapitvanytol-video/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: enyhült a hőség, vár a Wicked családi nap!",
-      "url": "https://szeged365.hu/2026/08/09/napi-pakk-enyhult-a-hoseg-var-a-wicked-csaladi-nap/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Különleges lesz az éjszaka: hullócsillagzápor követi a napfogyatkozást, jön a Perseidák maximuma",
-      "url": "https://szeged365.hu/2026/08/12/kulonleges-lesz-az-ejszaka-hullocsillagzapor-koveti-a-napfogyatkozast-jon-a-perseidak-maximuma/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: fenékküszöb épül a Dunán, a munkálatok már meg is kezdődtek (videó)",
-      "url": "https://szeged365.hu/2026/08/12/magyar-peter-fenekkuszob-epul-a-dunan-a-munkalatok-mar-meg-is-kezdodtek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-15T09:07:48.960608Z"
+  "updated_at": "2026-08-15T12:04:48.957703Z"
 }

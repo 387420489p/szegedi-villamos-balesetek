@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-15T06:07:48.963649Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Dóm, klinikák, Öreg Hölgy: mi lenne ma Szegedből, ha mindig a „túl drága” győzött volna?",
+      "url": "https://szeged365.hu/2026/08/15/dom-klinikak-oreg-holgy-mi-lenne-ma-szegedbol-ha-mindig-a-tul-draga-gyozott-volna/"
+    },
+    {
+      "first_seen": "2026-08-15T06:07:48.963649Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szombaton ráerősít a nyár Szegeden",
+      "url": "https://szeged365.hu/2026/08/15/napi-pakk-szombaton-raerosit-a-nyar-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-15T06:07:48.963649Z",
+      "published_at": "2026-08-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Végre jön az idénynyitó: a Szeged-Csanád GA a Győr ellen játszik szombaton a Szent Gellért fórumban",
+      "url": "https://szeged365.hu/2026/08/10/vegre-jon-az-idenynyito-a-szeged-csanad-ga-a-gyor-ellen-jatszik-szombaton-a-szent-gellert-forumban/"
+    },
+    {
+      "first_seen": "2026-08-15T06:07:48.963649Z",
+      "published_at": "2026-08-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Szegeden – a rendőrség a helyszínen van (fotó, frissítve)",
+      "url": "https://szeged365.hu/2026/08/13/kerekparos-es-autos-utkozott-szegeden-a-rendorseg-a-helyszinen-van-foto/"
+    },
+    {
       "first_seen": "2026-08-14T18:02:48.972180Z",
       "published_at": "2026-08-14T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Kollégánk elcsípte Szegeden Kabát Petit és Torghelle Sanyit, akik nagyon “menekülnek” (videó)",
       "url": "https://szeged365.hu/2026/08/12/kollegank-elcsipte-szegeden-kabat-petit-es-torghelle-sanyit-akik-nagyon-menekulnek-video/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Két ifjú wakeboardert látott vendégül a SunCity Szabadidőközpont, Levi és Koppány egy nyereményjáték keretében pattant deszkára",
-      "url": "https://szeged365.hu/2026/08/13/ket-ifju-wakeboardert-latott-vendegul-a-suncity-szabadidokozpont-levi-es-koppany-egy-nyeremenyjatek-kereteben-pattant-deszkara/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: pénteken már felhő is lehet az égen Szegeden, 81 éve ért véget a II. világháború",
-      "url": "https://szeged365.hu/2026/08/14/napi-pakk-penteken-mar-felho-is-lehet-az-egen-szegeden-81-eve-ert-veget-a-ii-vilaghaboru/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt a tarló és a száraz fű az egyik Csongrád-Csanád vármegyei település külterületén, szalmabálák is lángra kaptak a helyszínen (frissítve) (videóval)",
-      "url": "https://szeged365.hu/2026/08/13/kigyulladt-a-tarlo-es-a-szaraz-fu-az-egyik-csongrad-csanad-varmegyei-telepules-kulteruleten-szalmabalak-is-langra-kaptak-a-helyszinen/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Visszafogott maradt az albérletek havi drágulása a júliusi főszezonban, de Szeged továbbra is az élvonalban van",
-      "url": "https://szeged365.hu/2026/08/13/visszafogott-maradt-az-alberletek-havi-dragulasa-a-juliusi-foszezonban-de-szeged-tovabbra-is-az-elvonalban-van/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-14T18:02:48.972180Z"
+  "updated_at": "2026-08-15T06:07:48.963649Z"
 }

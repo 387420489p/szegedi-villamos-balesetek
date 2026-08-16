@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-16T15:06:48.963242Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi cukiság: vízben hűsöl a Szegedi Vadaspark tigrise",
+      "url": "https://szeged365.hu/2026/08/16/napi-cukisag-vizben-husol-a-szegedi-vadaspark-tigrise/"
+    },
+    {
+      "first_seen": "2026-08-16T15:06:48.963242Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kigyulladt és lakhatatlanná vált az otthonuk, a polgármester segítséget kér a családnak",
+      "url": "https://szeged365.hu/2026/08/16/kigyulladt-es-lakhatatlanna-valt-az-otthonuk-a-polgarmester-segitseget-ker-a-csaladnak/"
+    },
+    {
+      "first_seen": "2026-08-16T15:06:48.963242Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hamarosan ellepik az eget a színes óriáslufik Szeged közelében – jön a Hőlégballon Közép-Európa Kupa",
+      "url": "https://szeged365.hu/2026/08/16/hamarosan-ellepik-az-eget-a-szines-oriaslufik-szeged-kozeleben-jon-a-holegballon-kozep-europa-kupa/"
+    },
+    {
       "first_seen": "2026-08-16T12:08:48.972933Z",
       "published_at": "2026-08-15T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Magyar Péter Paksra hívta a pártelnököket – mindenki elutasította",
       "url": "https://szeged365.hu/2026/08/14/magyar-peter-paksra-hivta-a-partelnokoket-mindenki-elutasitotta/"
-    },
-    {
-      "first_seen": "2026-08-14T15:01:48.991389Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Eltüntetjük az európai hírű szakadást” – végre össze fog érni a Szeged és Baja közti kerékpárút",
-      "url": "https://szeged365.hu/2026/08/14/eltuntetjuk-az-europai-hiru-szakadast-vegre-ossze-fog-erni-a-szeged-es-baja-kozti-kerekparut/"
-    },
-    {
-      "first_seen": "2026-08-14T15:01:48.991389Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: hamarosan elkezdik a bárkák elsüllyesztését Paksnál (videó)",
-      "url": "https://szeged365.hu/2026/08/14/magyar-peter-elkezdik-a-barkak-elsullyeszteset-paksnal-video/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "SZKT: a Bakay Nándor utcai felújítás miatt máshová kerül egy trolibuszmegálló Szegeden",
-      "url": "https://szeged365.hu/2026/08/14/szkt-a-bakay-nandor-utcai-felujitas-miatt-mashova-kerul-egy-trolibuszmegallo-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-16T12:08:48.972933Z"
+  "updated_at": "2026-08-16T15:06:48.963242Z"
 }

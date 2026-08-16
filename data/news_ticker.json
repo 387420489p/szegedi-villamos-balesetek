@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-16T12:08:48.972933Z",
+      "published_at": "2026-08-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Füstbe borult Szeged szombat reggel: több helyen is tűz volt, de Szerbia felől is érkezhetett füst (fotók + videók) (frissítve)",
+      "url": "https://szeged365.hu/2026/08/15/fustbe-borult-szeged-szombat-reggel-szerbia-felol-erkezhetett-a-fust-nagy-resze-de-szabadteri-tuzek-is-kialakulhattak-fotok-videok/"
+    },
+    {
+      "first_seen": "2026-08-16T12:08:48.972933Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elviselhetetlen bűz terjeng Baktóban, vizsgálják a forrást, de egyelőre nincs érdemi intézkedés",
+      "url": "https://szeged365.hu/2026/08/16/elviselhetetlen-buz-terjeng-baktoban-vizsgaljak-a-forrast-de-egyelore-nincs-erdemi-intezkedes/"
+    },
+    {
+      "first_seen": "2026-08-16T12:08:48.972933Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas tűz az Algyői útnál, autók és kamionok lángolnak (fotók + videók) (frissítve)",
+      "url": "https://szeged365.hu/2026/08/16/hatalmas-tuz-az-algyoi-utnal-brutalis-fustot-vett-videora-olvasonk/"
+    },
+    {
+      "first_seen": "2026-08-16T12:08:48.972933Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Startol az egyetemi kajak-kenu VB Szegeden – 25 magyar sportolóért is szoríthatunk, mutatjuk a menetrendet! (frissítve)",
+      "url": "https://szeged365.hu/2026/08/16/startol-az-egyetemi-kajak-kenu-vb-szegeden-25-magyar-sportoloert-is-szorithatunk-mutatjuk-a-menetrendet/"
+    },
+    {
       "first_seen": "2026-08-16T09:04:49.006168Z",
       "published_at": "2026-08-16T00:00:00",
       "reason": "prefiltered",
@@ -165,14 +197,6 @@
       "published_at": "2026-08-15T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Füstbe borult Szeged szombat reggel: több helyen is tűz volt, de Szerbia felől is érkezhetett füst (fotók + videók) (frissítve)",
-      "url": "https://szeged365.hu/2026/08/15/fustbe-borult-szeged-szombat-reggel-szerbia-felol-erkezhetett-a-fust-nagy-resze-de-szabadteri-tuzek-is-kialakulhattak-fotok-videok/"
-    },
-    {
-      "first_seen": "2026-08-15T09:07:48.960608Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Mi ez a brutális füst Szeged felett? A város több pontjáról és Deszkről is érkeznek a jelzések",
       "url": "https://szeged365.hu/2026/08/15/mi-ez-a-brutalis-fust-szeged-felett-a-varos-tobb-pontjarol-es-deszkrol-is-erkeznek-a-jelzesek/"
     },
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "SZKT: a Bakay Nándor utcai felújítás miatt máshová kerül egy trolibuszmegálló Szegeden",
       "url": "https://szeged365.hu/2026/08/14/szkt-a-bakay-nandor-utcai-felujitas-miatt-mashova-kerul-egy-trolibuszmegallo-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Egyedül kezdtem el, de hazaérni veletek szeretnék” – Jakab Győző 49 nap gyaloglás után a szegediekkel együtt szeretne hazaérkezni!",
-      "url": "https://szeged365.hu/2026/08/14/egyedul-kezdtem-el-de-hazaerni-veletek-szeretnek-jakab-gyozo-49-nap-gyaloglas-utan-a-szegediekkel-egyutt-szeretne-hazaerkezni/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Erdőtűz Horvátországban: megszólalt a Külügyminisztérium, négy magyar sérültről tudnak",
-      "url": "https://szeged365.hu/2026/08/14/erdotuz-horvatorszagban-megszolalt-a-kulugyminiszterium-4-magyar-serultrol-tudnak/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy autó, amely átírta a versenyzés szabályait: Szegeden áll a 101 éves Bugatti Type 13 „Brescia” (videó)",
-      "url": "https://szeged365.hu/2026/08/14/egy-auto-amely-atirta-a-versenyzes-szabalyait-szegeden-all-a-101-eves-bugatti-type-13-brescia-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-16T09:04:49.006168Z"
+  "updated_at": "2026-08-16T12:08:48.972933Z"
 }

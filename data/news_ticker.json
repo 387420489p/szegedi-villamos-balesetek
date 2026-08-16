@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-16T09:04:49.006168Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tanya lángol Mórahalomnál",
+      "url": "https://szeged365.hu/2026/08/16/tanya-langol-morahalomnal/"
+    },
+    {
+      "first_seen": "2026-08-16T09:04:49.006168Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tragikus buszbaleset történt az M3-ason, 12 ember vesztette életét (videóval)",
+      "url": "https://szeged365.hu/2026/08/16/tragikus-buszbaleset-tortent-az-m3-ason-12-ember-vesztette-eletet-videoval/"
+    },
+    {
       "first_seen": "2026-08-16T06:06:49.008395Z",
       "published_at": "2026-08-09T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egy autó, amely átírta a versenyzés szabályait: Szegeden áll a 101 éves Bugatti Type 13 „Brescia” (videó)",
       "url": "https://szeged365.hu/2026/08/14/egy-auto-amely-atirta-a-versenyzes-szabalyait-szegeden-all-a-101-eves-bugatti-type-13-brescia-video/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "IHS Szeged nyári kispályás futball kupa: jövő szerdán jönnek a negyedöntők",
-      "url": "https://szeged365.hu/2026/08/14/ihs-szeged-nyari-kispalyas-futball-kupa-jovo-szerdan-jonnek-a-negyedontok/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csőtörés történt Algyő külterületén, átmenetileg szünetelhet az ivóvízellátás",
-      "url": "https://szeged365.hu/2026/08/14/csotores-tortent-algyo-kulteruleten-atmenetileg-szunetelhet-az-ivovizellatas/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-16T06:06:49.008395Z"
+  "updated_at": "2026-08-16T09:04:49.006168Z"
 }

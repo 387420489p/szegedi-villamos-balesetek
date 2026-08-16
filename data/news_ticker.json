@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-16T06:06:49.008395Z",
+      "published_at": "2026-08-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: enyhült a hőség, vár a Wicked családi nap!",
+      "url": "https://szeged365.hu/2026/08/09/napi-pakk-enyhult-a-hoseg-var-a-wicked-csaladi-nap/"
+    },
+    {
+      "first_seen": "2026-08-16T06:06:49.008395Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: 34 fokkal támad a kánikula, születésnapos Madonna",
+      "url": "https://szeged365.hu/2026/08/16/napi-pakk-34-fokkal-tamad-a-kanikula-szuletesnapos-madonna/"
+    },
+    {
       "first_seen": "2026-08-15T18:09:48.980421Z",
       "published_at": "2026-08-14T00:00:00",
       "reason": "prefiltered",
@@ -79,14 +95,6 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs: Wicked premier, Szuperkupa, autócsodák az Árkádban és végtelen mennyiségű buli – mutatjuk a hétvégi menetrendet Szegeden!",
       "url": "https://szeged365.hu/2026/08/14/szeged365-kikapcs-wicked-premier-szuperkupa-autocsodak-az-arkadban-es-vegtelen-mennyisegu-buli-mutatjuk-a-hetvegi-menetrendet-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: enyhült a hőség, vár a Wicked családi nap!",
-      "url": "https://szeged365.hu/2026/08/09/napi-pakk-enyhult-a-hoseg-var-a-wicked-csaladi-nap/"
     },
     {
       "first_seen": "2026-08-15T12:04:48.957703Z",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Csőtörés történt Algyő külterületén, átmenetileg szünetelhet az ivóvízellátás",
       "url": "https://szeged365.hu/2026/08/14/csotores-tortent-algyo-kulteruleten-atmenetileg-szunetelhet-az-ivovizellatas/"
-    },
-    {
-      "first_seen": "2026-08-14T13:25:03.061353Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dóm, klinikák, Öreg Hölgy: mi lenne ma Szegedből, ha mindig a „túl drága” győzött volna?",
-      "url": "https://szeged365.hu/2026/08/14/dom-klinikak-oreg-holgy-mi-lenne-ma-szegedbol-ha-mindig-a-tul-draga-gyozott-volna/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-15T18:09:48.980421Z"
+  "updated_at": "2026-08-16T06:06:49.008395Z"
 }

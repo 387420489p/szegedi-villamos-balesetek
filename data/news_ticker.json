@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-16T18:03:48.976209Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Roller és Kerékpáros ütközött össze, mentő is a helyszínen!",
+      "url": "https://szeged365.hu/2026/08/16/roller-es-kerekparos-utkozott-ossze-mento-is-a-helyszinen/"
+    },
+    {
+      "first_seen": "2026-08-16T18:03:48.976209Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Végre jöhet egy kis csapadék Szegedre",
+      "url": "https://szeged365.hu/2026/08/16/vegre-johet-egy-kis-csapadek-szegedre/"
+    },
+    {
       "first_seen": "2026-08-16T15:06:48.963242Z",
       "published_at": "2026-08-16T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem adja fel a nyár: a hétvégén szépen lassan visszatér a kánikula Szegedre",
       "url": "https://szeged365.hu/2026/08/14/nem-adta-fel-a-nyar-a-hetvegen-szepen-lassan-visszater-a-kanikula-szegedre/"
-    },
-    {
-      "first_seen": "2026-08-14T18:02:48.972180Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Pletykák: “ami a múltja volt, az ugyanúgy meg tudják támadni” – avagy ezt gondolják a szegediek Baka Andrásról, mint köztársasági elnök (videó)",
-      "url": "https://szeged365.hu/2026/08/14/szegedi-pletykak-ami-a-multja-volt-az-ugyanugy-meg-tudjak-tamadni-avagy-ezt-gondoljak-a-szegediek-baka-andrasrol-mint-koztarsasagi-elnok-video/"
-    },
-    {
-      "first_seen": "2026-08-14T18:02:48.972180Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter Paksra hívta a pártelnököket – mindenki elutasította",
-      "url": "https://szeged365.hu/2026/08/14/magyar-peter-paksra-hivta-a-partelnokoket-mindenki-elutasitotta/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-16T15:06:48.963242Z"
+  "updated_at": "2026-08-16T18:03:48.976209Z"
 }

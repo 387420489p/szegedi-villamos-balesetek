@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Alakul a helyzet Pakson, emelkedett a vízszint, hamarosan visszakapcsolhatják a turbinákat (fotókkal)",
+      "url": "https://szeged365.hu/2026/08/17/alakul-a-helyzet-pakson-emelkedett-a-vizszint-hamarosan-visszakapcsolhatjak-a-turbinakat-fotokkal/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Őrizetbe vették az M3-ason történt buszbaleset sofőrjét, nyomoznak a halálos tömegszerencsétlenség miatt",
+      "url": "https://szeged365.hu/2026/08/17/orizetbe-vettek-az-m3-ason-tortent-buszbaleset-soforjet-nyomoznak-a-halalos-tomegszerencsetlenseg-miatt/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szuper volt az első versenynap: öt magyar érem született az egyetemi VB-n Szegeden",
+      "url": "https://szeged365.hu/2026/08/17/szuper-volt-az-elso-versenynap-ot-magyar-erem-szuletett-az-egyetemi-vb-n-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két brutál hangú szegedi, MajaOlh és KissTomi közös dala robbantja fel hamarosan az internetet – mutatunk egy kis ízelítőt! (videó)",
+      "url": "https://szeged365.hu/2026/08/17/ket-brutal-hangu-szegedi-majaolh-es-kisstomi-kozos-dala-robbantja-fel-hamarosan-az-internetet-mutatunk-egy-kis-izelitot-video/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napos-felhős időt, és kellemesebb hőmérsékletet hoz a kedd Szegedre",
+      "url": "https://szeged365.hu/2026/08/17/napos-felhos-idot-es-kellemesebb-homersekletet-hoz-a-kedd-szegedre/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sulyok, képviselői időkorlátok, bírói korhatárok – az alkotmánybíróság elutasította a Fidesz-KDNP alaptörvénymódosítások elleni beadványait",
+      "url": "https://szeged365.hu/2026/08/17/sulyok-kepviseloi-idokorlatok-biroi-korhatarok-az-alkotmanybirosag-elutasitotta-a-fidesz-kdnp-alaptorvenymodositasok-elleni-beadvanyait/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi küzdősport-siker: a New Generation Fight Team három versenyzője győzedelmeskedett a Future Combat Series gálán (galéria)",
+      "url": "https://szeged365.hu/2026/08/17/oriasi-szegedi-kuzdosport-siker-a-new-generation-fight-team-harom-versenyzoje-gyozedelmeskedett-a-future-combat-series-galan-galeria/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Tradícióalapítás volt” – Nógrádi Tibor szerint történelmet írt az első szegedi Szuperkupa (fotókkal)",
+      "url": "https://szeged365.hu/2026/08/17/tradicioalapitas-volt-nogradi-tibor-szerint-tortenelmet-irt-az-elso-szegedi-szuperkupa-fotokkal/"
+    },
+    {
+      "first_seen": "2026-08-17T18:00:48.975635Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Őrületre készülnek a vásárhelyi strandon, siess, ma zárul a nevezés!",
+      "url": "https://szeged365.hu/2026/08/17/oruletre-keszulnek-a-vasarhelyi-strandon-siess-ma-zarul-a-nevezes/"
+    },
+    {
       "first_seen": "2026-08-17T15:02:49.007594Z",
       "published_at": "2026-08-17T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ismét fojtogató füstszagra ébredt Szeged és a Dél-Alföld",
       "url": "https://szeged365.hu/2026/08/17/ismet-fojtogato-fustszagra-ebredt-szeged-es-a-del-alfold/"
-    },
-    {
-      "first_seen": "2026-08-17T06:03:49.004706Z",
-      "published_at": "2026-08-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mindössze 36 évesen meghalt Hayden Panettiere, a Hősök és a Sikoly sztárja",
-      "url": "https://szeged365.hu/2026/08/17/mindossze-36-evesen-meghalt-hayden-panettiere-a-hosok-es-a-sikoly-sztarja/"
-    },
-    {
-      "first_seen": "2026-08-17T06:03:49.004706Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Erre most tényleg büszke lehet Szeged: Molnár Csanád különleges szerepet kapott a világbajnokság megnyitóján!",
-      "url": "https://szeged365.hu/2026/08/16/erre-most-tenyleg-buszke-lehet-szeged-molnar-csanad-kulonleges-szerepet-kapott-a-vilagbajnoksag-megnyitojan/"
-    },
-    {
-      "first_seen": "2026-08-17T06:03:49.004706Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden dől el hétfőn minden: itt forgatják a Most Wanted döntőjét! Te kinek segítesz? Balázséknak vagy a menekülőknek?",
-      "url": "https://szeged365.hu/2026/08/16/szegeden-dol-el-hetfon-minden-itt-forgatjak-a-most-wanted-dontojet-te-kinek-segitesz-balazseknak-vagy-a-menekuloknek/"
-    },
-    {
-      "first_seen": "2026-08-16T18:03:48.976209Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Roller és Kerékpáros ütközött össze, mentő is a helyszínen!",
-      "url": "https://szeged365.hu/2026/08/16/roller-es-kerekparos-utkozott-ossze-mento-is-a-helyszinen/"
-    },
-    {
-      "first_seen": "2026-08-16T18:03:48.976209Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Végre jöhet egy kis csapadék Szegedre",
-      "url": "https://szeged365.hu/2026/08/16/vegre-johet-egy-kis-csapadek-szegedre/"
-    },
-    {
-      "first_seen": "2026-08-16T15:06:48.963242Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi cukiság: vízben hűsöl a Szegedi Vadaspark tigrise",
-      "url": "https://szeged365.hu/2026/08/16/napi-cukisag-vizben-husol-a-szegedi-vadaspark-tigrise/"
-    },
-    {
-      "first_seen": "2026-08-16T15:06:48.963242Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt és lakhatatlanná vált az otthonuk, a polgármester segítséget kér a családnak",
-      "url": "https://szeged365.hu/2026/08/16/kigyulladt-es-lakhatatlanna-valt-az-otthonuk-a-polgarmester-segitseget-ker-a-csaladnak/"
-    },
-    {
-      "first_seen": "2026-08-16T15:06:48.963242Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hamarosan ellepik az eget a színes óriáslufik Szeged közelében – jön a Hőlégballon Közép-Európa Kupa",
-      "url": "https://szeged365.hu/2026/08/16/hamarosan-ellepik-az-eget-a-szines-oriaslufik-szeged-kozeleben-jon-a-holegballon-kozep-europa-kupa/"
-    },
-    {
-      "first_seen": "2026-08-16T12:08:48.972933Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Füstbe borult Szeged szombat reggel: több helyen is tűz volt, de Szerbia felől is érkezhetett füst (fotók + videók) (frissítve)",
-      "url": "https://szeged365.hu/2026/08/15/fustbe-borult-szeged-szombat-reggel-szerbia-felol-erkezhetett-a-fust-nagy-resze-de-szabadteri-tuzek-is-kialakulhattak-fotok-videok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-17T15:02:49.007594Z"
+  "updated_at": "2026-08-17T18:00:48.975635Z"
 }

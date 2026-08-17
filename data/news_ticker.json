@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ikonok és legendák: ilyet még nem látott Szeged, különleges autócsodák gurultak be az Árkádba",
+      "url": "https://szeged365.hu/2026/08/07/ikonok-es-legendak-ilyet-meg-nem-latott-szeged-kulonleges-autocsodak-gurultak-be-az-arkadba/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: 34 fokkal támad a kánikula, születésnapos Madonna",
+      "url": "https://szeged365.hu/2026/08/16/napi-pakk-34-fokkal-tamad-a-kanikula-szuletesnapos-madonna/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gyanúsítottként hallgatták ki az SZTE korábbi dékánját",
+      "url": "https://szeged365.hu/2026/08/17/gyanusitottkent-hallgattak-ki-az-szte-korabbi-dekanjat/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Nem tekinthető elfogadható állapotnak” – megelégelték a bűzt Hódmezővásárhelyen, Márki-Zay Péter a kormány segítségét kéri",
+      "url": "https://szeged365.hu/2026/08/17/nem-tekintheto-elfogadhato-allapotnak-megelegeltek-a-buzt-hodmezovasarhelyen-marki-zay-peter-a-kormany-segitseget-keri/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Te láttál már közelről egy 1928-as luxusautót? Most megteheted az ÁRKÁD Szegedben (videó)",
+      "url": "https://szeged365.hu/2026/08/17/te-lattal-mar-kozelrol-egy-1928-as-luxusautot-most-megteheted-az-arkad-szegedben-video/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Időközi önkormányzati választást tartottak Makón, csupán 24 százalékos volt a részvételi arány",
+      "url": "https://szeged365.hu/2026/08/17/idokozi-onkormanyzati-valasztast-tartottak-makon-csupan-24-szazalekos-volt-a-reszveteli-arany/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Te megtalálod majd? Titkos bulihelyet rejt el a JATE a SZIN-en, az SZTE Színpadnál pedig már délután beindul az élet",
+      "url": "https://szeged365.hu/2026/08/17/te-megtalalod-majd-titkos-bulihelyet-rejt-el-a-jate-a-szin-en-az-szte-szinpadnal-pedig-mar-delutan-beindul-az-elet/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden terítették a drogot: két kábítószer-kereskedő ellen is vádat emeltek",
+      "url": "https://szeged365.hu/2026/08/17/szegeden-teritettek-a-drogot-ket-kabitoszer-kereskedo-ellen-is-vadat-emeltek/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Örülök, hogy van egy fiam” – megszólalt az a vállalkozó, aki mellett felcsaptak a lángok az Algyői út mellett, még a fia is beszállt az oltásba",
+      "url": "https://szeged365.hu/2026/08/17/orulok-hogy-van-egy-fiam-megszolalt-az-a-vallalkozo-aki-mellett-felcsaptak-a-langok-az-algyoi-ut-mellett-meg-a-fia-is-beszallt-az-oltasba/"
+    },
+    {
+      "first_seen": "2026-08-17T09:04:48.988025Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt a Belvárosi hídon, okoz némi fennakadást a közlekedésben",
+      "url": "https://szeged365.hu/2026/08/17/baleset-tortent-a-belvarosi-hidon-okoz-nemi-fennakadast-a-kozlekedesben/"
+    },
+    {
       "first_seen": "2026-08-17T06:03:49.004706Z",
       "published_at": "2026-08-17T00:00:00",
       "reason": "prefiltered",
@@ -55,14 +135,6 @@
       "source_name": "Szeged365",
       "title": "Szegeden dől el hétfőn minden: itt forgatják a Most Wanted döntőjét! Te kinek segítesz? Balázséknak vagy a menekülőknek?",
       "url": "https://szeged365.hu/2026/08/16/szegeden-dol-el-hetfon-minden-itt-forgatjak-a-most-wanted-dontojet-te-kinek-segitesz-balazseknak-vagy-a-menekuloknek/"
-    },
-    {
-      "first_seen": "2026-08-17T06:03:49.004706Z",
-      "published_at": "2026-08-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ikonok és legendák: ilyet még nem látott Szeged, különleges autócsodák gurultak be az Árkádba",
-      "url": "https://szeged365.hu/2026/08/07/ikonok-es-legendak-ilyet-meg-nem-latott-szeged-kulonleges-autocsodak-gurultak-be-az-arkadba/"
     },
     {
       "first_seen": "2026-08-16T18:03:48.976209Z",
@@ -161,14 +233,6 @@
       "url": "https://szeged365.hu/2026/08/09/napi-pakk-enyhult-a-hoseg-var-a-wicked-csaladi-nap/"
     },
     {
-      "first_seen": "2026-08-16T06:06:49.008395Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: 34 fokkal támad a kánikula, születésnapos Madonna",
-      "url": "https://szeged365.hu/2026/08/16/napi-pakk-34-fokkal-tamad-a-kanikula-szuletesnapos-madonna/"
-    },
-    {
       "first_seen": "2026-08-15T18:09:48.980421Z",
       "published_at": "2026-08-14T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Már gyülekeznek a sportolók a Maty-éren, hamarosan rajtol az Egyetemi Kajak-Kenu Világbajnokság",
       "url": "https://szeged365.hu/2026/08/15/mar-gyulekeznek-a-sportolok-a-maty-eren-hamarosan-rajtol-az-egyetemi-kajak-kenu-vilagbajnoksag/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nyaralni készülsz? A külügyminisztérium figyelmeztet: több kedvelt úti célnál is tüzek pusztítanak",
-      "url": "https://szeged365.hu/2026/08/15/nyaralni-keszulsz-a-kulugyminiszterium-figyelmeztet-tobb-kedvelt-uti-celnal-is-tuzek-pusztitanak/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Béketelep felé inkább kerüljetek: a tűz miatt rendőrök irányítják a forgalmat",
-      "url": "https://szeged365.hu/2026/08/15/beketelep-fele-inkabb-keruljetek-a-tuz-miatt-rendorok-iranyitjak-a-forgalmat/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem tudott tovább menni a tram-train, olvasónk szerint tűzről tájékoztatták az utasokat",
-      "url": "https://szeged365.hu/2026/08/15/nem-tudott-tovabb-menni-a-tram-train-olvasonk-szerint-avartuzrol-tajekoztattak-oket/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Durva, ami a Dunánál történik: bárkákat süllyesztenek, katonai helikopterek dolgoznak",
-      "url": "https://szeged365.hu/2026/08/15/durva-ami-a-dunanal-tortenik-barkakat-sullyesztenek-katonai-helikopterek-dolgoznak/"
-    },
-    {
-      "first_seen": "2026-08-15T12:04:48.957703Z",
-      "published_at": "2026-08-14T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Elütött egy embert a vonat a Szabadkai úti vasúti átjáróban Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/08/14/elutott-egy-embert-a-vonat-a-szabadkai-uti-vasuti-atjaroban-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-15T09:07:48.960608Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mi ez a brutális füst Szeged felett? A város több pontjáról és Deszkről is érkeznek a jelzések",
-      "url": "https://szeged365.hu/2026/08/15/mi-ez-a-brutalis-fust-szeged-felett-a-varos-tobb-pontjarol-es-deszkrol-is-erkeznek-a-jelzesek/"
-    },
-    {
-      "first_seen": "2026-08-15T09:07:48.960608Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ma éjfélig még van esélyed: 60 SZIN-jegyet upgrade-el VIP-re a Coca-Cola Szegeden!",
-      "url": "https://szeged365.hu/2026/08/15/ma-ejfelig-meg-van-eselyed-60-szin-jegyet-upgrade-el-vip-re-a-coca-cola-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-15T06:07:48.963649Z",
-      "published_at": "2026-08-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dóm, klinikák, Öreg Hölgy: mi lenne ma Szegedből, ha mindig a „túl drága” győzött volna?",
-      "url": "https://szeged365.hu/2026/08/15/dom-klinikak-oreg-holgy-mi-lenne-ma-szegedbol-ha-mindig-a-tul-draga-gyozott-volna/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-17T06:03:49.004706Z"
+  "updated_at": "2026-08-17T09:04:48.988025Z"
 }

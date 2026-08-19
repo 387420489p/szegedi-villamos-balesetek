@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-19T06:07:48.995605Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kihagyhatatlan program, a kosárlabda szerelmeseinek: idén is jön a Szeged Streetball Fesztivál",
+      "url": "https://szeged365.hu/2026/08/19/kihagyhatatlan-program-a-kosarlabda-szerelmeseinek-iden-is-jon-a-szeged-streetball-fesztival/"
+    },
+    {
+      "first_seen": "2026-08-19T06:07:48.995605Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt kisfiú keresésében vett részt a DORT Speciális Mentőszolgálat, a gyermeket végül Romániában találták meg",
+      "url": "https://szeged365.hu/2026/08/19/eltunt-kisfiu-kereseseben-vett-reszt-a-dort-specialis-mentoszolgalat-a-gyermeket-vegul-romaniaban-talaltak-meg/"
+    },
+    {
+      "first_seen": "2026-08-19T06:07:48.995605Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Új időszámítás kezdődik Magyarországon: szerdán hivatalba lép az új köztársasági elnök, Baka András",
+      "url": "https://szeged365.hu/2026/08/19/uj-idoszamitas-kezdodik-magyarorszagon-szerdan-hivatalba-lep-az-uj-koztarsasagi-elnok-baka-andras/"
+    },
+    {
+      "first_seen": "2026-08-19T06:07:48.995605Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szerdán folytatódik a hőségmentesség Szegeden, és elkezdődik az államalapítás ünnepe a Széchenyi téren",
+      "url": "https://szeged365.hu/2026/08/19/napi-pakk-szerdan-lassan-visszater-a-hoseg-szegedre-es-elkezdodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
+    },
+    {
       "first_seen": "2026-08-18T18:06:48.991547Z",
       "published_at": "2026-08-18T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Idén már 23 csecsemő halt meg szifiliszben Magyarországon, több, mint tavaly egész évben",
       "url": "https://szeged365.hu/2026/08/18/iden-mar-23-csecsemo-halt-meg-szifiliszben-magyarorszagon-tobb-mint-tavaly-egesz-evben/"
-    },
-    {
-      "first_seen": "2026-08-18T06:01:48.992580Z",
-      "published_at": "2026-08-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden enyhül az idő a Szegeden, Edward Norton 57 éves lett",
-      "url": "https://szeged365.hu/2026/08/18/napi-pakk-kedden-enyhul-az-ido-a-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-17T18:00:48.975635Z",
-      "published_at": "2026-08-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Alakul a helyzet Pakson, emelkedett a vízszint, hamarosan visszakapcsolhatják a turbinákat (fotókkal)",
-      "url": "https://szeged365.hu/2026/08/17/alakul-a-helyzet-pakson-emelkedett-a-vizszint-hamarosan-visszakapcsolhatjak-a-turbinakat-fotokkal/"
-    },
-    {
-      "first_seen": "2026-08-17T18:00:48.975635Z",
-      "published_at": "2026-08-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Őrizetbe vették az M3-ason történt buszbaleset sofőrjét, nyomoznak a halálos tömegszerencsétlenség miatt",
-      "url": "https://szeged365.hu/2026/08/17/orizetbe-vettek-az-m3-ason-tortent-buszbaleset-soforjet-nyomoznak-a-halalos-tomegszerencsetlenseg-miatt/"
-    },
-    {
-      "first_seen": "2026-08-17T18:00:48.975635Z",
-      "published_at": "2026-08-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szuper volt az első versenynap: öt magyar érem született az egyetemi VB-n Szegeden",
-      "url": "https://szeged365.hu/2026/08/17/szuper-volt-az-elso-versenynap-ot-magyar-erem-szuletett-az-egyetemi-vb-n-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-18T18:06:48.991547Z"
+  "updated_at": "2026-08-19T06:07:48.995605Z"
 }

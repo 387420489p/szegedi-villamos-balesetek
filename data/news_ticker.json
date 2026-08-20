@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-20T18:03:48.972151Z",
+      "published_at": "2026-08-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Pénteken is kánikula várható Szegeden",
+      "url": "https://szeged365.hu/2026/08/20/penteken-is-kanikula-varhato-szegeden/"
+    },
+    {
       "first_seen": "2026-08-20T15:09:48.972340Z",
       "published_at": "2026-08-19T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Autó és rolleres ütközött Szegeden – a rendőrség már a helyszínen van",
       "url": "https://szeged365.hu/2026/08/19/auto-es-rolleres-utkozott-szegeden-a-rendorseg-mar-a-helyszinen-van/"
-    },
-    {
-      "first_seen": "2026-08-19T12:04:48.953731Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Használt autó lutri nélkül: ezért választják a szegediek a Das WeltAuto kínálatát a Porsche Szegednél",
-      "url": "https://szeged365.hu/2026/08/19/hasznalt-auto-lutri-nelkul-ezert-valasztjak-a-szegediek-a-das-weltauto-kinalatat-a-porsche-szegednel/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-20T15:09:48.972340Z"
+  "updated_at": "2026-08-20T18:03:48.972151Z"
 }

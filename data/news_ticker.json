@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-20T09:01:48.978998Z",
+      "published_at": "2026-08-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási mentőakció Szegeden – a mentők újraélesztették, majd a tűzoltók az ablakon át mentették ki a negyedikről",
+      "url": "https://szeged365.hu/2026/08/20/oriasi-mentoakcio-szegeden-a-mentok-ujraelesztettek-majd-a-tuzoltok-az-ablakon-at-mentettek-ki-a-negyedikrol/"
+    },
+    {
+      "first_seen": "2026-08-20T09:01:48.978998Z",
+      "published_at": "2026-08-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Miért ünneplünk augusztus 20-án? A tűzijátékon túl ez Szent István napjának valódi története",
+      "url": "https://szeged365.hu/2026/08/20/miert-unneplunk-augusztus-20-an-a-tuzijatekon-tul-ez-szent-istvan-napjanak-valodi-tortenete/"
+    },
+    {
+      "first_seen": "2026-08-20T09:01:48.978998Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Náksi, Katus Attila és egy nagy, közös, nemes cél – már csak 30 nap és itt a 2026-os Continental Futófesztivál!",
+      "url": "https://szeged365.hu/2026/08/20/naksi-katus-attila-es-egy-nagy-kozos-nemes-cel-mar-csak-30-nap-es-itt-a-2026-os-continental-futofesztival/"
+    },
+    {
       "first_seen": "2026-08-20T06:05:49.000219Z",
       "published_at": "2026-08-20T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Komoly kihívást jelent a vízhiány és az aszály: már 1588 hektár halastó száradt ki, és 280 tonna hal pusztult el a magyar halgazdaságokban",
       "url": "https://szeged365.hu/2026/08/19/komoly-kihivast-jelent-a-vizhiany-es-az-aszaly-mar-1588-hektar-halasto-szaradt-ki-es-280-tonna-hal-pusztult-el-a-magyar-halgazdasagokban/"
-    },
-    {
-      "first_seen": "2026-08-19T09:08:48.989699Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Orvhalász áll bíróság elé Csongrád-Csanád vármegyében: dobóhálóval, engedély nélkül halászott a féri, majd elmenekült a halőrök elől",
-      "url": "https://szeged365.hu/2026/08/19/orvhalasz-all-birosag-ele-csongrad-csanad-varmegyeben-dobohaloval-engedely-nelkul-halaszott-a-feri-majd-elmenekult-a-halorok-elol/"
-    },
-    {
-      "first_seen": "2026-08-19T09:08:48.989699Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csőtörés miatt áll a víz a József Attila sugárúton",
-      "url": "https://szeged365.hu/2026/08/19/csotores-miatt-all-a-viz-a-jozsef-attila-sugaruton/"
-    },
-    {
-      "first_seen": "2026-08-19T09:08:48.989699Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sulikezdés, full extrás pizzákkal – csapj le a Margaréta kuponodra a Printkerben!",
-      "url": "https://szeged365.hu/2026/08/19/sulikezdes-full-extras-pizzakkal-csapj-le-a-margareta-kuponodra-a-printkerben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-20T06:05:49.000219Z"
+  "updated_at": "2026-08-20T09:01:48.978998Z"
 }

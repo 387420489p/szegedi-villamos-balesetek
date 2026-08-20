@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-20T06:05:49.000219Z",
+      "published_at": "2026-08-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: Isten éltessen Magyarország! Izzasztónak ígérkezik az államalapítás ünnepe Szegeden, de koncertek és tűzijáték is lesz a Széchényi téren",
+      "url": "https://szeged365.hu/2026/08/20/napi-pakk-isten-eltessen-magyarorszag-izzasztonak-igerkezik-az-allamalapitas-unnepe-szegeden-de-koncertek-es-tuzijatek-is-lesz-a-szechenyi-teren/"
+    },
+    {
       "first_seen": "2026-08-19T18:06:48.968437Z",
       "published_at": "2026-08-18T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Sulikezdés, full extrás pizzákkal – csapj le a Margaréta kuponodra a Printkerben!",
       "url": "https://szeged365.hu/2026/08/19/sulikezdes-full-extras-pizzakkal-csapj-le-a-margareta-kuponodra-a-printkerben/"
-    },
-    {
-      "first_seen": "2026-08-19T06:07:48.995605Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kihagyhatatlan program, a kosárlabda szerelmeseinek: idén is jön a Szeged Streetball Fesztivál",
-      "url": "https://szeged365.hu/2026/08/19/kihagyhatatlan-program-a-kosarlabda-szerelmeseinek-iden-is-jon-a-szeged-streetball-fesztival/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-19T18:06:48.968437Z"
+  "updated_at": "2026-08-20T06:05:49.000219Z"
 }

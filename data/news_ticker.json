@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szerdán folytatódik a hőségmentesség Szegeden, és elkezdődik az államalapítás ünnepe a Széchenyi téren",
+      "url": "https://szeged365.hu/2026/08/19/napi-pakk-szerdan-lassan-visszater-a-hoseg-szegedre-es-elkezdodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a hőség és az államalapítás ünnepe Szegeden, indul a Kövér Béla Bábszínház háromnapos fesztiválja",
+      "url": "https://szeged365.hu/2026/08/21/napi-pakk-folytatodik-a-hoseg-es-az-allamalapitas-unnepe-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A sikeres műtét után hosszú rehabilitáció vár a Szeged-Csanád GA támadójára",
+      "url": "https://szeged365.hu/2026/08/21/a-sikeres-mutet-utan-hosszu-rehabilitacio-var-a-szeged-csanad-ga-tamadojara/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tarolt a Bíborfehér – rekordmennyiségű Ország Tortája fogyott a szegedi Reök Cukrászda tripla helyszínén",
+      "url": "https://szeged365.hu/2026/08/21/tarolt-a-biborfeher-rekordmennyisegu-orszag-tortaja-fogyott-a-szegedi-reok-cukraszda-tripla-helyszinen/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Páratlan hangulat, közös ünneplés: ilyen volt 2026-ban az augusztus 20-i tűzijáték, meghoztuk az aftermovie-t",
+      "url": "https://szeged365.hu/2026/08/21/paratlan-hangulat-kozos-unneples-ilyen-volt-2026-ban-az-augusztus-20-i-tuzijatek-meghoztuk-az-aftermovie-t/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Egerek, csótányok, hányás, pisi szag!” – A Szeged365 Family egyik tagja fotókon mutatta meg, milyen látvány fogadta Szegeden (fotókkal)",
+      "url": "https://szeged365.hu/2026/08/21/egerek-csotanyok-hanyas-pisi-szag-a-szeged365-family-egyik-tagja-fotokon-mutatta-meg-milyen-latvany-fogadta-szegeden-fotokkal/"
+    },
+    {
+      "first_seen": "2026-08-21T15:09:48.971592Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lehet, hogy nem lesz több tűzijáték? Ősszel napirendre kerülhet a közgyűlésben Szeged tűzijáték-mentessége",
+      "url": "https://szeged365.hu/2026/08/21/lehet-hogy-nem-lesz-tobb-tuzijatek-peticiot-inditottak-osszel-a-kozgyules-ele-kerulhet-a-tuzijatekmentes-szeged-ugye/"
+    },
+    {
       "first_seen": "2026-08-21T12:08:48.980304Z",
       "published_at": "2026-08-21T00:00:00",
       "reason": "prefiltered",
@@ -39,14 +95,6 @@
       "source_name": "Szeged365",
       "title": "Légy résen! Egyre gyakoribbak a magukat adománygyűjtőnek álcázó csalók Szegeden és környékén",
       "url": "https://szeged365.hu/2026/08/21/legy-resen-egyre-gyakoribbak-a-magukat-adomanygyujtonek-alcazo-csalok-szegeden-es-kornyeken/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szerdán folytatódik a hőségmentesség Szegeden, és elkezdődik az államalapítás ünnepe a Széchenyi téren",
-      "url": "https://szeged365.hu/2026/08/19/napi-pakk-szerdan-lassan-visszater-a-hoseg-szegedre-es-elkezdodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
     },
     {
       "first_seen": "2026-08-21T09:08:48.965030Z",
@@ -143,14 +191,6 @@
       "source_name": "Szeged365",
       "title": "Országjárásra indul a Tisza-kormány, Szegedre is ellátogat Magyar Péter",
       "url": "https://szeged365.hu/2026/08/21/orszagjarasra-indul-a-tisza-kormany-szegedre-is-ellatogat-magyar-peter/"
-    },
-    {
-      "first_seen": "2026-08-21T06:01:49.026836Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a hőség és az államalapítás ünnepe Szegeden, indul a Kövér Béla Bábszínház háromnapos fesztiválja",
-      "url": "https://szeged365.hu/2026/08/21/napi-pakk-folytatodik-a-hoseg-es-az-allamalapitas-unnepe-szegeden/"
     },
     {
       "first_seen": "2026-08-21T06:01:49.026836Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ünnepi Magyar Közlöny: maximálták az állami cégek vezetőinek díjazását",
       "url": "https://szeged365.hu/2026/08/20/unnepi-magyar-kozlony-maximaltak-az-allami-cegek-vezetoinek-dijazasat/"
-    },
-    {
-      "first_seen": "2026-08-20T12:03:49.021774Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csőtörés miatt áll a víz a József Attila sugárúton (frissítve)",
-      "url": "https://szeged365.hu/2026/08/19/csotores-miatt-all-a-viz-a-jozsef-attila-sugaruton/"
-    },
-    {
-      "first_seen": "2026-08-20T09:01:48.978998Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási mentőakció Szegeden – a mentők újraélesztették, majd a tűzoltók az ablakon át mentették ki a negyedikről",
-      "url": "https://szeged365.hu/2026/08/20/oriasi-mentoakcio-szegeden-a-mentok-ujraelesztettek-majd-a-tuzoltok-az-ablakon-at-mentettek-ki-a-negyedikrol/"
-    },
-    {
-      "first_seen": "2026-08-20T09:01:48.978998Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Miért ünneplünk augusztus 20-án? A tűzijátékon túl ez Szent István napjának valódi története",
-      "url": "https://szeged365.hu/2026/08/20/miert-unneplunk-augusztus-20-an-a-tuzijatekon-tul-ez-szent-istvan-napjanak-valodi-tortenete/"
-    },
-    {
-      "first_seen": "2026-08-20T09:01:48.978998Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Náksi, Katus Attila és egy nagy, közös, nemes cél – már csak 30 nap és itt a 2026-os Continental Futófesztivál!",
-      "url": "https://szeged365.hu/2026/08/20/naksi-katus-attila-es-egy-nagy-kozos-nemes-cel-mar-csak-30-nap-es-itt-a-2026-os-continental-futofesztival/"
-    },
-    {
-      "first_seen": "2026-08-20T06:05:49.000219Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: Isten éltessen Magyarország! Izzasztónak ígérkezik az államalapítás ünnepe Szegeden, de koncertek és tűzijáték is lesz a Széchényi téren",
-      "url": "https://szeged365.hu/2026/08/20/napi-pakk-isten-eltessen-magyarorszag-izzasztonak-igerkezik-az-allamalapitas-unnepe-szegeden-de-koncertek-es-tuzijatek-is-lesz-a-szechenyi-teren/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-21T12:08:48.980304Z"
+  "updated_at": "2026-08-21T15:09:48.971592Z"
 }

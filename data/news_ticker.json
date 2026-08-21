@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem csak stroke után segíthet: új rehabilitációs lehetőség nyílt Szegeden a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/08/19/nem-csak-stroke-utan-segithet-uj-rehabilitacios-lehetoseg-nyilt-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi siker az egyetemi kajak- kenu VB-n: Gyányi Levente és társa világbajnoki ezüstérmes! (videó)",
+      "url": "https://szeged365.hu/2026/08/18/oriasi-szegedi-siker-az-egyetemi-kajak-kenu-vb-n-gyani-levente-es-tarsa-vilagbajnoki-ezustermes-video/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Méltán büszkék lehetünk: a Szegedi Nemzeti Színház karmestere, és az SZTE TTIK docense is állami kitüntetésben részesült",
+      "url": "https://szeged365.hu/2026/08/21/meltan-buszkek-lehetunk-a-szegedi-nemzeti-szinhaz-karmestere-es-az-szte-ttik-docense-is-allami-kituntetesben-reszesult/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hamarosan megszűnhet a bosszantó dugó: az utolsó simítások zajlanak az 5-ös út bevezető szakaszának bővítésén Szegeden",
+      "url": "https://szeged365.hu/2026/08/21/hamarosan-megszunhet-a-bosszanto-dugo-az-utolso-simitasok-zajlanak-az-5-os-ut-bevezeto-szakaszanak-bovitesen-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Országjárásra indul a Tisza-kormány, Szegedre is ellátogat Magyar Péter",
+      "url": "https://szeged365.hu/2026/08/21/orszagjarasra-indul-a-tisza-kormany-szegedre-is-ellatogat-magyar-peter/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a hőség és az államalapítás ünnepe Szegeden, indul a Kövér Béla Bábszínház háromnapos fesztiválja",
+      "url": "https://szeged365.hu/2026/08/21/napi-pakk-folytatodik-a-hoseg-es-az-allamalapitas-unnepe-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: Wicked premier, Szuperkupa, autócsodák az Árkádban és végtelen mennyiségű buli – mutatjuk a hétvégi menetrendet Szegeden!",
+      "url": "https://szeged365.hu/2026/08/14/szeged365-kikapcs-wicked-premier-szuperkupa-autocsodak-az-arkadban-es-vegtelen-mennyisegu-buli-mutatjuk-a-hetvegi-menetrendet-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-21T06:01:49.026836Z",
+      "published_at": "2026-08-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: 34 fokkal támad a kánikula, születésnapos Madonna",
+      "url": "https://szeged365.hu/2026/08/16/napi-pakk-34-fokkal-tamad-a-kanikula-szuletesnapos-madonna/"
+    },
+    {
       "first_seen": "2026-08-20T18:03:48.972151Z",
       "published_at": "2026-08-20T00:00:00",
       "reason": "prefiltered",
@@ -47,14 +111,6 @@
       "source_name": "Szeged365",
       "title": "Elhunyt Gila Ferenc egykori szegedi önkormányzati képviselő, az Örökös Petőfitelepért-díj kitüntetettje",
       "url": "https://szeged365.hu/2026/08/20/elhunyt-gila-ferenc-egykori-szegedi-onkormanyzati-kepviselo-az-orokos-petofitelepert-dij-kituntetettje/"
-    },
-    {
-      "first_seen": "2026-08-20T12:03:49.021774Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem csak stroke után segíthet: új rehabilitációs lehetőség nyílt Szegeden a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/08/19/nem-csak-stroke-utan-segithet-uj-rehabilitacios-lehetoseg-nyilt-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
     },
     {
       "first_seen": "2026-08-20T12:03:49.021774Z",
@@ -170,14 +226,6 @@
     },
     {
       "first_seen": "2026-08-19T18:06:48.968437Z",
-      "published_at": "2026-08-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási szegedi siker az egyetemi kajak- kenu VB-n: Gyáni Levente és társa világbajnoki ezüstérmes! (videó)",
-      "url": "https://szeged365.hu/2026/08/18/oriasi-szegedi-siker-az-egyetemi-kajak-kenu-vb-n-gyani-levente-es-tarsa-vilagbajnoki-ezustermes-video/"
-    },
-    {
-      "first_seen": "2026-08-19T18:06:48.968437Z",
       "published_at": "2026-08-19T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Csak itt kóstolhatod meg: leteszteltük a Napfény Műterem saját Flamingó koktélját Szegeden (videó)",
       "url": "https://szeged365.hu/2026/08/19/csak-itt-kostolhatod-meg-leteszteltuk-a-napfeny-muterem-sajat-flamingo-kokteljat-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-19T15:06:48.974322Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszüntették a nyomozást az aranykonvoj-ügyben – a NAV szerint nem volt pénzmosás",
-      "url": "https://szeged365.hu/2026/08/19/megszuntettek-a-nyomozast-az-aranykonvoj-ugyben-a-nav-szerint-nem-volt-penzmosas/"
-    },
-    {
-      "first_seen": "2026-08-19T15:06:48.974322Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Zendülés, pókember, taxisofőr – mutatjuk, milyen filmeket nézhetünk a Belvárosi Moziban a hosszú hétvége alatt",
-      "url": "https://szeged365.hu/2026/08/19/zendules-pokember-taxisofor-mutatjuk-milyen-filmeket-nezhetunk-a-belvarosi-moziban-a-hosszu-hetvege-alatt/"
-    },
-    {
-      "first_seen": "2026-08-19T15:06:48.974322Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új helyre költözik a Szegedi Törvényszék és a Szegedi Járásbíróság több szervezeti egysége",
-      "url": "https://szeged365.hu/2026/08/19/uj-helyre-koltozik-a-szegedi-torvenyszek-es-a-szegedi-jarasbirosag-tobb-szervezeti-egysege/"
-    },
-    {
-      "first_seen": "2026-08-19T12:04:48.953731Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Harmadjára is az élen! Az SZTE idén is a legjobb magyar egyetem lett az ARWU rangsor szerint",
-      "url": "https://szeged365.hu/2026/08/19/harmadjara-is-az-elen-az-szte-iden-is-a-legjobb-magyar-egyetem-lett-az-arwu-rangsor-szerint/"
-    },
-    {
-      "first_seen": "2026-08-19T12:04:48.953731Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt az M43-ason Szeged térségében – a forgalmat megállították (frissítve)",
-      "url": "https://szeged365.hu/2026/08/19/baleset-tortent-az-m43-ason-szeged-tersegeben-a-forgalmat-megallitottak/"
-    },
-    {
-      "first_seen": "2026-08-19T12:04:48.953731Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Autó és rolleres ütközött Szegeden – a rendőrség már a helyszínen van",
-      "url": "https://szeged365.hu/2026/08/19/auto-es-rolleres-utkozott-szegeden-a-rendorseg-mar-a-helyszinen-van/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-20T18:03:48.972151Z"
+  "updated_at": "2026-08-21T06:01:49.026836Z"
 }

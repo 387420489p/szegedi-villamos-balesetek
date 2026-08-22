@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-22T09:06:48.977611Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét balesetet okozott egy rolleres, ezúttal Kiskundorozsmán – majd elhajtott a helyszínről",
+      "url": "https://szeged365.hu/2026/08/22/ismet-balesetet-okozott-egy-rolleres-ezuttal-kiskundorozsman-majd-elhajtott-a-helyszinrol/"
+    },
+    {
+      "first_seen": "2026-08-22T09:06:48.977611Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb buszbaleset, most Debrecennél: tízen megsérültek, egy ember meghalt",
+      "url": "https://szeged365.hu/2026/08/22/ujabb-buszbaleset-most-debrecennel-tizen-megserultek-egy-ember-meghalt/"
+    },
+    {
       "first_seen": "2026-08-22T06:08:48.981825Z",
       "published_at": "2026-08-22T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegeden kezdte karrierjét a kínai női kézilabda válogatott új szövetségi kapitánya",
       "url": "https://szeged365.hu/2026/08/20/szegeden-kezdte-karrierjet-a-kinai-noi-kezilabda-valogatott-uj-szovetsegi-kapitanya/"
-    },
-    {
-      "first_seen": "2026-08-20T15:09:48.972340Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ismeretlen holttestet találtak Csongrád-Csanádban – a rendőrség a lakosság segítségét kéri",
-      "url": "https://szeged365.hu/2026/08/20/ismeretlen-holttestet-talaltak-csongrad-csanadban-a-rendorseg-a-lakossag-segitseget-keri/"
-    },
-    {
-      "first_seen": "2026-08-20T15:09:48.972340Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lázár János bejelentette lemondását",
-      "url": "https://szeged365.hu/2026/08/20/lazar-janos-bejelentette-lemondasat-2/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-22T06:08:48.981825Z"
+  "updated_at": "2026-08-22T09:06:48.977611Z"
 }

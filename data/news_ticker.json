@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-22T06:08:48.981825Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: a hosszú hétvége második felére egy kicsit visszaesik a hőmérséklet Szegeden, tovább folytatódik az államalapítás ünnepe a Széchenyi téren",
+      "url": "https://szeged365.hu/2026/08/22/napi-pakk-a-hosszu-hetvege-masodik-felere-egy-kicsit-visszaesik-a-homerseklet-szegeden-tovabb-folytatodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
+    },
+    {
+      "first_seen": "2026-08-22T06:08:48.981825Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jól indult, aztán fordított a német rekordbajnok: tízzel nyert a THW Kiel a PICK Szeged ellen",
+      "url": "https://szeged365.hu/2026/08/21/jol-indult-aztan-forditott-a-nemet-rekordbajnok-tizzel-nyert-a-thw-kiel-a-pick-szeged-ellen/"
+    },
+    {
       "first_seen": "2026-08-21T18:03:48.961313Z",
       "published_at": "2026-08-21T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Lázár János bejelentette lemondását",
       "url": "https://szeged365.hu/2026/08/20/lazar-janos-bejelentette-lemondasat-2/"
-    },
-    {
-      "first_seen": "2026-08-20T15:09:48.972340Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt Gila Ferenc egykori szegedi önkormányzati képviselő, az Örökös Petőfitelepért-díj kitüntetettje",
-      "url": "https://szeged365.hu/2026/08/20/elhunyt-gila-ferenc-egykori-szegedi-onkormanyzati-kepviselo-az-orokos-petofitelepert-dij-kituntetettje/"
-    },
-    {
-      "first_seen": "2026-08-20T12:03:49.021774Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ekkora kedvezmény idén már biztosan nem lesz a Szent Vincent Rehabilitációs Központban: most foglalj, és akár ősszel vagy télen is igénybe veheted Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/08/19/ekkora-kedvezmeny-iden-mar-biztosan-nem-lesz-a-szent-vincent-rehabilitacios-kozpontban-most-foglalj-es-akar-osszel-vagy-telen-is-igenybe-veheted-szegeden-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-21T18:03:48.961313Z"
+  "updated_at": "2026-08-22T06:08:48.981825Z"
 }

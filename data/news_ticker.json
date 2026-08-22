@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a hőség és az államalapítás ünnepe Szegeden, indul a Kövér Béla Bábszínház háromnapos fesztiválja",
+      "url": "https://szeged365.hu/2026/08/21/napi-pakk-folytatodik-a-hoseg-es-az-allamalapitas-unnepe-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 27 éves Csongrád-Csanád vármegyei fiatal – segítsünk megtalálni!",
+      "url": "https://szeged365.hu/2026/08/21/eltunt-egy-27-eves-szegedi-fiatal-segitsunk-megtalalni/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: hőlégballon Közép-Európa kupa, jóga a Laposon, és még utoljára autócsodák az Árkádban – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
+      "url": "https://szeged365.hu/2026/08/21/szeged365-kikapcs-holegballon-kozep-europa-kupa-joga-a-laposon-es-meg-utoljara-autocsodak-az-arkadban-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Légy résen! Egyre gyakoribbak a magukat adománygyűjtőnek álcázó csalók Szegeden és környékén",
+      "url": "https://szeged365.hu/2026/08/21/legy-resen-egyre-gyakoribbak-a-magukat-adomanygyujtonek-alcazo-csalok-szegeden-es-kornyeken/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ez a hidegfront sem hozott esőt Szegedre – ez lehet a magyarázat",
+      "url": "https://szeged365.hu/2026/08/22/ez-a-hidegfront-sem-hozott-esot-szegedre-ez-lehet-a-magyarazat/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két nap alatt kattant a bilincs a bringatolvaj csuklóján",
+      "url": "https://szeged365.hu/2026/08/22/ket-nap-alatt-kattant-a-bilincs-a-bringatolvaj-csuklojan/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kapitány István: közel 500 milliárd forintból fejleszti a kormány a villamosenergia-hálózatot, jönnek az okosmérők",
+      "url": "https://szeged365.hu/2026/08/22/kapitany-istvan-kozel-500-milliard-forintbol-fejleszti-a-kormany-a-villamosenergia-halozatot-jonnek-az-okosmerok/"
+    },
+    {
+      "first_seen": "2026-08-22T12:08:49.009185Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt az M43-ason, hatalmas a torlódás (videó)",
+      "url": "https://szeged365.hu/2026/08/22/baleset-tortent-az-m43-on-hatalmas-a-torlodas/"
+    },
+    {
       "first_seen": "2026-08-22T09:06:48.977611Z",
       "published_at": "2026-08-22T00:00:00",
       "reason": "prefiltered",
@@ -101,14 +165,6 @@
       "published_at": "2026-08-21T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a hőség és az államalapítás ünnepe Szegeden, indul a Kövér Béla Bábszínház háromnapos fesztiválja",
-      "url": "https://szeged365.hu/2026/08/21/napi-pakk-folytatodik-a-hoseg-es-az-allamalapitas-unnepe-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "A sikeres műtét után hosszú rehabilitáció vár a Szeged-Csanád GA támadójára",
       "url": "https://szeged365.hu/2026/08/21/a-sikeres-mutet-utan-hosszu-rehabilitacio-var-a-szeged-csanad-ga-tamadojara/"
     },
@@ -157,32 +213,8 @@
       "published_at": "2026-08-21T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Eltűnt egy 27 éves szegedi fiatal – segítsünk megtalálni!",
-      "url": "https://szeged365.hu/2026/08/21/eltunt-egy-27-eves-szegedi-fiatal-segitsunk-megtalalni/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: hőlégballon Közép-Európa kupa, jóga a Laposon, és még utoljára autócsodák az Árkádban – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
-      "url": "https://szeged365.hu/2026/08/21/szeged365-kikapcs-holegballon-kozep-europa-kupa-joga-a-laposon-es-meg-utoljara-autocsodak-az-arkadban-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Ünnepi autósüldözés Magyarországon – több rendőrautó is összetört",
       "url": "https://szeged365.hu/2026/08/21/unnepi-autosuldozes-magyarorszagon-tobb-rendorauto-is-osszetort/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Légy résen! Egyre gyakoribbak a magukat adománygyűjtőnek álcázó csalók Szegeden és környékén",
-      "url": "https://szeged365.hu/2026/08/21/legy-resen-egyre-gyakoribbak-a-magukat-adomanygyujtonek-alcazo-csalok-szegeden-es-kornyeken/"
     },
     {
       "first_seen": "2026-08-21T09:08:48.965030Z",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs: Wicked premier, Szuperkupa, autócsodák az Árkádban és végtelen mennyiségű buli – mutatjuk a hétvégi menetrendet Szegeden!",
       "url": "https://szeged365.hu/2026/08/14/szeged365-kikapcs-wicked-premier-szuperkupa-autocsodak-az-arkadban-es-vegtelen-mennyisegu-buli-mutatjuk-a-hetvegi-menetrendet-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-21T06:01:49.026836Z",
-      "published_at": "2026-08-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: 34 fokkal támad a kánikula, születésnapos Madonna",
-      "url": "https://szeged365.hu/2026/08/16/napi-pakk-34-fokkal-tamad-a-kanikula-szuletesnapos-madonna/"
-    },
-    {
-      "first_seen": "2026-08-20T18:03:48.972151Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Pénteken is kánikula várható Szegeden",
-      "url": "https://szeged365.hu/2026/08/20/penteken-is-kanikula-varhato-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-20T15:09:48.972340Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Furcsa busz érkezett Szegedre – utasai délelőtt óta a Napfény Park melett időznek",
-      "url": "https://szeged365.hu/2026/08/19/furcsa-busz-erkezett-szegedre-utasai-delelott-ota-a-napfeny-park-melett-idoznek/"
-    },
-    {
-      "first_seen": "2026-08-20T15:09:48.972340Z",
-      "published_at": "2026-08-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden kezdte karrierjét a kínai női kézilabda válogatott új szövetségi kapitánya",
-      "url": "https://szeged365.hu/2026/08/20/szegeden-kezdte-karrierjet-a-kinai-noi-kezilabda-valogatott-uj-szovetsegi-kapitanya/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-22T09:06:48.977611Z"
+  "updated_at": "2026-08-22T12:08:49.009185Z"
 }

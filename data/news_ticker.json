@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-22T18:00:48.962796Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap is marad a kellemes, nyári meleg Szegeden",
+      "url": "https://szeged365.hu/2026/08/22/vasarnap-is-marad-a-kellemes-nyari-meleg-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-22T18:00:48.962796Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Lakat T. Károly sportújságíró, a Nap TV főszerkesztője",
+      "url": "https://szeged365.hu/2026/08/22/elhunyt-lakat-t-karoly-sportujsagiro-a-nap-tv-foszerkesztoje/"
+    },
+    {
       "first_seen": "2026-08-22T15:02:48.979308Z",
       "published_at": "2026-08-22T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Elhunyt az SZTE Mezőgazdasági Karának idén végzett növényorvos hallgatója",
       "url": "https://szeged365.hu/2026/08/21/elhunyt-az-szte-mezogazdasagi-karanak-iden-vegzett-novenyorvos-hallgatoja/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A nemzeti ünnepen sem pihentek a tűzoltók Csongrád-Csanád vármegyében: tüzet okozott egy elektromos vezetékre dőlt fa Sándorfalván, de Öttömösnél is égett az aljnövényzet",
-      "url": "https://szeged365.hu/2026/08/21/nem-volt-esemenytelen-a-nemzeti-unnep-csongrad-csanad-varmegyeben-tuzet-okozott-egy-elektromos-vezetekre-dolt-fa-sandorfalvan-majd-kigyulladt-az-akacos-erdo-aljnovenyzete-ottomosnel/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kielben jön a főpróba: a négyszeres BL-győztes otthonában zárja a felkészülést az OTP Bank-PICK Szeged",
-      "url": "https://szeged365.hu/2026/08/21/kielben-jon-a-foproba-a-negyszeres-bl-gyoztes-otthonaban-zarja-a-felkeszulest-az-otp-bank-pick-szeged/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-22T15:02:48.979308Z"
+  "updated_at": "2026-08-22T18:00:48.962796Z"
 }

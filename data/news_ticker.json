@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-23T12:08:49.001230Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tombol a szárazság: Szegeden már 204 mm víz hiányzik a földből!",
+      "url": "https://szeged365.hu/2026/08/23/tombol-a-szarazsag-szegeden-mar-204-mm-viz-hianyzik-a-foldbol/"
+    },
+    {
+      "first_seen": "2026-08-23T12:08:49.001230Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több autó karambolozott az M5-ösön",
+      "url": "https://szeged365.hu/2026/08/23/tobb-auto-karambolozott-az-m5-oson/"
+    },
+    {
+      "first_seen": "2026-08-23T12:08:49.001230Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Remek hétvégét zártak a Hőlégballon Közép- Európa Kupa versenyzői Szeged térségében (galéria)",
+      "url": "https://szeged365.hu/2026/08/23/remek-hetveget-zartak-a-holegballon-kozep-europa-kupa-versenyzoi-szeged-tersegeben-galeria/"
+    },
+    {
+      "first_seen": "2026-08-23T12:08:49.001230Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 17 éves szegedi lány, segítsünk megtalálni! (fotó)",
+      "url": "https://szeged365.hu/2026/08/23/eltunt-egy-17-eves-szegedi-lany-segitsunk-megtalalni-foto/"
+    },
+    {
       "first_seen": "2026-08-23T09:04:48.980645Z",
       "published_at": "2026-08-23T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: szerdán folytatódik a hőségmentesség Szegeden, és elkezdődik az államalapítás ünnepe a Széchenyi téren",
       "url": "https://szeged365.hu/2026/08/19/napi-pakk-szerdan-lassan-visszater-a-hoseg-szegedre-es-elkezdodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A sikeres műtét után hosszú rehabilitáció vár a Szeged-Csanád GA támadójára",
-      "url": "https://szeged365.hu/2026/08/21/a-sikeres-mutet-utan-hosszu-rehabilitacio-var-a-szeged-csanad-ga-tamadojara/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tarolt a Bíborfehér – rekordmennyiségű Ország Tortája fogyott a szegedi Reök Cukrászda tripla helyszínén",
-      "url": "https://szeged365.hu/2026/08/21/tarolt-a-biborfeher-rekordmennyisegu-orszag-tortaja-fogyott-a-szegedi-reok-cukraszda-tripla-helyszinen/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Páratlan hangulat, közös ünneplés: ilyen volt 2026-ban az augusztus 20-i tűzijáték, meghoztuk az aftermovie-t",
-      "url": "https://szeged365.hu/2026/08/21/paratlan-hangulat-kozos-unneples-ilyen-volt-2026-ban-az-augusztus-20-i-tuzijatek-meghoztuk-az-aftermovie-t/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Egerek, csótányok, hányás, pisi szag!” – A Szeged365 Family egyik tagja fotókon mutatta meg, milyen látvány fogadta Szegeden (fotókkal)",
-      "url": "https://szeged365.hu/2026/08/21/egerek-csotanyok-hanyas-pisi-szag-a-szeged365-family-egyik-tagja-fotokon-mutatta-meg-milyen-latvany-fogadta-szegeden-fotokkal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-23T09:04:48.980645Z"
+  "updated_at": "2026-08-23T12:08:49.001230Z"
 }

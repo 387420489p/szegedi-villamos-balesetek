@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-23T09:04:48.980645Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Veterán autók lepték el Szeged szomszédját, Makót – mi is bepattantunk egy Ford T-modellbe! (videók)",
+      "url": "https://szeged365.hu/2026/08/23/veteran-autok-leptek-el-szeged-szomszedjat-makot-mi-is-bepattantunk-egy-ford-t-modellbe-videok/"
+    },
+    {
+      "first_seen": "2026-08-23T09:04:48.980645Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: már négy turbina termel a nyolcból Pakson (videó) (frissítve)",
+      "url": "https://szeged365.hu/2026/08/23/magyar-peter-mar-negy-turbina-termel-a-nyolcbol-pakson-video/"
+    },
+    {
+      "first_seen": "2026-08-23T09:04:48.980645Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Oszter Sándor özvegye, Failoni Donatella",
+      "url": "https://szeged365.hu/2026/08/23/elhunyt-oszter-sandor-ozvegye-failoni-donatella/"
+    },
+    {
+      "first_seen": "2026-08-23T09:04:48.980645Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Különleges látványosság: Black Hawk helikopterek landoltak a Szegedi Reptéren (galéria + videó)",
+      "url": "https://szeged365.hu/2026/08/23/kulonleges-latvanyossag-black-hawk-helikopterek-landoltak-a-szegedi-repteren-galeria-video/"
+    },
+    {
       "first_seen": "2026-08-23T06:02:48.988913Z",
       "published_at": "2026-08-23T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Egerek, csótányok, hányás, pisi szag!” – A Szeged365 Family egyik tagja fotókon mutatta meg, milyen látvány fogadta Szegeden (fotókkal)",
       "url": "https://szeged365.hu/2026/08/21/egerek-csotanyok-hanyas-pisi-szag-a-szeged365-family-egyik-tagja-fotokon-mutatta-meg-milyen-latvany-fogadta-szegeden-fotokkal/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lehet, hogy nem lesz több tűzijáték? Ősszel napirendre kerülhet a közgyűlésben Szeged tűzijáték-mentessége",
-      "url": "https://szeged365.hu/2026/08/21/lehet-hogy-nem-lesz-tobb-tuzijatek-peticiot-inditottak-osszel-a-kozgyules-ele-kerulhet-a-tuzijatekmentes-szeged-ugye/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Veretés helyett egy kis közös flesselés!” – rögtönzött The Biebers x Hűvös akusztik koncert várja a szegedieket",
-      "url": "https://szeged365.hu/2026/08/21/veretes-helyett-egy-kis-kozos-flesseles-rogtonzott-the-biebers-x-huvos-akusztik-koncert-varja-a-szegedieket/"
-    },
-    {
-      "first_seen": "2026-08-21T12:08:48.980304Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ünnepi autósüldözés Magyarországon – több rendőrautó is összetört",
-      "url": "https://szeged365.hu/2026/08/21/unnepi-autosuldozes-magyarorszagon-tobb-rendorauto-is-osszetort/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csehországból lopott, közel 30 millió forint értékű körözött műszaki cikkeket foglaltak le a rendőrök Csongrád-Csanád vármegyében",
-      "url": "https://szeged365.hu/2026/08/21/csehorszagbol-lopott-kozel-30-millio-forint-erteku-korozott-muszaki-cikkeket-foglaltak-le-a-rendorok-csongrad-csanad-varmegyeben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-23T06:02:48.988913Z"
+  "updated_at": "2026-08-23T09:04:48.980645Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-23T18:02:48.984564Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A hét elején még kellemes idő lesz Szegeden",
+      "url": "https://szeged365.hu/2026/08/23/a-het-elejen-meg-nem-ter-vissza-a-kanikula-szegedre/"
+    },
+    {
       "first_seen": "2026-08-23T15:02:48.960571Z",
       "published_at": "2026-08-23T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megvan, mikor jön az ősz nagy szegedi borozása: itt a 14. Bor tér részletes programja!",
       "url": "https://szeged365.hu/2026/08/21/megvan-mikor-jon-az-osz-nagy-szegedi-borozasa-itt-a-14-bor-ter-reszletes-programja/"
-    },
-    {
-      "first_seen": "2026-08-21T18:03:48.961313Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mi csak a füstszagot érezzük Szegeden, de a szomszédban pokoli tűzzel harcolnak (fotókkal)",
-      "url": "https://szeged365.hu/2026/08/21/mi-csak-a-fustszagot-erezzuk-szegeden-de-a-szomszedban-pokoli-tuzzel-harcolnak-fotokkal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-23T15:02:48.960571Z"
+  "updated_at": "2026-08-23T18:02:48.984564Z"
 }

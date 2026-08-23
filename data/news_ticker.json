@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-23T15:02:48.960571Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Az én szívemig elért” – imádta a Wicked-et Barabás Éva műsorvezető is!",
+      "url": "https://szeged365.hu/2026/08/23/az-en-szivemig-elert-imadta-a-wicked-et-barabas-eva-musorvezeto-is/"
+    },
+    {
+      "first_seen": "2026-08-23T15:02:48.960571Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Valaki ma milliárdos lett: elvitték a hatoslottót!",
+      "url": "https://szeged365.hu/2026/08/23/valaki-ma-milliardos-lett-elvittek-a-hatoslottot/"
+    },
+    {
+      "first_seen": "2026-08-23T15:02:48.960571Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismételne a poznani vb-n Kiss Ágnes – a Szegedi VE sportolói nagy reményekkel indulnak a versenyen",
+      "url": "https://szeged365.hu/2026/08/23/ismetelne-a-poznani-vb-n-kiss-agnes-a-szegedi-ve-sportoloi-nagy-remenyekkel-indulnak-a-versenyen/"
+    },
+    {
+      "first_seen": "2026-08-23T15:02:48.960571Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Félek elaludni” – ijesztő jelenségekről számoltak be egy szegedi albérlet lakói",
+      "url": "https://szeged365.hu/2026/08/23/felek-elaludni-ijeszto-jelensegekrol-szamoltak-be-egy-szegedi-alberlet-lakoi/"
+    },
+    {
       "first_seen": "2026-08-23T12:08:49.001230Z",
       "published_at": "2026-08-23T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Mi csak a füstszagot érezzük Szegeden, de a szomszédban pokoli tűzzel harcolnak (fotókkal)",
       "url": "https://szeged365.hu/2026/08/21/mi-csak-a-fustszagot-erezzuk-szegeden-de-a-szomszedban-pokoli-tuzzel-harcolnak-fotokkal/"
-    },
-    {
-      "first_seen": "2026-08-21T18:03:48.961313Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kellemesebb, de még mindig nyárias idővel folytatódik a hosszú hétvége Szegeden",
-      "url": "https://szeged365.hu/2026/08/21/kellemesebb-de-meg-mindig-nyarias-idovel-folytatodik-a-hosszu-hetvege-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-21T18:03:48.961313Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi irányító a magyar röplabda-válogatottban: Kiss Nóra pályára lép az Európa-bajnokságon",
-      "url": "https://szeged365.hu/2026/08/21/szegedi-iranyito-a-magyar-roplabda-valogatottban-kiss-nora-palyara-lep-az-europa-bajnoksagon/"
-    },
-    {
-      "first_seen": "2026-08-21T18:03:48.961313Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt egy 15 éves szegedi fiú, a rendőrök a lakosság segítségét kérik a megtalásában",
-      "url": "https://szeged365.hu/2026/08/21/eltunt-egy-15-eves-szegedi-fiu-a-rendorok-a-lakossag-segitseget-kerik-a-megtalasaban/"
-    },
-    {
-      "first_seen": "2026-08-21T15:09:48.971592Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szerdán folytatódik a hőségmentesség Szegeden, és elkezdődik az államalapítás ünnepe a Széchenyi téren",
-      "url": "https://szeged365.hu/2026/08/19/napi-pakk-szerdan-lassan-visszater-a-hoseg-szegedre-es-elkezdodik-az-allamalapitas-unnepe-a-szechenyi-teren/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-23T12:08:49.001230Z"
+  "updated_at": "2026-08-23T15:02:48.960571Z"
 }

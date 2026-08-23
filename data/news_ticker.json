@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-23T06:02:48.988913Z",
+      "published_at": "2026-08-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes idővel folytatódik a nyár, koncertek és bábfesztivál vár Szegeden!",
+      "url": "https://szeged365.hu/2026/08/23/napi-pakk-kellemes-idovel-folytatodik-a-nyar-koncertek-es-babfesztival-var-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-23T06:02:48.988913Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Száz év után ismét Ford-Karaván van Szeged mellett: egy eredeti T-modellből mesélt az elnök, aztán beindítottuk a legendát (videó)",
+      "url": "https://szeged365.hu/2026/08/22/szaz-ev-utan-ismet-ford-karavan-van-szeged-mellett-egy-eredeti-t-modellbol-meselt-az-elnok-aztan-beinditottuk-a-legendat-video/"
+    },
+    {
+      "first_seen": "2026-08-23T06:02:48.988913Z",
+      "published_at": "2026-08-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A hajrában robbant a szegedi öröm: hátrányból fordított a Grosics Kozármislenyben, megvan az első siker!",
+      "url": "https://szeged365.hu/2026/08/22/a-hajraban-robbant-a-szegedi-orom-hatranybol-forditott-a-grosics-kozarmislenyben-megvan-az-elso-siker/"
+    },
+    {
+      "first_seen": "2026-08-23T06:02:48.988913Z",
+      "published_at": "2026-08-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: zivatarokkal érkezhet a felfrissülés Szegedre, közben ikonikus autócsodák várnak az ÁRKÁD-ban",
+      "url": "https://szeged365.hu/2026/08/17/napi-pakk-zivatarokkal-erkezhet-a-felfrissules-szegedre-kozben-ikonikus-autocsodak-varnak-az-arkad-ban/"
+    },
+    {
       "first_seen": "2026-08-22T18:00:48.962796Z",
       "published_at": "2026-08-22T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Csehországból lopott, közel 30 millió forint értékű körözött műszaki cikkeket foglaltak le a rendőrök Csongrád-Csanád vármegyében",
       "url": "https://szeged365.hu/2026/08/21/csehorszagbol-lopott-kozel-30-millio-forint-erteku-korozott-muszaki-cikkeket-foglaltak-le-a-rendorok-csongrad-csanad-varmegyeben/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tikkasztó volt a csütörtök: Csongrád-Csanád vármegyei településen állt be a napi országos melegrekord",
-      "url": "https://szeged365.hu/2026/08/21/tikkaszto-volt-a-csutortok-csongrad-csanad-varmegyei-telepulesen-allt-be-a-napi-orszagos-melegrekord/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem hozott felfrissülést az éjszaka, csak füstszagot! Míg a Nyugat-Dunántúlt eső áztatta, addig a Dél-Alföldre 20-25 fok, és füst jutott",
-      "url": "https://szeged365.hu/2026/08/21/nem-hozott-felfrissulest-az-ejszaka-csak-fustszagot-mig-a-nyugat-dunantult-eso-aztatta-addig-a-del-alfoldre-20-25-fok-es-fust-jutott/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baktériumot találtak a Lidl egyik pudingjában, Szegeden is kivonják a forgalomból",
-      "url": "https://szeged365.hu/2026/08/21/bakteriumot-talaltak-a-lidl-egyik-pudingjaban-szegeden-is-kivonjak-a-forgalombol/"
-    },
-    {
-      "first_seen": "2026-08-21T09:08:48.965030Z",
-      "published_at": "2026-08-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt az SZTE Mezőgazdasági Karának idén végzett növényorvos hallgatója",
-      "url": "https://szeged365.hu/2026/08/21/elhunyt-az-szte-mezogazdasagi-karanak-iden-vegzett-novenyorvos-hallgatoja/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-22T18:00:48.962796Z"
+  "updated_at": "2026-08-23T06:02:48.988913Z"
 }

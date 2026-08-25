@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Őrület, de már csak 25 (!!) nap és jön a XIV. Bortér, mutatjuk az összes programot!",
+      "url": "https://szeged365.hu/2026/08/24/orulet-de-mar-csak-30-nap-es-jon-a-xiv-borter-mutatjuk-az-osszes-programot/"
+    },
+    {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztően büszkék vagyunk: Szegedről Svájcba viszik filmjüket, aztán itthon adnak lehetőséget a következő filmes generációnak (videó + galéria)",
+      "url": "https://szeged365.hu/2026/08/24/elkepesztoen-buszkek-vagyunk-szegedrol-svajcba-viszik-filmjuket-aztan-itthon-adnak-lehetoseget-a-kovetkezo-filmes-generacionak-video-galeria/"
+    },
+    {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "MÁV: rosszul lett egy utas a vonaton, késik a Napfény IC, pótlóbuszok közlekednek",
+      "url": "https://szeged365.hu/2026/08/25/mav-rosszul-lett-egy-utas-a-vonaton-kesik-a-napfeny-ic-potlobuszok-kozlekednek/"
+    },
+    {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi büszkeség: a PICK Szeged egykori játékosa bekerült a Hírességek Csarnokába",
+      "url": "https://szeged365.hu/2026/08/25/oriasi-szegedi-buszkeseg-a-pick-szeged-egykori-jatekosa-bekerult-a-hiressegek-csarnokaba/"
+    },
+    {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Monumentális balett-thriller: a Szegedi Kortárs Balett a Margitszigeten búcsúztatja a nyarat",
+      "url": "https://szeged365.hu/2026/08/25/monumentalis-balett-thriller-a-szegedi-kortars-balett-a-margitszigeten-bucsuztatja-a-nyarat/"
+    },
+    {
+      "first_seen": "2026-08-25T15:04:49.007206Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több ezer rászoruló szegedi karácsonyát teheti könnyebbé az önkormányzat – mutatjuk, hogyan lehet pályázni a tartósélelmiszer-csomagokra!",
+      "url": "https://szeged365.hu/2026/08/25/tobb-ezer-raszorulo-szegedi-karacsonyat-teheti-konnyebbe-az-onkormanyzat-mutatjuk-hogyan-lehet-palyazni-a-tartoselelmiszer-csomagokra/"
+    },
+    {
       "first_seen": "2026-08-25T12:05:48.980744Z",
       "published_at": "2026-08-24T00:00:00",
       "reason": "prefiltered",
@@ -229,14 +277,6 @@
       "published_at": "2026-08-24T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Őrület, de már csak 30 (!!) nap és jön a XIV. Bortér, mutatjuk az összes programot!",
-      "url": "https://szeged365.hu/2026/08/24/orulet-de-mar-csak-30-nap-es-jon-a-xiv-borter-mutatjuk-az-osszes-programot/"
-    },
-    {
-      "first_seen": "2026-08-24T15:03:48.988991Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Éppen véget ér majd az egyik, és már jön is a következő: újabb útlezárásra kell számítani Újszegeden",
       "url": "https://szeged365.hu/2026/08/24/eppen-veget-er-majd-az-egyik-es-mar-jon-is-a-kovetkezo-ujabb-utlezarasra-kell-szamitani-ujszegeden/"
     },
@@ -277,50 +317,10 @@
       "published_at": "2026-08-24T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Elképesztően büszkék vagyunk: Szegedről Svájcba viszik filmjüket, aztán itthon adnak lehetőséget a következő filmes generációnak (videó + galéria)",
-      "url": "https://szeged365.hu/2026/08/24/elkepesztoen-buszkek-vagyunk-szegedrol-svajcba-viszik-filmjuket-aztan-itthon-adnak-lehetoseget-a-kovetkezo-filmes-generacionak-video-galeria/"
-    },
-    {
-      "first_seen": "2026-08-24T15:03:48.988991Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Szegedi Vízmű: éjszakai hálózatöblítés lesz, időszakos vízhiányra és zavaros vízre lehet számítani Algyőn és Szeged északi részén",
       "url": "https://szeged365.hu/2026/08/24/szegedi-vizmu-ejszakai-halozatoblites-lesz-idoszakos-vizhianyra-es-zavaros-vizre-lehet-szamitani-algyon-es-szeged-eszaki-reszen/"
-    },
-    {
-      "first_seen": "2026-08-24T15:03:48.988991Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged, kapaszkodj: sávlezárás jön a Temesvári körút egyik legforgalmasabb csomópontján – mutatjuk, mire számíthatnak az autósok",
-      "url": "https://szeged365.hu/2026/08/24/szeged-kapaszkodj-savlezaras-jon-a-temesvari-korut-egyik-legforgalmasabb-csomopontjan-mutatjuk-mire-szamithatnak-a-szegediek/"
-    },
-    {
-      "first_seen": "2026-08-24T15:03:48.988991Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Burger? Beer? Blues? Mindhárom, egyszerre! Óriási kraft sör őrület készül Szegeden, mutatjuk a dátumot és a helyszínt!",
-      "url": "https://szeged365.hu/2026/08/24/burger-beer-blues-mindharom-egyszerre-oriasi-kraft-sor-orulet-keszul-szegeden-mutatjuk-a-datumot-es-a-helyszint/"
-    },
-    {
-      "first_seen": "2026-08-24T12:02:48.979099Z",
-      "published_at": "2026-08-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Veterán autók lepték el Szeged szomszédját, Makót – mi is bepattantunk egy Ford T-modellbe! (videók)",
-      "url": "https://szeged365.hu/2026/08/23/veteran-autok-leptek-el-szeged-szomszedjat-makot-mi-is-bepattantunk-egy-ford-t-modellbe-videok/"
-    },
-    {
-      "first_seen": "2026-08-24T12:02:48.979099Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gyors és összehangolt intézkedés: Csongrád-Csanád vármegyében találtak meg egy németországi kórházból, engedély nélkül elvitt beteg csecsemőt",
-      "url": "https://szeged365.hu/2026/08/24/gyors-es-osszehangolt-intezkedes-csongrad-csanad-varmegyeben-talaltak-meg-egy-nemetorszagi-korhazbol-engedely-nelkul-elvitt-beteg-csecsemot/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-25T12:05:48.980744Z"
+  "updated_at": "2026-08-25T15:04:49.007206Z"
 }

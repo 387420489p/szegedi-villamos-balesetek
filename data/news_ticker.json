@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-25T06:02:48.997390Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jól jönne egy kis csapadék! Elsőfokú figyelmeztetést adtak ki Csongrád-Csanád vármegyére zivatarok kialakulása miatt",
+      "url": "https://szeged365.hu/2026/08/25/jol-jonne-egy-kis-csapadek-elsofoku-figyelmeztetest-adtak-ki-csongrad-csanad-varmegyere-zivatarok-kialakulasa-miatt/"
+    },
+    {
+      "first_seen": "2026-08-25T06:02:48.997390Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A legrangosabb országos színházak társaságában képviseli Szegedet a Szegedi Pinceszínház",
+      "url": "https://szeged365.hu/2026/08/25/a-legrangosabb-orszagos-szinhazak-tarsasagaban-kepviseli-szegedet-a-szegedi-pinceszinhaz/"
+    },
+    {
+      "first_seen": "2026-08-25T06:02:48.997390Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden hidegfront jön Szegedre, ma van Kolumbusz születésnapja",
+      "url": "https://szeged365.hu/2026/08/25/napi-pakk-kedden-hidegfront-jon-szegedre-ma-van-kolumbusz-szuletesnapja/"
+    },
+    {
+      "first_seen": "2026-08-25T06:02:48.997390Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Súlyos balesettel indul a nap az M5-ösön, kiszakadt egy személygépkocsi futóműve, teljes útlezárás van",
+      "url": "https://szeged365.hu/2026/08/25/sulyos-balesettel-indul-a-nap-az-m5-oson-kiszakadt-egy-szemelygepkocsi-futomuve-teljes-utlezaras-van/"
+    },
+    {
       "first_seen": "2026-08-24T18:05:48.968167Z",
       "published_at": "2026-08-24T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Csongrádra költözött Lacoste testvére: Szivós Sándor és csapata a Körös-torokon alkottak, mosolygós homokkrokodillal lepték meg a nyaralókat",
       "url": "https://szeged365.hu/2026/08/24/csongradra-koltozott-lacoste-testvere-szivos-sandor-es-csapata-a-koros-torokon-alkottak-mosolygos-homokkrokodillal-leptek-meg-a-nyaralokat/"
-    },
-    {
-      "first_seen": "2026-08-24T06:06:48.981069Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Éjszakai “rovarászás”, látványetetések és tűzzsonglőr-bemutató – késő esti programokkal várják a látogatókat a Szegedi Vadasparkban",
-      "url": "https://szeged365.hu/2026/08/24/ejszakai-rovaraszas-latvanyetetesek-es-tuzzsonglor-bemutato-keso-esti-programokkal-varjak-a-latogatokat-a-szegedi-vadasparkban/"
-    },
-    {
-      "first_seen": "2026-08-24T06:06:48.981069Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: még nem tér vissza a kánikula, a héten elstartol a SZIN fesztivál!",
-      "url": "https://szeged365.hu/2026/08/24/napi-pakk-meg-nem-ter-vissza-a-kanikula-a-heten-elstartol-a-szin-fesztival/"
-    },
-    {
-      "first_seen": "2026-08-24T06:06:48.981069Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ekkora kedvezmény idén már biztosan nem lesz a Szent Vincent Rehabilitációs Központban: most foglalj, és akár ősszel vagy télen is igénybe veheted Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/08/19/ekkora-kedvezmeny-iden-mar-biztosan-nem-lesz-a-szent-vincent-rehabilitacios-kozpontban-most-foglalj-es-akar-osszel-vagy-telen-is-igenybe-veheted-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-23T18:02:48.984564Z",
-      "published_at": "2026-08-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A hét elején még kellemes idő lesz Szegeden",
-      "url": "https://szeged365.hu/2026/08/23/a-het-elejen-meg-nem-ter-vissza-a-kanikula-szegedre/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-24T18:05:48.968167Z"
+  "updated_at": "2026-08-25T06:02:48.997390Z"
 }

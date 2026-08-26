@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi büszkeség: a PICK Szeged egykori játékosa bekerült a Hírességek Csarnokába",
+      "url": "https://szeged365.hu/2026/08/25/oriasi-szegedi-buszkeseg-a-pick-szeged-egykori-jatekosa-bekerult-a-hiressegek-csarnokaba/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vitézy: a MÁV erősített kapacitással, éjszakai tram train- és buszjáratokkal készül a Szegedi Ifjúsági Napokra",
+      "url": "https://szeged365.hu/2026/08/26/vitezy-a-mav-erositett-kapacitassal-ejszakai-tram-train-es-buszjaratokkal-keszul-a-szegedi-ifjusagi-napokra/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset a tompai határátkelőn – egy kamion épületnek ütközött",
+      "url": "https://szeged365.hu/2026/08/26/baleset-a-tompai-hataratkelon-egy-kamion-epuletnek-utkozott/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szia apa, vasárnap találkozunk” – elstartolt az 58. Szegedi Ifjúsági Napok, Botka László köszöntötte a fesztiválra érkezőket (videó)",
+      "url": "https://szeged365.hu/2026/08/26/szia-apa-vasarnap-talalkozunk-elstartolt-az-58-szegedi-ifjusagi-napok-botka-laszlo-koszontotte-a-fesztivalra-erkezoket-video/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódnak a szegedi sikerek a poznani világbajnokságon: Kiss Ágnes egyéniben is továbbjutott, Suba Róbert győzelme közvetlenül döntőt ért",
+      "url": "https://szeged365.hu/2026/08/26/folytatodnak-a-szegedi-sikerek-a-poznani-vilagbajnoksagon-kiss-agnes-egyeniben-is-tovabbjutott-suba-robert-gyozelme-kozvetlenul-dontot-ert/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Te hallottad már a kedvenc fesztiváldalodat versként? A SZIN-en most ezt is megtapasztalhatod!",
+      "url": "https://szeged365.hu/2026/08/26/te-hallottad-mar-a-kedvenc-fesztivaldalodat-verskent-a-szin-en-most-ezt-is-megtapasztalhatod/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Picasso a SZIN-en – közösségi műteremmel várja a fesztiválozókat a Móra Ferenc Múzeum",
+      "url": "https://szeged365.hu/2026/08/26/picasso-a-szin-en-kozossegi-muteremmel-varja-a-fesztivalozokat-a-mora-ferenc-muzeum/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha már unod az otthoni sorozatozást, irány a mozi – mutatjuk, milyen filmek várnak a Belvárosi Moziban!",
+      "url": "https://szeged365.hu/2026/08/26/ha-mar-unod-az-otthoni-sorozatozast-irany-a-mozi-mutatjuk-milyen-filmek-varnak-a-belvarosi-moziban/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset az M5-ösön – egy kamion az árokba borult, a rendőrség a helyszínre érkezett (videó)",
+      "url": "https://szeged365.hu/2026/08/26/baleset-az-m5-oson-egy-kamion-az-arokba-esett-a-forgalmat-fel-palyan-lezartak-video/"
+    },
+    {
+      "first_seen": "2026-08-26T15:09:49.056484Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeptember elején erős fény- és hanghatások várhatók Algyőn és Kiskundorozsmán, fáklyázni fognak",
+      "url": "https://szeged365.hu/2026/08/26/szeptember-elejen-eros-feny-es-hanghatasok-varhatok-algyon-es-kiskundorozsman-faklyazni-fognak/"
+    },
+    {
       "first_seen": "2026-08-26T12:06:49.041223Z",
       "published_at": "2026-08-26T00:00:00",
       "reason": "prefiltered",
@@ -237,90 +317,10 @@
       "published_at": "2026-08-25T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Óriási szegedi büszkeség: a PICK Szeged egykori játékosa bekerült a Hírességek Csarnokába",
-      "url": "https://szeged365.hu/2026/08/25/oriasi-szegedi-buszkeseg-a-pick-szeged-egykori-jatekosa-bekerult-a-hiressegek-csarnokaba/"
-    },
-    {
-      "first_seen": "2026-08-25T15:04:49.007206Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Monumentális balett-thriller: a Szegedi Kortárs Balett a Margitszigeten búcsúztatja a nyarat",
       "url": "https://szeged365.hu/2026/08/25/monumentalis-balett-thriller-a-szegedi-kortars-balett-a-margitszigeten-bucsuztatja-a-nyarat/"
-    },
-    {
-      "first_seen": "2026-08-25T15:04:49.007206Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több ezer rászoruló szegedi karácsonyát teheti könnyebbé az önkormányzat – mutatjuk, hogyan lehet pályázni a tartósélelmiszer-csomagokra!",
-      "url": "https://szeged365.hu/2026/08/25/tobb-ezer-raszorulo-szegedi-karacsonyat-teheti-konnyebbe-az-onkormanyzat-mutatjuk-hogyan-lehet-palyazni-a-tartoselelmiszer-csomagokra/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rakétákkal zuhanhatott le a Gripen Szolnok térségében, megszólalt a polgármester (videók, frissült)",
-      "url": "https://szeged365.hu/2026/08/24/a-lezuhant-gripen-vadaszgep-pilotajanak-stabil-az-allapota/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Igazi csemegét tartogat a hétvége azoknak, akik imádnak olvasni! Hétszáz regény közül válogathatnak a könyvmolyok Szegeden",
-      "url": "https://szeged365.hu/2026/08/25/igazi-csemeget-tartogat-a-hetvege-azoknak-akik-imadnak-olvasni-hetszaz-regeny-kozul-valogathatnak-a-konyvmolyok-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kisokos: útlezárás útlezárás hátán – mutatjuk, hol futhatsz bele közlekedési káoszba Szegeden!",
-      "url": "https://szeged365.hu/2026/08/25/szeged365-kisokos-utlezaras-utlezaras-hatan-mutatjuk-hol-futhatsz-bele-kozlekedesi-kaoszba-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Műsorváltozás a SZIN nyitónapján – Rúzsa Magdi azonnal igent mondott a felkérésre",
-      "url": "https://szeged365.hu/2026/08/25/musorvaltozas-a-szin-nyitonapjan-ruzsa-magdi-azonnal-igent-mondott-a-felkeresre/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hétfőn balesetet szenvedett az SZTE kisbusza a 47-esen – az egyetem megszólalt az esettel kapcsolatban",
-      "url": "https://szeged365.hu/2026/08/25/hetfon-balesetet-szenvedett-az-szte-kisbusza-a-47-esen-az-egyetem-megszolalt-az-esettel-kapcsolatban/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már csak egyet kell aludni: holnap indul a SZIN Szegeden, ma éjfélig még kedvezményesen vehetsz napijegyet (galéria)",
-      "url": "https://szeged365.hu/2026/08/25/mar-csak-egyet-kell-aludni-holnap-indul-a-szin-szegeden-ma-ejfelig-meg-kedvezmenyesen-vehetsz-napijegyet-galeria/"
-    },
-    {
-      "first_seen": "2026-08-25T12:05:48.980744Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több mint 70 ezer néző, 20 teltházas este – lezárult a Szegedi Szabadtéri Játékok 2026-os évada",
-      "url": "https://szeged365.hu/2026/08/25/tobb-mint-70-ezer-nezo-20-telthazas-este-lezarult-a-szegedi-szabadteri-jatekok-2026-os-evada/"
-    },
-    {
-      "first_seen": "2026-08-25T09:06:48.967480Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Most történt: lezuhant a honvédség egyik Gripen vadászgépe Szolnok mellett (frissítve)",
-      "url": "https://szeged365.hu/2026/08/24/most-tortent-lezuhant-a-honvedseg-egyik-gripen-vadaszgepe-szolnok-mellett/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-26T12:06:49.041223Z"
+  "updated_at": "2026-08-26T15:09:49.056484Z"
 }

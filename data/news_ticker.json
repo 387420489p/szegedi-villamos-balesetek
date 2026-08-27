@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-27T06:10:49.049923Z",
+      "published_at": "2026-08-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Késelés történhetett egy szegedi dohányboltnál (+18)",
+      "url": "https://szeged365.hu/2026/08/25/keseles-tortenhetett-egy-szegedi-dohanyboltnal/"
+    },
+    {
+      "first_seen": "2026-08-27T06:10:49.049923Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Árokba borult az éjjel egy autóalkatrészeket szállító kamion az M5-ösön",
+      "url": "https://szeged365.hu/2026/08/27/arokba-borult-az-ejjel-egy-autoalkatreszeket-szallito-kamion-az-m5-oson/"
+    },
+    {
+      "first_seen": "2026-08-27T06:10:49.049923Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elérte a maximális teljesítményét a Paksi Atomerőmű, mind a négy reaktor és mind a nyolc turbina kifogástalanul működik",
+      "url": "https://szeged365.hu/2026/08/27/elerte-a-maximalis-teljesitmenyet-a-paksi-atomeromu-mind-a-negy-reaktor-es-mind-a-nyolc-turbina-kifogastalanul-mukodik/"
+    },
+    {
+      "first_seen": "2026-08-27T06:10:49.049923Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kajak-kenu: döbbenetes okok miatt nem tudott rajthoz állni a világbajnokságon a szegedi Varga Katalin, óvást nyújtottak be",
+      "url": "https://szeged365.hu/2026/08/27/kajak-kenu-dobbenetes-okok-miatt-nem-tudott-rajthoz-allni-a-vilagbajnoksagon-a-szegedi-varga-katalin-ovast-nyujtottak-be/"
+    },
+    {
+      "first_seen": "2026-08-27T06:10:49.049923Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: nagyszerűnek ígérkezik az idő Szegeden a SZIN második napján",
+      "url": "https://szeged365.hu/2026/08/27/napi-pakk-csutortokon-sem-varhato-szamottevo-csapadek-szegeden-folytatodik-a-szin/"
+    },
+    {
       "first_seen": "2026-08-26T18:02:49.053415Z",
       "published_at": "2026-08-26T00:00:00",
       "reason": "prefiltered",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "A Csongrád-Csanád vármegyei Máté Bence képe is bekerült a világ 100 legjobb természetfotója közé",
       "url": "https://szeged365.hu/2026/08/26/a-csongrad-csanad-varmegyei-mate-bence-kepe-is-bekerult-a-vilag-100-legjobb-termeszetfotoja-koze/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyarország is segít Szerbiának az erdőtüzek megfékezésében, tűzoltók és speciális járművek indultak útnak",
-      "url": "https://szeged365.hu/2026/08/26/magyarorszag-is-segit-szerbianak-az-erdotuzek-megfekezeseben-tuzoltok-es-specialis-jarmuvek-indultak-utnak/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: végre indul a nyár utolsó nagy fesztiválja, a Szegedi Ifjúsági Napok",
-      "url": "https://szeged365.hu/2026/08/26/napi-pakk-szerdan-indul-a-nyar-utolso-nagy-fesztivalja-a-szegedi-ifjusagi-napok/"
-    },
-    {
-      "first_seen": "2026-08-25T18:04:48.963806Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Késelés történhetett egy szegedi dohányboltnál",
-      "url": "https://szeged365.hu/2026/08/25/keseles-tortenhetett-egy-szegedi-dohanyboltnal/"
-    },
-    {
-      "first_seen": "2026-08-25T18:04:48.963806Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Verdi klasszikusával indul a Szegedi Nemzeti Színház új évada: szeptemberben érkezik a La Traviata (fotókkal)",
-      "url": "https://szeged365.hu/2026/08/25/verdi-klasszikusaval-indul-a-szegedi-nemzeti-szinhaz-uj-evada-szeptemberben-erkezik-a-la-traviata-fotokkal/"
-    },
-    {
-      "first_seen": "2026-08-25T18:04:48.963806Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dőlnek a milliárdok vissza az államhoz? Így teljesít eddig a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal",
-      "url": "https://szeged365.hu/2026/08/25/dolnek-a-milliardok-vissza-az-allamhoz-igy-teljesit-eddig-a-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-26T18:02:49.053415Z"
+  "updated_at": "2026-08-27T06:10:49.049923Z"
 }

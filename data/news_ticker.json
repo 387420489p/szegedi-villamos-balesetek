@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Most Gyulára figyelnek a szegedi focirajongók: rangadót játszik a Szeged-Csanád GA II.",
+      "url": "https://szeged365.hu/2026/08/27/most-gyulara-figyelnek-a-szegedi-focirajongok-rangadot-jatszik-a-szeged-csanad-ga-ii/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Micsoda fordulat! Varga Katalin mégis rajthoz állhat a VB-n, de Nádas Bencéék is remekül teljesítenek",
+      "url": "https://szeged365.hu/2026/08/27/micsoda-fordulat-varga-katalin-megis-rajthoz-allhat-a-vb-n-de-nadas-benceek-is-remekul-teljesitenek/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hagyd otthon az esernyőt: száraz, napos időben vethetjük bele magunkat a SZIN harmadik napjába Szegeden",
+      "url": "https://szeged365.hu/2026/08/27/hagyd-otthon-az-esernyot-szaraz-napos-idoben-vethetjuk-bele-magunkat-a-szin-harmadik-napjaba-szegeden/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "84 éves korában meghalt Ratko Mladić",
+      "url": "https://szeged365.hu/2026/08/27/84-eves-koraban-meghalt-ratko-mladic/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák SZIN különkiadás vol.1.: “hagyjuk, nem számít, sokszor volt már így” – elég egy szó és beindul a fesztivál-karaoke (videó)",
+      "url": "https://szeged365.hu/2026/08/27/szegedi-pletykak-szin-kulonkiadas-vol-1-hagyjuk-nem-szamit-sokszor-volt-mar-igy-eleg-egy-szo-es-beindul-a-fesztival-karaoke-video/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bulizz felhőtlenül a SZIN-en – vagy, miért a Tempó Taxi a legbiztonságosabb választás hazafelé?",
+      "url": "https://szeged365.hu/2026/08/27/bulizz-felhotlenul-a-szin-en-vagy-miert-a-tempo-taxi-a-legbiztonsagosabb-valasztas-hazafele/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gerinctorna, vízitorna, egészségügyi előadások: így ünneplik Szegeden a Fizioterápia Világnapját",
+      "url": "https://szeged365.hu/2026/08/27/gerinctorna-vizitorna-egeszsegugyi-eloadasok-igy-unneplik-szegeden-a-fizioterapia-vilagnapjat/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Körözik a Fekete Vonat egykori rapperét (frissítve)",
+      "url": "https://szeged365.hu/2026/08/26/korozik-a-fekete-vonat-egykori-rapperet/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baka András meglátogatta a balesetet szenvedett Gripen pilótáját, így van most az őrnagy",
+      "url": "https://szeged365.hu/2026/08/26/baka-andras-meglatogatta-a-balesetet-szenvedett-gripen-pilotajat-igy-van-most-az-ornagy/"
+    },
+    {
+      "first_seen": "2026-08-27T18:01:49.058449Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Járatkimaradás Szegeden: csütörtök délután nem közlekedik az egyik tram-train járat",
+      "url": "https://szeged365.hu/2026/08/27/jaratkimaradas-szegeden-csutortok-delutan-nem-kozlekedik-az-egyik-tram-train-jarat/"
+    },
+    {
       "first_seen": "2026-08-27T15:01:49.038700Z",
       "published_at": "2026-08-27T00:00:00",
       "reason": "prefiltered",
@@ -239,88 +319,8 @@
       "source_name": "Szeged365",
       "title": "Tragédia Szegeden: kiesett egy gyermek az egyik panelház ablakából (frissítve)",
       "url": "https://szeged365.hu/2026/08/26/tragedia-szegeden-kiesett-egy-kisgyermek-az-egyik-panelhaz-emeleterol/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több 100 millióval károsította meg a költségvetést egy szegedi férfi, indítványozták a letartóztatását",
-      "url": "https://szeged365.hu/2026/08/27/tobbszaz-millioval-karositotta-meg-a-koltsegvetest-egy-szegedi-feri-inditvanyoztak-a-letartoztatasat/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tűzoltókat riasztottak a Kálvária sugárútra",
-      "url": "https://szeged365.hu/2026/08/27/tuzoltokat-riasztottak-a-kalvaria-sugarutra/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bejelentés, csütörtökre: 120 ezer forintra emeli a kormány az öregségi nyugdíj legkisebb összegét",
-      "url": "https://szeged365.hu/2026/08/27/bejelentes-csutortokre-120-ezer-forintra-emeli-a-kormany-az-oregsegi-nyugdijat/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rengetegen voltatok a SZIN nyitónapján, mutatjuk, mi jön ma Szegeden (galéria)",
-      "url": "https://szeged365.hu/2026/08/27/rengetegen-voltatok-a-szin-nyitonapjan-mutatjuk-mi-jon-ma-szegeden-galeria/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mindössze 42 évesen meghalt Boros Gergely, világ- és Európa-bajnok magyar kajakos",
-      "url": "https://szeged365.hu/2026/08/27/mindossze-42-evesen-meghalt-boros-gergely-vilag-es-europa-bajnok-magyar-kajakos/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már a BYD hulladéka miatt is aggódni kell? Ha a medencés téli kikötőben fémhulladékgyűjtő, előkezelő és hasznosító telepet létesítenek, úgy a BYD-tól származó hulladékot napi 100 kamionfordulóval szállítanák oda",
-      "url": "https://szeged365.hu/2026/08/27/mar-a-byd-hulladeka-miatt-is-aggodni-kell-ha-a-medences-teli-kikotoben-femhulladekgyujto-elokezelo-es-hasznosito-telepet-letesitenek-ugy-a-byd-tol-szarmazo-hulladekot-napi-100-kamionforduloval-szal/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mi történik egy komoly laboratórium falai mögött? Szeged új vállalkozásának belgrádi hátterét mutatjuk meg (videó)",
-      "url": "https://szeged365.hu/2026/08/27/mi-tortenik-egy-komoly-laboratorium-falai-mogott-szeged-uj-vallalkozasanak-belgradi-hatteret-mutatjuk-meg-video/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "KSH: júniusban 754 700 forint volt a bruttó átlagkereset hazánkban",
-      "url": "https://szeged365.hu/2026/08/27/ksh-juniusban-754-700-forint-volt-a-brutto-atlagkereset-hazankban/"
-    },
-    {
-      "first_seen": "2026-08-27T09:01:49.026612Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ha szeretsz horgászni, ezt látnod kell: szép fogásokkal telt a hétvége a sándorfalvi Nádastón (galéria)",
-      "url": "https://szeged365.hu/2026/08/27/ha-szeretsz-horgaszni-ezt-latnod-kell-szep-fogasokkal-telt-a-hetvege-a-sandorfalvi-nadaston-galeria/"
-    },
-    {
-      "first_seen": "2026-08-27T06:10:49.049923Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Késelés történhetett egy szegedi dohányboltnál (+18)",
-      "url": "https://szeged365.hu/2026/08/25/keseles-tortenhetett-egy-szegedi-dohanyboltnal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-27T15:01:49.038700Z"
+  "updated_at": "2026-08-27T18:01:49.058449Z"
 }

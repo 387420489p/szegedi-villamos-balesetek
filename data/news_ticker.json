@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több 100 millióval károsította meg a költségvetést egy szegedi férfi, indítványozták a letartóztatását",
+      "url": "https://szeged365.hu/2026/08/27/tobbszaz-millioval-karositotta-meg-a-koltsegvetest-egy-szegedi-feri-inditvanyoztak-a-letartoztatasat/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tűzoltókat riasztottak a Kálvária sugárútra",
+      "url": "https://szeged365.hu/2026/08/27/tuzoltokat-riasztottak-a-kalvaria-sugarutra/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bejelentés, csütörtökre: 120 ezer forintra emeli a kormány az öregségi nyugdíj legkisebb összegét",
+      "url": "https://szeged365.hu/2026/08/27/bejelentes-csutortokre-120-ezer-forintra-emeli-a-kormany-az-oregsegi-nyugdijat/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rengetegen voltatok a SZIN nyitónapján, mutatjuk, mi jön ma Szegeden (galéria)",
+      "url": "https://szeged365.hu/2026/08/27/rengetegen-voltatok-a-szin-nyitonapjan-mutatjuk-mi-jon-ma-szegeden-galeria/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mindössze 42 évesen meghalt Boros Gergely, világ- és Európa-bajnok magyar kajakos",
+      "url": "https://szeged365.hu/2026/08/27/mindossze-42-evesen-meghalt-boros-gergely-vilag-es-europa-bajnok-magyar-kajakos/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már a BYD hulladéka miatt is aggódni kell? Ha a medencés téli kikötőben fémhulladékgyűjtő, előkezelő és hasznosító telepet létesítenek, úgy a BYD-tól származó hulladékot napi 100 kamionfordulóval szállítanák oda",
+      "url": "https://szeged365.hu/2026/08/27/mar-a-byd-hulladeka-miatt-is-aggodni-kell-ha-a-medences-teli-kikotoben-femhulladekgyujto-elokezelo-es-hasznosito-telepet-letesitenek-ugy-a-byd-tol-szarmazo-hulladekot-napi-100-kamionforduloval-szal/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mi történik egy komoly laboratórium falai mögött? Szeged új vállalkozásának belgrádi hátterét mutatjuk meg (videó)",
+      "url": "https://szeged365.hu/2026/08/27/mi-tortenik-egy-komoly-laboratorium-falai-mogott-szeged-uj-vallalkozasanak-belgradi-hatteret-mutatjuk-meg-video/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "KSH: júniusban 754 700 forint volt a bruttó átlagkereset hazánkban",
+      "url": "https://szeged365.hu/2026/08/27/ksh-juniusban-754-700-forint-volt-a-brutto-atlagkereset-hazankban/"
+    },
+    {
+      "first_seen": "2026-08-27T09:01:49.026612Z",
+      "published_at": "2026-08-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha szeretsz horgászni, ezt látnod kell: szép fogásokkal telt a hétvége a sándorfalvi Nádastón (galéria)",
+      "url": "https://szeged365.hu/2026/08/27/ha-szeretsz-horgaszni-ezt-latnod-kell-szep-fogasokkal-telt-a-hetvege-a-sandorfalvi-nadaston-galeria/"
+    },
+    {
       "first_seen": "2026-08-27T06:10:49.049923Z",
       "published_at": "2026-08-25T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "Bemutatkoztak a szegediek a poznani világbajnokságon: a döntőbe evezte magát a Kiss Ágnes-Nagy Bianka kettős, és Nádas Bencéék is magabiztosan jutottak tovább",
       "url": "https://szeged365.hu/2026/08/26/bemutatkoztak-a-szegediek-a-poznani-vilagbajnoksagon-a-dontobe-evezte-magat-a-kiss-agnes-nagy-bianka-kettos-es-nadas-benceek-is-magabiztosan-jutottak-tovabb/"
-    },
-    {
-      "first_seen": "2026-08-26T09:09:49.002931Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Késsel kezdett hadonászni egy egresszív férfi a dohányboltnál, egy embert meg is sebesített Szegeden",
-      "url": "https://szeged365.hu/2026/08/26/kessel-kezdett-hadonaszni-egy-egressziv-ferfi-a-dohanyboltnal-egy-embert-meg-is-sebesitett-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-26T09:09:49.002931Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vitézy Dávid: könnyebb és biztonságosabb lesz a közlekedés Szegeden, pénteken beáll a végleges, 2×2 sávos forgalmi rend az 5-ös főúton",
-      "url": "https://szeged365.hu/2026/08/26/vitezy-david-konnyebb-es-biztonsagosabb-lesz-a-kozlekedes-szegeden-penteken-beall-a-vegleges-2x2-savos-forgalmi-rend-az-5-os-fout/"
-    },
-    {
-      "first_seen": "2026-08-26T09:09:49.002931Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ma elstartol a SZIN, és idén egy fontos ügy mellé is odaállnak: a Talpra Sanyi! kezdeményezést támogatja afesztivál",
-      "url": "https://szeged365.hu/2026/08/26/ma-elstartol-a-szin-es-iden-egy-fontos-ugy-melle-is-odaallnak-a-talpra-sanyi-kezdemenyezest-tamogatja-afesztival/"
-    },
-    {
-      "first_seen": "2026-08-26T09:09:49.002931Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Minden elismerésünk: egy Hódmezővásárhelyen szolgáló katona kezdte meg a sérült személyek kimentését a 47-esen felborult gépjárműből, nem tétovázott, azonnal megállt segíteni",
-      "url": "https://szeged365.hu/2026/08/26/minden-elismeresunk-egy-hodmezovasarhelyen-szolgalo-katona-kezdte-meg-a-serult-szemelyek-kimenteset-a-47-esen-felborult-gepjarmubol-nem-tetovazott-azonnal-megallt-segiteni/"
-    },
-    {
-      "first_seen": "2026-08-26T09:09:49.002931Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tragédia Szegeden: kiesett egy kisgyermek az egyik panelház ablakából (frissítve)",
-      "url": "https://szeged365.hu/2026/08/26/tragedia-szegeden-kiesett-egy-kisgyermek-az-egyik-panelhaz-emeleterol/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási siker volt a Wicked: hat teltházas előadás, 24 ezer néző! (galéria)",
-      "url": "https://szeged365.hu/2026/08/24/oriasi-siker-volt-a-wicked-hat-telthazas-eloadas-24-ezer-nezo-galeria/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kiderült: már korábban is gond lehetett a Szolnokon kigyulladt Gripennel (videó)",
-      "url": "https://szeged365.hu/2026/08/24/kiderult-mar-korabban-is-gond-lehetett-a-szolnokon-kigyulladt-gripennel-video/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ásotthalom mellett Bordánynál is gondot okoznak a homokos dűlőutak, két jármű is elakadt! A terepjárós összefogás és a Hanimec Mentőkutyás Egyesület egyik tagja mentette ki őket",
-      "url": "https://szeged365.hu/2026/08/26/asotthalom-mellett-bordanynal-is-gondot-okoznak-a-homokos-duloutak-ket-jarmu-is-elakadt-a-terepjaros-osszefogas-es-a-hanimec-mentokutyas-egyesulet-egyik-tagja-mentette-ki-oket/"
-    },
-    {
-      "first_seen": "2026-08-26T06:04:48.958356Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Csongrád-Csanád vármegyei Máté Bence képe is bekerült a világ 100 legjobb természetfotója közé",
-      "url": "https://szeged365.hu/2026/08/26/a-csongrad-csanad-varmegyei-mate-bence-kepe-is-bekerult-a-vilag-100-legjobb-termeszetfotoja-koze/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-27T06:10:49.049923Z"
+  "updated_at": "2026-08-27T09:01:49.026612Z"
 }

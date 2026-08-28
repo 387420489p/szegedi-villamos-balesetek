@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Villamospálya rekonstrukció kezdődik Szegeden – vágányzár lesz a 3F vonalon, változik a közlekedési rend",
+      "url": "https://szeged365.hu/2026/08/28/villamospalya-rekonstrukcio-kezdodik-szegeden-vaganyzar-lesz-a-3f-vonalon-valtozik-a-kozlekedesi-rend/"
+    },
+    {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az Országgyűlés megválasztotta a Nemzeti Vagyonvédelmi és Vagyonvisszaszerzési hivatal elnökét",
+      "url": "https://szeged365.hu/2026/08/28/az-orszaggyules-megvalasztotta-a-nemzeti-vagyonvedelmi-es-vagyonvisszaszerzesi-hivatal-elnoket/"
+    },
+    {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A rendőrség hűtlen kezelés gyanúja miatt nyomoz a Lázár János utasítására elengedett több milliárdos tartozások ügyében",
+      "url": "https://szeged365.hu/2026/08/28/a-rendorseg-hutlen-kezeles-gyanuja-miatt-nyomoz-a-lazar-janos-utasitasara-elengedett-tobb-milliardos-tartozasok-ugyeben/"
+    },
+    {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem csak Szegednél van baj, hanem Szolnoknál is: olyan alacsony a Tisza vízhozama, hogy rendkívüli intézkedésekre van szükség az ívóvízellátás védelmében",
+      "url": "https://szeged365.hu/2026/08/28/nem-csak-szegednel-van-baj-hanem-szolnoknal-is-olyan-alacsony-a-tisza-vizhozama-hogy-rendkivuli-intezkedesekre-van-szukseg-az-ivovizellatas-vedelmeben/"
+    },
+    {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: szigorítani fogják a büntetőeljárási jogszabályokat és rövidítik az eljárási határidőket",
+      "url": "https://szeged365.hu/2026/08/28/magyar-peter-szigoritani-fogjak-a-buntetoeljarasi-jogszabalyokat-es-roviditik-az-eljarasi-hataridoket/"
+    },
+    {
+      "first_seen": "2026-08-28T12:08:49.039363Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeptembertől változik a 90H jelzésű autóbusz menetrendje Szegeden, a járatok már a BYD gyárig közlekednek",
+      "url": "https://szeged365.hu/2026/08/28/szeptembertol-valtozik-a-90h-jelzesu-autobusz-menetrendje-szegeden-a-jaratok-mar-a-byd-gyarig-kozlekednek/"
+    },
+    {
       "first_seen": "2026-08-28T09:04:49.049194Z",
       "published_at": "2026-08-27T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Forgalmi zavar történt a Széchenyi téren – villamospótlók közlekednek",
       "url": "https://szeged365.hu/2026/08/27/forgalmi-zavar-tortent-a-szechenyi-teren-villamospotlok-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mentők érkeztek a nagybani piac környékére, elhunyhatott egy ember a helyszínen",
-      "url": "https://szeged365.hu/2026/08/26/mentok-erkeztek-a-nagybani-piac-kornyekere-elhunyhatott-egy-ember-a-helyszinen/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#KÖZÉLET",
-      "url": "https://szeged365.hu/kozelet/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#KIKAPCS",
-      "url": "https://szeged365.hu/kikapcs/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SZEGEDI ARCOK",
-      "url": "https://szeged365.hu/szegediarcok/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#MINDENMÁS",
-      "url": "https://szeged365.hu/mindenmas/"
-    },
-    {
-      "first_seen": "2026-08-27T15:01:49.038700Z",
-      "published_at": "2026-08-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SMART SZEGED",
-      "url": "https://szeged365.hu/smartszeged/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-28T09:04:49.049194Z"
+  "updated_at": "2026-08-28T12:08:49.039363Z"
 }

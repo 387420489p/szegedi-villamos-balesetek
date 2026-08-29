@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-29T12:07:48.965487Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét hatalmas kapások: két 18 kiló feletti pontyot is fogtak a szegedi horgászok",
+      "url": "https://szeged365.hu/2026/08/29/ismet-hatalmas-kapasok-ket-18-kilo-feletti-pontyot-is-fogtak-a-szegedi-horgaszok/"
+    },
+    {
+      "first_seen": "2026-08-29T12:07:48.965487Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb szegedi siker a kajak-kenu VB-n: Paragi Petra döntős, még három szegedi kötődésű versenyzőért szoríthatunk",
+      "url": "https://szeged365.hu/2026/08/29/ujabb-szegedi-siker-a-kajak-kenu-vb-n-paragi-petra-dontos-meg-harom-szegedi-kotodesu-versenyzoert-szorithatunk/"
+    },
+    {
+      "first_seen": "2026-08-29T12:07:48.965487Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lopott kisgéppel repült a paksi atomerőmű felé, azonnal Gripenek szálltak a nyomába",
+      "url": "https://szeged365.hu/2026/08/29/lopott-kisgeppel-repult-a-paksi-atomeromu-fele-azonnal-gripenek-szalltak-a-nyomaba/"
+    },
+    {
       "first_seen": "2026-08-29T09:05:49.045387Z",
       "published_at": "2026-08-29T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "A genetikai adottságok is befolyásolják a szervezet fertőzésekkel szembeni védekezőképességét – nemzetközi együttműködésben készített friss tanulmányt a Szegedi Biológiai Kutatóközpont",
       "url": "https://szeged365.hu/2026/08/28/a-genetikai-adottsagok-is-befolyasoljak-a-szervezet-fertozesekkel-szembeni-vedekezokepesseget-nemzetkozi-egyuttmukodesben-keszitett-friss-tanulmanyt-a-szegedi-biologiai-kutatokozpont/"
-    },
-    {
-      "first_seen": "2026-08-28T06:02:49.061440Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszűnik a nyári munkarend a Rákóczi téri kormányablakban, szeptembertől ismét a megszokott ügyfélfogadási rend szerint dolgoznak Szegeden",
-      "url": "https://szeged365.hu/2026/08/28/megszunik-a-nyari-munkarend-a-rakoczi-teri-kormanyablakban-szeptembertol-ismet-a-megszokott-ugyfelfogadasi-rend-szerint-dolgoznak-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-28T06:02:49.061440Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegediekért szoríthatunk a pénteki döntőkben: rajthoz áll Nádas Bence négyese, és a Kiss Ágnes-Nagy Bianka kettős is a kajak-kenu világbajnokságon",
-      "url": "https://szeged365.hu/2026/08/28/szegediekert-szorithatunk-a-penteki-dontokben-rajthoz-all-nadas-bence-negyese-es-a-kiss-agnes-nagy-bianka-kettos-is-a-kajak-kenu-vilagbajnoksagon/"
-    },
-    {
-      "first_seen": "2026-08-28T06:02:49.061440Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: a SZIN harmadik napján felforrósodik a város és a hangulat – ma este Majka koncertjén tombolhatunk",
-      "url": "https://szeged365.hu/2026/08/28/napi-pakk-a-szin-harmadik-napjan-felforrosodik-a-varos-es-a-hangulat-ma-este-majka-koncertjen-tombolhatunk/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-29T09:05:49.045387Z"
+  "updated_at": "2026-08-29T12:07:48.965487Z"
 }

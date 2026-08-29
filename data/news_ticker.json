@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-29T06:07:49.049978Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a napsütés a SZIN utolsó napján, Dzsúdló, és Swae Lee csapatja majd a nagyszínpadon",
+      "url": "https://szeged365.hu/2026/08/29/napi-pakk-folytatodik-a-napsutes-a-szin-utolso-napjan-a-nagyszinpadon-dzsudlot-lathatjuk/"
+    },
+    {
+      "first_seen": "2026-08-29T06:07:49.049978Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tűz van a Vértónál!",
+      "url": "https://szeged365.hu/2026/08/29/tuz-van-a-vertonal/"
+    },
+    {
+      "first_seen": "2026-08-29T06:07:49.049978Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Riasztást kaptak a magyar Gripenek: rádiócsendben lépett be egy francia kisgép Magyarország fölé",
+      "url": "https://szeged365.hu/2026/08/28/riasztast-kaptak-a-magyar-gripenek-radiocsendben-lepett-be-egy-francia-kisgep-magyarorszag-fole/"
+    },
+    {
       "first_seen": "2026-08-28T18:08:49.057498Z",
       "published_at": "2026-08-28T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Most Gyulára figyelnek a szegedi focirajongók: rangadót játszik a Szeged-Csanád GA II.",
       "url": "https://szeged365.hu/2026/08/27/most-gyulara-figyelnek-a-szegedi-focirajongok-rangadot-jatszik-a-szeged-csanad-ga-ii/"
-    },
-    {
-      "first_seen": "2026-08-27T18:01:49.058449Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Micsoda fordulat! Varga Katalin mégis rajthoz állhat a VB-n, de Nádas Bencéék is remekül teljesítenek",
-      "url": "https://szeged365.hu/2026/08/27/micsoda-fordulat-varga-katalin-megis-rajthoz-allhat-a-vb-n-de-nadas-benceek-is-remekul-teljesitenek/"
-    },
-    {
-      "first_seen": "2026-08-27T18:01:49.058449Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hagyd otthon az esernyőt: száraz, napos időben vethetjük bele magunkat a SZIN harmadik napjába Szegeden",
-      "url": "https://szeged365.hu/2026/08/27/hagyd-otthon-az-esernyot-szaraz-napos-idoben-vethetjuk-bele-magunkat-a-szin-harmadik-napjaba-szegeden/"
-    },
-    {
-      "first_seen": "2026-08-27T18:01:49.058449Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "84 éves korában meghalt Ratko Mladić",
-      "url": "https://szeged365.hu/2026/08/27/84-eves-koraban-meghalt-ratko-mladic/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-28T18:08:49.057498Z"
+  "updated_at": "2026-08-29T06:07:49.049978Z"
 }

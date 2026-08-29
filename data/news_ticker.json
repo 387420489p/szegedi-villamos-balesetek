@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-29T09:05:49.045387Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt péntek este a SZIN-en, mentők érkeztek a helyszínre (fotókkal)",
+      "url": "https://szeged365.hu/2026/08/29/baleset-tortent-pentek-este-a-szin-en-mentok-erkeztek-a-helyszinre-fotokkal/"
+    },
+    {
+      "first_seen": "2026-08-29T09:05:49.045387Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "500 éve történt a mohácsi csata, ma erre emlékezik egész Magyarország",
+      "url": "https://szeged365.hu/2026/08/29/500-eve-tortent-a-mohacsi-csata-ma-erre-emlekezik-egesz-magyarorszag/"
+    },
+    {
       "first_seen": "2026-08-29T06:07:49.049978Z",
       "published_at": "2026-08-29T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: a SZIN harmadik napján felforrósodik a város és a hangulat – ma este Majka koncertjén tombolhatunk",
       "url": "https://szeged365.hu/2026/08/28/napi-pakk-a-szin-harmadik-napjan-felforrosodik-a-varos-es-a-hangulat-ma-este-majka-koncertjen-tombolhatunk/"
-    },
-    {
-      "first_seen": "2026-08-28T06:02:49.061440Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bezár Szeged legendás, Michelin Guide díjas étterme",
-      "url": "https://szeged365.hu/2026/08/27/bezar-szeged-legendas-michelin-guide-dijas-etterme/"
-    },
-    {
-      "first_seen": "2026-08-27T18:01:49.058449Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Most Gyulára figyelnek a szegedi focirajongók: rangadót játszik a Szeged-Csanád GA II.",
-      "url": "https://szeged365.hu/2026/08/27/most-gyulara-figyelnek-a-szegedi-focirajongok-rangadot-jatszik-a-szeged-csanad-ga-ii/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-29T06:07:49.049978Z"
+  "updated_at": "2026-08-29T09:05:49.045387Z"
 }

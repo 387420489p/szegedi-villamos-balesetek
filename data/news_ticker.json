@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-29T18:08:49.052018Z",
+      "published_at": "2026-08-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Fidesz szerint az NVVH az “új ÁVH”, Magyar Péter pedig tagadja, hogy a Tisza paktumot kötött a Fidesszel",
+      "url": "https://szeged365.hu/2026/08/28/a-fidesz-szerint-az-nvhh-az-uj-avh-magyar-peter-pedig-tagadja-hogy-a-tisza-paktumot-kotott-a-fidesszel/"
+    },
+    {
+      "first_seen": "2026-08-29T18:08:49.052018Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák SZIN különkiadás vol.2.: a szegedi fesztiválozók vajon inkább megélik a koncertet, vagy akkor nyugodtak, ha minden megvan videón is? (videó)",
+      "url": "https://szeged365.hu/2026/08/29/szegedi-pletykak-szin-kulonkiadas-vol-2-a-szegedi-fesztivalozok-vajon-inkabb-megelik-a-koncertet-vagy-akkor-nyugodtak-ha-minden-megvan-videon-is-video/"
+    },
+    {
+      "first_seen": "2026-08-29T18:08:49.052018Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napos időben telik a nyári hónapok utolsó vasárnapja",
+      "url": "https://szeged365.hu/2026/08/29/napos-idoben-telik-a-nyari-honapok-utolso-vasarnapja/"
+    },
+    {
+      "first_seen": "2026-08-29T18:08:49.052018Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SPORT",
+      "url": "https://szeged365.hu/sport/"
+    },
+    {
       "first_seen": "2026-08-29T15:06:49.057959Z",
       "published_at": "2026-08-29T00:00:00",
       "reason": "prefiltered",
@@ -119,14 +151,6 @@
       "source_name": "Szeged365",
       "title": "A 19 éves szegedi Botond több mint 3000 kilométert biciklizik a demenciával élőkért (videó)",
       "url": "https://szeged365.hu/2026/08/28/a-19-eves-szegedi-botond-tobb-mint-3000-kilometert-biciklizik-a-demenciaval-elokert-video/"
-    },
-    {
-      "first_seen": "2026-08-28T18:08:49.057498Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Fidesz szerint az NVHH az “új ÁVH”, Magyar Péter pedig tagadja, hogy a Tisza paktumot kötött a Fidesszel",
-      "url": "https://szeged365.hu/2026/08/28/a-fidesz-szerint-az-nvhh-az-uj-avh-magyar-peter-pedig-tagadja-hogy-a-tisza-paktumot-kotott-a-fidesszel/"
     },
     {
       "first_seen": "2026-08-28T18:08:49.057498Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem csak stroke után segíthet: új rehabilitációs lehetőség nyílt Szegeden a Szent Vincent Rehabilitációs Központban (videó)",
       "url": "https://szeged365.hu/2026/08/19/nem-csak-stroke-utan-segithet-uj-rehabilitacios-lehetoseg-nyilt-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ekkora kedvezmény idén már biztosan nem lesz a Szent Vincent Rehabilitációs Központban: most foglalj, és akár ősszel vagy télen is igénybe veheted Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/08/19/ekkora-kedvezmeny-iden-mar-biztosan-nem-lesz-a-szent-vincent-rehabilitacios-kozpontban-most-foglalj-es-akar-osszel-vagy-telen-is-igenybe-veheted-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ativizig: deciméteres nagyságrendű vízszintcsökkenés várható a Tisza alsó szakaszán, kritikus szintre apadnak a folyami vízkészletek",
-      "url": "https://szeged365.hu/2026/08/28/ativizig-decimeteres-nagysagrendu-vizszintcsokkenes-varhato-a-tisza-also-szakaszan-kritikus-szintre-apadnak-a-folyami-vizkeszletek/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Második napja oltják a tüzeket Szerbiában a magyar tűzoltók",
-      "url": "https://szeged365.hu/2026/08/28/masodik-napja-oltjak-a-tuzeket-szerbiaban-a-magyar-tuzoltok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-29T15:06:49.057959Z"
+  "updated_at": "2026-08-29T18:08:49.052018Z"
 }

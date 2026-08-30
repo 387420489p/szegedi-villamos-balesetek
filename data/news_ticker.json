@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-30T15:09:49.134033Z",
+      "published_at": "2026-08-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lopott kisgéppel repült a paksi atomerőmű felé, azonnal Gripenek szálltak a nyomába (fotókkal) (frissítve)",
+      "url": "https://szeged365.hu/2026/08/29/lopott-kisgeppel-repult-a-paksi-atomeromu-fele-azonnal-gripenek-szalltak-a-nyomaba/"
+    },
+    {
+      "first_seen": "2026-08-30T15:09:49.134033Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bronzéremmel zárt a Szedeák az oroszlányi Bányász-Kupán",
+      "url": "https://szeged365.hu/2026/08/30/bronzeremmel-zart-a-szedeak-az-oroszlanyi-banyasz-kupan/"
+    },
+    {
+      "first_seen": "2026-08-30T15:09:49.134033Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel ezer diploma, 15 évnyi munka: Szegeden ünnepelt a roma szakkollégiumi hálózat (fotókkal)",
+      "url": "https://szeged365.hu/2026/08/30/kozel-ezer-diploma-15-evnyi-munka-szegeden-unnepelt-a-roma-szakkollegiumi-halozat-fotokkal/"
+    },
+    {
+      "first_seen": "2026-08-30T15:09:49.134033Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Csak a győzelem elfogadható” – hazai pályán is nyerni szeretne a Szeged-Csanád GA",
+      "url": "https://szeged365.hu/2026/08/30/csak-a-gyozelem-elfogadhato-hazai-palyan-is-nyerni-szeretne-a-szeged-csanad-ga/"
+    },
+    {
       "first_seen": "2026-08-30T12:06:49.036738Z",
       "published_at": "2026-08-30T00:00:00",
       "reason": "prefiltered",
@@ -145,14 +177,6 @@
       "url": "https://szeged365.hu/2026/08/29/ujabb-szegedi-siker-a-kajak-kenu-vb-n-paragi-petra-dontos-meg-harom-szegedi-kotodesu-versenyzoert-szorithatunk/"
     },
     {
-      "first_seen": "2026-08-29T12:07:48.965487Z",
-      "published_at": "2026-08-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lopott kisgéppel repült a paksi atomerőmű felé, azonnal Gripenek szálltak a nyomába",
-      "url": "https://szeged365.hu/2026/08/29/lopott-kisgeppel-repult-a-paksi-atomeromu-fele-azonnal-gripenek-szalltak-a-nyomaba/"
-    },
-    {
       "first_seen": "2026-08-29T09:05:49.045387Z",
       "published_at": "2026-08-29T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs: Dzsúdló, Beton.hofi, DJ Snake, Swae Lee, ingyenes gyermekkoncert, jóga a Tisza parton – brutál erős programokkal vár a hétvégén a Napfény Városa!",
       "url": "https://szeged365.hu/2026/08/28/szeged365-kikapcs-dzsudlo-beton-hofi-dj-snake-swae-lee-ingyenes-gyermekkoncert-joga-a-tisza-parton-brutal-eros-programokkal-var-a-hetvegen-a-napfeny-varosa/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„A felkészülést sosem lehet elég korán kezdeni” – elindult az SZTE FANUC Olimpia-győztes fiatal mérnökeinek Európa-bajnoki felkészülése (galéria)",
-      "url": "https://szeged365.hu/2026/08/28/a-felkeszulest-sosem-lehet-eleg-koran-kezdeni-elindult-az-szte-fanuc-olimpia-gyoztes-fiatal-mernokeinek-europa-bajnoki-felkeszulese-galeria/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Villamospálya rekonstrukció kezdődik Szegeden – vágányzár lesz a 3F vonalon, változik a közlekedési rend",
-      "url": "https://szeged365.hu/2026/08/28/villamospalya-rekonstrukcio-kezdodik-szegeden-vaganyzar-lesz-a-3f-vonalon-valtozik-a-kozlekedesi-rend/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az Országgyűlés megválasztotta a Nemzeti Vagyonvédelmi és Vagyonvisszaszerzési hivatal elnökét",
-      "url": "https://szeged365.hu/2026/08/28/az-orszaggyules-megvalasztotta-a-nemzeti-vagyonvedelmi-es-vagyonvisszaszerzesi-hivatal-elnoket/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-30T12:06:49.036738Z"
+  "updated_at": "2026-08-30T15:09:49.134033Z"
 }

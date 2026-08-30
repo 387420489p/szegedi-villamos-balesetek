@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-30T06:06:49.032562Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: 32 fokkal búcsúzik a nyár utolsó hétvégéje, könyvek és dinók várnak ma Szegeden",
+      "url": "https://szeged365.hu/2026/08/30/napi-pakk-32-fokkal-bucsuzik-a-nyar-utolso-hetvegeje-konyvek-es-dinok-varnak-ma-szegeden/"
+    },
+    {
       "first_seen": "2026-08-29T18:08:49.052018Z",
       "published_at": "2026-08-28T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem csak a koncertekről szól a SZIN: a Szent Vincent Rehabilitációs Központ csapata olyan dolgokat mutat a Civil Faluban, amelyek egy buli közben is jól jöhetnek (videó)",
       "url": "https://szeged365.hu/2026/08/27/nem-csak-a-koncertekrol-szol-a-szin-a-szent-vincent-rehabilitacios-kozpont-csapata-olyan-dolgokat-mutat-a-civil-faluban-amelyek-egy-buli-kozben-is-jol-johetnek-video/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem csak stroke után segíthet: új rehabilitációs lehetőség nyílt Szegeden a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/08/19/nem-csak-stroke-utan-segithet-uj-rehabilitacios-lehetoseg-nyilt-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-29T18:08:49.052018Z"
+  "updated_at": "2026-08-30T06:06:49.032562Z"
 }

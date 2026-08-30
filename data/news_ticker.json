@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-30T09:08:49.047929Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Egy csodás második hellyel zártam” – értékelt az algyői Kopasz Bálint a VB-ezüst után, Kiss Ágnes viszont csalódott",
+      "url": "https://szeged365.hu/2026/08/30/egy-csodas-masodik-hellyel-zartam-ertekelt-az-algyoi-kopasz-balint-a-vb-ezust-utan-kiss-agnes-viszont-csalodott/"
+    },
+    {
       "first_seen": "2026-08-30T06:06:49.032562Z",
       "published_at": "2026-08-30T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egyre messzebbre ér a Szent Vincent Rehabilitációs Központ híre, most a gyermekek rehabilitációjában is óriási lehetőség nyílt Szegeden (videó)",
       "url": "https://szeged365.hu/2026/08/27/egyre-messzebbre-er-a-szent-vincent-rehabilitacios-kozpont-hire-most-a-gyermekek-rehabilitaciojaban-is-oriasi-lehetoseg-nyilt-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem csak a koncertekről szól a SZIN: a Szent Vincent Rehabilitációs Központ csapata olyan dolgokat mutat a Civil Faluban, amelyek egy buli közben is jól jöhetnek (videó)",
-      "url": "https://szeged365.hu/2026/08/27/nem-csak-a-koncertekrol-szol-a-szin-a-szent-vincent-rehabilitacios-kozpont-csapata-olyan-dolgokat-mutat-a-civil-faluban-amelyek-egy-buli-kozben-is-jol-johetnek-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-30T06:06:49.032562Z"
+  "updated_at": "2026-08-30T09:08:49.047929Z"
 }

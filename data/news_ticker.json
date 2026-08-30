@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-30T12:06:49.036738Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bedugult az ország: nyolc kilométeres a torlódás az M5-ösön, de bajok vannak az M7-esen és több főúton is",
+      "url": "https://szeged365.hu/2026/08/30/bedugult-az-orszag-8-kilometeres-a-torlodas-az-m5-oson-de-bajok-vannak-az-m7-esen-es-tobb-fouton-is/"
+    },
+    {
+      "first_seen": "2026-08-30T12:06:49.036738Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "VB-ezüstérmes a magyar női kenu négyes, újabb érem a szegedi lányoknak!",
+      "url": "https://szeged365.hu/2026/08/30/vb-ezustermes-a-magyar-noi-kenu-negyes-ujabb-erem-a-szegedi-lanyoknak/"
+    },
+    {
+      "first_seen": "2026-08-30T12:06:49.036738Z",
+      "published_at": "2026-09-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási elismerés, életműdíjat kap a szentesi színművész",
+      "url": "https://szeged365.hu/2026/08/30/oriasi-elismeres-eletmudijat-kap-a-szentesi-szinmuvesz/"
+    },
+    {
+      "first_seen": "2026-08-30T12:06:49.036738Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged méltó módon búcsúztatta a nyarat, de nincs megállás: indul a 2027-es SZIN jegyértékesítése",
+      "url": "https://szeged365.hu/2026/08/30/szeged-melto-modon-bucsuztatta-a-nyarat-de-nincs-megallas-indul-a-2027-es-szin-jegyertekesitese/"
+    },
+    {
+      "first_seen": "2026-08-30T12:06:49.036738Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hármas karambol az M5-ösön, nagy a torlódás",
+      "url": "https://szeged365.hu/2026/08/30/harmas-karambol-az-m5-oson-nagy-a-torlodas/"
+    },
+    {
       "first_seen": "2026-08-30T09:08:49.047929Z",
       "published_at": "2026-08-30T00:00:00",
       "reason": "prefiltered",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Az Országgyűlés megválasztotta a Nemzeti Vagyonvédelmi és Vagyonvisszaszerzési hivatal elnökét",
       "url": "https://szeged365.hu/2026/08/28/az-orszaggyules-megvalasztotta-a-nemzeti-vagyonvedelmi-es-vagyonvisszaszerzesi-hivatal-elnoket/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A rendőrség hűtlen kezelés gyanúja miatt nyomoz a Lázár János utasítására elengedett több milliárdos tartozások ügyében",
-      "url": "https://szeged365.hu/2026/08/28/a-rendorseg-hutlen-kezeles-gyanuja-miatt-nyomoz-a-lazar-janos-utasitasara-elengedett-tobb-milliardos-tartozasok-ugyeben/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem csak Szegednél van baj, hanem Szolnoknál is: olyan alacsony a Tisza vízhozama, hogy rendkívüli intézkedésekre van szükség az ívóvízellátás védelmében",
-      "url": "https://szeged365.hu/2026/08/28/nem-csak-szegednel-van-baj-hanem-szolnoknal-is-olyan-alacsony-a-tisza-vizhozama-hogy-rendkivuli-intezkedesekre-van-szukseg-az-ivovizellatas-vedelmeben/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: szigorítani fogják a büntetőeljárási jogszabályokat és rövidítik az eljárási határidőket",
-      "url": "https://szeged365.hu/2026/08/28/magyar-peter-szigoritani-fogjak-a-buntetoeljarasi-jogszabalyokat-es-roviditik-az-eljarasi-hataridoket/"
-    },
-    {
-      "first_seen": "2026-08-28T12:08:49.039363Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeptembertől változik a 90H jelzésű autóbusz menetrendje Szegeden, a járatok már a BYD gyárig közlekednek",
-      "url": "https://szeged365.hu/2026/08/28/szeptembertol-valtozik-a-90h-jelzesu-autobusz-menetrendje-szegeden-a-jaratok-mar-a-byd-gyarig-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-08-28T09:04:49.049194Z",
-      "published_at": "2026-08-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyre messzebbre ér a Szent Vincent Rehabilitációs Központ híre, most a gyermekek rehabilitációjában is óriási lehetőség nyílt Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/08/27/egyre-messzebbre-er-a-szent-vincent-rehabilitacios-kozpont-hire-most-a-gyermekek-rehabilitaciojaban-is-oriasi-lehetoseg-nyilt-szegeden-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-30T09:08:49.047929Z"
+  "updated_at": "2026-08-30T12:06:49.036738Z"
 }

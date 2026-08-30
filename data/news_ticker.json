@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-30T18:10:49.150403Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hidegfronttal búcsúzik a nyár",
+      "url": "https://szeged365.hu/2026/08/30/hidegfronttal-bucsuzik-a-nyar/"
+    },
+    {
+      "first_seen": "2026-08-30T18:10:49.150403Z",
+      "published_at": "2026-08-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriásit hajrázott a Szeged, Szilágyi hibátlanul szórta a gólokat, de a Veszprém vitte el a Szuperkupát",
+      "url": "https://szeged365.hu/2026/08/30/oriasit-hajrazott-a-szeged-szilagyi-hibatlanul-szorta-a-golokat-de-a-veszprem-vitte-el-a-szuperkupat/"
+    },
+    {
       "first_seen": "2026-08-30T15:09:49.134033Z",
       "published_at": "2026-08-29T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Fergeteges hangulatban érkeztünk el a SZIN harmadik napjához – mutatjuk a pénteki programokat és a csütörtöki aftermovie-t!",
       "url": "https://szeged365.hu/2026/08/28/fergeteges-hangulatban-erkeztunk-el-a-szin-harmadik-napjahoz-mutatjuk-a-penteki-programokat-es-a-csutortoki-aftermovie-t/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Váratlant húzott a szegedi Huszon7ét zenekara: videóklipet kapott a „Hamis vágy”",
-      "url": "https://szeged365.hu/2026/08/28/varatlant-huzott-a-szegedi-huszon7et-zenekara-videoklipet-kapott-a-hamis-vagy/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: Dzsúdló, Beton.hofi, DJ Snake, Swae Lee, ingyenes gyermekkoncert, jóga a Tisza parton – brutál erős programokkal vár a hétvégén a Napfény Városa!",
-      "url": "https://szeged365.hu/2026/08/28/szeged365-kikapcs-dzsudlo-beton-hofi-dj-snake-swae-lee-ingyenes-gyermekkoncert-joga-a-tisza-parton-brutal-eros-programokkal-var-a-hetvegen-a-napfeny-varosa/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-30T15:09:49.134033Z"
+  "updated_at": "2026-08-30T18:10:49.150403Z"
 }

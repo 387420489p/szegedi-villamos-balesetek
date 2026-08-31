@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-08-31T06:05:49.085317Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sztrájkkal indulhat a tanév, ha nem rendezik az iskolai dolgozók bérét, a PDSZ nyílt levélben fordult Lannert Judit oktatási miniszterhez",
+      "url": "https://szeged365.hu/2026/08/31/sztrajkkal-indulhat-a-tanev-ha-nem-rendezik-az-iskolai-dolgozok-beret-a-pdsz-nyilt-levelben-fordult-lannert-judit-oktatasi-miniszterhez/"
+    },
+    {
+      "first_seen": "2026-08-31T06:05:49.085317Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szalagkorlátnak ütközött egy kamion az M5-ösön! A korlát a kamionba akadt, a tűzoltók vágják ki a járműből",
+      "url": "https://szeged365.hu/2026/08/31/szalagkorlatnak-utkozott-egy-kamion-az-m5-oson-a-korlat-a-kamionba-akadt-a-tuzoltok-vagjak-ki-a-jarmubol/"
+    },
+    {
+      "first_seen": "2026-08-31T06:05:49.085317Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Krausz Ferenc lemondott a Corvin-láncról, és a testületben betöltött tagságáról",
+      "url": "https://szeged365.hu/2026/08/31/krausz-ferenc-lemondott-a-corvin-lancrol-es-a-testuletben-betoltott-tagsagarol/"
+    },
+    {
+      "first_seen": "2026-08-31T06:05:49.085317Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hőségből hidegfrontba fordul az idő, és a közlekedésben is lesznek változások Szegeden",
+      "url": "https://szeged365.hu/2026/08/31/napi-pakk-hosegbol-hidegfrontba-fordul-az-ido-es-a-kozlekedesben-is-lesznek-valtozasok-szegeden/"
+    },
+    {
       "first_seen": "2026-08-30T18:10:49.150403Z",
       "published_at": "2026-08-30T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szexuális bűncselekmény miatt húsz éve körözött brit férfit fogtak el a rendőrök Magyarországon (videó)",
       "url": "https://szeged365.hu/2026/08/28/szexualis-buncselekmeny-miatt-husz-eve-korozott-brit-ferfit-fogtak-el-a-rendorok-magyarorszagon-video/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Poznani kajak-kenu vb: egyelőre nincs szegedi érem, de két magyar már felállhatott a dobogóra",
-      "url": "https://szeged365.hu/2026/08/28/poznani-kajak-kenu-vb-egyelore-nincs-szegedi-erem-de-ket-magyar-mar-felallhatott-a-dobogora/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ez hangos lehet – robbantás kiképzést tart a honvédség Sándorfalvánál, mutatjuk a részleteket",
-      "url": "https://szeged365.hu/2026/08/28/ez-hangos-lehet-robbantas-kikepzest-tart-a-honvedseg-sandorfalvanal-mutatjuk-a-reszleteket/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi Próbafülke titka: miért egészségesebb a vadkovászos péksütemény?",
-      "url": "https://szeged365.hu/2026/08/28/a-szegedi-probafulke-titka-miert-egeszsegesebb-a-vadkovaszos-peksutemeny/"
-    },
-    {
-      "first_seen": "2026-08-28T15:06:49.044550Z",
-      "published_at": "2026-08-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fergeteges hangulatban érkeztünk el a SZIN harmadik napjához – mutatjuk a pénteki programokat és a csütörtöki aftermovie-t!",
-      "url": "https://szeged365.hu/2026/08/28/fergeteges-hangulatban-erkeztunk-el-a-szin-harmadik-napjahoz-mutatjuk-a-penteki-programokat-es-a-csutortoki-aftermovie-t/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-30T18:10:49.150403Z"
+  "updated_at": "2026-08-31T06:05:49.085317Z"
 }

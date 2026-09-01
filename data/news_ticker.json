@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-08-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ekkora kedvezmény idén már biztosan nem lesz a Szent Vincent Rehabilitációs Központban: most foglalj, és akár ősszel vagy télen is igénybe veheted Szegeden (videó)",
+      "url": "https://szeged365.hu/2026/08/19/ekkora-kedvezmeny-iden-mar-biztosan-nem-lesz-a-szent-vincent-rehabilitacios-kozpontban-most-foglalj-es-akar-osszel-vagy-telen-is-igenybe-veheted-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Helló suli! Útlezárásokkal indul az iskola, a Makai úton, és a Tisza Lajos körúton rengeteg az autó – mutatjuk, hogy a forgalmasabb helyszíneken hogyan alakul a közlekedés Szegeden",
+      "url": "https://szeged365.hu/2026/09/01/hello-suli-utlezarasokkal-indul-az-iskola-mutatjuk-hogy-a-forgalmasabb-helyszineken-hogyan-alakul-a-kozlekedes-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tűz ütött ki az éjjel: kigyulladt a száraz fű Makónál, a lángok átterjedtek egy ötszáz körbálából álló kazalra is",
+      "url": "https://szeged365.hu/2026/09/01/tuz-utott-ki-az-ejjel-kigyulladt-a-szaraz-fu-makonal-a-langok-atterjedtek-egy-otszaz-korbalabol-allo-kazalra-is/"
+    },
+    {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Emberhátrányban harcolta ki a döntetlent a Szeged-Csanád GA a Szent Gellért Fórumban",
+      "url": "https://szeged365.hu/2026/09/01/emberhatranyban-harcolta-ki-a-dontetlent-a-szeged-csanad-ga-a-szent-gellert-forumban/"
+    },
+    {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: néhány fokos enyhüléssel köszönt ránk a szeptember és az iskola első napja Szegeden",
+      "url": "https://szeged365.hu/2026/09/01/napi-pakk-nehany-fokos-enyhulessel-koszont-rank-a-szeptember-es-az-iskola-elso-napja-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-01T06:00:49.097062Z",
+      "published_at": "2026-08-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: hőlégballon Közép-Európa kupa, jóga a Laposon, és még utoljára autócsodák az Árkádban – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
+      "url": "https://szeged365.hu/2026/08/21/szeged365-kikapcs-holegballon-kozep-europa-kupa-joga-a-laposon-es-meg-utoljara-autocsodak-az-arkadban-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
+    },
+    {
       "first_seen": "2026-08-31T18:04:49.048904Z",
       "published_at": "2026-08-19T00:00:00",
       "reason": "prefiltered",
@@ -234,14 +282,6 @@
     },
     {
       "first_seen": "2026-08-31T12:09:49.121742Z",
-      "published_at": "2026-08-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ekkora kedvezmény idén már biztosan nem lesz a Szent Vincent Rehabilitációs Központban: most foglalj, és akár ősszel vagy télen is igénybe veheted Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/08/19/ekkora-kedvezmeny-iden-mar-biztosan-nem-lesz-a-szent-vincent-rehabilitacios-kozpontban-most-foglalj-es-akar-osszel-vagy-telen-is-igenybe-veheted-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-31T12:09:49.121742Z",
       "published_at": "2026-08-27T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Már látható a változás Baktón: elkészült a járdafelújítás, de a nagyobb fejlesztés még csak ezután jön Szegeden (videó)",
       "url": "https://szeged365.hu/2026/08/31/mar-lathato-a-valtozas-bakton-elkeszult-a-jardafelujitas-de-a-nagyobb-fejlesztes-meg-csak-ezutan-jon-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-08-31T09:06:48.985778Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gengszterélet, Szegeden: bűnügyi felügyelet alatt lopott, kábítószert fogyasztott, és levágta a nyomkövetőjét is egy fiatal férfi",
-      "url": "https://szeged365.hu/2026/08/31/gengszterelet-szegeden-bunugyi-felugyelet-alatt-lopott-kabitoszert-fogyasztott-es-levagta-a-nyomkovetojet-is-egy-fiatal-ferfi/"
-    },
-    {
-      "first_seen": "2026-08-31T09:06:48.985778Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Brezovai Zoltán, a szentesi alakulat zászlósa nyerte el idén az „Év Katonája” címet",
-      "url": "https://szeged365.hu/2026/08/31/brezovai-zoltan-a-szentesi-alakulat-zaszlosa-nyerte-el-iden-az-ev-katonaja-cimet/"
-    },
-    {
-      "first_seen": "2026-08-31T06:05:49.085317Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sztrájkkal indulhat a tanév, ha nem rendezik az iskolai dolgozók bérét, a PDSZ nyílt levélben fordult Lannert Judit oktatási miniszterhez",
-      "url": "https://szeged365.hu/2026/08/31/sztrajkkal-indulhat-a-tanev-ha-nem-rendezik-az-iskolai-dolgozok-beret-a-pdsz-nyilt-levelben-fordult-lannert-judit-oktatasi-miniszterhez/"
-    },
-    {
-      "first_seen": "2026-08-31T06:05:49.085317Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szalagkorlátnak ütközött egy kamion az M5-ösön! A korlát a kamionba akadt, a tűzoltók vágják ki a járműből",
-      "url": "https://szeged365.hu/2026/08/31/szalagkorlatnak-utkozott-egy-kamion-az-m5-oson-a-korlat-a-kamionba-akadt-a-tuzoltok-vagjak-ki-a-jarmubol/"
-    },
-    {
-      "first_seen": "2026-08-31T06:05:49.085317Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Krausz Ferenc lemondott a Corvin-láncról, és a testületben betöltött tagságáról",
-      "url": "https://szeged365.hu/2026/08/31/krausz-ferenc-lemondott-a-corvin-lancrol-es-a-testuletben-betoltott-tagsagarol/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-08-31T18:04:49.048904Z"
+  "updated_at": "2026-09-01T06:00:49.097062Z"
 }

@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Életet mentettek a vásárhelyi rendőrök",
+      "url": "https://szeged365.hu/2026/09/03/eletet-mentettek-a-vasarhelyi-rendorok/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két autó karambolozott az M43-as lehajtójánál (frissítve)",
+      "url": "https://szeged365.hu/2026/09/03/ket-auto-karambolozott-az-m43-as-lehajtojanal/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Még el sem indult a szegedi BYD-gyár, már 28 milliárdért adtak el autókat, és közben 8,3 milliárdos mínuszt hoztak össze",
+      "url": "https://szeged365.hu/2026/09/03/meg-el-sem-indult-a-szegedi-byd-gyar-mar-28-milliardert-adtak-el-autokat-es-kozben-83-milliardos-minuszt-hoztak-ossze/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem semmi igazolás: Ádám Martin Szegeden folytatja!",
+      "url": "https://szeged365.hu/2026/09/03/nem-semmi-igazolas-adam-martin-szegeden-folytatja/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: megszűnik az Szabályozott Tevékenységek Felügyeleti Hatósága, megkapják a fizetésemelést a szociális területen dolgozók – kormányszóvivői sajtótájékoztató élőben, a Szeged365.hu-n",
+      "url": "https://szeged365.hu/2026/09/03/jonnek-a-friss-bejelentesek-kormanyszovivoi-sajtotajekoztato-eloben-a-szeged365-hu-n/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mozdult a Fidesz: erősödött Orbán Viktor tábora, miközben gyengült Magyar Péteré egy friss kutatás szerint",
+      "url": "https://szeged365.hu/2026/09/03/mozdult-a-fidesz-erosodott-orban-viktor-tabora-mikozben-gyengult-magyar-petere-egy-friss-kutatas-szerint/"
+    },
+    {
+      "first_seen": "2026-09-03T15:03:49.045835Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mesterséges intelligencia segíthet megvédeni Szegedet az árvíztől – az SZTE is részt vesz az új nemzetközi kutatásban",
+      "url": "https://szeged365.hu/2026/09/03/mesterseges-intelligencia-segithet-megvedeni-szegedet-az-arviztol-az-szte-is-reszt-vesz-az-uj-nemzetkozi-kutatasban/"
+    },
+    {
       "first_seen": "2026-09-03T12:03:49.060880Z",
       "published_at": "2026-09-01T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Pisztolyok lapultak a pótkerékben, hazánkba akarta becsempészni a fegyvereket a szerb férfi (fotókkal)",
       "url": "https://szeged365.hu/2026/09/02/pisztolyok-lapultak-a-potkerekben-hazankba-akarta-becsempeszni-a-fegyvereket-a-szerb-ferfi-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-02T18:07:49.043167Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Érdekes számok érkeztek a szegedi turizmusról, ezt mutatják a júliusi adatok",
-      "url": "https://szeged365.hu/2026/09/02/erdekes-szamok-erkeztek-a-szegedi-turizmusrol-ezt-mutatjak-a-juliusi-adatok/"
-    },
-    {
-      "first_seen": "2026-09-02T18:07:49.043167Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Tíz centire a Tiszától egy ilyen beruházás nem jöhet létre hatásvizsgálat nélkül” – a szegediek a kikötőbe tervezett hulladékkezelési engedély felülvizsgálatát követelik",
-      "url": "https://szeged365.hu/2026/09/02/tiz-centire-a-tiszatol-egy-ilyen-beruhazas-nem-johet-letre-hatasvizsgalat-nelkul-a-szegediek-a-kikotobe-tervezett-hulladekkezelesi-engedely-felulvizsgalatat-kovetelik/"
-    },
-    {
-      "first_seen": "2026-09-02T18:07:49.043167Z",
-      "published_at": "2026-09-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„49 nap, 7 hét, 7×7” – a szegedi Jakab Győző rekordot ment a Kékkörön, de az út többet adott neki, mint egy szám",
-      "url": "https://szeged365.hu/2026/09/01/49-nap-7-het-7x7-a-szegedi-jakab-gyozo-rekordot-ment-a-kekkoron-de-az-ut-tobbet-adott-neki-mint-egy-szam/"
-    },
-    {
-      "first_seen": "2026-09-02T15:07:49.032820Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Súlyos motorosbaleset az M5-ösön, mentőhelikoptert is riasztottak",
-      "url": "https://szeged365.hu/2026/09/02/sulyos-motorosbaleset-az-m5-oson-mentohelikoptert-is-riasztottak/"
-    },
-    {
-      "first_seen": "2026-09-02T15:07:49.032820Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra előkerül a kegyelmi botrány: Novák Katalint, Varga Juditot és Balog Zoltánt is tervezi meghallgatni a bizottság",
-      "url": "https://szeged365.hu/2026/09/02/ujra-elokerul-a-kegyelmi-botrany-novak-katalint-varga-juditot-es-balog-zoltant-is-tervezi-meghallgatni-a-bizottsag/"
-    },
-    {
-      "first_seen": "2026-09-02T15:07:49.032820Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi gyárban is készülhet a BYD új elektromos miniautója",
-      "url": "https://szeged365.hu/2026/09/02/a-szegedi-gyarban-is-keszulhet-a-byd-uj-elektromos-miniautoja/"
-    },
-    {
-      "first_seen": "2026-09-02T15:07:49.032820Z",
-      "published_at": "2026-09-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "MÁV: megrongálódott egy váltó – több napig pótlóbuszok közlekednek Szeged és Szatymaz között",
-      "url": "https://szeged365.hu/2026/09/02/mav-megrongalodott-egy-valto-tobb-napig-potlobuszok-kozlekednek-szeged-es-szatymaz-kozott/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-03T12:03:49.060880Z"
+  "updated_at": "2026-09-03T15:03:49.045835Z"
 }

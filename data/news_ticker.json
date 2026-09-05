@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-05T12:08:01.485528Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy másik Csongrád- Csanád vármegyei településen is tűz ütött ki",
+      "url": "https://szeged365.hu/2026/09/05/egy-masik-csongrad-csanad-varmegyei-telepulesen-is-tuz-utott-ki/"
+    },
+    {
+      "first_seen": "2026-09-05T12:08:01.485528Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét balesetet szenvedett hazánkban egy lengyel autóbusz, többen is megsérültek",
+      "url": "https://szeged365.hu/2026/09/05/ismet-balesetet-szenvedett-hazankban-egy-lengyel-autobusz-tobben-is-megserultek/"
+    },
+    {
+      "first_seen": "2026-09-05T12:08:01.485528Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt a szegedi vasútvonalon: Szeged és Szatymaz között pótlóbuszok járnak",
+      "url": "https://szeged365.hu/2026/09/05/baleset-tortent-a-szegedi-vasutvonalon-szeged-es-szatymaz-kozott-potlobuszok-jarnak/"
+    },
+    {
+      "first_seen": "2026-09-05T12:08:01.485528Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási füst borítja megint Szegedet: több autó, faház is lángra kapott és erdő is ég! (frissítve)",
+      "url": "https://szeged365.hu/2026/09/05/oriasi-fust-boritja-megint-szegedet/"
+    },
+    {
       "first_seen": "2026-09-05T09:08:01.475588Z",
       "published_at": "2026-09-04T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Közzétették a kórházi fertőzések és járványok intézményi adatait",
       "url": "https://szeged365.hu/2026/09/04/kozzetettek-a-korhazi-fertozesek-es-jarvanyok-intezmenyi-adatait/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": ",,Nem tudok elég hálás lenni” – Détári Vilmos elmondta, mit jelent számára a Szeged365 Family összefogása (videó)",
-      "url": "https://szeged365.hu/2026/09/01/nem-tudok-eleg-halas-lenni-detari-vilmos-elmondta-mit-jelent-szamara-a-szeged365-family-osszefogasa-video/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Azt sem tudták, milyen emberként térhet vissza a baleset után: Sári Csaba sikersztorijában a Szent Vincent Rehabilitációs Központ is ott volt",
-      "url": "https://szeged365.hu/2026/08/31/azt-sem-tudtak-milyen-emberkent-terhet-vissza-a-baleset-utan-sari-csaba-sikersztorijaban-a-szent-vincent-rehabilitacios-kozpont-is-ott-volt-video/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Azóta hiszek a robotokban” – Szabó-Márk Tamás újabb nagy lépést tett a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/03/azota-hiszek-a-robotokban-szabo-mark-tamas-ujabb-nagy-lepest-tett-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hét év után Magyarország újra indulhat az Eurovíziós Dalfesztiválon",
-      "url": "https://szeged365.hu/2026/09/04/het-ev-utan-magyarorszag-ujra-indulhat-az-eurovizios-dalfesztivalon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-05T09:08:01.475588Z"
+  "updated_at": "2026-09-05T12:08:01.485528Z"
 }

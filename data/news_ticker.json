@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-05T09:08:01.475588Z",
+      "published_at": "2026-09-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ég egy melléképület Szegeden, a lángok kis területen, de elérték a főépület tetőszerkezetét is",
+      "url": "https://szeged365.hu/2026/09/04/kigyulladt-egy-mellekepulet-szegeden-a-langok-kis-teruleten-de-elertek-a-foepulet-tetoszerkezetet-is/"
+    },
+    {
+      "first_seen": "2026-09-05T09:08:01.475588Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elstartolt a Két lábon vagy két keréken jótékonysági nap, még a tavalyinál is többen vannak! (videók)",
+      "url": "https://szeged365.hu/2026/09/05/elstartolt-a-ket-labon-vagy-ket-kereken-jotekonysagi-nap-meg-a-tavalyinal-is-tobben-vannak-videok/"
+    },
+    {
+      "first_seen": "2026-09-05T09:08:01.475588Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: “Igazságtalan, hogy az EU bírságol minket” – a kormány meghosszabbítja a tömeges bevándorlás okozta válsághelyzetet",
+      "url": "https://szeged365.hu/2026/09/05/magyar-peter-igazsagtalan-hogy-az-eu-birsagol-minket-a-kormany-meghosszabbitja-a-tomeges-bevandorlas-okozta-valsaghelyzetet/"
+    },
+    {
       "first_seen": "2026-09-05T06:04:01.489761Z",
       "published_at": "2026-09-05T00:00:00",
       "reason": "prefiltered",
@@ -293,34 +317,10 @@
       "published_at": "2026-09-04T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Kigyulladt egy melléképület Szegeden, a lángok kis területen, de elérték a főépület tetőszerkezetét is",
-      "url": "https://szeged365.hu/2026/09/04/kigyulladt-egy-mellekepulet-szegeden-a-langok-kis-teruleten-de-elertek-a-foepulet-tetoszerkezetet-is/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Hét év után Magyarország újra indulhat az Eurovíziós Dalfesztiválon",
       "url": "https://szeged365.hu/2026/09/04/het-ev-utan-magyarorszag-ujra-indulhat-az-eurovizios-dalfesztivalon/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt egy személykocsi az M5-ös Csongrád-Csanád vármegyei szakaszán",
-      "url": "https://szeged365.hu/2026/09/04/kigyulladt-egy-szemelykocsi-az-m5-os-csongrad-csanad-varmegyei-szakaszan/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Balesettel indult a péntek az M5-ös autópályán, a torlódás már közel 2 kilométeres",
-      "url": "https://szeged365.hu/2026/09/04/balesettel-indult-a-pentek-az-m5-os-autopalyan-a-torlodas-mar-kozel-2-kilometeres/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-05T06:04:01.489761Z"
+  "updated_at": "2026-09-05T09:08:01.475588Z"
 }

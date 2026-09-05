@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-05T06:04:01.489761Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéses időt hoz a szombat Szegedre, indul a jótékonysági futás a Laposon, és gumikacsák lepik el a Tiszát",
+      "url": "https://szeged365.hu/2026/09/05/napi-pakk-napsuteses-idot-hoz-a-szombat-szegedre-indul-a-jotekonysagi-futas-a-laposon-es-gumikacsak-lepik-el-a-tiszat/"
+    },
+    {
       "first_seen": "2026-09-04T18:06:01.653599Z",
       "published_at": "2026-09-03T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Balesettel indult a péntek az M5-ös autópályán, a torlódás már közel 2 kilométeres",
       "url": "https://szeged365.hu/2026/09/04/balesettel-indult-a-pentek-az-m5-os-autopalyan-a-torlodas-mar-kozel-2-kilometeres/"
-    },
-    {
-      "first_seen": "2026-09-04T06:05:49.107070Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szeles napnak nézünk elébe Szegeden, 45 éves lett Beyoncé, indul az őszi szezon a Városi Rock Klubban",
-      "url": "https://szeged365.hu/2026/09/04/napi-pakk-szeles-napnak-nezunk-elebe-szegeden-45-eves-lett-beyonce-indul-az-oszi-szezon-a-varosi-rock-klubban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-04T18:06:01.653599Z"
+  "updated_at": "2026-09-05T06:04:01.489761Z"
 }

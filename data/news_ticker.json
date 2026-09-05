@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-05T18:01:01.529018Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szombati hidegfront után végre 30 fok alá esik a hőmérséklet vasárnap",
+      "url": "https://szeged365.hu/2026/09/05/a-szombati-hidegfront-utan-vegre-30-fok-ala-esik-a-homerseklet-vasarnap/"
+    },
+    {
       "first_seen": "2026-09-05T15:09:01.772916Z",
       "published_at": "2026-09-05T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Az iPhone után itt az újabb brutális meglepetés Szegeden: mától ezt húzza elő a Maláta a Fekete Ház udvarában",
       "url": "https://szeged365.hu/2026/09/04/az-iphone-utan-itt-az-ujabb-brutalis-meglepetes-szegeden-matol-ezt-huzza-elo-a-malata-a-fekete-haz-udvaraban/"
-    },
-    {
-      "first_seen": "2026-09-04T12:01:49.098604Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó pár napra lezárják az egyik vasúti átjárót Szegeden, az autóbuszok is terelve közlekednek",
-      "url": "https://szeged365.hu/2026/09/04/jo-par-napra-lezarjak-az-egyik-vasuti-atjarot-szegeden-az-autobuszok-is-terelve-kozlekednek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-05T15:09:01.772916Z"
+  "updated_at": "2026-09-05T18:01:01.529018Z"
 }

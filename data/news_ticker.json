@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-06T09:05:01.546425Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Durva rendőrségi akció a szomszéd vármegyében: a TEK is kivonult!",
+      "url": "https://szeged365.hu/2026/09/06/durva-rendorsegi-akcio-a-szomszed-varmegyeben-a-tek-is-kivonult/"
+    },
+    {
+      "first_seen": "2026-09-06T09:05:01.546425Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Harminc dobogós hely: a szegedi kajak- kenusok az élen zártak a magyar bajnokságon!",
+      "url": "https://szeged365.hu/2026/09/06/harminc-dobogos-hely-a-szegedi-kajak-kenusok-az-elen-zartak-a-magyar-bajnoksagon/"
+    },
+    {
       "first_seen": "2026-09-06T06:06:01.586313Z",
       "published_at": "2026-09-06T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Néhány hónapja még a saját hangjáért küzdött, most más nőknek segít megtalálni az övéket Szegeden FullAnyuuuu",
       "url": "https://szeged365.hu/2026/09/04/nehany-honapja-meg-a-sajat-hangjaert-kuzdott-most-mas-noknek-segit-megtalalni-az-oveket-szegeden-fullanyuuuu/"
-    },
-    {
-      "first_seen": "2026-09-04T12:01:49.098604Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Michelisz Norbert, elektromos autók, motorok és kerékpárok – rengeteg látnivalóval és programmal várják az E Street Parade idei rendezvényén a szegedieket",
-      "url": "https://szeged365.hu/2026/09/04/michelisz-norbert-elektromos-autok-motorok-es-kerekparok-rengeteg-latnivaloval-es-programmal-varjak-az-e-street-parade-idei-rendezvenyen-a-szegedieket/"
-    },
-    {
-      "first_seen": "2026-09-04T12:01:49.098604Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: jótékonysági futás a Laposon, gumikacsák a Tiszán és Streetball Fesztivál – igazi programkavalkád vár bennünket a hétvégén Szegeden",
-      "url": "https://szeged365.hu/2026/09/04/szeged365-kikapcs-jotekonysagi-futas-a-laposon-gumikacsak-a-tiszan-es-streetball-fesztival-igazi-programkavalkad-var-bennunket-a-hetvegen-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-06T06:06:01.586313Z"
+  "updated_at": "2026-09-06T09:05:01.546425Z"
 }

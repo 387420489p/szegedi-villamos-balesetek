@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-06T06:06:01.586313Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: végre enyhül a meleg, 30 éve járt itt II. János Pál pápa, még tart a kamionos találkozó a Sun City-n!",
+      "url": "https://szeged365.hu/2026/09/06/napi-pakk-vegre-enyhul-a-meleg-30-eve-jart-itt-ii-janos-pal-papa-meg-tart-a-kamionos-talalkozo-a-sun-city-n/"
+    },
+    {
+      "first_seen": "2026-09-06T06:06:01.586313Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megadta az alaphangot Szeged: hétgólos félidő után behúzta első hazai bajnokiját a PICK",
+      "url": "https://szeged365.hu/2026/09/05/megadta-az-alaphangot-szeged-hetgolos-felido-utan-behuzta-elso-hazai-bajnokijat-a-pick/"
+    },
+    {
       "first_seen": "2026-09-05T18:01:01.529018Z",
       "published_at": "2026-09-05T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs: jótékonysági futás a Laposon, gumikacsák a Tiszán és Streetball Fesztivál – igazi programkavalkád vár bennünket a hétvégén Szegeden",
       "url": "https://szeged365.hu/2026/09/04/szeged365-kikapcs-jotekonysagi-futas-a-laposon-gumikacsak-a-tiszan-es-streetball-fesztival-igazi-programkavalkad-var-bennunket-a-hetvegen-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-04T12:01:49.098604Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dübörgő gépszörnyek lepik el a 47-es főutat, és Hódmezővásárhely utcáit, útlezárásokra számíthatnak a közlekedők a térségben",
-      "url": "https://szeged365.hu/2026/09/04/duborgo-gepszornyek-lepik-el-a-47-es-foutat-es-hodmezovasarhely-utcait-utlezarasokra-szamithatnak-a-kozlekedok-a-tersegben/"
-    },
-    {
-      "first_seen": "2026-09-04T12:01:49.098604Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az iPhone után itt az újabb brutális meglepetés Szegeden: mától ezt húzza elő a Maláta a Fekete Ház udvarában",
-      "url": "https://szeged365.hu/2026/09/04/az-iphone-utan-itt-az-ujabb-brutalis-meglepetes-szegeden-matol-ezt-huzza-elo-a-malata-a-fekete-haz-udvaraban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-05T18:01:01.529018Z"
+  "updated_at": "2026-09-06T06:06:01.586313Z"
 }

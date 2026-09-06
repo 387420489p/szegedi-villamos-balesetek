@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-06T18:10:01.836989Z",
+      "published_at": "2026-09-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztő: összegyűlt a pénz a hatéves Csilla szívműtétjére a kacsaversenyen! (galéria + videó)",
+      "url": "https://szeged365.hu/2026/09/05/elkepeszto-osszegyult-a-penz-a-hateves-csilla-szivmutetjere-a-kacsaversenyen-galeria/"
+    },
+    {
+      "first_seen": "2026-09-06T18:10:01.836989Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra támad a meleg, hétfőn ismét közelítjük a 30 fokot!",
+      "url": "https://szeged365.hu/2026/09/06/ujra-tamad-a-meleg-hetfon-ismet-kozelitjuk-a-30-fokot/"
+    },
+    {
+      "first_seen": "2026-09-06T18:10:01.836989Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rossz hír a szegedi trafikosoknak is: Magyar Péter államosítaná a dohányboltokat",
+      "url": "https://szeged365.hu/2026/09/06/rossz-hir-a-szegedi-trafikosoknak-is-magyar-peter-allamositana-a-dohanyboltokat/"
+    },
+    {
       "first_seen": "2026-09-06T15:02:01.597706Z",
       "published_at": "2026-09-06T00:00:00",
       "reason": "prefiltered",
@@ -173,14 +197,6 @@
       "published_at": "2026-09-05T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Elképesztő: összegyűlt a pénz a hatéves Csilla szívműtétjére a kacsaversenyen! (galéria + videó)",
-      "url": "https://szeged365.hu/2026/09/05/elkepeszto-osszegyult-a-penz-a-hateves-csilla-szivmutetjere-a-kacsaversenyen-galeria/"
-    },
-    {
-      "first_seen": "2026-09-05T15:09:01.772916Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Az élmezőnyben zárt a szegedi Mérai Janka élete második nemzetközi versenyén, az úszó vb-n!",
       "url": "https://szeged365.hu/2026/09/05/az-elmezonyben-zart-a-szegedi-merai-janka-elete-masodik-nemzetkozi-versenyen-az-uszo-vb-n/"
     },
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Felrázzák a JATE Klubot, két rockgeneráció találkozik egy este alatt",
       "url": "https://szeged365.hu/2026/09/04/felrazzak-a-jate-klubot-ket-rockgeneracio-talalkozik-egy-este-alatt/"
-    },
-    {
-      "first_seen": "2026-09-04T18:06:01.653599Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nobel-díjából alapított elismerést Karikó Katalin, idén is tehetséges szegedieket keresnek",
-      "url": "https://szeged365.hu/2026/09/04/nobel-dijabol-alapitott-elismerest-kariko-katalin-iden-is-tehetseges-szegedieket-keresnek/"
-    },
-    {
-      "first_seen": "2026-09-04T18:06:01.653599Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy lány életében kevés ilyen pillanat van: az igazi ruha kereséséből született meg az Elaris Esküvői Szalon Szegeden (galéria, videó)",
-      "url": "https://szeged365.hu/2026/09/04/egy-lany-eleteben-keves-ilyen-pillanat-van-az-igazi-ruha-keresesebol-szuletett-meg-az-elaris-eskuvoi-szalon-szegeden-galeria-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-06T15:02:01.597706Z"
+  "updated_at": "2026-09-06T18:10:01.836989Z"
 }

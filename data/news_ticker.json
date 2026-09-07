@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Durva rendőrségi akció a szomszéd vármegyében: a TEK is kivonult! (videó)",
+      "url": "https://szeged365.hu/2026/09/06/durva-rendorsegi-akcio-a-szomszed-varmegyeben-a-tek-is-kivonult/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ádám Martin: “kell egy kis idő, amíg belerázódom, de azt gondolom, jó úton járok”",
+      "url": "https://szeged365.hu/2026/09/07/adam-martin-kell-egy-kis-ido-amig-belerazodom-de-azt-gondolom-jo-uton-jarok/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szívünk Napja 2026: ingyenes egészségügyi szűrésekkel, mentősimogatóval és gyerekprogramokkal várják a szegedieket!",
+      "url": "https://szeged365.hu/2026/09/07/szivunk-napja-2026-ingyenes-egeszsegugyi-szuresekkel-mentosimogatoval-es-gyerekprogramokkal-varjak-a-szegedieket/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az oldalára borult egy kisteherautó az M5-ösön, a torlódás közel 10 kilométeres",
+      "url": "https://szeged365.hu/2026/09/07/az-oldalara-borult-egy-kisteherauto-az-m5-oson-a-torlodas-kozel-10-kilometeres/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Húzós volt a hétvége a vármegyei tűzoltóknál: csak szombaton 11 szabadtéri tűzesetnél 20 település hivatásos, és önkéntes egységei oltották a lángokat",
+      "url": "https://szeged365.hu/2026/09/07/huzos-volt-a-hetvege-a-varmegyei-tuzoltoknal-csak-szombaton-11-szabadteri-tuzesetnel-20-telepules-hivatasos-es-onkentes-egysegei-oltottak-a-langokat/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mindkét üzemanyagtípus átlagára emelkedett: drágult a benzin, és a dízel ára is a benzinkutakon",
+      "url": "https://szeged365.hu/2026/09/07/mindket-uzemanyagtipus-atlagara-emelkedett-dragult-a-benzin-es-a-dizel-ara-is-a-benzinkutakon/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Reggeli káosz: baleset, és munkálatok is nehezítik a közlekedést Szegeden",
+      "url": "https://szeged365.hu/2026/09/07/kaosz-a-reggeli-kozlekedesben-baleset-es-munkalatok-nehezitik-a-kozlekedest-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-07T09:05:01.536101Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas dobásra készül Luxoya VIP: Jákob Zoli érkezik Szegedre, jön az ősz legexkluzívabb VIP divat- és szépségshow-ja!",
+      "url": "https://szeged365.hu/2026/09/07/hatalmas-dobasra-keszul-luxoya-vip-jakob-zoli-erkezik-szegedre-jon-az-osz-legexkluzivabb-vip-divat-es-szepsegshow-ja/"
+    },
+    {
       "first_seen": "2026-09-07T06:08:01.576344Z",
       "published_at": "2026-09-07T00:00:00",
       "reason": "prefiltered",
@@ -181,14 +245,6 @@
       "published_at": "2026-09-06T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Durva rendőrségi akció a szomszéd vármegyében: a TEK is kivonult!",
-      "url": "https://szeged365.hu/2026/09/06/durva-rendorsegi-akcio-a-szomszed-varmegyeben-a-tek-is-kivonult/"
-    },
-    {
-      "first_seen": "2026-09-06T09:05:01.546425Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Harminc dobogós hely: a szegedi kajak- kenusok az élen zártak a magyar bajnokságon!",
       "url": "https://szeged365.hu/2026/09/06/harminc-dobogos-hely-a-szegedi-kajak-kenusok-az-elen-zartak-a-magyar-bajnoksagon/"
     },
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Baleset történt a szegedi vasútvonalon: Szeged és Szatymaz között pótlóbuszok járnak",
       "url": "https://szeged365.hu/2026/09/05/baleset-tortent-a-szegedi-vasutvonalon-szeged-es-szatymaz-kozott-potlobuszok-jarnak/"
-    },
-    {
-      "first_seen": "2026-09-05T09:08:01.475588Z",
-      "published_at": "2026-09-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ég egy melléképület Szegeden, a lángok kis területen, de elérték a főépület tetőszerkezetét is",
-      "url": "https://szeged365.hu/2026/09/04/kigyulladt-egy-mellekepulet-szegeden-a-langok-kis-teruleten-de-elertek-a-foepulet-tetoszerkezetet-is/"
-    },
-    {
-      "first_seen": "2026-09-05T09:08:01.475588Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elstartolt a Két lábon vagy két keréken jótékonysági nap, még a tavalyinál is többen vannak! (videók)",
-      "url": "https://szeged365.hu/2026/09/05/elstartolt-a-ket-labon-vagy-ket-kereken-jotekonysagi-nap-meg-a-tavalyinal-is-tobben-vannak-videok/"
-    },
-    {
-      "first_seen": "2026-09-05T09:08:01.475588Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: “Igazságtalan, hogy az EU bírságol minket” – a kormány meghosszabbítja a tömeges bevándorlás okozta válsághelyzetet",
-      "url": "https://szeged365.hu/2026/09/05/magyar-peter-igazsagtalan-hogy-az-eu-birsagol-minket-a-kormany-meghosszabbitja-a-tomeges-bevandorlas-okozta-valsaghelyzetet/"
-    },
-    {
-      "first_seen": "2026-09-05T06:04:01.489761Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéses időt hoz a szombat Szegedre, indul a jótékonysági futás a Laposon, és gumikacsák lepik el a Tiszát",
-      "url": "https://szeged365.hu/2026/09/05/napi-pakk-napsuteses-idot-hoz-a-szombat-szegedre-indul-a-jotekonysagi-futas-a-laposon-es-gumikacsak-lepik-el-a-tiszat/"
-    },
-    {
-      "first_seen": "2026-09-04T18:06:01.653599Z",
-      "published_at": "2026-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szolnok városa kitüntetné a Gripen- baleset pilótáit – Ruszin- Szendi Romulusz friss információkat közölt az esetről (videó)",
-      "url": "https://szeged365.hu/2026/09/03/szolnok-varosa-kituntetne-a-gripen-baleset-pilotait-ruszin-szendi-romulusz-friss-informaciokat-kozolt-az-esetrol/"
-    },
-    {
-      "first_seen": "2026-09-04T18:06:01.653599Z",
-      "published_at": "2026-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Le a kalappal: életet mentettek a vásárhelyi rendőrök",
-      "url": "https://szeged365.hu/2026/09/03/eletet-mentettek-a-vasarhelyi-rendorok/"
-    },
-    {
-      "first_seen": "2026-09-04T18:06:01.653599Z",
-      "published_at": "2026-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem semmi igazolás: Ádám Martin Szegeden folytatja!",
-      "url": "https://szeged365.hu/2026/09/03/nem-semmi-igazolas-adam-martin-szegeden-folytatja/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-07T06:08:01.576344Z"
+  "updated_at": "2026-09-07T09:05:01.536101Z"
 }

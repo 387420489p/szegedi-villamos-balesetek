@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Különleges kiállítás nyílik szeptember 10-én a Somogyi-könyvtárban",
+      "url": "https://szeged365.hu/2026/09/06/kulonleges-kiallitas-nyilik-szeptember-10-en-a-somogyi-konyvtarban/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Öt hektáron égett az erdő egy Csongrád-Csanád vármegyei település határában",
+      "url": "https://szeged365.hu/2026/09/06/ot-hektaron-egett-az-erdo-egy-csongrad-csanad-varmegyei-telepules-hataraban/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási vita az elszabadult üzemanyagárakról: a Fidesz védett árat vezetne be, Magyar Péter szerint másként kell segíteni",
+      "url": "https://szeged365.hu/2026/09/07/oriasi-vita-az-elszabadult-uzemanyagarakrol-a-fidesz-vedett-arat-vezetne-be-magyar-peter-szerint-maskent-kell-segiteni/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Paks II. tovább várathat magára: a Politico szerint az átadásig nyolc év is lehet hátra!",
+      "url": "https://szeged365.hu/2026/09/07/paks-ii-tovabb-varathat-magara-a-politico-szerint-az-atadasig-nyolc-ev-is-lehet-hatra/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt tényleg látni kell: különleges népviseletek érkeznek Szegedre",
+      "url": "https://szeged365.hu/2026/09/07/ezt-tenyleg-latni-kell-kulonleges-nepviseletek-erkeznek-szegedre/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi biciklisek, figyelem! Nehezen észrevehető, kerékveszélyes útakadály jelent meg a Csongrádi sugárúti bicikliúton (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/07/szegedi-biciklisek-figyelem-nehezen-eszreveheto-kerekveszelyes-utakadaly-jelent-meg-a-csongradi-sugaruti-bicikliuton-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-07T15:02:01.534853Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem árt figyelni a kihelyezett táblákat: olvasónk megmutatta, milyen a közlekedés a Fonógyári úton Szegeden (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/07/nem-art-figyelni-a-kihelyezett-tablakat-olvasonk-megmutatta-milyen-a-kozlekedes-a-fonogyari-uton-szegeden-fotokkal/"
+    },
+    {
       "first_seen": "2026-09-07T12:10:01.554178Z",
       "published_at": "2026-09-06T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Elszabadult az üzemanyag ára, Magyar Péter üzent az autósoknak",
       "url": "https://szeged365.hu/2026/09/06/elszabadult-az-uzemanyag-ara-magyar-peter-uzent-az-autosoknak/"
-    },
-    {
-      "first_seen": "2026-09-06T15:02:01.597706Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Különleges kiállítás nyílik szeptember 10-én a Somogyi-könyvtárban",
-      "url": "https://szeged365.hu/2026/09/06/kulonleges-kiallitas-nyilik-szeptember-10-en-a-somogyi-konyvtarban/"
-    },
-    {
-      "first_seen": "2026-09-06T15:02:01.597706Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Öt hektáron égett az erdő egy Csongrád- Csanád vármegyei település határában",
-      "url": "https://szeged365.hu/2026/09/06/ot-hektaron-egett-az-erdo-egy-csongrad-csanad-varmegyei-telepules-hataraban/"
-    },
-    {
-      "first_seen": "2026-09-06T15:02:01.597706Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Könnyen fog menni a beilleszkedés” – a Csákvár ellen már Ádám Martin is pályára léphet a Szeged- Csanád GA színeiben (videó)",
-      "url": "https://szeged365.hu/2026/09/06/konnyen-fog-menni-a-beilleszkedes-a-csakvar-ellen-mar-adam-martin-is-palyara-lephet-a-szeged-csanad-ga-szineiben-video/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy másik Csongrád- Csanád vármegyei településen is tűz ütött ki",
-      "url": "https://szeged365.hu/2026/09/05/egy-masik-csongrad-csanad-varmegyei-telepulesen-is-tuz-utott-ki/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási füst borítja megint Szegedet: több autó, faház is lángra kapott és erdő is ég! (frissítve)",
-      "url": "https://szeged365.hu/2026/09/05/oriasi-fust-boritja-megint-szegedet/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: “A szegedi halászlé a legfinomabb a világon” – nagy sikere volt a Tiszai Halfőző Fesztiválnak",
-      "url": "https://szeged365.hu/2026/09/06/botka-laszlo-a-szegedi-halaszle-a-legfinomabb-a-vilagon-nagy-sikere-volt-a-tiszai-halfozo-fesztivalnak/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vasárnapi meglepetés: mi történt Donald Trump hajával? (fotó)",
-      "url": "https://szeged365.hu/2026/09/06/vasarnapi-meglepetes-mi-tortent-donald-trump-hajaval-foto/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-07T12:10:01.554178Z"
+  "updated_at": "2026-09-07T15:02:01.534853Z"
 }

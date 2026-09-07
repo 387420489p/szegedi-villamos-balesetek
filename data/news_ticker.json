@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt két kiskorú kislány a szomszédos vármegyében, Szegeden is felbukkanhatnak! (frissítve)",
+      "url": "https://szeged365.hu/2026/09/06/eltunt-ket-kiskoru-kislany-a-szomszedos-varmegyeben-szegeden-is-felbukkanhatnak-foto/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hét új produkciót mutat be új évadában az idén 80 éves szegedi Kövér Béla Bábszínház",
+      "url": "https://szeged365.hu/2026/09/07/het-uj-produkciot-mutat-be-uj-evadaban-az-iden-80-eves-szegedi-kover-bela-babszinhaz/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas szegedi siker Svájcban: bronzérmes lett A szeretet nyelve az UNICA filmfesztiválon (videó + galéria)",
+      "url": "https://szeged365.hu/2026/09/07/hatalmas-szegedi-siker-svajcban-bronzermes-lett-a-szeretet-nyelve-az-unica-filmfesztivalon-video-galeria/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Zajlik az élet a déli szomszédainknál: kezdeményezi a parlament feloszlatását a szerb kormány",
+      "url": "https://szeged365.hu/2026/09/07/zajlik-az-elet-a-deli-szomszedainknal-kezdemenyezi-a-parlament-feloszlatasat-a-szerb-kormany/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha valamit ünnepelnétek Szegeden, ezt nézzétek meg: Liza megmutatta a Napfény Műterem megújult, többféle bőségtálját (videó, galéria)",
+      "url": "https://szeged365.hu/2026/09/07/ha-valamit-unnepelnetek-szegeden-ezt-nezzetek-meg-liza-megmutatta-a-napfeny-muterem-megujult-tobbfele-bosegtaljat-video-galeria/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több száz nyugdíjas állhat össze egy világrekordért Szegeden: közel 20 perces karatebemutatóra készülnek",
+      "url": "https://szeged365.hu/2026/09/07/tobb-szaz-nyugdijas-allhat-ossze-egy-vilagrekordert-szegeden-kozel-20-perces-karatebemutatora-keszulnek/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nagyon büszkék vagyunk rájuk: remek eredményeket hoztak a Szatymaz Judo versenyzői",
+      "url": "https://szeged365.hu/2026/09/07/nagyon-buszkek-vagyunk-rajuk-remek-eredmenyeket-hoztak-a-szatymaz-judo-versenyzoi/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Csütörtökön BL-rajt a PICK Arénában! A svéd bajnok IFK Kristianstad együttesét fogadja az OTP Bank-PICK Szeged",
+      "url": "https://szeged365.hu/2026/09/07/csutortokon-bl-rajt-a-pick-arenaban-a-sved-bajnok-ifk-kristianstad-egyutteset-fogadja-az-otp-bank-pick-szeged/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megkezdte a rendszerek felkészítését a Szetáv a következő fűtési szezonra: arra kérnek mindenkit, hogy nyissuk ki a radiátorok termosztatikus szelepeit",
+      "url": "https://szeged365.hu/2026/09/07/megkezdte-a-rendszerek-felkesziteset-a-szetav-a-kovetkezo-futesi-szezonra-arra-kernek-mindenkit-hogy-nyissuk-ki-a-radiatorok-termosztatikus-szelepeit/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Azt sem tudták, milyen emberként térhet vissza a baleset után: Sári Csaba sikersztorijában a Szent Vincent Rehabilitációs Központ is ott volt",
+      "url": "https://szeged365.hu/2026/08/31/azt-sem-tudtak-milyen-emberkent-terhet-vissza-a-baleset-utan-sari-csaba-sikersztorijaban-a-szent-vincent-rehabilitacios-kozpont-is-ott-volt-video/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": ",,Nem tudok elég hálás lenni” – Détári Vilmos elmondta, mit jelent számára a Szeged365 Family összefogása (videó)",
+      "url": "https://szeged365.hu/2026/09/01/nem-tudok-eleg-halas-lenni-detari-vilmos-elmondta-mit-jelent-szamara-a-szeged365-family-osszefogasa-video/"
+    },
+    {
+      "first_seen": "2026-09-07T12:10:01.554178Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Le a kalappal: „Magyarország Tehetsége” elismerést kapott a Szegedi SZC Vedres István Technikum diákja, Somogyi Dorka",
+      "url": "https://szeged365.hu/2026/09/07/le-a-kalappal-magyarorszag-tehetsege-elismerest-kapott-a-szegedi-szc-vedres-istvan-technikum-diakja-somogyi-dorka/"
+    },
+    {
       "first_seen": "2026-09-07T09:05:01.536101Z",
       "published_at": "2026-09-06T00:00:00",
       "reason": "prefiltered",
@@ -215,112 +319,8 @@
       "source_name": "Szeged365",
       "title": "Vasárnapi meglepetés: mi történt Donald Trump hajával? (fotó)",
       "url": "https://szeged365.hu/2026/09/06/vasarnapi-meglepetes-mi-tortent-donald-trump-hajaval-foto/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hétfőtől kezdődnek a munkálatok a Kálvária sugárúti vasúti átjárónál, módosul a szegedi vonatok és a 36-os busz menetrendje",
-      "url": "https://szeged365.hu/2026/09/06/hetfotol-kezdodnek-a-munkalatok-a-kalvaria-sugaruti-vasuti-atjaronal-modosul-a-szegedi-vonatok-es-a-36-os-busz-menetrendje/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt két kiskorú kislány a szomszédos vármegyében, Szegeden is felbukkanhatnak! (fotó)",
-      "url": "https://szeged365.hu/2026/09/06/eltunt-ket-kiskoru-kislany-a-szomszedos-varmegyeben-szegeden-is-felbukkanhatnak-foto/"
-    },
-    {
-      "first_seen": "2026-09-06T12:08:01.572439Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas váltás: szegedi lett a Magyar Kétfarkú Kutyapárt új elnöke",
-      "url": "https://szeged365.hu/2026/09/06/hatalmas-valtas-szegedi-lett-a-magyar-ketfarku-kutyapart-uj-elnoke/"
-    },
-    {
-      "first_seen": "2026-09-06T09:05:01.546425Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Harminc dobogós hely: a szegedi kajak- kenusok az élen zártak a magyar bajnokságon!",
-      "url": "https://szeged365.hu/2026/09/06/harminc-dobogos-hely-a-szegedi-kajak-kenusok-az-elen-zartak-a-magyar-bajnoksagon/"
-    },
-    {
-      "first_seen": "2026-09-06T06:06:01.586313Z",
-      "published_at": "2026-09-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: végre enyhül a meleg, 30 éve járt itt II. János Pál pápa, még tart a kamionos találkozó a Sun City-n!",
-      "url": "https://szeged365.hu/2026/09/06/napi-pakk-vegre-enyhul-a-meleg-30-eve-jart-itt-ii-janos-pal-papa-meg-tart-a-kamionos-talalkozo-a-sun-city-n/"
-    },
-    {
-      "first_seen": "2026-09-06T06:06:01.586313Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megadta az alaphangot Szeged: hétgólos félidő után behúzta első hazai bajnokiját a PICK",
-      "url": "https://szeged365.hu/2026/09/05/megadta-az-alaphangot-szeged-hetgolos-felido-utan-behuzta-elso-hazai-bajnokijat-a-pick/"
-    },
-    {
-      "first_seen": "2026-09-05T18:01:01.529018Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szombati hidegfront után végre 30 fok alá esik a hőmérséklet vasárnap",
-      "url": "https://szeged365.hu/2026/09/05/a-szombati-hidegfront-utan-vegre-30-fok-ala-esik-a-homerseklet-vasarnap/"
-    },
-    {
-      "first_seen": "2026-09-05T15:09:01.772916Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meccsnap: a győri ETO-t fogadja ma az OTP Bank- PICK Szeged!",
-      "url": "https://szeged365.hu/2026/09/05/meccsnap-a-gyori-eto-t-fogadja-ma-az-otp-bank-pick-szeged/"
-    },
-    {
-      "first_seen": "2026-09-05T15:09:01.772916Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Rendet, kiszámíthatóságot és együttműködést szeretnék” – interjú a szegedi Márton Anitával, a MASZ új elnökével",
-      "url": "https://szeged365.hu/2026/09/05/rendet-kiszamithatosagot-es-egyuttmukodest-szeretnek-interju-a-szegedi-marton-anitaval-a-masz-uj-elnokevel/"
-    },
-    {
-      "first_seen": "2026-09-05T15:09:01.772916Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rekord: több mint 24 millió forint gyűlt össze a Két lábon vagy két keréken jótékonysági családi napon! (galéria + videó)",
-      "url": "https://szeged365.hu/2026/09/05/nem-semmi-tobb-mint-24-millio-forint-gyult-ossze-a-ket-labon-vagy-ket-kereken-jotekonysagi-csaladi-napon-galeria/"
-    },
-    {
-      "first_seen": "2026-09-05T15:09:01.772916Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az élmezőnyben zárt a szegedi Mérai Janka élete második nemzetközi versenyén, az úszó vb-n!",
-      "url": "https://szeged365.hu/2026/09/05/az-elmezonyben-zart-a-szegedi-merai-janka-elete-masodik-nemzetkozi-versenyen-az-uszo-vb-n/"
-    },
-    {
-      "first_seen": "2026-09-05T12:08:01.485528Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ismét balesetet szenvedett hazánkban egy lengyel autóbusz, többen is megsérültek",
-      "url": "https://szeged365.hu/2026/09/05/ismet-balesetet-szenvedett-hazankban-egy-lengyel-autobusz-tobben-is-megserultek/"
-    },
-    {
-      "first_seen": "2026-09-05T12:08:01.485528Z",
-      "published_at": "2026-09-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt a szegedi vasútvonalon: Szeged és Szatymaz között pótlóbuszok járnak",
-      "url": "https://szeged365.hu/2026/09/05/baleset-tortent-a-szegedi-vasutvonalon-szeged-es-szatymaz-kozott-potlobuszok-jarnak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-07T09:05:01.536101Z"
+  "updated_at": "2026-09-07T12:10:01.554178Z"
 }

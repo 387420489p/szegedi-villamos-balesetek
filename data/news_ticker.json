@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Azt sem tudták, milyen emberként térhet vissza a baleset után: Sári Csaba sikersztorijában a Szent Vincent Rehabilitációs Központ is ott volt",
+      "url": "https://szeged365.hu/2026/08/31/azt-sem-tudtak-milyen-emberkent-terhet-vissza-a-baleset-utan-sari-csaba-sikersztorijaban-a-szent-vincent-rehabilitacios-kozpont-is-ott-volt-video/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": ",,Nem tudok elég hálás lenni” – Détári Vilmos elmondta, mit jelent számára a Szeged365 Family összefogása (videó)",
+      "url": "https://szeged365.hu/2026/09/01/nem-tudok-eleg-halas-lenni-detari-vilmos-elmondta-mit-jelent-szamara-a-szeged365-family-osszefogasa-video/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Forsthoffer Ágnes bekeményített: kitiltotta a Mi Hazánk elnökét az e heti parlament üléséről",
+      "url": "https://szeged365.hu/2026/09/08/forsthoffer-agnes-bekemenyitett-kitiltotta-a-mi-hazank-elnoket-az-e-heti-parlament-uleserol/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A rendőrség nem indít eljárást Szijjártó Péter BYD-ügyében",
+      "url": "https://szeged365.hu/2026/09/08/a-rendorseg-nem-indit-eljarast-szijjarto-peter-byd-ugyeben/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szünetelni fog a használati melegvíz szolgáltatás Szeged egyes utcáiban",
+      "url": "https://szeged365.hu/2026/09/08/szunetelni-fog-a-hasznalati-melegviz-szolgaltatas-szeged-egyes-utcaiban-2/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütést és 31 fokot hoz a kedd Szegedre, visszaáll a forgalmi rend a Széchenyi téren",
+      "url": "https://szeged365.hu/2026/09/08/napi-pakk-napsutest-es-31-fokot-hoz-a-kedd-szegedre-visszaall-a-forgalmi-rend-a-szechenyi-teren/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bánhidi Bence egészítette ki az összeget: megvan a 25 millió forintos jótékonysági rekord a Két Lábon vagy Két Keréken akcióban!",
+      "url": "https://szeged365.hu/2026/09/08/banhidi-bence-egeszitette-ki-az-osszeget-megvan-a-25-millio-forintos-jotekonysagi-rekord-a-ket-labon-vagy-ket-kereken-akcioban/"
+    },
+    {
+      "first_seen": "2026-09-08T06:08:01.551907Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Global Fitness x IWI – történelmi összefogás a szegedi sportéletben!",
+      "url": "https://szeged365.hu/2026/09/07/global-fitness-x-iwi-tortenelmi-osszefogas-a-szegedi-sporteletben/"
+    },
+    {
       "first_seen": "2026-09-07T18:01:01.538161Z",
       "published_at": "2026-09-07T00:00:00",
       "reason": "prefiltered",
@@ -141,14 +213,6 @@
       "published_at": "2026-09-07T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
-      "first_seen": "2026-09-07T12:10:01.554178Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Hét új produkciót mutat be új évadában az idén 80 éves szegedi Kövér Béla Bábszínház",
       "url": "https://szeged365.hu/2026/09/07/het-uj-produkciot-mutat-be-uj-evadaban-az-iden-80-eves-szegedi-kover-bela-babszinhaz/"
     },
@@ -210,22 +274,6 @@
     },
     {
       "first_seen": "2026-09-07T12:10:01.554178Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Azt sem tudták, milyen emberként térhet vissza a baleset után: Sári Csaba sikersztorijában a Szent Vincent Rehabilitációs Központ is ott volt",
-      "url": "https://szeged365.hu/2026/08/31/azt-sem-tudtak-milyen-emberkent-terhet-vissza-a-baleset-utan-sari-csaba-sikersztorijaban-a-szent-vincent-rehabilitacios-kozpont-is-ott-volt-video/"
-    },
-    {
-      "first_seen": "2026-09-07T12:10:01.554178Z",
-      "published_at": "2026-09-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": ",,Nem tudok elég hálás lenni” – Détári Vilmos elmondta, mit jelent számára a Szeged365 Family összefogása (videó)",
-      "url": "https://szeged365.hu/2026/09/01/nem-tudok-eleg-halas-lenni-detari-vilmos-elmondta-mit-jelent-szamara-a-szeged365-family-osszefogasa-video/"
-    },
-    {
-      "first_seen": "2026-09-07T12:10:01.554178Z",
       "published_at": "2026-09-07T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Húzós volt a hétvége a vármegyei tűzoltóknál: csak szombaton 11 szabadtéri tűzesetnél 20 település hivatásos, és önkéntes egységei oltották a lángokat",
       "url": "https://szeged365.hu/2026/09/07/huzos-volt-a-hetvege-a-varmegyei-tuzoltoknal-csak-szombaton-11-szabadteri-tuzesetnel-20-telepules-hivatasos-es-onkentes-egysegei-oltottak-a-langokat/"
-    },
-    {
-      "first_seen": "2026-09-07T09:05:01.536101Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mindkét üzemanyagtípus átlagára emelkedett: drágult a benzin, és a dízel ára is a benzinkutakon",
-      "url": "https://szeged365.hu/2026/09/07/mindket-uzemanyagtipus-atlagara-emelkedett-dragult-a-benzin-es-a-dizel-ara-is-a-benzinkutakon/"
-    },
-    {
-      "first_seen": "2026-09-07T09:05:01.536101Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Reggeli káosz: baleset, és munkálatok is nehezítik a közlekedést Szegeden",
-      "url": "https://szeged365.hu/2026/09/07/kaosz-a-reggeli-kozlekedesben-baleset-es-munkalatok-nehezitik-a-kozlekedest-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-07T09:05:01.536101Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas dobásra készül Luxoya VIP: Jákob Zoli érkezik Szegedre, jön az ősz legexkluzívabb VIP divat- és szépségshow-ja!",
-      "url": "https://szeged365.hu/2026/09/07/hatalmas-dobasra-keszul-luxoya-vip-jakob-zoli-erkezik-szegedre-jon-az-osz-legexkluzivabb-vip-divat-es-szepsegshow-ja/"
-    },
-    {
-      "first_seen": "2026-09-07T06:08:01.576344Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hétfőn dönt az Országgyűlés: elbúcsúzhatunk a vármegye és a főispán megnevezésektől",
-      "url": "https://szeged365.hu/2026/09/07/hetfon-dont-az-orszaggyules-elbucsuzhatunk-a-varmegye-es-a-foispan-megnevezesektol/"
-    },
-    {
-      "first_seen": "2026-09-07T06:08:01.576344Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kezdődnek a munkálatok, beállt a Fonógyári út Szegeden",
-      "url": "https://szeged365.hu/2026/09/07/kezdodnek-a-munkalatok-beallt-a-fonogyari-ut-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-07T06:08:01.576344Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Átépíti a kormány az egyik határátkelőt, hogy tehermentesítsék Röszkét, az M5-ös autópályát, és az M0-s autóút déli szektorát",
-      "url": "https://szeged365.hu/2026/09/07/atepiti-a-kormany-az-egyik-hataratkelot-hogy-tehermentesitsek-roszket-az-m5-os-autopalyat-es-az-m0-s-autout-deli-szektorat/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-07T18:01:01.538161Z"
+  "updated_at": "2026-09-08T06:08:01.551907Z"
 }

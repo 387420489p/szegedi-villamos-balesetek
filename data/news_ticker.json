@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lángoló kamion miatt állt az M5-ös forgalma éjjel, habosított vízsugarakkal oltottak a tűzoltók",
+      "url": "https://szeged365.hu/2026/09/10/langolo-kamion-miatt-allt-az-m5-os-forgalma-ejjel-habositott-vizsugarakkal-oltottak-a-tuzoltok/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2024-04-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Egyetemünk mindent megtesz a részletek feltárása és a felelősök megtalálása érdekében” – közleményben kért elnézést az SZTE a gyermeksebészet 2024-es leállása miatt",
+      "url": "https://szeged365.hu/2026/09/10/egyetemunk-mindent-megtesz-a-reszletek-feltarasa-es-a-felelosok-megtalalasa-erdekeben-kozlemenyben-kert-elnezest-az-szte-a-gyermeksebeszet-2024-es-leallasa-miatt/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hajléktalanellátó intézményekben élő nők mindennapjairól nyílik kiállítás a bölcsészkar új galériájában",
+      "url": "https://szeged365.hu/2026/09/10/hajlektalanellato-intezmenyekben-elo-nok-mindennapjairol-nyilik-kiallitas-a-bolcseszkar-uj-galeriajaban/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős és kicsivel hűvösebb idő várható csütörtökön Szegeden",
+      "url": "https://szeged365.hu/2026/09/10/napi-pakk-felhos-es-kicsivel-huvosebb-ido-varhato-csutortokon-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-09-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Daily Mail szerint visszakérte a Tisza- kormány a III. Károly királynak ajándékozott lovakat – Orbán Viktor is reagált (frissítve)",
+      "url": "https://szeged365.hu/2026/09/09/a-daily-mail-szerint-visszakerte-a-tisza-kormany-a-iii-karoly-kiralynak-ajandekozott-lovakat-orban-viktor-is-reagalt/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Erre nem számított Détári Vilmos a SZIN-en, több fiatal azonnal a segítségére sietett (videó)",
+      "url": "https://szeged365.hu/2026/08/31/erre-nem-szamitott-detari-vilmos-a-szin-en-tobb-fiatal-azonnal-a-segitsegere-sietett-video/"
+    },
+    {
+      "first_seen": "2026-09-10T06:03:01.575566Z",
+      "published_at": "2026-09-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": ",,Nem tudok elég hálás lenni” – Détári Vilmos elmondta, mit jelent számára a Szeged365 Family összefogása (videó)",
+      "url": "https://szeged365.hu/2026/09/01/nem-tudok-eleg-halas-lenni-detari-vilmos-elmondta-mit-jelent-szamara-a-szeged365-family-osszefogasa-video/"
+    },
+    {
       "first_seen": "2026-09-09T18:01:01.575895Z",
       "published_at": "2026-09-09T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Baleset történt az M5-ösön: terelésnek hajtott egy személygépkocsi",
       "url": "https://szeged365.hu/2026/09/09/baleset-tortent-az-m5-oson-terelesnek-hajtott-egy-szemelygepkocsi/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bővülhet az SZTE Egészségtudományi és Szociális Képzési Kar, oktatási központ tervezésére írt ki közbeszerzést a Szegedi Tudományegyetem",
-      "url": "https://szeged365.hu/2026/09/09/bovulhet-az-szte-egeszsegtudomanyi-es-szocialis-kepzesi-kar-oktatasi-kozpont-tervezesere-irt-ki-kozbeszerzest-a-szegedi-tudomanyegyetem/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fakivágási munkálatok miatt forgalomkorlátozás lesz a Kálvária térnél Szegeden",
-      "url": "https://szeged365.hu/2026/09/09/fakivagasi-munkalatok-miatt-forgalomkorlatozas-lesz-a-kalvaria-ternel-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több tram-train járat is kimarad szerda reggel Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/09/09/hat-tram-train-jarat-is-kimarad-szerda-reggel-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Telekgerendástól pótlóbusz közlekedik a Békéscsabáról Szegedre elindult vonat helyett, de az is 40 percet késik",
-      "url": "https://szeged365.hu/2026/09/09/telekgerendastol-potlobusz-kozlekedik-a-bekescsabarol-szegedre-elindult-vonat-helyett-de-az-is-40-percet-kesik/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéssel köszönt ránk a szerda Szegeden, ma van Péter Szabó Szilvi születésnapja",
-      "url": "https://szeged365.hu/2026/09/09/napi-pakk-napsutessel-koszont-rank-a-szerda-szegeden-ma-van-peter-szabo-szilvi-szuletesnapja/"
-    },
-    {
-      "first_seen": "2026-09-09T06:08:01.592049Z",
-      "published_at": "2026-09-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Anya-üzemmód KI, énidő BE: elrajtolt a FITTANYA a szegedi Global Fitnessben!",
-      "url": "https://szeged365.hu/2026/09/08/anya-uzemmod-ki-enido-be-elrajtolt-a-fittanya-a-szegedi-global-fitnessben/"
-    },
-    {
-      "first_seen": "2026-09-08T18:05:01.973331Z",
-      "published_at": "2026-09-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó zsákmánynak tűnt, de a nyomkövetőre nem gondolt a roller tolvaj",
-      "url": "https://szeged365.hu/2026/09/08/jo-zsakmanynak-tunt-de-a-nyomkovetore-nem-gondolt-a-roller-tolvaj/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-09T18:01:01.575895Z"
+  "updated_at": "2026-09-10T06:03:01.575566Z"
 }

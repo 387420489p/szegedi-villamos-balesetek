@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ilyet sem látunk minden vasárnap Szegeden: elektromos kamionnal és közös F1-nézéssel jön az E Street Parade a Széchenyi térre (videó)",
+      "url": "https://szeged365.hu/2026/09/10/ilyet-sem-latunk-minden-vasarnap-szegeden-elektromos-kamionnal-es-kozos-f1-nezessel-jon-az-e-street-parade-a-szechenyi-terre-video/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: a maximum 150 lóerős dízelüzemű gépkocsik tulajdonosai havi 5 ezer forint kompenzációban részesülnek (videó)",
+      "url": "https://szeged365.hu/2026/09/11/magyar-peter-a-maximum-150-loeros-dizeluzemu-gepkocsik-tulajdonosai-havi-5-ezer-forint-kompenzacioban-reszesulnek-video/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ex libris kiállítás nyílt Szegeden – már a megnyitó is sok érdeklődőt vonzott (fotók)",
+      "url": "https://szeged365.hu/2026/09/11/ex-libris-kiallitas-nyilt-szegeden-mar-a-megnyito-is-sok-erdeklodot-vonzott-fotok/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ráfutásos baleset történt Mórahalmon – az érintett kereszteződésben forgalmi akadályra kell számítani",
+      "url": "https://szeged365.hu/2026/09/11/rafutasos-baleset-tortent-morahalmon-az-erintett-keresztezodesben-forgalmi-akadalyra-kell-szamitani/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Botka László: 50 millió forintból újítottak fel bölcsődéket, óvodákat, művelődési házakat és szociális intézményeket Szegeden (galéria)",
+      "url": "https://szeged365.hu/2026/09/11/botka-laszlo-50-millio-forintbol-ujitottak-fel-bolcsodeket-ovodakat-muvelodesi-hazakat-es-szocialis-intezmenyeket-szegeden-galeria/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Népszerű Zalakaroson a szegedi Szent Vincent Rehabilitációs Központ: a ZEPU AI robotokra az ország egyik legfontosabb stroke kongresszusán is felfigyeltek (galéria)",
+      "url": "https://szeged365.hu/2026/09/11/nepszeru-zalakaroson-a-szegedi-szent-vincent-rehabilitacios-kozpont-a-zepu-ai-robotokra-az-orszag-egyik-legfontosabb-stroke-kongresszusan-is-felfigyeltek-galeria/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Oldalára borult egy autó Hódmezővásárhely közelében – az utat teljes szélességében lezárták",
+      "url": "https://szeged365.hu/2026/09/11/oldalara-borult-egy-auto-hodmezovasarhely-kozeleben-az-utat-teljes-szelessegeben-lezartak/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karambol történt Újszegeden – az egyik autó egy közlekedési táblát is kidöntött",
+      "url": "https://szeged365.hu/2026/09/11/karambol-tortent-szegeden-az-egyik-auto-egy-kozlekedesi-tablat-is-kidontott/"
+    },
+    {
+      "first_seen": "2026-09-11T15:04:01.565163Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Móra-múzeum a szegediek segítségét kéri a következő kiállításához – a város legikonikusabb biciklis fotóit keresik",
+      "url": "https://szeged365.hu/2026/09/11/a-mora-muzeum-a-szegediek-segitseget-keri-a-kovetkezo-kiallitasahoz-a-varos-legikonikusabb-biciklis-fotoit-keresik/"
+    },
+    {
       "first_seen": "2026-09-11T12:04:01.569596Z",
       "published_at": "2026-09-10T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi 36 szerencsés a NAMO-ban: ma indul Szeged új vietnámi éttermének nagy nyitójátéka, ingyenes kóstolóval",
       "url": "https://szeged365.hu/2026/09/08/napi-36-szerencses-a-namo-ban-ma-indul-szeged-uj-vietnami-ettermenek-nagy-nyitojateka-ingyenes-kostoloval/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt egy melléképület Dorozsma határában – a tűz a körülötte lévő növényzetre is átterjedt (frissítve)",
-      "url": "https://szeged365.hu/2026/09/09/kigyulladt-egy-mellekepulet-dorozsma-hataraban-a-tuz-a-korulotte-levo-novenyzetre-is-atterjedt/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "30 szoba újult meg az SZTE Herman Ottó Kollégiumban (galéria)",
-      "url": "https://szeged365.hu/2026/09/10/30-szoba-ujult-meg-az-szte-herman-otto-kollegiumban-galeria/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyet sem látunk minden vasárnap Szegeden: elektromos kamionnal és közös F1-nézéssel jön az E Street Parade a Széchenyi térre (videó)",
-      "url": "https://szeged365.hu/2026/09/10/ilyet-sem-latunk-minden-vasarnap-szegeden-elektromos-kamionnal-es-kozos-f1-nezessel-jon-az-e-street-parade-a-szechenyi-terre-video/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Leeső faág által betört szélvédő, egy kisebb tűzeset az 5-ös út mellett – kedd este több riasztást is kaptak a tűzoltók Csongrád-Csanádban (galéria)",
-      "url": "https://szeged365.hu/2026/09/10/leeso-faag-altal-betort-szelvedo-egy-kisebb-tuzeset-az-5-os-ut-mellett-kedd-este-tobb-riasztast-is-kaptak-a-tuzoltok-csongrad-csanadban-galeria/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Az egész szakmában érezhető a bizonytalanság” – a Szegedi Kortárs Balett új évada anyagi bizonytalanságban indul",
-      "url": "https://szeged365.hu/2026/09/10/az-egesz-szakmaban-erezheto-a-bizonytalansag-a-szegedi-kortars-balett-uj-evada-anyagi-bizonytalansagban-indul/"
-    },
-    {
-      "first_seen": "2026-09-10T15:01:01.648729Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gajdos László nagyon szeretné, ha „például szilveszterkor nem lenne tűzijáték”",
-      "url": "https://szeged365.hu/2026/09/10/gajdos-laszlo-nagyon-szeretne-ha-peldaul-szilveszterkor-nem-lenne-tuzijatek/"
-    },
-    {
-      "first_seen": "2026-09-10T12:04:01.566627Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Százéves falak, modern belső” – folytatódik a szegedi gyermekklinika fejlesztése (videó, galéria)",
-      "url": "https://szeged365.hu/2026/09/10/szazeves-falak-modern-belso-folytatodik-a-szegedi-gyermekklinika-fejlesztese-video-galeria/"
-    },
-    {
-      "first_seen": "2026-09-10T12:04:01.566627Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyen rendezvényhelyszínt rejt Szeged belvárosa: Tisza-parti panoráma és akár 200 fős tér a NOVO Square-ben (videó + galéria)",
-      "url": "https://szeged365.hu/2026/09/10/ilyen-rendezvenyhelyszint-rejt-szeged-belvarosa-tisza-parti-panorama-es-akar-200-fos-ter-a-novo-square-ben-video-galeria/"
-    },
-    {
-      "first_seen": "2026-09-10T12:04:01.566627Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Ahol a víz jövőt teremt” – zöldfelület-fejlesztési pilot programot indít a Szegedi Vízmű",
-      "url": "https://szeged365.hu/2026/09/10/ahol-a-viz-jovot-teremt-zoldfelulet-fejlesztesi-pilot-programot-indit-a-szegedi-vizmu/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-11T12:04:01.569596Z"
+  "updated_at": "2026-09-11T15:04:01.565163Z"
 }

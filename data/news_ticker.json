@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-12T06:10:01.582048Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szombaton sok felhőre számíthatunk, a Füvészkert pedig Szegedre hozza Afrikát",
+      "url": "https://szeged365.hu/2026/09/12/napi-pakk-szombaton-sok-felhore-szamithatunk-a-fuveszkert-pedig-szegedre-hozza-afrikat/"
+    },
+    {
+      "first_seen": "2026-09-12T06:10:01.582048Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hajléktalanellátó intézményekben élő nők mindennapjairól nyílik kiállítás a bölcsészkar új galériájában",
+      "url": "https://szeged365.hu/2026/09/10/hajlektalanellato-intezmenyekben-elo-nok-mindennapjairol-nyilik-kiallitas-a-bolcseszkar-uj-galeriajaban/"
+    },
+    {
+      "first_seen": "2026-09-12T06:10:01.582048Z",
+      "published_at": "2024-04-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Egyetemünk mindent megtesz a részletek feltárása és a felelősök megtalálása érdekében” – közleményben kért elnézést az SZTE a gyermeksebészet 2024-es leállása miatt",
+      "url": "https://szeged365.hu/2026/09/10/egyetemunk-mindent-megtesz-a-reszletek-feltarasa-es-a-felelosok-megtalalasa-erdekeben-kozlemenyben-kert-elnezest-az-szte-a-gyermeksebeszet-2024-es-leallasa-miatt/"
+    },
+    {
       "first_seen": "2026-09-11T18:05:01.589714Z",
       "published_at": "2026-09-11T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "NKA- ügy: újabb két embert vett őrizetbe a NAV Dél-alföldi Bűnügyi Igazgatósága",
       "url": "https://szeged365.hu/2026/09/07/nka-ugy-ujabb-ket-embert-vett-orizetbe-a-nav-del-alfoldi-bunugyi-igazgatosaga/"
-    },
-    {
-      "first_seen": "2026-09-10T18:09:01.578744Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szerb és magyar művészek veszik birtokba a Zápor-tavat, újragondolják a zöldterületeket",
-      "url": "https://szeged365.hu/2026/09/10/szerb-es-magyar-muveszek-veszik-birtokba-a-zapor-tavat-ujragondoljak-a-zoldteruleteket/"
-    },
-    {
-      "first_seen": "2026-09-10T18:09:01.578744Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi jelölt is van a Tisza öt alkotmánybíró-jelöltje között",
-      "url": "https://szeged365.hu/2026/09/10/szegedi-jelolt-is-van-a-tisza-ot-alkotmanybiro-jeloltje-kozott/"
-    },
-    {
-      "first_seen": "2026-09-10T18:09:01.578744Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Súlyos gyanú a negyedik leggazdagabb magyar üzletemberrel szemben, ő is része lehet az óbudai korrupciós ügynek",
-      "url": "https://szeged365.hu/2026/09/10/sulyos-gyanu-a-negyedik-leggazdagabb-magyar-uzletemberrel-szemben-o-is-resze-lehet-az-obudai-korrupcios-ugynek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-11T18:05:01.589714Z"
+  "updated_at": "2026-09-12T06:10:01.582048Z"
 }

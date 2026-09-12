@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-12T09:03:01.536009Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meccsnap! Irány Iváncsa, egyetlen mérkőzés választja el a legjobb 32-től a Szeged-Csanád GA csapatát",
+      "url": "https://szeged365.hu/2026/09/12/meccsnap-irany-ivancsa-egyetlen-merkozes-valasztja-el-a-legjobb-32-tol-a-szeged-csanad-ga-csapatat/"
+    },
+    {
       "first_seen": "2026-09-12T06:10:01.582048Z",
       "published_at": "2026-09-12T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Majd’ felrobbant a PICK Aréna: 11 góllal gázolták le a svéd bajnokot a Kékek a BL nyitányon",
       "url": "https://szeged365.hu/2026/09/10/majd-felrobbant-a-pick-arena-11-gollal-gazoltak-le-a-sved-bajnokot-a-kekek-a-bl-nyitanyon/"
-    },
-    {
-      "first_seen": "2026-09-11T06:10:01.600308Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "NKA- ügy: újabb két embert vett őrizetbe a NAV Dél-alföldi Bűnügyi Igazgatósága",
-      "url": "https://szeged365.hu/2026/09/07/nka-ugy-ujabb-ket-embert-vett-orizetbe-a-nav-del-alfoldi-bunugyi-igazgatosaga/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-12T06:10:01.582048Z"
+  "updated_at": "2026-09-12T09:03:01.536009Z"
 }

@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-12T18:01:01.528342Z",
+      "published_at": "2026-09-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ex libris kiállítás nyílt Szegeden – már a megnyitó is sok érdeklődőt vonzott",
+      "url": "https://szeged365.hu/2026/09/11/ex-libris-kiallitas-nyilt-szegeden-mar-a-megnyito-is-sok-erdeklodot-vonzott-fotok/"
+    },
+    {
+      "first_seen": "2026-09-12T18:01:01.528342Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "4-0, ez még a Holdról (sőt, a Neptunuszról) is látszik – nagyot nyert a Szeged-Csanád Grosics Akadémia",
+      "url": "https://szeged365.hu/2026/09/12/4-0-ez-meg-a-holdrol-sot-a-neptunuszrol-is-latszik-nagyot-nyert-a-szeged-csanad-grosics-akademia/"
+    },
+    {
+      "first_seen": "2026-09-12T18:01:01.528342Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódik az őszies hétvége Szegeden, de csapadékra nem kell számítanunk",
+      "url": "https://szeged365.hu/2026/09/12/folytatodik-az-oszies-hetvege-szegeden-de-csapadekra-nem-kell-szamitanunk/"
+    },
+    {
+      "first_seen": "2026-09-12T18:01:01.528342Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megszólalt a kínai nagykövet Szijjártó Péter BYD-s kinevezéséről",
+      "url": "https://szeged365.hu/2026/09/12/megszolalt-a-kinai-nagykovet-szijjarto-peter-byd-s-kinevezeserol/"
+    },
+    {
       "first_seen": "2026-09-12T15:02:01.580443Z",
       "published_at": "2026-09-12T00:00:00",
       "reason": "prefiltered",
@@ -189,14 +221,6 @@
       "published_at": "2026-09-11T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Ex libris kiállítás nyílt Szegeden – már a megnyitó is sok érdeklődőt vonzott (fotók)",
-      "url": "https://szeged365.hu/2026/09/11/ex-libris-kiallitas-nyilt-szegeden-mar-a-megnyito-is-sok-erdeklodot-vonzott-fotok/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Ráfutásos baleset történt Mórahalmon – az érintett kereszteződésben forgalmi akadályra kell számítani",
       "url": "https://szeged365.hu/2026/09/11/rafutasos-baleset-tortent-morahalmon-az-erintett-keresztezodesben-forgalmi-akadalyra-kell-szamitani/"
     },
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb utcában bolydul fel a közlekedés Szegeden: vízvezeték-rekonstrukciós munkálatokba kezd a Szegedi Vízmű a Kazinczy utcában",
       "url": "https://szeged365.hu/2026/09/11/ujabb-utcaban-bolydul-fel-a-kozlekedes-szegeden-vizvezetek-rekonstrukcios-munkalatokba-kezd-a-szegedi-vizmu-a-kazinczy-utcaban/"
-    },
-    {
-      "first_seen": "2026-09-11T09:03:01.576615Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Apumazenél, Blissful ignorance, Mardel és a Toxic Arrows – saját dalokkal robbantják be a pénteket az új szegedi arcok, szombaton pedig az undergroundé lesz a főszerep a Városi Rock Klubban",
-      "url": "https://szeged365.hu/2026/09/11/apumazenel-blissful-ignorance-mardel-es-a-toxic-arrows-sajat-dalokkal-robbantjak-be-a-penteket-az-uj-szegedi-arcok-szombaton-pedig-az-undergrounde-lesz-a-foszerep-a-varosi-rock-klubban/"
-    },
-    {
-      "first_seen": "2026-09-11T09:03:01.576615Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy embert letartóztattak, egyet pedig bűnügyi felügyeletbe helyeztek a BYD-s tízmilliós rézkábel-lopás ügyében",
-      "url": "https://szeged365.hu/2026/09/11/egy-embert-letartoztattak-egyet-pedig-bunugyi-felugyeletbe-helyeztek-a-byd-s-tizmillios-rezkabel-lopas-ugyeben/"
-    },
-    {
-      "first_seen": "2026-09-11T09:03:01.576615Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Vivissima már majdnem egy éve saját kézzel hozza az olasz stílust Szegedre – és közben egy valódi divatközösséget is épít",
-      "url": "https://szeged365.hu/2026/09/11/a-vivissima-mar-majdnem-egy-eve-sajat-kezzel-hozza-az-olasz-stilust-szegedre-es-kozben-egy-valodi-divatkozosseget-is-epit/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-12T15:02:01.580443Z"
+  "updated_at": "2026-09-12T18:01:01.528342Z"
 }

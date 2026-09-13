@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-13T09:06:01.549136Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hagyd otthon az autót, most egy forgalmival akár öten is ingyen utazhattok Szegeden",
+      "url": "https://szeged365.hu/2026/09/13/hagyd-otthon-az-autot-most-egy-forgalmival-akar-oten-is-ingyen-utazhattok-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-13T09:06:01.549136Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy hét és rajtol a 2026-os Continental Futófesztivál – irány a liget, mutatjuk a programokat!",
+      "url": "https://szeged365.hu/2026/09/13/egy-het-es-rajtol-a-2026-os-continental-futofesztival-irany-a-liget-mutatjuk-a-programokat/"
+    },
+    {
+      "first_seen": "2026-09-13T09:06:01.549136Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nemcsak a legszebb őszi randi kelléke, de a szezon legtrendibb szegedi kiegészítője is: mindent a BorTér ikonikus poharairól",
+      "url": "https://szeged365.hu/2026/09/13/nemcsak-a-legszebb-oszi-randi-kelleke-de-a-szezon-legtrendibb-szegedi-kiegeszitoje-is-mindent-a-borter-ikonikus-poharairol/"
+    },
+    {
       "first_seen": "2026-09-13T06:09:01.509718Z",
       "published_at": "2026-09-13T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Révbe ért a helyiek harca? Botka László szerint semmilyen hulladék nem kerül a Téli kikötőbe, és megnövekedett forgalom sem érinti az adott városrészt (frissítve)",
       "url": "https://szeged365.hu/2026/09/10/botka-laszlo-szerint-semmilyen-hulladek-nem-kerul-a-teli-kikotobe-es-megnovekedett-forgalom-sem-erinti-az-adott-varosreszt/"
-    },
-    {
-      "first_seen": "2026-09-11T12:04:01.569596Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy korábbi minisztert és ismert üzletembereket is gyanúsít a rendőrség túlárazott buszbeszerzésekkel kapcsolatban (videó, galéria)",
-      "url": "https://szeged365.hu/2026/09/11/egy-korabbi-minisztert-es-ismert-uzletembereket-is-gyanusit-a-rendorseg-tularazott-buszbeszerzesekkel-kapcsolatban-video-galeria/"
-    },
-    {
-      "first_seen": "2026-09-11T12:04:01.569596Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: elektromos autók lepik el a Széchenyi teret, Afrika beköltözik a Füvészkertbe, és szezonnyitó buliban találhatjuk magunkat a belvárosban – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
-      "url": "https://szeged365.hu/2026/09/11/szeged365-kikapcs-elektromos-autok-lepik-el-a-szechenyi-teret-afrika-bekoltozik-a-fuveszkertbe-es-szezonnyito-buliban-talalhatjuk-magunkat-a-belvarosban-mutatjuk-milyen-esemenyek-dobjak-fel-a-het/"
-    },
-    {
-      "first_seen": "2026-09-11T12:04:01.569596Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kíváncsi vagy a kínai filmművészetre? Az Imázsia Kínai Filmhéten három filmet is megnézhetsz a Belvárosi Moziban (galéria)",
-      "url": "https://szeged365.hu/2026/09/11/kivancsi-vagy-a-kinai-filmmuveszetre-az-imazsia-kinai-filmheten-harom-filmet-is-megnezhetsz-a-belvarosi-moziban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-13T06:09:01.509718Z"
+  "updated_at": "2026-09-13T09:06:01.549136Z"
 }

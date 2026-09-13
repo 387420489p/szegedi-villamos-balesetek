@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-13T18:06:01.529513Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyetlen gólon múlt minden: parázs csatában maradt alul a Szeged Tatabányán!",
+      "url": "https://szeged365.hu/2026/09/13/egyetlen-golon-mult-minden-parazs-csataban-maradt-alul-a-szeged-tatabanyan/"
+    },
+    {
       "first_seen": "2026-09-13T15:08:01.518390Z",
       "published_at": "2026-09-13T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ilyet sem látunk minden vasárnap Szegeden: elektromos kamionnal és közös F1-nézéssel jön az E Street Parade a Széchenyi térre (videó)",
       "url": "https://szeged365.hu/2026/09/10/ilyet-sem-latunk-minden-vasarnap-szegeden-elektromos-kamionnal-es-kozos-f1-nezessel-jon-az-e-street-parade-a-szechenyi-terre-video/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: a maximum 150 lóerős dízelüzemű gépkocsik tulajdonosai havi 5 ezer forint kompenzációban részesülnek (videó)",
-      "url": "https://szeged365.hu/2026/09/11/magyar-peter-a-maximum-150-loeros-dizeluzemu-gepkocsik-tulajdonosai-havi-5-ezer-forint-kompenzacioban-reszesulnek-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-13T15:08:01.518390Z"
+  "updated_at": "2026-09-13T18:06:01.529513Z"
 }

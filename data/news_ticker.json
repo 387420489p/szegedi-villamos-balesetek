@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-13T06:09:01.509718Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Borult égbolttal és hidegfronttal indul a hét Szegeden",
+      "url": "https://szeged365.hu/2026/09/13/borult-egbolttal-es-hidegfronttal-indul-a-het-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-13T06:09:01.509718Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: bábszínházi évadnyitó és kellemes őszi idő vár ránk ma Szegeden",
+      "url": "https://szeged365.hu/2026/09/13/napi-pakk-babszinhazi-evadnyito-es-kellemes-oszi-ido-var-rank-ma-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-13T06:09:01.509718Z",
+      "published_at": "2026-09-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási csatára készül a Legszegedibb Sportolónő: K-1 világbajnok ellen debütál a profik között Szalai Gréta",
+      "url": "https://szeged365.hu/2026/09/12/oriasi-csatara-keszul-a-legszegedibb-sportolono-k-1-vilagbajnok-ellen-debutal-a-profik-kozott-szalai-greta/"
+    },
+    {
       "first_seen": "2026-09-12T18:01:01.528342Z",
       "published_at": "2026-09-11T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Kíváncsi vagy a kínai filmművészetre? Az Imázsia Kínai Filmhéten három filmet is megnézhetsz a Belvárosi Moziban (galéria)",
       "url": "https://szeged365.hu/2026/09/11/kivancsi-vagy-a-kinai-filmmuveszetre-az-imazsia-kinai-filmheten-harom-filmet-is-megnezhetsz-a-belvarosi-moziban/"
-    },
-    {
-      "first_seen": "2026-09-11T12:04:01.569596Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kijelölték az elhalasztott Szeged-Csanád GA bajnoki meccs új időpontját",
-      "url": "https://szeged365.hu/2026/09/11/kijeloltek-az-elhalasztott-szeged-csanad-ga-bajnoki-meccs-uj-idopontjat/"
-    },
-    {
-      "first_seen": "2026-09-11T12:04:01.569596Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szabadságvesztésre ítélte a bíróság a banki adatok megszerzése révén csaknem 90 milliós kárt okozó bűnszervezeti vezetőt Szegeden",
-      "url": "https://szeged365.hu/2026/09/11/szabadsagvesztesre-itelte-a-birosag-a-banki-adatok-megszerzese-reven-csaknem-90-millios-kart-okozo-bunszervezeti-vezetot-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-11T09:03:01.576615Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb utcában bolydul fel a közlekedés Szegeden: vízvezeték-rekonstrukciós munkálatokba kezd a Szegedi Vízmű a Kazinczy utcában",
-      "url": "https://szeged365.hu/2026/09/11/ujabb-utcaban-bolydul-fel-a-kozlekedes-szegeden-vizvezetek-rekonstrukcios-munkalatokba-kezd-a-szegedi-vizmu-a-kazinczy-utcaban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-12T18:01:01.528342Z"
+  "updated_at": "2026-09-13T06:09:01.509718Z"
 }

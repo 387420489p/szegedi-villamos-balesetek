@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-13T15:08:01.518390Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kultikus film kerül színpadra Szentesen, már javában zajlanak a próbák (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/13/kultikus-film-kerul-szinpadra-szentesen-mar-javaban-zajlanak-a-probak-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-13T15:08:01.518390Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ügynökakták, Alkotmánybíróság, igazságszolgáltatás: fontos ügyek kerülnek napirendre hétfőn a Parlamentben",
+      "url": "https://szeged365.hu/2026/09/13/ugynokaktak-alkotmanybirosag-igazsagszolgaltatas-fontos-ugyek-kerulnek-napirendre-hetfon-a-parlamentben/"
+    },
+    {
+      "first_seen": "2026-09-13T15:08:01.518390Z",
+      "published_at": "2026-09-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ritka égi látványosság jön hétfőn: a Hold eltakarja a Vénuszt",
+      "url": "https://szeged365.hu/2026/09/13/ritka-egi-latvanyossag-jon-hetfon-a-hold-eltakarja-a-venuszt/"
+    },
+    {
       "first_seen": "2026-09-13T12:07:01.542022Z",
       "published_at": "2026-09-13T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Magyar Péter: a maximum 150 lóerős dízelüzemű gépkocsik tulajdonosai havi 5 ezer forint kompenzációban részesülnek (videó)",
       "url": "https://szeged365.hu/2026/09/11/magyar-peter-a-maximum-150-loeros-dizeluzemu-gepkocsik-tulajdonosai-havi-5-ezer-forint-kompenzacioban-reszesulnek-video/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ráfutásos baleset történt Mórahalmon – az érintett kereszteződésben forgalmi akadályra kell számítani",
-      "url": "https://szeged365.hu/2026/09/11/rafutasos-baleset-tortent-morahalmon-az-erintett-keresztezodesben-forgalmi-akadalyra-kell-szamitani/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: 50 millió forintból újítottak fel bölcsődéket, óvodákat, művelődési házakat és szociális intézményeket Szegeden (galéria)",
-      "url": "https://szeged365.hu/2026/09/11/botka-laszlo-50-millio-forintbol-ujitottak-fel-bolcsodeket-ovodakat-muvelodesi-hazakat-es-szocialis-intezmenyeket-szegeden-galeria/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Népszerű Zalakaroson a szegedi Szent Vincent Rehabilitációs Központ: a ZEPU AI robotokra az ország egyik legfontosabb stroke kongresszusán is felfigyeltek (galéria)",
-      "url": "https://szeged365.hu/2026/09/11/nepszeru-zalakaroson-a-szegedi-szent-vincent-rehabilitacios-kozpont-a-zepu-ai-robotokra-az-orszag-egyik-legfontosabb-stroke-kongresszusan-is-felfigyeltek-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-13T12:07:01.542022Z"
+  "updated_at": "2026-09-13T15:08:01.518390Z"
 }

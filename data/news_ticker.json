@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Földrengés volt Magyarország és Horvátország határán",
+      "url": "https://szeged365.hu/2026/09/14/foldrenges-volt-magyarorszag-es-horvatorszag-hataran/"
+    },
+    {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megáll az ész: betegellátás közben törtek fel egy mentőautót",
+      "url": "https://szeged365.hu/2026/09/14/megall-az-esz-betegellatas-kozben-tortek-fel-egy-mentoautot/"
+    },
+    {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Orbán Viktor: Magyarország visszagyarmatosítása zajlik, ami ellen harcolni kell",
+      "url": "https://szeged365.hu/2026/09/14/orban-viktor-magyarorszag-visszagyarmatositasa-zajlik-ami-ellen-harcolni-kell/"
+    },
+    {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: ritka égi jelenség lesz a szegedi égbolton, közben hidegfront is érkezik",
+      "url": "https://szeged365.hu/2026/09/14/napi-pakk-ritka-egi-jelenseg-lesz-a-szegedi-egbolton-kozben-hidegfront-is-erkezik/"
+    },
+    {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Amikor a szaktudás mellé technológia is társul: Détári Vilmos megmutatta, hogyan segíthet a Szent Vincent Rehabilitációs Központ Szegeden (videó)",
+      "url": "https://szeged365.hu/2026/09/02/amikor-a-szaktudas-melle-technologia-is-tarsul-detari-vilmos-megmutatta-hogyan-segithet-a-szent-vincent-rehabilitacios-kozpont-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-09-14T06:10:01.553153Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Azóta hiszek a robotokban” – Szabó-Márk Tamás újabb nagy lépést tett a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/03/azota-hiszek-a-robotokban-szabo-mark-tamas-ujabb-nagy-lepest-tett-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
       "first_seen": "2026-09-13T18:06:01.529513Z",
       "published_at": "2026-09-13T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Remekel a szegedi Bíró Melinda, a Vitéz SE teniszezője Romániában: a legjobb négy között van!",
       "url": "https://szeged365.hu/2026/09/11/remekel-a-szegedi-biro-melinda-a-vitez-se-teniszezoje-romaniaban-a-legjobb-negy-kozott-van/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ugyan nem hulladékkal, de továbbra is sorakoznak a teherautók a Klebersberg- telepen (videó)",
-      "url": "https://szeged365.hu/2026/09/11/ugyan-nem-hulladekkal-de-tovabbra-is-sorakoznak-a-teherautok-a-klebersberg-telepen-video/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Minden áldozat nevét felolvasták – így emlékeztek New Yorkban a 25 évvel ezelőtt történt terrortámadásra",
-      "url": "https://szeged365.hu/2026/09/11/minden-aldozat-nevet-felolvastak-igy-emlekeztek-new-yorkban-a-25-evvel-ezelott-tortent-terrortamadasra/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "49 év, 49 kilométer – közös futással ünnepli születésnapját a szegedi Jakab Győző, aki nemrég végigsétálta a Kékkört",
-      "url": "https://szeged365.hu/2026/09/11/49-ev-49-kilometer-kozos-futassal-unnepli-szuletesnapjat-a-szegedi-jakab-gyozo-aki-nemreg-vegigsetalta-a-kekkort/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Borult, erősen felhős idővel indítjuk a hétvégét Szegeden",
-      "url": "https://szeged365.hu/2026/09/11/borult-erosen-felhos-idovel-inditjuk-a-hetveget-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A PICK Szeged gólcsúcsot döntött a BL-ben – a saját rekordjukon javítottak",
-      "url": "https://szeged365.hu/2026/09/11/a-pick-szeged-golcsucsot-dontott-a-bl-ben-a-sajat-rekordjukon-javitottak/"
-    },
-    {
-      "first_seen": "2026-09-11T15:04:01.565163Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyet sem látunk minden vasárnap Szegeden: elektromos kamionnal és közös F1-nézéssel jön az E Street Parade a Széchenyi térre (videó)",
-      "url": "https://szeged365.hu/2026/09/10/ilyet-sem-latunk-minden-vasarnap-szegeden-elektromos-kamionnal-es-kozos-f1-nezessel-jon-az-e-street-parade-a-szechenyi-terre-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-13T18:06:01.529513Z"
+  "updated_at": "2026-09-14T06:10:01.553153Z"
 }

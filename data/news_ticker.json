@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eseményekkel teli a hétfő délelőtt Csongrád-Csanád vármegyében: kigyulladt egy kukásautó rakománya Szeged és Újszentiván között",
+      "url": "https://szeged365.hu/2026/09/14/esemenyekkel-teli-a-hetfo-delelott-csongrad-csanad-varmegyeben-kigyulladt-egy-kukasauto-rakomanya-szeged-es-ujszentivan-kozott/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hét bor, egy badacsonyi est és Borbély Tamás: erre készül októberben a Kárpátia Borház Szegeden!",
+      "url": "https://szeged365.hu/2026/09/14/het-bor-egy-badacsonyi-est-es-borbely-tamas-erre-keszul-oktoberben-a-karpatia-borhaz-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felborult egy betonszállító teherautó Hódmezővásárhelynél, a sofőrt a tűzoltóknak kellett kiszabadítani a járműből",
+      "url": "https://szeged365.hu/2026/09/14/felborult-egy-betonszallito-teherauto-hodmezovasarhelynel-a-sofort-ki-kellett-szabaditani-a-jarmubol/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bántalmazta és rettegésben tartotta szüleit egy Csongrád-Csanád vármegyei férfi, elrendelték a letartóztatását",
+      "url": "https://szeged365.hu/2026/09/14/bantalmazta-es-rettegesben-tartotta-szuleit-egy-csongrad-csanad-varmegyei-ferfi-elrendeltek-a-letartoztatasat/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb arany, amire Szeged és Szatymaz is büszke lehet: Asbóth Lilla tarolt Splitben!",
+      "url": "https://szeged365.hu/2026/09/14/ujabb-arany-amire-szeged-es-szatymaz-is-buszke-lehet-asboth-lilla-tarolt-splitben/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karambol történt Csongrád-Csanád vármegyében: személykocsi és kamion ütközött, utóbbi az árokba sodródott",
+      "url": "https://szeged365.hu/2026/09/14/karambol-tortent-csongrad-csanad-varmegyeben-szemelykocsi-es-kamion-utkozott-utobbi-az-arokba-sodrodott/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Kedves, barátságos hangnem, közvetlenség, bátorítás” – a makói mentőegység két bajtársának mondott köszönetet egy édesanya",
+      "url": "https://szeged365.hu/2026/09/14/kedves-baratsagos-hangnem-kozvetlenseg-batoritas-a-makoi-mentoegyseg-ket-bajtarsanak-mondott-koszonetet-egy-edesanya/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter: 20-25 százalékos béremelést kapnak a gyermekvédelemben dolgozók, de jelentősen emelik a családi pótlékot is 2027-ben",
+      "url": "https://szeged365.hu/2026/09/14/magyar-peter-20-25-szazalekos-beremelest-kapnak-a-gyermekvedelemben-dolgozok/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Többször újraélesztették, mégis tovább küzd: most Hanna rehabilitációjáért foghat össze egész Szeged",
+      "url": "https://szeged365.hu/2026/09/14/tobbszor-ujraelesztettek-megis-tovabb-kuzd-most-hanna-rehabilitaciojaert-foghat-ossze-egesz-szeged/"
+    },
+    {
+      "first_seen": "2026-09-14T09:09:01.549877Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas siker: első helyezést ért el Asbóth Lilla az U16-os Európa Kupán Horvátországban",
+      "url": "https://szeged365.hu/2026/09/14/hatalmas-siker-elso-helyezest-ert-el-asboth-lilla-az-u16-os-europa-kupan-horvatorszagban/"
+    },
+    {
       "first_seen": "2026-09-14T06:10:01.553153Z",
       "published_at": "2026-09-14T00:00:00",
       "reason": "prefiltered",
@@ -239,88 +319,8 @@
       "source_name": "Szeged365",
       "title": "Brutális a torlódás az M5-ösön Szeged felé, kilométeres sor alakult ki",
       "url": "https://szeged365.hu/2026/09/12/brutalis-a-torlodas-az-m5-oson-szeged-fele-kilometeres-sor-alakult-ki/"
-    },
-    {
-      "first_seen": "2026-09-12T12:07:01.545719Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már vágjuk a centit: alig egy hét, és egy LÁMA vezeti fel a régió legnagyobb szüreti felvonulását",
-      "url": "https://szeged365.hu/2026/09/12/mar-vagjuk-a-centit-alig-egy-het-es-egy-lama-vezeti-fel-a-regio-legnagyobb-szureti-felvonulasat/"
-    },
-    {
-      "first_seen": "2026-09-12T12:07:01.545719Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkeztek a 100%-ban jótékonysági jegyek: Jákob Zolival robban be az ősz legexkluzívabb VIP divat- és szépségshow-ja Szegeden!",
-      "url": "https://szeged365.hu/2026/09/12/megerkeztek-a-100-ban-jotekonysagi-jegyek-jakob-zolival-robban-be-az-osz-legexkluzivabb-vip-divat-es-szepsegshow-ja-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-12T12:07:01.545719Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új remény a kórházi fertőzések ellen, szegedi kutatók dolgoznak a megoldáson",
-      "url": "https://szeged365.hu/2026/09/12/uj-remeny-a-korhazi-fertozesek-ellen-szegedi-kutatok-dolgoznak-a-megoldason/"
-    },
-    {
-      "first_seen": "2026-09-12T12:07:01.545719Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family fotógaléria: így látják olvasóink a budapesti atlétikai világshowt",
-      "url": "https://szeged365.hu/2026/09/12/szeged365-family-fotogaleria-igy-latjak-olvasoink-a-budapesti-atletikai-vilagshowt/"
-    },
-    {
-      "first_seen": "2026-09-12T12:07:01.545719Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kátai-Németh Vilmos: „Ez tragikus” – 23 ezer gyermek él állami gondozásban, súlyos problémákról számoltak be (frissítve)",
-      "url": "https://szeged365.hu/2026/09/12/katai-nemeth-vilmos-ez-tragikus-23-ezer-gyermek-el-allami-gondozasban-sulyos-problemakrol-szamoltak-be/"
-    },
-    {
-      "first_seen": "2026-09-12T09:03:01.536009Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meccsnap! Irány Iváncsa, egyetlen mérkőzés választja el a legjobb 32-től a Szeged-Csanád GA csapatát",
-      "url": "https://szeged365.hu/2026/09/12/meccsnap-irany-ivancsa-egyetlen-merkozes-valasztja-el-a-legjobb-32-tol-a-szeged-csanad-ga-csapatat/"
-    },
-    {
-      "first_seen": "2026-09-12T06:10:01.582048Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szombaton sok felhőre számíthatunk, a Füvészkert pedig Szegedre hozza Afrikát",
-      "url": "https://szeged365.hu/2026/09/12/napi-pakk-szombaton-sok-felhore-szamithatunk-a-fuveszkert-pedig-szegedre-hozza-afrikat/"
-    },
-    {
-      "first_seen": "2026-09-12T06:10:01.582048Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hajléktalanellátó intézményekben élő nők mindennapjairól nyílik kiállítás a bölcsészkar új galériájában",
-      "url": "https://szeged365.hu/2026/09/10/hajlektalanellato-intezmenyekben-elo-nok-mindennapjairol-nyilik-kiallitas-a-bolcseszkar-uj-galeriajaban/"
-    },
-    {
-      "first_seen": "2026-09-12T06:10:01.582048Z",
-      "published_at": "2024-04-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Egyetemünk mindent megtesz a részletek feltárása és a felelősök megtalálása érdekében” – közleményben kért elnézést az SZTE a gyermeksebészet 2024-es leállása miatt",
-      "url": "https://szeged365.hu/2026/09/10/egyetemunk-mindent-megtesz-a-reszletek-feltarasa-es-a-felelosok-megtalalasa-erdekeben-kozlemenyben-kert-elnezest-az-szte-a-gyermeksebeszet-2024-es-leallasa-miatt/"
-    },
-    {
-      "first_seen": "2026-09-11T18:05:01.589714Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Remekel a szegedi Bíró Melinda, a Vitéz SE teniszezője Romániában: a legjobb négy között van!",
-      "url": "https://szeged365.hu/2026/09/11/remekel-a-szegedi-biro-melinda-a-vitez-se-teniszezoje-romaniaban-a-legjobb-negy-kozott-van/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-14T06:10:01.553153Z"
+  "updated_at": "2026-09-14T09:09:01.549877Z"
 }

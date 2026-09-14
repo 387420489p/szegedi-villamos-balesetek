@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Azóta hiszek a robotokban” – Szabó-Márk Tamás újabb nagy lépést tett a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/03/azota-hiszek-a-robotokban-szabo-mark-tamas-ujabb-nagy-lepest-tett-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy bicikli- és két rollertolvajt keres a rendőrség Szegeden (fotók)",
+      "url": "https://szeged365.hu/2026/09/14/egy-bicikli-es-ket-rollertolvajt-keres-a-rendorseg-szegeden-fotok/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Te melyik vibe-ot választanád? Borovics Anna megmutatja, hogyan változik át estére a szegedi Napfény Műterem (videó)",
+      "url": "https://szeged365.hu/2026/09/14/te-melyik-vibe-ot-valasztanad-borovics-anna-megmutatja-hogyan-valtozik-at-estere-a-szegedi-napfeny-muterem-video/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A külügyi bizottság kezdeményezte Szijjártó Péter meghallgatását a BYD-ban elvállalt pozíciója miatt, de nem tudják, hol érjék el",
+      "url": "https://szeged365.hu/2026/09/14/a-kulugyi-bizottsag-kezdemenyezte-szijjarto-peter-meghallgatasat-a-byd-ban-elvallalt-pozicioja-miatt-de-nem-tudjak-hol-erjek-el/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Újszegeden – az érintett útszakaszt lezárták",
+      "url": "https://szeged365.hu/2026/09/14/baleset-tortent-ujszegeden-az-erintett-utszakaszt-lezartak/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 17 éves Hódmezővásárhelyi fiú – segítsünk megtalálni (fotó)",
+      "url": "https://szeged365.hu/2026/09/14/eltunt-egy-17-eves-hodmezovasarhelyi-fiu-segitsunk-megtalalni-foto/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha hétvégén buliznál Szegeden, a JATE felé vedd az irányt: Ős-P.Box és Áron András is érkezik",
+      "url": "https://szeged365.hu/2026/09/14/ha-hetvegen-buliznal-szegeden-a-jate-fele-vedd-az-iranyt-os-p-box-es-aron-andras-is-erkezik/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyedüli magyarként menetelt az ezüstéremig: hatalmasat remekelt Bíró Melinda, a Vitéz SE szegedi teniszezője!",
+      "url": "https://szeged365.hu/2026/09/14/egyeduli-magyarkent-menetelt-az-ezusteremig-hatalmasat-remekelt-biro-melinda-a-vitez-se-szegedi-teniszezoje/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi prosztó: fényes nappal, játszótér, templom és iskolák közelében mosta a hímtagját egy férfi Szegeden (fotó)",
+      "url": "https://szeged365.hu/2026/09/14/napi-proszto-fenyes-nappal-jatszoter-templom-es-iskolak-kozeleben-mosta-a-himtagjat-egy-ferfi-szegeden-foto/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A magyar tenisz jövője a gyerekeknél kezdődik: fontos tervekről beszélt Szegeden dr. Kosztoványi Roland (videó)",
+      "url": "https://szeged365.hu/2026/09/14/a-magyar-tenisz-jovoje-a-gyerekeknel-kezdodik-fontos-tervekrol-beszelt-szegeden-dr-kosztovanyi-roland/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elkezdődött a per a Szegedi Törvényszéken: megfenyegette élettársát és annak lányát, majd csákánnyal leütötte a segítségükre siető ismerősét egy hódmezővásárhelyi férfi",
+      "url": "https://szeged365.hu/2026/09/14/elkezdodott-a-per-a-szegedi-torvenyszeken-megfenyegette-elettarsat-es-annak-lanyat-majd-csakannyal-leutotte-a-segitsegukre-sieto-ismeroset-egy-hodmezovasarhelyi-ferfi/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy újabb kapaszkodó a felépüléshez: fontos kedvezményt hozott a Szent Vincent Rehabilitációs Központ Szegeden",
+      "url": "https://szeged365.hu/2026/09/14/egy-ujabb-kapaszkodo-a-felepuleshez-fontos-kedvezmenyt-hozott-a-szent-vincent-rehabilitacios-kozpont-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-14T12:01:01.526929Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nehezebb lesz kijátszani a traffipaxot? Vitézy Dávid szerint bevezethetik az átlagsebesség-mérést is Magyarországon",
+      "url": "https://szeged365.hu/2026/09/14/nehezebb-lesz-kijatszani-a-traffipaxot-vitezy-david-szerint-bevezethetik-az-atlagsebesseg-merest-is-magyarorszagon/"
+    },
+    {
       "first_seen": "2026-09-14T09:09:01.549877Z",
       "published_at": "2026-09-14T00:00:00",
       "reason": "prefiltered",
@@ -121,14 +225,6 @@
       "url": "https://szeged365.hu/2026/09/02/amikor-a-szaktudas-melle-technologia-is-tarsul-detari-vilmos-megmutatta-hogyan-segithet-a-szent-vincent-rehabilitacios-kozpont-szegeden-video/"
     },
     {
-      "first_seen": "2026-09-14T06:10:01.553153Z",
-      "published_at": "2026-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Azóta hiszek a robotokban” – Szabó-Márk Tamás újabb nagy lépést tett a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/03/azota-hiszek-a-robotokban-szabo-mark-tamas-ujabb-nagy-lepest-tett-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
       "first_seen": "2026-09-13T18:06:01.529513Z",
       "published_at": "2026-09-13T00:00:00",
       "reason": "prefiltered",
@@ -223,104 +319,8 @@
       "source_name": "Szeged365",
       "title": "Borult égbolttal és hidegfronttal indul a hét Szegeden",
       "url": "https://szeged365.hu/2026/09/13/borult-egbolttal-es-hidegfronttal-indul-a-het-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-13T06:09:01.509718Z",
-      "published_at": "2026-09-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: bábszínházi évadnyitó és kellemes őszi idő vár ránk ma Szegeden",
-      "url": "https://szeged365.hu/2026/09/13/napi-pakk-babszinhazi-evadnyito-es-kellemes-oszi-ido-var-rank-ma-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-13T06:09:01.509718Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási csatára készül a Legszegedibb Sportolónő: K-1 világbajnok ellen debütál a profik között Szalai Gréta",
-      "url": "https://szeged365.hu/2026/09/12/oriasi-csatara-keszul-a-legszegedibb-sportolono-k-1-vilagbajnok-ellen-debutal-a-profik-kozott-szalai-greta/"
-    },
-    {
-      "first_seen": "2026-09-12T18:01:01.528342Z",
-      "published_at": "2026-09-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ex libris kiállítás nyílt Szegeden – már a megnyitó is sok érdeklődőt vonzott",
-      "url": "https://szeged365.hu/2026/09/11/ex-libris-kiallitas-nyilt-szegeden-mar-a-megnyito-is-sok-erdeklodot-vonzott-fotok/"
-    },
-    {
-      "first_seen": "2026-09-12T18:01:01.528342Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "4-0, ez még a Holdról (sőt, a Neptunuszról) is látszik – nagyot nyert a Szeged-Csanád Grosics Akadémia",
-      "url": "https://szeged365.hu/2026/09/12/4-0-ez-meg-a-holdrol-sot-a-neptunuszrol-is-latszik-nagyot-nyert-a-szeged-csanad-grosics-akademia/"
-    },
-    {
-      "first_seen": "2026-09-12T18:01:01.528342Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Folytatódik az őszies hétvége Szegeden, de csapadékra nem kell számítanunk",
-      "url": "https://szeged365.hu/2026/09/12/folytatodik-az-oszies-hetvege-szegeden-de-csapadekra-nem-kell-szamitanunk/"
-    },
-    {
-      "first_seen": "2026-09-12T18:01:01.528342Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszólalt a kínai nagykövet Szijjártó Péter BYD-s kinevezéséről",
-      "url": "https://szeged365.hu/2026/09/12/megszolalt-a-kinai-nagykovet-szijjarto-peter-byd-s-kinevezeserol/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már épül a 14. Bor tér Szegeden, szeptember 16-án indul az őszi fesztivál (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/12/mar-epul-a-14-bor-ter-szegeden-szeptember-16-an-indul-az-oszi-fesztival-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Együtt a rák ellen, 10,5 kilométert tekertek egy nemes ügyért (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/12/egyutt-a-rak-ellen-105-kilometert-tekertek-egy-nemes-ugyert-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Labdázni tilos, fesztiválozni lehet? A Móra park védelmét kérte számon Tóth-Benedek Csanád, az MKKP elnöke és a szegedi közgyűlés tagja",
-      "url": "https://szeged365.hu/2026/09/12/labdazni-tilos-fesztivalozni-lehet-a-mora-park-vedelmet-kerte-szamon-toth-benedek-csanad-az-mkkp-elnoke-es-a-szegedi-kozgyules-tagja/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Orbán Viktor visszatért a nyaralásból, a Fidesz következő lépéseiről is beszélt",
-      "url": "https://szeged365.hu/2026/09/12/orban-viktor-visszatert-a-nyaralasbol-a-fidesz-kovetkezo-lepeseirol-is-beszelt/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lámpák irányítják a forgalmat a Tompai Kapu úton, vezessetek óvatosan!",
-      "url": "https://szeged365.hu/2026/09/12/lampak-iranyitjak-a-forgalmat-a-tompai-kapu-uton-vezessetek-ovatosan/"
-    },
-    {
-      "first_seen": "2026-09-12T15:02:01.580443Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Brutális a torlódás az M5-ösön Szeged felé, kilométeres sor alakult ki",
-      "url": "https://szeged365.hu/2026/09/12/brutalis-a-torlodas-az-m5-oson-szeged-fele-kilometeres-sor-alakult-ki/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-14T09:09:01.549877Z"
+  "updated_at": "2026-09-14T12:01:01.526929Z"
 }

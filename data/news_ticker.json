@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt az 5-ös főúton, Szeged közelében – az utat félpályán lezárták",
+      "url": "https://szeged365.hu/2026/09/15/baleset-tortent-az-5-os-fouton-szeged-kozeleben-az-utat-felpalyan-lezartak/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyhetes razziát indít a rendőrség a szegedi utakon is – mutatjuk, mit ellenőriznek fokozottan",
+      "url": "https://szeged365.hu/2026/09/15/egyhetes-razziat-indit-a-rendorseg-a-szegedi-utakon-is-mutatjuk-mit-ellenoriznek-fokozottan/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ki mivel fűt idén télen? Szegeden egyre többen figyelnek a geotermikus megoldásokra (galéria)",
+      "url": "https://szeged365.hu/2026/09/15/ki-mivel-fut-iden-telen-szegeden-egyre-tobben-figyelnek-a-geotermikus-megoldasokra-galeria/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter szerint előállították a Szeged Plaza tulajdonosát",
+      "url": "https://szeged365.hu/2026/09/15/magyar-peter-szerint-eloallitottak-a-szeged-plaza-tulajdonosat/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-10-01T23:59:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Van egy filmed, amit eddig nem mertél megmutatni? Szegeden most érdemes lehet adni neki egy esélyt",
+      "url": "https://szeged365.hu/2026/09/15/van-egy-filmed-amit-eddig-nem-mertel-megmutatni-szegeden-most-erdemes-lehet-adni-neki-egy-eselyt/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szavazott az Országgyűlés: két SZTE-s oktató is az Alkotmánybíróság tagja lett",
+      "url": "https://szeged365.hu/2026/09/15/szavazott-az-orszaggyules-ket-szte-s-oktato-is-az-alkotmanybirosag-tagja-lett/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra a volán mögé? A Szent Vincent Rehabilitációs Központban már a vezetés mozdulatait is lehet gyakorolni a rehabilitáció során (videó)",
+      "url": "https://szeged365.hu/2026/09/15/ujra-a-volan-moge-a-szent-vincent-rehabilitacios-kozpontban-mar-a-vezetes-mozdulatait-is-lehet-gyakorolni-a-rehabilitacio-soran-video/"
+    },
+    {
+      "first_seen": "2026-09-15T12:02:01.532655Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Súlyos büntetést kapott Lázár János az erdészeti hatóságtól: 13 milliót kell kifizetnie, és minden épített létesítményt el kell bontania",
+      "url": "https://szeged365.hu/2026/09/15/sulyos-buntetest-kapott-lazar-janos-az-erdeszeti-hatosagtol-13-milliot-kell-kifizetnie-es-minden-epitett-letesitmenyt-el-kell-bontania-a-sajat-tulajdonu-erdojeben/"
+    },
+    {
       "first_seen": "2026-09-15T09:05:01.552065Z",
       "published_at": "2026-09-15T00:00:00",
       "reason": "prefiltered",
@@ -95,14 +167,6 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: kedden visszatér a napfény a Napfény Városába, ma van Agatha Christie születésnapja",
       "url": "https://szeged365.hu/2026/09/15/napi-pakk-kedden-visszater-a-napfeny-a-napfeny-varosaba-ma-van-agatha-christie-szuletesnapja/"
-    },
-    {
-      "first_seen": "2026-09-15T06:04:01.530120Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
     },
     {
       "first_seen": "2026-09-14T18:06:01.521875Z",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Két hónapig állványok mögé bújik Szeged egyik legismertebb épülete: 35 milliós felújítás kezdődött a városháza főhomlokzatán",
       "url": "https://szeged365.hu/2026/09/14/ket-honapig-allvanyok-moge-bujik-szeged-egyik-legismertebb-epulete-35-millios-felujitas-kezdodott-a-varoshaza-fohomlokzatan/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ritkaságszámba menő csipkék érkeznek Szegedre, csütörtökön nyílik a különleges tárlat",
-      "url": "https://szeged365.hu/2026/09/14/ritkasagszamba-meno-csipkek-erkeznek-szegedre-csutortokon-nyilik-a-kulonleges-tarlat/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Karambol történt az 5-ös főúton – egy kisteherautó a tetejére borult",
-      "url": "https://szeged365.hu/2026/09/14/karambol-tortent-az-5-os-fouton-egy-kisteherauto-a-tetejere-borult/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megalapozott bírói döntés csak valódi szakmai vitában alakulhat ki – hitelességet, és alkotmányos párbeszédet ígér a két szegedi alkotmánybíró-jelölt",
-      "url": "https://szeged365.hu/2026/09/14/a-ket-szegedi-alkotmanybiro-jelolt-hitelesseget-es-alkotmanyos-parbeszedet-iger/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kinevezték az Országos Mentőszolgálat új főigazgatóját (videó)",
-      "url": "https://szeged365.hu/2026/09/14/kineveztek-az-orszagos-mentoszolgalat-uj-foigazgatojat-video/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megújult a Szentmihályi Móricz Zsigmond Művelődési Ház rendezvényterme: a parkettától a klímáig több fejlesztés is történt Szegeden (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/14/megujult-a-szentmihalyi-moricz-zsigmond-muvelodesi-haz-rendezvenyterme-a-parkettatol-a-klimaig-tobb-fejlesztes-is-tortent-szegeden-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-14T15:07:01.544590Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Még mindig nem volt elég csapadék Szegeden – a KHT a reggeli eső után már locsolt (videó)",
-      "url": "https://szeged365.hu/2026/09/14/meg-mindig-nem-volt-eleg-csapadek-szegeden-a-kht-a-reggeli-eso-utan-mar-locsolt-video/"
-    },
-    {
-      "first_seen": "2026-09-14T12:01:01.526929Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy bicikli- és két rollertolvajt keres a rendőrség Szegeden (fotók)",
-      "url": "https://szeged365.hu/2026/09/14/egy-bicikli-es-ket-rollertolvajt-keres-a-rendorseg-szegeden-fotok/"
-    },
-    {
-      "first_seen": "2026-09-14T12:01:01.526929Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Te melyik vibe-ot választanád? Borovics Anna megmutatja, hogyan változik át estére a szegedi Napfény Műterem (videó)",
-      "url": "https://szeged365.hu/2026/09/14/te-melyik-vibe-ot-valasztanad-borovics-anna-megmutatja-hogyan-valtozik-at-estere-a-szegedi-napfeny-muterem-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-15T09:05:01.552065Z"
+  "updated_at": "2026-09-15T12:02:01.532655Z"
 }

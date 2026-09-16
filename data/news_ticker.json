@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szenvedéllyel és monumentális energiákkal robban be az advent Szegeden: Wolf Kati, Kocsis Tibor és Király Viktor hozza el a Queen legnagyobb slágereit!",
+      "url": "https://szeged365.hu/2026/09/16/szenvedellyel-es-monumentalis-energiakkal-robban-be-az-advent-szegeden-wolf-kati-kocsis-tibor-es-kiraly-viktor-hozza-el-a-queen-legnagyobb-slagereit/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs, extra: mától újra Szeged a világ közepe – indul a Bortér, érkezünk az első nap programjaival!",
+      "url": "https://szeged365.hu/2026/09/16/szeged365-kikapcs-extra-matol-ujra-szeged-a-vilag-kozepe-indul-a-borter-erkezunk-az-elso-nap-programjaival/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-18T08:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fokozott hanghatásra, és megnövekedett katonai jelenlétre kell számítani Sándorfalva területén, éleslövészettel egybekötött kiképzési foglalkozásokat hajt végre a Magyar Honvédség",
+      "url": "https://szeged365.hu/2026/09/16/fokozott-hanghatasra-es-megnovekedett-katonai-jelenletre-kell-szamitani-sandorfalva-teruleten-elesloveszettel-egybekotott-kikepzesi-foglalkozasokat-hajt-vegre-a-magyar-honvedseg/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rusvai Miklós: idén is a koronavírus fogja indítani az őszi járványhullámot",
+      "url": "https://szeged365.hu/2026/09/16/rusvai-miklos-iden-is-a-koronavirus-fogja-inditani-az-oszi-jarvanyhullamot/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Amikor egy egész közösség együtt készül az ünnepre: traktoros felvonulással, főzőversennyel, koncerttel és gyermekprogramokkal várnak mindenkit a falunapra Pusztamérgesen",
+      "url": "https://szeged365.hu/2026/09/16/amikor-egy-egesz-kozosseg-egyutt-keszul-az-unnepre-traktoros-felvonulassal-fozoversennyel-koncerttel-es-gyermekprogramokkal-varnak-mindenkit-a-falunapra-pusztamergesen/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megérkezett Szegedre a rehabilitáció egyik legizgalmasabb új eszköze: közelről mutatjuk a ZEPU AI6 robotot a Szent Vincent Rehabilitációs Központban (videó)",
+      "url": "https://szeged365.hu/2026/09/08/megerkezett-szegedre-a-rehabilitacio-egyik-legizgalmasabb-uj-eszkoze-kozelrol-mutatjuk-a-zepu-ai6-robotot-a-szent-vincent-rehabilitacios-kozpontban-video/"
+    },
+    {
+      "first_seen": "2026-09-16T06:05:01.563279Z",
+      "published_at": "2026-09-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy súlyos műtét után nem tudta mozgatni a lábait, most a Szent Vincent Rehabilitációs Központban kapott új reményt Laura (videó)",
+      "url": "https://szeged365.hu/2026/09/10/egy-sulyos-mutet-utan-nem-tudta-mozgatni-a-labait-most-a-szent-vincent-rehabilitacios-kozpontban-kapott-uj-remenyt-laura-video/"
+    },
+    {
       "first_seen": "2026-09-15T18:05:01.535425Z",
       "published_at": "2026-09-07T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Súlyos büntetést kapott Lázár János az erdészeti hatóságtól: 13 milliót kell kifizetnie, és minden épített létesítményt el kell bontania",
       "url": "https://szeged365.hu/2026/09/15/sulyos-buntetest-kapott-lazar-janos-az-erdeszeti-hatosagtol-13-milliot-kell-kifizetnie-es-minden-epitett-letesitmenyt-el-kell-bontania-a-sajat-tulajdonu-erdojeben/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Pszichológia, egészség, történelem és világutazás – ismét felejthetetlen előadásokkal vár mindenkit a Mentorháló Szegeden",
-      "url": "https://szeged365.hu/2026/09/15/pszichologia-egeszseg-tortenelem-es-vilagutazas-ismet-felejthetetlen-eloadasokkal-var-mindenkit-a-mentorhalo-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kis híján megölte ismerősét egy férfi Szegeden, késsel támadt rá az egyik helyi sörözőnél",
-      "url": "https://szeged365.hu/2026/09/15/kis-hijan-megolte-ismeroset-egy-ferfi-szegeden-kessel-tamadt-ra-az-egyik-helyi-sorozonel/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hagyományőrző nap Szentmihályon: népi játékokkal, paprikafűzéssel és színházi előadással várják a szegedieket",
-      "url": "https://szeged365.hu/2026/09/15/hagyomanyorzo-nap-szentmihalyon-nepi-jatekokkal-paprikafuzessel-es-szinhazi-eloadassal-varjak-a-szegedieket/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedről is indulnak a Temesvári Magyar Napokra, mutatjuk, hogyan csatlakozhatsz",
-      "url": "https://szeged365.hu/2026/09/15/szegedrol-is-indulnak-a-temesvari-magyar-napokra-mutatjuk-hogyan-csatlakozhatsz/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kirúgták Schmidt Máriát, ideiglenesen bezár a Terror Háza Múzeum",
-      "url": "https://szeged365.hu/2026/09/15/kirugtak-schmidt-mariat-ideiglenesen-bezar-a-terror-haza-muzeum/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megemelné a dohánytermékek jövedéki adóját a kormány, benyújtották a javaslatot",
-      "url": "https://szeged365.hu/2026/09/15/megemelne-a-dohanytermekek-jovedeki-adojat-a-kormany-benyujtottak-a-javaslatot/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt a Bertalan hídon (frissítve)",
-      "url": "https://szeged365.hu/2026/09/15/baleset-tortent-a-bertalan-hidon/"
-    },
-    {
-      "first_seen": "2026-09-15T09:05:01.552065Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nagy csatában született meg a győzelem: Kiskunfélegyházán nyert a Vitéz SE!",
-      "url": "https://szeged365.hu/2026/09/15/nagy-csataban-szuletett-meg-a-gyozelem-kiskunfelegyhazan-nyert-a-vitez-se/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-15T18:05:01.535425Z"
+  "updated_at": "2026-09-16T06:05:01.563279Z"
 }

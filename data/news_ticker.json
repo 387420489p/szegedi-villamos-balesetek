@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eső ide vagy oda, Szegeden továbbra is aszály van",
+      "url": "https://szeged365.hu/2026/09/16/eso-ide-vagy-oda-szegeden-tovabbra-is-aszaly-van/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már tényleg a célegyenesben: hamarosan elkészül a Szilléri sugárúti zebra (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/16/mar-tenyleg-a-celegyenesben-hamarosan-elkeszul-a-szilleri-sugaruti-zebra-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset borította fel a buszközlekedést Szegeden, többfelé is terelés van",
+      "url": "https://szeged365.hu/2026/09/16/baleset-boritotta-fel-a-buszkozlekedest-szegeden-tobbfele-is-tereles-van/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rendőrök lepték el a Vadasparkot: családi napot rendezett a büntetés-végrehajtás (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/16/rendorok-leptek-el-a-vadasparkot-csaladi-napot-rendezett-a-buntetes-vegrehajtas-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napsütéssel indul a csütörtök, majd egy hidegfront sodor felhőket Szeged fölé",
+      "url": "https://szeged365.hu/2026/09/16/napsutessel-indul-a-csutortok-majd-egy-hidegfront-sodor-felhoket-szeged-fole/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vállalkozásokat érintő fizetési kötelezettség szűnik meg",
+      "url": "https://szeged365.hu/2026/09/16/vallalkozasokat-erinto-fizetesi-kotelezettseg-szunik-meg/"
+    },
+    {
+      "first_seen": "2026-09-16T18:10:01.613981Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Injekciós tűk, ételmaradékok és patkányok a Vértó környékén – felháborodott levelet kaptunk (fotók) (frissítve)",
+      "url": "https://szeged365.hu/2026/09/15/injekcios-tuk-etelmaradekok-es-patkanyok-a-verto-kornyeken-felhaborodott-levelet-kaptunk-fotok/"
+    },
+    {
       "first_seen": "2026-09-16T15:02:01.623946Z",
       "published_at": "2026-09-15T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Fokozott hanghatásra, és megnövekedett katonai jelenlétre kell számítani Sándorfalva területén, éleslövészettel egybekötött kiképzési foglalkozásokat hajt végre a Magyar Honvédség",
       "url": "https://szeged365.hu/2026/09/16/fokozott-hanghatasra-es-megnovekedett-katonai-jelenletre-kell-szamitani-sandorfalva-teruleten-elesloveszettel-egybekotott-kikepzesi-foglalkozasokat-hajt-vegre-a-magyar-honvedseg/"
-    },
-    {
-      "first_seen": "2026-09-16T06:05:01.563279Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rusvai Miklós: idén is a koronavírus fogja indítani az őszi járványhullámot",
-      "url": "https://szeged365.hu/2026/09/16/rusvai-miklos-iden-is-a-koronavirus-fogja-inditani-az-oszi-jarvanyhullamot/"
-    },
-    {
-      "first_seen": "2026-09-16T06:05:01.563279Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Amikor egy egész közösség együtt készül az ünnepre: traktoros felvonulással, főzőversennyel, koncerttel és gyermekprogramokkal várnak mindenkit a falunapra Pusztamérgesen",
-      "url": "https://szeged365.hu/2026/09/16/amikor-egy-egesz-kozosseg-egyutt-keszul-az-unnepre-traktoros-felvonulassal-fozoversennyel-koncerttel-es-gyermekprogramokkal-varnak-mindenkit-a-falunapra-pusztamergesen/"
-    },
-    {
-      "first_seen": "2026-09-16T06:05:01.563279Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-16T06:05:01.563279Z",
-      "published_at": "2026-09-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkezett Szegedre a rehabilitáció egyik legizgalmasabb új eszköze: közelről mutatjuk a ZEPU AI6 robotot a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/08/megerkezett-szegedre-a-rehabilitacio-egyik-legizgalmasabb-uj-eszkoze-kozelrol-mutatjuk-a-zepu-ai6-robotot-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
-      "first_seen": "2026-09-16T06:05:01.563279Z",
-      "published_at": "2026-09-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy súlyos műtét után nem tudta mozgatni a lábait, most a Szent Vincent Rehabilitációs Központban kapott új reményt Laura (videó)",
-      "url": "https://szeged365.hu/2026/09/10/egy-sulyos-mutet-utan-nem-tudta-mozgatni-a-labait-most-a-szent-vincent-rehabilitacios-kozpontban-kapott-uj-remenyt-laura-video/"
-    },
-    {
-      "first_seen": "2026-09-15T18:05:01.535425Z",
-      "published_at": "2026-09-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Így segítheti egy robot a kéz mozgásának fejlesztését: bemutatjuk a ZEPU SG3-at Szegeden, a Szent Vincent Rehabilitációs Központban (videó)",
-      "url": "https://szeged365.hu/2026/09/07/igy-segitheti-egy-robot-a-kez-mozgasanak-fejleszteset-bemutatjuk-a-zepu-sg3-at-szegeden-a-szent-vincent-rehabilitacios-kozpontban-video/"
-    },
-    {
-      "first_seen": "2026-09-15T18:05:01.535425Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra a volán mögé? A Szent Vincent Rehabilitációs Központban már a vezetés mozdulatait is lehet gyakorolni a rehabilitáció során (videó)",
-      "url": "https://szeged365.hu/2026/09/15/ujra-a-volan-moge-a-szent-vincent-rehabilitacios-kozpontban-mar-a-vezetes-mozdulatait-is-lehet-gyakorolni-a-rehabilitacio-soran-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-16T15:02:01.623946Z"
+  "updated_at": "2026-09-16T18:10:01.613981Z"
 }

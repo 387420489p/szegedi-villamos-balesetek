@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szomorú hír érkezett: elhunyt Deák Bill Gyula",
+      "url": "https://szeged365.hu/2026/09/17/szomoru-hir-erkezett-elhunyt-deak-bill-gyula/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Orbán Viktor: a Fidesz nem a kormánnyal, hanem az emberekkel akar együttműködni",
+      "url": "https://szeged365.hu/2026/09/17/orban-viktor-a-fidesz-nem-a-kormannyal-hanem-az-emberekkel-akar-egyuttmukodni/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gólyahír: megszületett Tornóczky Anita második babája! (fotó)",
+      "url": "https://szeged365.hu/2026/09/17/golyahir-megszuletett-tornoczky-anita-masodik-babaja-foto/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Remek hír: újra járható a Kálvária sugárúti vasúti átjáró",
+      "url": "https://szeged365.hu/2026/09/17/remek-hir-ujra-jarhato-a-kalvaria-sugaruti-vasuti-atjaro/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vádat emeltek a katalizátor-tolvaj ellen, aki Szegeden is “megdézsmálta” a kocsikat",
+      "url": "https://szeged365.hu/2026/09/17/vadat-emeltek-a-katalizator-tolvaj-ellen-aki-szegeden-is-megdezsmalta-a-kocsikat/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kezdődik az Olimpiai Reménységek Versenye Pozsonyban",
+      "url": "https://szeged365.hu/2026/09/17/kezdodik-az-olimpiai-remenysegek-versenye-pozsonyban/"
+    },
+    {
+      "first_seen": "2026-09-17T09:08:01.533017Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ez most nem jött össze: nagy küzdelemben, de kikaptak a kékek Dániában",
+      "url": "https://szeged365.hu/2026/09/17/ez-most-nem-jott-ossze-nagy-kuzdelemben-de-kikaptak-a-kekek-daniaban/"
+    },
+    {
       "first_seen": "2026-09-17T06:04:01.546160Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Akinél még Harrison Ford is evett hamburgert: nagyon komoly food truckokkal érkezik Szegedre a Burger Blues Beerfest – nyerj páros burger meghívást a Szeged365-ön!",
       "url": "https://szeged365.hu/2026/09/16/akinel-meg-harrison-ford-is-evett-hamburgert-nagyon-komoly-food-truckokkal-erkezik-szegedre-a-burger-blues-beerfest-nyerj-paros-burger-meghivast-a-szeged365-on/"
-    },
-    {
-      "first_seen": "2026-09-16T12:03:01.623343Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nem minden szülő teheti meg, hogy kifizesse a méregdrága ruhákat” – komoly kedvezményekkel és egy nagy nyereménnyel készül a szegedi Elaris Esküvői Szalon (videó)",
-      "url": "https://szeged365.hu/2026/09/16/nem-minden-szulo-teheti-meg-hogy-kifizesse-a-meregdraga-ruhakat-komoly-kedvezmenyekkel-es-egy-nagy-nyeremennyel-keszul-a-szegedi-elaris-eskuvoi-szalon-video/"
-    },
-    {
-      "first_seen": "2026-09-16T12:03:01.623343Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kezdődik a MASZK Egyesület őszi színházi programja: hat különböző előadással, és hat különböző színházi világgal találkozhat a szegedi közönség",
-      "url": "https://szeged365.hu/2026/09/16/kezdodik-a-maszk-egyesulet-oszi-szinhazi-programja-hat-kulonbozo-eloadassal-es-hat-kulonbozo-szinhazi-vilaggal-talalkozhat-a-szegedi-kozonseg/"
-    },
-    {
-      "first_seen": "2026-09-16T12:03:01.623343Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter szerint előállították a Szeged Plaza tulajdonosát (frissítve)",
-      "url": "https://szeged365.hu/2026/09/15/magyar-peter-szerint-eloallitottak-a-szeged-plaza-tulajdonosat/"
-    },
-    {
-      "first_seen": "2026-09-16T09:09:01.587401Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tömeges támadásra készült egy 16 éves magyar diák, az FBI jelzésére csapott le a Készenléti Rendőrség (videóval)",
-      "url": "https://szeged365.hu/2026/09/16/tomeges-tamadasra-keszult-egy-16-eves-magyar-diak-az-fbi-jelzesere-csapott-le-a-keszenleti-rendorseg-videoval/"
-    },
-    {
-      "first_seen": "2026-09-16T09:09:01.587401Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt egy személygépkocsi Balástya térségében, félpályán halad a forgalom",
-      "url": "https://szeged365.hu/2026/09/16/kigyulladt-egy-szemelygepkocsi-balastya-tersegeben-felpalyan-halad-a-forgalom/"
-    },
-    {
-      "first_seen": "2026-09-16T09:09:01.587401Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Áthelyezik az egyik buszmegállót Szegeden",
-      "url": "https://szeged365.hu/2026/09/16/athelyezik-az-egyik-buszmegallot-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-16T09:09:01.587401Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tíz éve dolgozik a szegedi papucs megőrzéséért és továbbörökítéséért a Szegedi Papucsért Alapítvány, programokkal ünneplik a jubileumi évet",
-      "url": "https://szeged365.hu/2026/09/16/tiz-eve-dolgozik-a-szegedi-papucs-megorzeseert-es-tovabborokiteseert-a-szegedi-papucsert-alapitvany-programokkal-unneplik-a-jubileumi-evet/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-17T06:04:01.546160Z"
+  "updated_at": "2026-09-17T09:08:01.533017Z"
 }

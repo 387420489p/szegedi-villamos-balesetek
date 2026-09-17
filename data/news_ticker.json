@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy újabb kapaszkodó a felépüléshez: fontos kedvezményt hozott a Szent Vincent Rehabilitációs Központ Szegeden",
+      "url": "https://szeged365.hu/2026/09/14/egy-ujabb-kapaszkodo-a-felepuleshez-fontos-kedvezmenyt-hozott-a-szent-vincent-rehabilitacios-kozpont-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Stroke után az első önálló lépés mindent jelenthet: ilyen segítség érkezett a Szent Vincent Rehabilitációs Központba (videó)",
+      "url": "https://szeged365.hu/2026/09/17/stroke-utan-az-elso-onallo-lepes-mindent-jelenthet-ilyen-segitseg-erkezett-a-szent-vincent-rehabilitacios-kozpontba-video/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Előadás, workshopok és bemutatók – az SZTE BBMK három eseménnyel várja az ütőhangszerek szerelmeseit",
+      "url": "https://szeged365.hu/2026/09/17/eloadas-workshopok-es-bemutatok-az-szte-bbmk-harom-esemennyel-varja-az-utohangszerek-szerelmeseit/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel 22 milliárdból épített a Mol napelemparkot és villamosenergia-tároló rendszert Algyőn",
+      "url": "https://szeged365.hu/2026/09/17/kozel-22-milliardbol-epitett-a-mol-napelemparkot-es-villamosenergia-tarolo-rendszert-algyon/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közeleg a szív napja – a Mediversal ingyenes kardiológiai szűrőnapot tart Szegeden",
+      "url": "https://szeged365.hu/2026/09/17/kozeleg-a-sziv-napja-a-mediversal-ingyenes-kardiologiai-szuronapot-tart-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Isten hozott (újra) Tarjánban!” – közösségi napot és esti bulit szervez a Megálló Közösségi Ház",
+      "url": "https://szeged365.hu/2026/09/17/isten-hozott-ujra-tarjanban-kozossegi-napot-es-esti-bulit-szervez-a-megallo-kozossegi-haz/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Párás, ködös reggellel indul a péntek, és záporok is megérkezhetnek Szegedre",
+      "url": "https://szeged365.hu/2026/09/17/paras-kodos-reggellel-indul-a-pentek-majd-zaporok-is-megerkezhetnek-szegedre/"
+    },
+    {
+      "first_seen": "2026-09-17T18:10:01.548741Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Motor és autó ütközött az 55-ös főűton – az utat lezárták, és mentőhelikopter is érkezett",
+      "url": "https://szeged365.hu/2026/09/17/motor-es-auto-utkozott-az-55-os-fouton-az-utat-lezartak-es-mentohelikopter-is-erkezett/"
+    },
+    {
       "first_seen": "2026-09-17T15:08:01.557579Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -74,14 +138,6 @@
     },
     {
       "first_seen": "2026-09-17T12:09:01.556565Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy újabb kapaszkodó a felépüléshez: fontos kedvezményt hozott a Szent Vincent Rehabilitációs Központ Szegeden",
-      "url": "https://szeged365.hu/2026/09/14/egy-ujabb-kapaszkodo-a-felepuleshez-fontos-kedvezmenyt-hozott-a-szent-vincent-rehabilitacios-kozpont-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-17T12:09:01.556565Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -119,14 +175,6 @@
       "source_name": "Szeged365",
       "title": "Botos Péter üvegszobrász eddigi legnagyobb tárlata nyílik a REÖK-ben",
       "url": "https://szeged365.hu/2026/09/17/botos-peter-uvegszobrasz-eddigi-legnagyobb-tarlata-nyilik-a-reok-ben/"
-    },
-    {
-      "first_seen": "2026-09-17T12:09:01.556565Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Stroke után az első önálló lépés mindent jelenthet: ilyen segítség érkezett a Szent Vincent Rehabilitációs Központba (videó)",
-      "url": "https://szeged365.hu/2026/09/17/stroke-utan-az-elso-onallo-lepes-mindent-jelenthet-ilyen-segitseg-erkezett-a-szent-vincent-rehabilitacios-kozpontba-video/"
     },
     {
       "first_seen": "2026-09-17T09:08:01.533017Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Injekciós tűk, ételmaradékok és patkányok a Vértó környékén – felháborodott levelet kaptunk (fotók) (frissítve)",
       "url": "https://szeged365.hu/2026/09/15/injekcios-tuk-etelmaradekok-es-patkanyok-a-verto-kornyeken-felhaborodott-levelet-kaptunk-fotok/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "SZKT: baleset miatt késések várhatók két troli vonalán",
-      "url": "https://szeged365.hu/2026/09/15/szkt-baleset-miatt-kesesek-varhatok-ket-troli-vonalan/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra nagyvásznon a Verdák és a Terminátor 2, premier előtt érkezik a Bosszúállók: Végjáték ráaadás – mutatjuk a Belvárosi Mozi kínálatát",
-      "url": "https://szeged365.hu/2026/09/16/ujra-nagyvasznon-a-verdak-es-a-terminator-2-premier-elott-erkezik-a-bosszuallok-vegjatek-raaadas-mutatjuk-a-belvarosi-mozi-kinalatat/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyedül, de nem boldogtalanul: különleges fotókiállítás érkezik a szegedi Fekete házba",
-      "url": "https://szeged365.hu/2026/09/16/egyedul-de-nem-boldogtalanul-kulonleges-fotokiallitas-erkezik-a-szegedi-fekete-hazba/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Központi hiba miatt állt le az internet- és tévészolgáltatás Szegeden – több városrészből is érkeznek jelzések",
-      "url": "https://szeged365.hu/2026/09/16/kozponti-hiba-miatt-allt-le-az-internet-es-teveszolgaltatas-szegeden-tobb-varosreszbol-is-erkeznek-jelzesek/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem minden róka gengszter: különleges bemutatóval folytatódik a 80 éves Kövér Béla Bábszínház jubileumi évada",
-      "url": "https://szeged365.hu/2026/09/16/nem-minden-roka-gengszter-kulonleges-bemutatoval-folytatodik-a-80-eves-kover-bela-babszinhaz-jubileumi-evada/"
-    },
-    {
-      "first_seen": "2026-09-16T15:02:01.623946Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lannert Judit szerint a középosztály gyerekeit is „lebutítja” a közösségi média",
-      "url": "https://szeged365.hu/2026/09/16/lannert-judit-szerint-a-kozeposztaly-gyerekeit-is-lebutitja-a-kozossegi-media/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-17T15:08:01.557579Z"
+  "updated_at": "2026-09-17T18:10:01.548741Z"
 }

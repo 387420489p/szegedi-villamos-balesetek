@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fertőzésveszély miatt zárlatot rendeltek el a Koraszülött Intenzív Osztályon Szegeden – három babánál multirezisztens baktériumot mutattak ki",
+      "url": "https://szeged365.hu/2026/09/18/fertozesveszely-miatt-zarlatot-rendeltek-el-a-koraszulott-intenziv-osztalyon-szegeden-harom-babanal-multirezisztens-bakteriumot-mutattak-ki/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Bortér Challenge Vol. 1.: 5 másodperc, 3 válasz – borvidékek és meredek kombók, amikre nem számítottunk (videó)",
+      "url": "https://szeged365.hu/2026/09/18/szeged365-borter-challenge-vol-1-5-masodperc-3-valasz-borvidekek-es-meredek-kombok-amikre-nem-szamitottunk-video/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy héten belül két szegedi focistát szerződtetett a Liverpool – ráadásul testvéreket",
+      "url": "https://szeged365.hu/2026/09/18/egy-heten-belul-ket-szegedi-focistat-szerzodtetett-a-liverpool-raadasul-testvereket/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ködös reggellel indul a szombat, de aztán kisüt majd a nap Szeged felett",
+      "url": "https://szeged365.hu/2026/09/18/kodos-reggellel-indul-a-szombat-de-aztan-kisut-majd-a-nap-szeged-felett/"
+    },
+    {
+      "first_seen": "2026-09-18T18:09:01.611830Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden gyakorolt a villamosvezetők Európa-bajnokságára a Magyarországot képviselő csapat (videó)",
+      "url": "https://szeged365.hu/2026/09/18/szegeden-gyakorolt-a-villamosvezetok-europa-bajnoksagara-a-magyarorszagot-kepviselo-csapat-video/"
+    },
+    {
       "first_seen": "2026-09-18T15:10:01.575385Z",
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
@@ -105,14 +169,6 @@
       "url": "https://szeged365.hu/2026/09/18/a-szegedi-pinceszinhaz-is-ott-van-az-orszag-egyetlen-online-szinhazi-fesztivaljan-videoval/"
     },
     {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
-    },
-    {
       "first_seen": "2026-09-18T09:10:01.535257Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -189,24 +245,8 @@
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-18T06:10:01.542075Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Húsz éve szivárgott ki Gyurcsány őszödi beszéde – a Tisza nyilvánosságra hozza a titkosított jegyzőkönyveket",
       "url": "https://szeged365.hu/2026/09/17/husz-eve-szivargott-ki-gyurcsany-oszodi-beszede-ami-alapjaiban-razta-meg-a-magyar-politikat/"
-    },
-    {
-      "first_seen": "2026-09-18T06:10:01.542075Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
     },
     {
       "first_seen": "2026-09-17T18:10:01.548741Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Pofátlan parkolás: ezúttal egy egész járdát elfoglaltak Szeged belvárosában (galéria)",
       "url": "https://szeged365.hu/2026/09/17/pofatlan-parkolas-ezuttal-egy-egesz-jardat-elfoglaltak-szeged-belvarosaban-galeria/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Unod a sablon melókat? Most Saigon hangulatát hozhatod el a Tisza-partra: pultos-felszolgálókat keres a szegedi Namo!",
-      "url": "https://szeged365.hu/2026/09/17/unod-a-sablon-melokat-most-saigon-hangulatat-hozhatod-el-a-tisza-partra-pultos-felszolgalokat-keres-a-szegedi-namo/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fajtaspecifikus növénykondicionáló készítményt fejlesztenek az SZTE-n",
-      "url": "https://szeged365.hu/2026/09/17/fajtaspecifikus-novenykondicionalo-keszitmenyt-fejlesztenek-az-szte-n/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A BYD szegedi gyára csak az első láncszem a kínai cég Európai terveiben",
-      "url": "https://szeged365.hu/2026/09/17/a-byd-szegedi-gyara-csak-az-elso-lancszem-a-kinai-ceg-europai-terveiben/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter: akár 20 évre visszamenőleg is vizsgálni fogják a politikusok vagyonosodását (videó)",
-      "url": "https://szeged365.hu/2026/09/17/magyar-peter-akar-20-evre-visszamenoleg-is-vizsgalni-fogjak-a-politikusok-vagyonosodasat-video/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Október végére teljesen átalakul egy szegedi lakótelepi közösségi tér – mutatjuk, hogy fest a helyszín jelenleg (galéria)",
-      "url": "https://szeged365.hu/2026/09/17/oktober-vegere-teljesen-atalakul-egy-szegedi-lakotelepi-kozossegi-ter-mutatjuk-hogy-fest-a-helyszin-jelenleg-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-18T15:10:01.575385Z"
+  "updated_at": "2026-09-18T18:09:01.611830Z"
 }

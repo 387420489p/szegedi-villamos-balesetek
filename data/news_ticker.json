@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-18T06:10:01.542075Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-18T06:10:01.542075Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Húsz éve szivárgott ki Gyurcsány őszödi beszéde – a Tisza nyilvánosságra hozza a titkosított jegyzőkönyveket",
+      "url": "https://szeged365.hu/2026/09/17/husz-eve-szivargott-ki-gyurcsany-oszodi-beszede-ami-alapjaiban-razta-meg-a-magyar-politikat/"
+    },
+    {
+      "first_seen": "2026-09-18T06:10:01.542075Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
+    },
+    {
       "first_seen": "2026-09-17T18:10:01.548741Z",
       "published_at": "2026-09-14T00:00:00",
       "reason": "prefiltered",
@@ -249,22 +273,6 @@
       "url": "https://szeged365.hu/2026/09/17/8-edzo-4-ora-1-terem-erkezik-a-global-spinning-allstars-night/"
     },
     {
-      "first_seen": "2026-09-17T06:04:01.546160Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-17T06:04:01.546160Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Húsz éve szivárgott ki Gyurcsány őszödi beszéde, ami alapjaiban rázta meg a magyar politikát",
-      "url": "https://szeged365.hu/2026/09/17/husz-eve-szivargott-ki-gyurcsany-oszodi-beszede-ami-alapjaiban-razta-meg-a-magyar-politikat/"
-    },
-    {
       "first_seen": "2026-09-16T18:10:01.613981Z",
       "published_at": "2026-09-16T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Vállalkozásokat érintő fizetési kötelezettség szűnik meg",
       "url": "https://szeged365.hu/2026/09/16/vallalkozasokat-erinto-fizetesi-kotelezettseg-szunik-meg/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Injekciós tűk, ételmaradékok és patkányok a Vértó környékén – felháborodott levelet kaptunk (fotók) (frissítve)",
-      "url": "https://szeged365.hu/2026/09/15/injekcios-tuk-etelmaradekok-es-patkanyok-a-verto-kornyeken-felhaborodott-levelet-kaptunk-fotok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-17T18:10:01.548741Z"
+  "updated_at": "2026-09-18T06:10:01.542075Z"
 }

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megszületett Tornóczky Anita második babája! (fotó)",
+      "url": "https://szeged365.hu/2026/09/17/golyahir-megszuletett-tornoczky-anita-masodik-babaja-foto/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra járható a Kálvária sugárúti vasúti átjáró",
+      "url": "https://szeged365.hu/2026/09/17/remek-hir-ujra-jarhato-a-kalvaria-sugaruti-vasuti-atjaro/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Átszakította a középső szalagkorlátot egy autó az M5-ösön, mentőhelikopter is érkezett",
+      "url": "https://szeged365.hu/2026/09/18/atszakitotta-a-kozepso-szalagkorlatot-egy-auto-az-m5-oson-mentohelikopter-is-erkezett/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fontos bejelentések a kormánytól: az iskolakezdési támogatás második részlete, gyermekvédelmi intézkedések és új zöldhatóság (frissítve)",
+      "url": "https://szeged365.hu/2026/09/18/fontos-bejelentesek-a-kormanytol-az-iskolakezdesi-tamogatas-masodik-reszlete-gyermekvedelmi-intezkedesek-es-uj-zoldhatosag/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ne engedjük el Lili kezét: most minden támogatás számít a rehabilitáció folytatásához",
+      "url": "https://szeged365.hu/2026/09/18/ne-engedjuk-el-lili-kezet-most-minden-tamogatas-szamit-a-rehabilitacio-folytatasahoz/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szúrós veszély Szegeden: a királydinnye a bicikligumikat és a kutyák talpát sem kíméli",
+      "url": "https://szeged365.hu/2026/09/18/szuros-veszely-szegeden-a-kiralydinnye-a-bicikligumikat-es-a-kutyak-talpat-sem-kimeli/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Védett madarakat gyűjtöttek és tömtek ki, majd eladták őket – közel 50 milliós a természetvédelmi kár (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/18/vedett-madarakat-gyujtottek-es-tomtek-ki-majd-eladtak-oket-kozel-50-millios-a-termeszetvedelmi-kar-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt a Bertalan híd lábánál, már alakul a dugó",
+      "url": "https://szeged365.hu/2026/09/18/baleset-tortent-a-bertalan-hid-labanal-mar-alakul-a-dugo/"
+    },
+    {
+      "first_seen": "2026-09-18T09:10:01.535257Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Erre már nagy szükség volt: végre jól megáztak a szegedi kertek",
+      "url": "https://szeged365.hu/2026/09/18/erre-mar-nagy-szukseg-volt-vegre-jol-megaztak-a-szegedi-kertek/"
+    },
+    {
       "first_seen": "2026-09-18T06:10:01.542075Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -221,22 +293,6 @@
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Gólyahír: megszületett Tornóczky Anita második babája! (fotó)",
-      "url": "https://szeged365.hu/2026/09/17/golyahir-megszuletett-tornoczky-anita-masodik-babaja-foto/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Remek hír: újra járható a Kálvária sugárúti vasúti átjáró",
-      "url": "https://szeged365.hu/2026/09/17/remek-hir-ujra-jarhato-a-kalvaria-sugaruti-vasuti-atjaro/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Vádat emeltek a katalizátor-tolvaj ellen, aki Szegeden is “megdézsmálta” a kocsikat",
       "url": "https://szeged365.hu/2026/09/17/vadat-emeltek-a-katalizator-tolvaj-ellen-aki-szegeden-is-megdezsmalta-a-kocsikat/"
     },
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Poharakat a magasba: indul a Bortér második felvonása – Rózi, a láma jóváhagyásával!",
       "url": "https://szeged365.hu/2026/09/17/poharakat-a-magasba-indul-a-borter-masodik-felvonasa-rozi-a-lama-jovahagyasaval/"
-    },
-    {
-      "first_seen": "2026-09-17T06:04:01.546160Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "8 edző, 4 óra, 1 terem: érkezik a Global Spinning Allstars Night!",
-      "url": "https://szeged365.hu/2026/09/17/8-edzo-4-ora-1-terem-erkezik-a-global-spinning-allstars-night/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eső ide vagy oda, Szegeden továbbra is aszály van",
-      "url": "https://szeged365.hu/2026/09/16/eso-ide-vagy-oda-szegeden-tovabbra-is-aszaly-van/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már tényleg a célegyenesben: hamarosan elkészül a Szilléri sugárúti zebra (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/16/mar-tenyleg-a-celegyenesben-hamarosan-elkeszul-a-szilleri-sugaruti-zebra-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset borította fel a buszközlekedést Szegeden, többfelé is terelés van",
-      "url": "https://szeged365.hu/2026/09/16/baleset-boritotta-fel-a-buszkozlekedest-szegeden-tobbfele-is-tereles-van/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rendőrök lepték el a Vadasparkot: családi napot rendezett a büntetés-végrehajtás (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/16/rendorok-leptek-el-a-vadasparkot-csaladi-napot-rendezett-a-buntetes-vegrehajtas-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napsütéssel indul a csütörtök, majd egy hidegfront sodor felhőket Szeged fölé",
-      "url": "https://szeged365.hu/2026/09/16/napsutessel-indul-a-csutortok-majd-egy-hidegfront-sodor-felhoket-szeged-fole/"
-    },
-    {
-      "first_seen": "2026-09-16T18:10:01.613981Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vállalkozásokat érintő fizetési kötelezettség szűnik meg",
-      "url": "https://szeged365.hu/2026/09/16/vallalkozasokat-erinto-fizetesi-kotelezettseg-szunik-meg/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-18T06:10:01.542075Z"
+  "updated_at": "2026-09-18T09:10:01.535257Z"
 }

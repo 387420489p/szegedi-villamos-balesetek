@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatná jó sorozatát a Szeged-Csanád GA, most Kecskeméten kell helytállniuk",
+      "url": "https://szeged365.hu/2026/09/18/folytatna-jo-sorozatat-a-szeged-csanad-ga-most-kecskemeten-kell-helytallniuk/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap újra hazai pályán a PICK Szeged, a Balatonfüred érkezik a PICK Arénába",
+      "url": "https://szeged365.hu/2026/09/18/vasarnap-ujra-hazai-palyan-a-pick-szeged-a-balatonfured-erkezik-a-pick-arenaba/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az SZTE Szent-Györgyi Albert Klinikai Központ lett az év Családbarát Kórháza, és mellette négy SZTE-klinika is elismerést kapott",
+      "url": "https://szeged365.hu/2026/09/18/az-szte-szent-gyorgyi-albert-klinikai-kozpont-lett-az-ev-csaladbarat-korhaza-es-mellette-negy-szte-klinika-is-elismerest-kapott/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: dübörög a Bortér, startol a Continental Futófesztivál és hagyományőrző nap is lesz Szentmihályon – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
+      "url": "https://szeged365.hu/2026/09/18/szeged365-kikapcs-duborog-a-borter-startol-a-continental-futofesztival-es-hagyomanyorzo-nap-is-lesz-szentmihalyon-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„A halottakat el kell temetni” – nyilvánosságra hozták Orbán Viktor kötcsei beszédét, mutatjuk a legfontosabb pontokat",
+      "url": "https://szeged365.hu/2026/09/18/a-halottakat-el-kell-temetni-nyilvanossagra-hoztak-orban-viktor-kotcsei-beszedet-mutatjuk-a-legfontosabb-pontokat/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„A hagyományt nem ápolni kell, hisz nem beteg” – tegnap ott voltunk a Délvidék Ház különleges szegedi estjén (videó, galéria)",
+      "url": "https://szeged365.hu/2026/09/18/a-hagyomanyt-nem-apolni-kell-hisz-nem-beteg-tegnap-ott-voltunk-a-delvidek-haz-kulonleges-szegedi-estjen-video-galeria/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bringára fel, Szeged! Almával, müzlivel és teával kínálják a bicikliseket az autómentes világnap alkalmából Szegeden",
+      "url": "https://szeged365.hu/2026/09/18/bringara-fel-szeged-almaval-muzlivel-es-teaval-kinaljak-a-bicikliseket-az-automentes-vilagnap-alkalmabol-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Szegedi Pinceszínház is ott van az ország egyetlen online színházi fesztiválján (videóval)",
+      "url": "https://szeged365.hu/2026/09/18/a-szegedi-pinceszinhaz-is-ott-van-az-orszag-egyetlen-online-szinhazi-fesztivaljan-videoval/"
+    },
+    {
+      "first_seen": "2026-09-18T12:02:01.581114Z",
+      "published_at": "2026-09-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
+    },
+    {
       "first_seen": "2026-09-18T09:10:01.535257Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Ne hagyjatok unatkozni” – Simonffy Péter is ott lesz az OFFFRAME Film Festival zsűrijében (videó)",
       "url": "https://szeged365.hu/2026/09/17/ne-hagyjatok-unatkozni-simonffy-peter-is-ott-lesz-az-offframe-film-festival-zsurijeben-video/"
-    },
-    {
-      "first_seen": "2026-09-17T12:09:01.556565Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Drága Bill, nyugodj békében!” – fájdalmas sorokkal búcsúzik Hobo Deák Bill Gyulától",
-      "url": "https://szeged365.hu/2026/09/17/draga-bill-nyugodj-bekeben-fajdalmas-sorokkal-bucsuzik-hobo-deak-bill-gyulatol/"
-    },
-    {
-      "first_seen": "2026-09-17T12:09:01.556565Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Komoly fennakadások vannak a Magyar Postánál, türelmet kérnek a szegedi ügyfelektől is",
-      "url": "https://szeged365.hu/2026/09/17/komoly-fennakadasok-vannak-a-magyar-postanal-turelmet-kernek-a-szegedi-ugyfelektol-is/"
-    },
-    {
-      "first_seen": "2026-09-17T12:09:01.556565Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botos Péter üvegszobrász eddigi legnagyobb tárlata nyílik a REÖK-ben",
-      "url": "https://szeged365.hu/2026/09/17/botos-peter-uvegszobrasz-eddigi-legnagyobb-tarlata-nyilik-a-reok-ben/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szomorú hír érkezett: elhunyt Deák Bill Gyula",
-      "url": "https://szeged365.hu/2026/09/17/szomoru-hir-erkezett-elhunyt-deak-bill-gyula/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Orbán Viktor: a Fidesz nem a kormánnyal, hanem az emberekkel akar együttműködni",
-      "url": "https://szeged365.hu/2026/09/17/orban-viktor-a-fidesz-nem-a-kormannyal-hanem-az-emberekkel-akar-egyuttmukodni/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vádat emeltek a katalizátor-tolvaj ellen, aki Szegeden is “megdézsmálta” a kocsikat",
-      "url": "https://szeged365.hu/2026/09/17/vadat-emeltek-a-katalizator-tolvaj-ellen-aki-szegeden-is-megdezsmalta-a-kocsikat/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kezdődik az Olimpiai Reménységek Versenye Pozsonyban",
-      "url": "https://szeged365.hu/2026/09/17/kezdodik-az-olimpiai-remenysegek-versenye-pozsonyban/"
-    },
-    {
-      "first_seen": "2026-09-17T09:08:01.533017Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ez most nem jött össze: nagy küzdelemben, de kikaptak a kékek Dániában",
-      "url": "https://szeged365.hu/2026/09/17/ez-most-nem-jott-ossze-nagy-kuzdelemben-de-kikaptak-a-kekek-daniaban/"
-    },
-    {
-      "first_seen": "2026-09-17T06:04:01.546160Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Poharakat a magasba: indul a Bortér második felvonása – Rózi, a láma jóváhagyásával!",
-      "url": "https://szeged365.hu/2026/09/17/poharakat-a-magasba-indul-a-borter-masodik-felvonasa-rozi-a-lama-jovahagyasaval/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-18T09:10:01.535257Z"
+  "updated_at": "2026-09-18T12:02:01.581114Z"
 }

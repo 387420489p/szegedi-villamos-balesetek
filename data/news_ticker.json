@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "November 30-ig megérkezik az iskolakezdési támogatás újabb részlete",
+      "url": "https://szeged365.hu/2026/09/19/november-30-ig-megerkezik-az-iskolakezdesi-tamogatas-ujabb-reszlete/"
+    },
+    {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kigyulladt a tarló Hódmezővásárhely és Algyő között",
+      "url": "https://szeged365.hu/2026/09/19/kigyulladt-a-tarlo-hodmezovasarhely-es-algyo-kozott/"
+    },
+    {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pofátlan sofőr: a villamossínre felhajtva, szabálytalanul előzi meg a tanulóautót Vásárhelyen",
+      "url": "https://szeged365.hu/2026/09/19/napi-pofatlan-sofor-a-villamossinre-felhajtva-szabalytalanul-elozi-meg-a-tanuloautot-vasarhelyen/"
+    },
+    {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset miatt szakadt félbe szombaton a szomszéd vármegyében megrendezett szüreti felvonulás (fotók) (frissítve)",
+      "url": "https://szeged365.hu/2026/09/19/baleset-miatt-szakadt-felbe-szombaton-a-kiskunfelegyhazan-megrendezett-szureti-felvonulas-fotok/"
+    },
+    {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Négy részletben érkezik a dízelautósok támogatása: így fogják megkapni a húszezer forintot",
+      "url": "https://szeged365.hu/2026/09/19/negy-reszletben-erkezik-a-dizelautosok-tamogatasa-igy-fogjak-megkapni-a-huszezer-forintot/"
+    },
+    {
+      "first_seen": "2026-09-19T15:10:01.539651Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb baleset történt Szegeden: ezúttal az Algyői úton",
+      "url": "https://szeged365.hu/2026/09/19/ujabb-baleset-tortent-szegeden-ezuttal-az-algyoi-uton/"
+    },
+    {
       "first_seen": "2026-09-19T12:01:01.545654Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újra járható a Kálvária sugárúti vasúti átjáró",
       "url": "https://szeged365.hu/2026/09/17/remek-hir-ujra-jarhato-a-kalvaria-sugaruti-vasuti-atjaro/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Átszakította a középső szalagkorlátot egy autó az M5-ösön, mentőhelikopter is érkezett",
-      "url": "https://szeged365.hu/2026/09/18/atszakitotta-a-kozepso-szalagkorlatot-egy-auto-az-m5-oson-mentohelikopter-is-erkezett/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ne engedjük el Lili kezét: most minden támogatás számít a rehabilitáció folytatásához",
-      "url": "https://szeged365.hu/2026/09/18/ne-engedjuk-el-lili-kezet-most-minden-tamogatas-szamit-a-rehabilitacio-folytatasahoz/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szúrós veszély Szegeden: a királydinnye a bicikligumikat és a kutyák talpát sem kíméli",
-      "url": "https://szeged365.hu/2026/09/18/szuros-veszely-szegeden-a-kiralydinnye-a-bicikligumikat-es-a-kutyak-talpat-sem-kimeli/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Védett madarakat gyűjtöttek és tömtek ki, majd eladták őket – közel 50 milliós a természetvédelmi kár (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/18/vedett-madarakat-gyujtottek-es-tomtek-ki-majd-eladtak-oket-kozel-50-millios-a-termeszetvedelmi-kar-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt a Bertalan híd lábánál, már alakul a dugó",
-      "url": "https://szeged365.hu/2026/09/18/baleset-tortent-a-bertalan-hid-labanal-mar-alakul-a-dugo/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Erre már nagy szükség volt: végre jól megáztak a szegedi kertek",
-      "url": "https://szeged365.hu/2026/09/18/erre-mar-nagy-szukseg-volt-vegre-jol-megaztak-a-szegedi-kertek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-19T12:01:01.545654Z"
+  "updated_at": "2026-09-19T15:10:01.539651Z"
 }

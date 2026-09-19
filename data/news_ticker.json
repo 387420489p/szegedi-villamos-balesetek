@@ -1,20 +1,36 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-19T06:10:01.569849Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-19T06:10:01.569849Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Motor és autó ütközött az 55-ös főűton – az utat lezárták, és mentőhelikopter is érkezett",
+      "url": "https://szeged365.hu/2026/09/17/motor-es-auto-utkozott-az-55-os-fouton-az-utat-lezartak-es-mentohelikopter-is-erkezett/"
+    },
+    {
+      "first_seen": "2026-09-19T06:10:01.569849Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéssel indítjuk a hétvégét Szegeden, még mindig robog a Bor tér",
+      "url": "https://szeged365.hu/2026/09/19/napi-pakk-napsutessel-inditjuk-a-hetveget-szegeden-meg-mindig-robog-a-bor-ter/"
+    },
+    {
       "first_seen": "2026-09-18T18:09:01.611830Z",
       "published_at": "2026-09-16T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
       "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-18T18:09:01.611830Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
     },
     {
       "first_seen": "2026-09-18T18:09:01.611830Z",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Párás, ködös reggellel indul a péntek, és záporok is megérkezhetnek Szegedre",
       "url": "https://szeged365.hu/2026/09/17/paras-kodos-reggellel-indul-a-pentek-majd-zaporok-is-megerkezhetnek-szegedre/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Motor és autó ütközött az 55-ös főűton – az utat lezárták, és mentőhelikopter is érkezett",
-      "url": "https://szeged365.hu/2026/09/17/motor-es-auto-utkozott-az-55-os-fouton-az-utat-lezartak-es-mentohelikopter-is-erkezett/"
-    },
-    {
-      "first_seen": "2026-09-17T15:08:01.557579Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Pofátlan parkolás: ezúttal egy egész járdát elfoglaltak Szeged belvárosában (galéria)",
-      "url": "https://szeged365.hu/2026/09/17/pofatlan-parkolas-ezuttal-egy-egesz-jardat-elfoglaltak-szeged-belvarosaban-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-18T18:09:01.611830Z"
+  "updated_at": "2026-09-19T06:10:01.569849Z"
 }

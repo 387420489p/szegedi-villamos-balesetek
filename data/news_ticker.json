@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-19T18:03:01.445779Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Bortér Challenge Vol. 2.: „Zur Mitte, zur Titte, zum Sack, zack zack!” – leteszteltük, ki tudja a legjobb toast-ot mondani Szegeden! (videó)",
+      "url": "https://szeged365.hu/2026/09/19/szeged365-borter-challenge-vol-2-zur-mitte-zur-titte-zum-sack-zack-zack-leteszteltuk-ki-tudja-a-legjobb-toast-ot-mondani-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-09-19T18:03:01.445779Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Utoljára még belehúz a nyár: megközelítjük a 30 fokot vasárnap Szegeden",
+      "url": "https://szeged365.hu/2026/09/19/utoljara-meg-belehuz-a-nyar-megkozelitjuk-a-30-fokot-vasarnap-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-19T18:03:01.445779Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Minden, amit a 2026-os Continental Futófesztiválról tudni akartál: rajtidőpontok, programok és helyszíni nevezés",
+      "url": "https://szeged365.hu/2026/09/19/minden-amit-a-2026-os-continental-futofesztivalrol-tudni-akartal-rajtidopontok-programok-es-helyszini-nevezes/"
+    },
+    {
       "first_seen": "2026-09-19T15:10:01.539651Z",
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Bringára fel, Szeged! Almával, müzlivel és teával kínálják a bicikliseket az autómentes világnap alkalmából Szegeden",
       "url": "https://szeged365.hu/2026/09/18/bringara-fel-szeged-almaval-muzlivel-es-teaval-kinaljak-a-bicikliseket-az-automentes-vilagnap-alkalmabol-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Szegedi Pinceszínház is ott van az ország egyetlen online színházi fesztiválján (videóval)",
-      "url": "https://szeged365.hu/2026/09/18/a-szegedi-pinceszinhaz-is-ott-van-az-orszag-egyetlen-online-szinhazi-fesztivaljan-videoval/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszületett Tornóczky Anita második babája! (fotó)",
-      "url": "https://szeged365.hu/2026/09/17/golyahir-megszuletett-tornoczky-anita-masodik-babaja-foto/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra járható a Kálvária sugárúti vasúti átjáró",
-      "url": "https://szeged365.hu/2026/09/17/remek-hir-ujra-jarhato-a-kalvaria-sugaruti-vasuti-atjaro/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-19T15:10:01.539651Z"
+  "updated_at": "2026-09-19T18:03:01.445779Z"
 }

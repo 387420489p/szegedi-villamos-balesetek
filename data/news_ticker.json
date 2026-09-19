@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: dübörög a Bortér, startol a Continental Futófesztivál és hagyományőrző nap is lesz Szentmihályon – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
+      "url": "https://szeged365.hu/2026/09/18/szeged365-kikapcs-duborog-a-borter-startol-a-continental-futofesztival-es-hagyomanyorzo-nap-is-lesz-szentmihalyon-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fontos bejelentések a kormánytól: az iskolakezdési támogatás második részlete, gyermekvédelmi intézkedések és új zöldhatóság (frissítve)",
+      "url": "https://szeged365.hu/2026/09/18/fontos-bejelentesek-a-kormanytol-az-iskolakezdesi-tamogatas-masodik-reszlete-gyermekvedelmi-intezkedesek-es-uj-zoldhatosag/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Halmokban áll az illegális szemét a Télikikötőnél, olvasóink szerint egyre nagyobb problémát jelent az áldatlan állapot (fotók)",
+      "url": "https://szeged365.hu/2026/09/19/halmokban-all-az-illegalis-szemet-a-telikikotonel-olvasoink-szerint-egyre-nagyobb-problemat-jelent-az-aldatlan-allapot-fotok/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ellepték a rendőrök szombat hajnalban a Huszár Mátyás rakpartot – mutatjuk, mi történt!",
+      "url": "https://szeged365.hu/2026/09/19/elleptek-a-rendorok-szombat-hajnalban-a-huszar-matyas-rakpartot-mutatjuk-mi-tortent/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt az M5-ös autópályán Inárcsnál, torlódás alakult ki",
+      "url": "https://szeged365.hu/2026/09/19/baleset-tortent-az-m5-os-autopalyan-inarcsnal-torlodas-alakult-ki/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fodor Antal: “A Télikikötő sori teherforgalom csökkenése érdekében súlykorlátozás időszakos bevezetésére tettünk indítványt”",
+      "url": "https://szeged365.hu/2026/09/19/fodor-antal-a-telikikoto-sori-teherforgalom-csokkenese-erdekeben-sulykorlatozas-idoszakos-bevezetesere-tettunk-inditvanyt/"
+    },
+    {
+      "first_seen": "2026-09-19T12:01:01.545654Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két szegedi aranyérem is született a pozsonyi kajak-kenu Olimpiai Reménységek Versenyén",
+      "url": "https://szeged365.hu/2026/09/19/ket-szegedi-aranyerem-is-szuletett-a-pozsonyi-kajak-kenu-olimpiai-remenysegek-versenyen/"
+    },
+    {
       "first_seen": "2026-09-19T09:03:01.543323Z",
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
@@ -23,14 +87,6 @@
       "source_name": "Szeged365",
       "title": "Telt házas első három nap után csúcsra jár a hangulat: itt a BorTér főnapja, mutatjuk a szombati programokat!",
       "url": "https://szeged365.hu/2026/09/19/telt-hazas-elso-harom-nap-utan-csucsra-jar-a-hangulat-itt-a-borter-fonapja-mutatjuk-a-szombati-programokat/"
-    },
-    {
-      "first_seen": "2026-09-19T06:10:01.569849Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
     },
     {
       "first_seen": "2026-09-19T06:10:01.569849Z",
@@ -173,14 +229,6 @@
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: dübörög a Bortér, startol a Continental Futófesztivál és hagyományőrző nap is lesz Szentmihályon – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
-      "url": "https://szeged365.hu/2026/09/18/szeged365-kikapcs-duborog-a-borter-startol-a-continental-futofesztival-es-hagyomanyorzo-nap-is-lesz-szentmihalyon-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "„A halottakat el kell temetni” – nyilvánosságra hozták Orbán Viktor kötcsei beszédét, mutatjuk a legfontosabb pontokat",
       "url": "https://szeged365.hu/2026/09/18/a-halottakat-el-kell-temetni-nyilvanossagra-hoztak-orban-viktor-kotcsei-beszedet-mutatjuk-a-legfontosabb-pontokat/"
     },
@@ -237,14 +285,6 @@
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Fontos bejelentések a kormánytól: az iskolakezdési támogatás második részlete, gyermekvédelmi intézkedések és új zöldhatóság (frissítve)",
-      "url": "https://szeged365.hu/2026/09/18/fontos-bejelentesek-a-kormanytol-az-iskolakezdesi-tamogatas-masodik-reszlete-gyermekvedelmi-intezkedesek-es-uj-zoldhatosag/"
-    },
-    {
-      "first_seen": "2026-09-18T09:10:01.535257Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Ne engedjük el Lili kezét: most minden támogatás számít a rehabilitáció folytatásához",
       "url": "https://szeged365.hu/2026/09/18/ne-engedjuk-el-lili-kezet-most-minden-tamogatas-szamit-a-rehabilitacio-folytatasahoz/"
     },
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Erre már nagy szükség volt: végre jól megáztak a szegedi kertek",
       "url": "https://szeged365.hu/2026/09/18/erre-mar-nagy-szukseg-volt-vegre-jol-megaztak-a-szegedi-kertek/"
-    },
-    {
-      "first_seen": "2026-09-18T06:10:01.542075Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Húsz éve szivárgott ki Gyurcsány őszödi beszéde – a Tisza nyilvánosságra hozza a titkosított jegyzőkönyveket",
-      "url": "https://szeged365.hu/2026/09/17/husz-eve-szivargott-ki-gyurcsany-oszodi-beszede-ami-alapjaiban-razta-meg-a-magyar-politikat/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy újabb kapaszkodó a felépüléshez: fontos kedvezményt hozott a Szent Vincent Rehabilitációs Központ Szegeden",
-      "url": "https://szeged365.hu/2026/09/14/egy-ujabb-kapaszkodo-a-felepuleshez-fontos-kedvezmenyt-hozott-a-szent-vincent-rehabilitacios-kozpont-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Stroke után az első önálló lépés mindent jelenthet: ilyen segítség érkezett a Szent Vincent Rehabilitációs Központba (videó)",
-      "url": "https://szeged365.hu/2026/09/17/stroke-utan-az-elso-onallo-lepes-mindent-jelenthet-ilyen-segitseg-erkezett-a-szent-vincent-rehabilitacios-kozpontba-video/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Előadás, workshopok és bemutatók – az SZTE BBMK három eseménnyel várja az ütőhangszerek szerelmeseit",
-      "url": "https://szeged365.hu/2026/09/17/eloadas-workshopok-es-bemutatok-az-szte-bbmk-harom-esemennyel-varja-az-utohangszerek-szerelmeseit/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közel 22 milliárdból épített a Mol napelemparkot és villamosenergia-tároló rendszert Algyőn",
-      "url": "https://szeged365.hu/2026/09/17/kozel-22-milliardbol-epitett-a-mol-napelemparkot-es-villamosenergia-tarolo-rendszert-algyon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-19T09:03:01.543323Z"
+  "updated_at": "2026-09-19T12:01:01.545654Z"
 }

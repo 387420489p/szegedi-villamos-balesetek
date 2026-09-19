@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-19T09:03:01.543323Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt a Mars térnél, két autó érintett (frissítve)",
+      "url": "https://szeged365.hu/2026/09/19/baleset-tortent-a-mars-ternel-ket-auto-erintett/"
+    },
+    {
+      "first_seen": "2026-09-19T09:03:01.543323Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kigyulladt a vásárhelyi fehérje-feldolgozónál az ott tárolt hulladék, egész éjjel dolgoztak a tűzoltók (fotók)",
+      "url": "https://szeged365.hu/2026/09/19/kigyulladt-a-vasarhelyi-feherje-feldolgozonal-az-ott-tarolt-hulladek-egesz-ejjel-dolgoztak-a-tuzoltok-fotok/"
+    },
+    {
+      "first_seen": "2026-09-19T09:03:01.543323Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Telt házas első három nap után csúcsra jár a hangulat: itt a BorTér főnapja, mutatjuk a szombati programokat!",
+      "url": "https://szeged365.hu/2026/09/19/telt-hazas-elso-harom-nap-utan-csucsra-jar-a-hangulat-itt-a-borter-fonapja-mutatjuk-a-szombati-programokat/"
+    },
+    {
       "first_seen": "2026-09-19T06:10:01.569849Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Közel 22 milliárdból épített a Mol napelemparkot és villamosenergia-tároló rendszert Algyőn",
       "url": "https://szeged365.hu/2026/09/17/kozel-22-milliardbol-epitett-a-mol-napelemparkot-es-villamosenergia-tarolo-rendszert-algyon/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közeleg a szív napja – a Mediversal ingyenes kardiológiai szűrőnapot tart Szegeden",
-      "url": "https://szeged365.hu/2026/09/17/kozeleg-a-sziv-napja-a-mediversal-ingyenes-kardiologiai-szuronapot-tart-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Isten hozott (újra) Tarjánban!” – közösségi napot és esti bulit szervez a Megálló Közösségi Ház",
-      "url": "https://szeged365.hu/2026/09/17/isten-hozott-ujra-tarjanban-kozossegi-napot-es-esti-bulit-szervez-a-megallo-kozossegi-haz/"
-    },
-    {
-      "first_seen": "2026-09-17T18:10:01.548741Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Párás, ködös reggellel indul a péntek, és záporok is megérkezhetnek Szegedre",
-      "url": "https://szeged365.hu/2026/09/17/paras-kodos-reggellel-indul-a-pentek-majd-zaporok-is-megerkezhetnek-szegedre/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-19T06:10:01.569849Z"
+  "updated_at": "2026-09-19T09:03:01.543323Z"
 }

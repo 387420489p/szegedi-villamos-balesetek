@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-20T06:05:01.524004Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-20T06:05:01.524004Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
+      "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
+    },
+    {
       "first_seen": "2026-09-19T18:03:01.445779Z",
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
@@ -189,14 +205,6 @@
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-18T18:09:01.611830Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Fertőzésveszély miatt zárlatot rendeltek el a Koraszülött Intenzív Osztályon Szegeden – három babánál multirezisztens baktériumot mutattak ki",
       "url": "https://szeged365.hu/2026/09/18/fertozesveszely-miatt-zarlatot-rendeltek-el-a-koraszulott-intenziv-osztalyon-szegeden-harom-babanal-multirezisztens-bakteriumot-mutattak-ki/"
     },
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "„A hagyományt nem ápolni kell, hisz nem beteg” – tegnap ott voltunk a Délvidék Ház különleges szegedi estjén (videó, galéria)",
       "url": "https://szeged365.hu/2026/09/18/a-hagyomanyt-nem-apolni-kell-hisz-nem-beteg-tegnap-ott-voltunk-a-delvidek-haz-kulonleges-szegedi-estjen-video-galeria/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bringára fel, Szeged! Almával, müzlivel és teával kínálják a bicikliseket az autómentes világnap alkalmából Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/bringara-fel-szeged-almaval-muzlivel-es-teaval-kinaljak-a-bicikliseket-az-automentes-vilagnap-alkalmabol-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-19T18:03:01.445779Z"
+  "updated_at": "2026-09-20T06:05:01.524004Z"
 }

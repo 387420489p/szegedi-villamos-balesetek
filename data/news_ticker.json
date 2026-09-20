@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Halmokban áll az illegális szemét a Téli kikötőnél, olvasóink szerint egyre nagyobb problémát jelent az áldatlan állapot (fotók)",
+      "url": "https://szeged365.hu/2026/09/19/halmokban-all-az-illegalis-szemet-a-telikikotonel-olvasoink-szerint-egyre-nagyobb-problemat-jelent-az-aldatlan-allapot-fotok/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ellepték a rendőrök szombat hajnalban a Huszár Mátyás rakpartot – mutatjuk, mi történt!",
+      "url": "https://szeged365.hu/2026/09/19/elleptek-a-rendorok-szombat-hajnalban-a-huszar-matyas-rakpartot-mutatjuk-mi-tortent/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elkábítottak egy idős férfit, majd ellopták tízmilliókat érő aranyát (videó)",
+      "url": "https://szeged365.hu/2026/09/20/elkabitottak-egy-idos-ferfit-majd-elloptak-tizmilliokat-ero-aranyat-video/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szabó Zsolt rendőrkapitányra emlékeztek Hódmezővásárhelyen (videó)",
+      "url": "https://szeged365.hu/2026/09/20/szabo-zsolt-rendorkapitanyra-emlekeztek-hodmezovasarhelyen-video/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb öt szegedi érem a kajak-kenu Olimpiai Reménységek Versenyén",
+      "url": "https://szeged365.hu/2026/09/20/ujabb-ot-szegedi-erem-a-kajak-kenu-olimpiai-remenysegek-versenyen/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Néhány éve megtámadták a hídon, mégis Szegeden nyitott éttermet a japán Koki (videó)",
+      "url": "https://szeged365.hu/2026/09/20/nehany-eve-megtamadtak-a-hidon-megis-szegeden-nyitott-ettermet-a-japan-koki-video/"
+    },
+    {
+      "first_seen": "2026-09-20T12:06:01.637225Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megrepedt az algyői vasúti híd, csak 60-nal jár a tram-train – megszólalt a MÁV (frissítve)",
+      "url": "https://szeged365.hu/2026/09/20/megrepedt-az-algyoi-vasuti-hid-csak-60-nal-jar-a-tram-train/"
+    },
+    {
       "first_seen": "2026-09-20T09:10:01.481149Z",
       "published_at": "2026-09-17T00:00:00",
       "reason": "prefiltered",
@@ -141,22 +197,6 @@
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Halmokban áll az illegális szemét a Télikikötőnél, olvasóink szerint egyre nagyobb problémát jelent az áldatlan állapot (fotók)",
-      "url": "https://szeged365.hu/2026/09/19/halmokban-all-az-illegalis-szemet-a-telikikotonel-olvasoink-szerint-egyre-nagyobb-problemat-jelent-az-aldatlan-allapot-fotok/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ellepték a rendőrök szombat hajnalban a Huszár Mátyás rakpartot – mutatjuk, mi történt!",
-      "url": "https://szeged365.hu/2026/09/19/elleptek-a-rendorok-szombat-hajnalban-a-huszar-matyas-rakpartot-mutatjuk-mi-tortent/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Baleset történt az M5-ös autópályán Inárcsnál, torlódás alakult ki",
       "url": "https://szeged365.hu/2026/09/19/baleset-tortent-az-m5-os-autopalyan-inarcsnal-torlodas-alakult-ki/"
     },
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Az ELTE tiszteletbeli díszdoktorává avatták Szeged díszpolgárát, Krasznahorkai Lászlót (fotó)",
       "url": "https://szeged365.hu/2026/09/18/az-elte-tiszteletbeli-diszdoktorava-valasztottak-szeged-diszpolgarat-krasznahorkai-laszlot-foto/"
-    },
-    {
-      "first_seen": "2026-09-18T15:10:01.575385Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Változatos ingyenes programokkal készül a szegedi Somogyi-könyvtár a Kulturális Örökség Napjaira, és bábmustrát is tartanak",
-      "url": "https://szeged365.hu/2026/09/18/valtozatos-ingyenes-programokkal-keszul-a-szegedi-somogyi-konyvtar-a-kulturalis-orokseg-napjaira-es-babmustrat-is-tartanak/"
-    },
-    {
-      "first_seen": "2026-09-18T15:10:01.575385Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Drága Bill, nyugodj békében!” – fájdalmas sorokkal búcsúzik Hobo Deák Bill Gyulától",
-      "url": "https://szeged365.hu/2026/09/17/draga-bill-nyugodj-bekeben-fajdalmas-sorokkal-bucsuzik-hobo-deak-bill-gyulatol/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Folytatná jó sorozatát a Szeged-Csanád GA, most Kecskeméten kell helytállniuk",
-      "url": "https://szeged365.hu/2026/09/18/folytatna-jo-sorozatat-a-szeged-csanad-ga-most-kecskemeten-kell-helytallniuk/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vasárnap újra hazai pályán a PICK Szeged, a Balatonfüred érkezik a PICK Arénába",
-      "url": "https://szeged365.hu/2026/09/18/vasarnap-ujra-hazai-palyan-a-pick-szeged-a-balatonfured-erkezik-a-pick-arenaba/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az SZTE Szent-Györgyi Albert Klinikai Központ lett az év Családbarát Kórháza, és mellette négy SZTE-klinika is elismerést kapott",
-      "url": "https://szeged365.hu/2026/09/18/az-szte-szent-gyorgyi-albert-klinikai-kozpont-lett-az-ev-csaladbarat-korhaza-es-mellette-negy-szte-klinika-is-elismerest-kapott/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-20T09:10:01.481149Z"
+  "updated_at": "2026-09-20T12:06:01.637225Z"
 }

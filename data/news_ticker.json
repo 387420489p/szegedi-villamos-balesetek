@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-20T18:10:01.583195Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset miatt szakadt félbe szombaton a szomszéd vármegyében megrendezett szüreti felvonulás (fotók) (frissítve)",
+      "url": "https://szeged365.hu/2026/09/19/baleset-miatt-szakadt-felbe-szombaton-a-kiskunfelegyhazan-megrendezett-szureti-felvonulas-fotok/"
+    },
+    {
+      "first_seen": "2026-09-20T18:10:01.583195Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megérkezik a nyárzáró hidegfront: mindössze 22 fok várható hétfőn Szegeden",
+      "url": "https://szeged365.hu/2026/09/20/megerkezett-a-nyarzaro-hidegfront-mindossze-22-fok-varhato-hetfon-szegeden/"
+    },
+    {
       "first_seen": "2026-09-20T15:05:01.527232Z",
       "published_at": "2026-09-20T00:00:00",
       "reason": "prefiltered",
@@ -213,14 +229,6 @@
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Baleset miatt szakadt félbe szombaton a szomszéd vármegyében megrendezett szüreti felvonulás (fotók) (frissítve)",
-      "url": "https://szeged365.hu/2026/09/19/baleset-miatt-szakadt-felbe-szombaton-a-kiskunfelegyhazan-megrendezett-szureti-felvonulas-fotok/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Négy részletben érkezik a dízelautósok támogatása: így fogják megkapni a húszezer forintot",
       "url": "https://szeged365.hu/2026/09/19/negy-reszletben-erkezik-a-dizelautosok-tamogatasa-igy-fogjak-megkapni-a-huszezer-forintot/"
     },
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
       "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-18T18:09:01.611830Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fertőzésveszély miatt zárlatot rendeltek el a Koraszülött Intenzív Osztályon Szegeden – három babánál multirezisztens baktériumot mutattak ki",
-      "url": "https://szeged365.hu/2026/09/18/fertozesveszely-miatt-zarlatot-rendeltek-el-a-koraszulott-intenziv-osztalyon-szegeden-harom-babanal-multirezisztens-bakteriumot-mutattak-ki/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-20T15:05:01.527232Z"
+  "updated_at": "2026-09-20T18:10:01.583195Z"
 }

@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-20T09:10:01.481149Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-20T09:10:01.481149Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéssel indítjuk a hétvégét Szegeden, még mindig robog a Bor tér",
+      "url": "https://szeged365.hu/2026/09/19/napi-pakk-napsutessel-inditjuk-a-hetveget-szegeden-meg-mindig-robog-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-20T09:10:01.481149Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meghibásodott a Paksi Atomerőmű, csökkentették a 2. blokk teljesítményét",
+      "url": "https://szeged365.hu/2026/09/20/meghibasodott-a-paksi-atomeromu-csokkentettek-a-2-blokk-teljesitmenyet/"
+    },
+    {
+      "first_seen": "2026-09-20T09:10:01.481149Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Borral locsolták le Magyar Pétert a Szekszárdi Szüreti Napokon (videó)",
+      "url": "https://szeged365.hu/2026/09/20/borral-locsoltak-le-magyar-petert-a-szekszardi-szureti-napokon-video/"
+    },
+    {
       "first_seen": "2026-09-20T06:05:01.524004Z",
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
@@ -90,14 +122,6 @@
     },
     {
       "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -183,14 +207,6 @@
       "source_name": "Szeged365",
       "title": "Motor és autó ütközött az 55-ös főűton – az utat lezárták, és mentőhelikopter is érkezett",
       "url": "https://szeged365.hu/2026/09/17/motor-es-auto-utkozott-az-55-os-fouton-az-utat-lezartak-es-mentohelikopter-is-erkezett/"
-    },
-    {
-      "first_seen": "2026-09-19T06:10:01.569849Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéssel indítjuk a hétvégét Szegeden, még mindig robog a Bor tér",
-      "url": "https://szeged365.hu/2026/09/19/napi-pakk-napsutessel-inditjuk-a-hetveget-szegeden-meg-mindig-robog-a-bor-ter/"
     },
     {
       "first_seen": "2026-09-18T18:09:01.611830Z",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Az SZTE Szent-Györgyi Albert Klinikai Központ lett az év Családbarát Kórháza, és mellette négy SZTE-klinika is elismerést kapott",
       "url": "https://szeged365.hu/2026/09/18/az-szte-szent-gyorgyi-albert-klinikai-kozpont-lett-az-ev-csaladbarat-korhaza-es-mellette-negy-szte-klinika-is-elismerest-kapott/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„A halottakat el kell temetni” – nyilvánosságra hozták Orbán Viktor kötcsei beszédét, mutatjuk a legfontosabb pontokat",
-      "url": "https://szeged365.hu/2026/09/18/a-halottakat-el-kell-temetni-nyilvanossagra-hoztak-orban-viktor-kotcsei-beszedet-mutatjuk-a-legfontosabb-pontokat/"
-    },
-    {
-      "first_seen": "2026-09-18T12:02:01.581114Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„A hagyományt nem ápolni kell, hisz nem beteg” – tegnap ott voltunk a Délvidék Ház különleges szegedi estjén (videó, galéria)",
-      "url": "https://szeged365.hu/2026/09/18/a-hagyomanyt-nem-apolni-kell-hisz-nem-beteg-tegnap-ott-voltunk-a-delvidek-haz-kulonleges-szegedi-estjen-video-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-20T06:05:01.524004Z"
+  "updated_at": "2026-09-20T09:10:01.481149Z"
 }

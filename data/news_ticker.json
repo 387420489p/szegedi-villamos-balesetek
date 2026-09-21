@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
+      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
+      "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Csak bejöttem szétnézni…” – a szegedi Vivissima egy egyszerű körülnézésből is divatélményt varázsol (videó)",
+      "url": "https://szeged365.hu/2026/09/21/csak-bejottem-szetnezni-a-szegedi-vivissima-egy-egyszeru-korulnezesbol-is-divatelmenyt-varazsol-video/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Leváltották Mihálik Edvint – új elnöke lett a Szeged Jövője Egyesületnek",
+      "url": "https://szeged365.hu/2026/09/21/levaltottak-mihalik-edvint-uj-elnoke-lett-a-szeged-jovoje-egyesuletnek/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Taroltak a szegedi ökölvívók: rengeteg érem született a Kelet – Magyarországi Régiós Ökölvívó Bajnokságon",
+      "url": "https://szeged365.hu/2026/09/21/taroltak-a-szegedi-okolvivok-rengeteg-erem-szuletett-a-kelet-magyarorszagi-regios-okolvivo-bajnoksagon/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Három parkolóhely, teljesen más funkció – mutatjuk, hogy nézett ki a Park(ing) Day Szegeden (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/21/harom-parkolohely-teljesen-mas-funkcio-mutatjuk-hogy-nezett-ki-a-parking-day-szegeden-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mi történik a fővárosban? Erőszak a villamoson, az utcán, több embert is holtan találtak",
+      "url": "https://szeged365.hu/2026/09/21/mi-tortenik-a-fovarosban-eroszak-a-villamoson-az-utcan-tobb-embert-is-holtan-talaltak/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem bízták a véletlenre: 32 kg ponty lapult egy szákban az Atkai-holtágnál (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/21/nem-biztak-a-veletlenre-32-kg-ponty-lapult-egy-szakban-az-atkai-holtagnal-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lila szalagokkal díszítették fel hétfőn a 2-es villamost – de vajon mit jelképeznek?",
+      "url": "https://szeged365.hu/2026/09/21/lila-szalagokkal-diszitettek-fel-hetfon-a-2-es-villamost-de-vajon-mit-jelkepeznek/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tízezer forintért megverte ismerősét egy férfi Szegeden",
+      "url": "https://szeged365.hu/2026/09/21/tizezer-forintert-megverte-ismeroset-egy-ferfi-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vitézy Dávid: Október 3-án és 4-én jön a Budapest–Belgrád vasútvonal nagy tesztje",
+      "url": "https://szeged365.hu/2026/09/21/vitezy-david-oktober-3-an-es-4-en-jon-a-budapest-belgrad-vasutvonal-nagy-tesztje/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fa dőlt egy vasúti felsővezetékre, csak Ceglédig közlekednek a szegedi vonatok",
+      "url": "https://szeged365.hu/2026/09/21/fa-dolt-egy-vasuti-felsovezetekre-csak-cegledig-kozlekednek-a-szegedi-vonatok/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felborult egy autó Mórahalom közelében",
+      "url": "https://szeged365.hu/2026/09/21/felborult-egy-auto-morahalom-kozeleben/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: ideér a hidegfront, ma is vár a MASZK Egyesület remek előadással, forgalmival még ingyen utazhatsz Szegeden!",
+      "url": "https://szeged365.hu/2026/09/21/napi-pakk-ideer-a-hidegfront-ma-is-var-a-maszk-egyesulet-remek-eloadassal-forgalmival-meg-ma-is-ingyen-utazhatsz-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tízzel küldte haza a Balatonfüredet a PICK Szeged, már a félidőben óriási volt a különbség",
+      "url": "https://szeged365.hu/2026/09/20/tizzel-kuldte-haza-a-balatonfuredet-a-pick-szeged-mar-a-felidoben-oriasi-volt-a-kulonbseg/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-09-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra a volán mögé? A Szent Vincent Rehabilitációs Központban már a vezetés mozdulatait is lehet gyakorolni a rehabilitáció során (videó)",
+      "url": "https://szeged365.hu/2026/09/15/ujra-a-volan-moge-a-szent-vincent-rehabilitacios-kozpontban-mar-a-vezetes-mozdulatait-is-lehet-gyakorolni-a-rehabilitacio-soran-video/"
+    },
+    {
+      "first_seen": "2026-09-21T09:08:01.573955Z",
+      "published_at": "2026-08-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baka András köztársasági elnök bejelentette, hogy kit javasol legfőbb ügyésznek",
+      "url": "https://szeged365.hu/2026/09/21/baka-andras-koztarsasagi-elnok-bejelentette-hogy-kit-javasol-legfobb-ugyesznek/"
+    },
+    {
       "first_seen": "2026-09-20T18:10:01.583195Z",
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
@@ -130,14 +274,6 @@
     },
     {
       "first_seen": "2026-09-20T09:10:01.481149Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-20T09:10:01.481149Z",
       "published_at": "2026-09-19T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -159,22 +295,6 @@
       "source_name": "Szeged365",
       "title": "Borral locsolták le Magyar Pétert a Szekszárdi Szüreti Napokon (videó)",
       "url": "https://szeged365.hu/2026/09/20/borral-locsoltak-le-magyar-petert-a-szekszardi-szureti-napokon-video/"
-    },
-    {
-      "first_seen": "2026-09-20T06:05:01.524004Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-20T06:05:01.524004Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
-      "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
     },
     {
       "first_seen": "2026-09-19T18:03:01.445779Z",
@@ -199,128 +319,8 @@
       "source_name": "Szeged365",
       "title": "Minden, amit a 2026-os Continental Futófesztiválról tudni akartál: rajtidőpontok, programok és helyszíni nevezés",
       "url": "https://szeged365.hu/2026/09/19/minden-amit-a-2026-os-continental-futofesztivalrol-tudni-akartal-rajtidopontok-programok-es-helyszini-nevezes/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "November 30-ig megérkezik az iskolakezdési támogatás újabb részlete",
-      "url": "https://szeged365.hu/2026/09/19/november-30-ig-megerkezik-az-iskolakezdesi-tamogatas-ujabb-reszlete/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt a tarló Hódmezővásárhely és Algyő között",
-      "url": "https://szeged365.hu/2026/09/19/kigyulladt-a-tarlo-hodmezovasarhely-es-algyo-kozott/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pofátlan sofőr: a villamossínre felhajtva, szabálytalanul előzi meg a tanulóautót Vásárhelyen",
-      "url": "https://szeged365.hu/2026/09/19/napi-pofatlan-sofor-a-villamossinre-felhajtva-szabalytalanul-elozi-meg-a-tanuloautot-vasarhelyen/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Négy részletben érkezik a dízelautósok támogatása: így fogják megkapni a húszezer forintot",
-      "url": "https://szeged365.hu/2026/09/19/negy-reszletben-erkezik-a-dizelautosok-tamogatasa-igy-fogjak-megkapni-a-huszezer-forintot/"
-    },
-    {
-      "first_seen": "2026-09-19T15:10:01.539651Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb baleset történt Szegeden: ezúttal az Algyői úton",
-      "url": "https://szeged365.hu/2026/09/19/ujabb-baleset-tortent-szegeden-ezuttal-az-algyoi-uton/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: dübörög a Bortér, startol a Continental Futófesztivál és hagyományőrző nap is lesz Szentmihályon – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
-      "url": "https://szeged365.hu/2026/09/18/szeged365-kikapcs-duborog-a-borter-startol-a-continental-futofesztival-es-hagyomanyorzo-nap-is-lesz-szentmihalyon-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fontos bejelentések a kormánytól: az iskolakezdési támogatás második részlete, gyermekvédelmi intézkedések és új zöldhatóság (frissítve)",
-      "url": "https://szeged365.hu/2026/09/18/fontos-bejelentesek-a-kormanytol-az-iskolakezdesi-tamogatas-masodik-reszlete-gyermekvedelmi-intezkedesek-es-uj-zoldhatosag/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt az M5-ös autópályán Inárcsnál, torlódás alakult ki",
-      "url": "https://szeged365.hu/2026/09/19/baleset-tortent-az-m5-os-autopalyan-inarcsnal-torlodas-alakult-ki/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fodor Antal: “A Télikikötő sori teherforgalom csökkenése érdekében súlykorlátozás időszakos bevezetésére tettünk indítványt”",
-      "url": "https://szeged365.hu/2026/09/19/fodor-antal-a-telikikoto-sori-teherforgalom-csokkenese-erdekeben-sulykorlatozas-idoszakos-bevezetesere-tettunk-inditvanyt/"
-    },
-    {
-      "first_seen": "2026-09-19T12:01:01.545654Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Két szegedi aranyérem is született a pozsonyi kajak-kenu Olimpiai Reménységek Versenyén",
-      "url": "https://szeged365.hu/2026/09/19/ket-szegedi-aranyerem-is-szuletett-a-pozsonyi-kajak-kenu-olimpiai-remenysegek-versenyen/"
-    },
-    {
-      "first_seen": "2026-09-19T09:03:01.543323Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt a Mars térnél, két autó érintett (frissítve)",
-      "url": "https://szeged365.hu/2026/09/19/baleset-tortent-a-mars-ternel-ket-auto-erintett/"
-    },
-    {
-      "first_seen": "2026-09-19T09:03:01.543323Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kigyulladt a vásárhelyi fehérje-feldolgozónál az ott tárolt hulladék, egész éjjel dolgoztak a tűzoltók (fotók)",
-      "url": "https://szeged365.hu/2026/09/19/kigyulladt-a-vasarhelyi-feherje-feldolgozonal-az-ott-tarolt-hulladek-egesz-ejjel-dolgoztak-a-tuzoltok-fotok/"
-    },
-    {
-      "first_seen": "2026-09-19T09:03:01.543323Z",
-      "published_at": "2026-09-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Telt házas első három nap után csúcsra jár a hangulat: itt a BorTér főnapja, mutatjuk a szombati programokat!",
-      "url": "https://szeged365.hu/2026/09/19/telt-hazas-elso-harom-nap-utan-csucsra-jar-a-hangulat-itt-a-borter-fonapja-mutatjuk-a-szombati-programokat/"
-    },
-    {
-      "first_seen": "2026-09-19T06:10:01.569849Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Motor és autó ütközött az 55-ös főűton – az utat lezárták, és mentőhelikopter is érkezett",
-      "url": "https://szeged365.hu/2026/09/17/motor-es-auto-utkozott-az-55-os-fouton-az-utat-lezartak-es-mentohelikopter-is-erkezett/"
-    },
-    {
-      "first_seen": "2026-09-18T18:09:01.611830Z",
-      "published_at": "2026-09-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: nyárias időben kezdődik a 14. Bor tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/16/napi-pakk-nyarias-idoben-kezdodik-a-14-bor-ter-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-20T18:10:01.583195Z"
+  "updated_at": "2026-09-21T09:08:01.573955Z"
 }

@@ -7020,75 +7020,21 @@
           "source_name": "HódPress",
           "title": "Villamossal ütközött egy autó Szegeden - pótlóbusz jár a tram-train vonalán is",
           "url": "https://www.hodpress.hu/villamossal-utkozott-egy-auto-szegeden-potlobusz-jar-a-tram-train-vonalan-is/"
-        }
-      ],
-      "status": "published",
-      "summary": "Szegeden összeütközött egy villamos és egy személyautó a Boldogasszony sugárút és Galamb utca kereszteződésében. A helyszínelés és mentés ideje alatt pótlóbuszok közlekedtek.",
-      "updated_at": "2026-09-21T12:19:07.125733Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-09-21T12:19:07.125733Z",
-      "event_date": "2026-09-16",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20260916-002",
-      "injuries": "unknown",
-      "location": "Boldogasszony sugárút, Galamb utca",
-      "location_normalized": "boldogasszony sugarut galamb utca",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
+        },
         {
           "added_at": "2026-09-21T12:19:07.125733Z",
           "published_at": "2026-09-16T00:00:00",
           "source_name": "Szeged365",
           "title": "Villamossal ütközött egy autó a Boldogasszony sugárúton - Szegedi hírek | Szeged365",
           "url": "https://szeged365.hu/2026/09/16/villamossal-utkozott-egy-auto-a-boldogasszony-sugaruton/"
-        }
-      ],
-      "status": "published",
-      "summary": "Szegeden a Boldogasszony sugárút és a Galamb utca kereszteződésében egy személyautó és egy Tatra villamos összeütközött. A személygépkocsiban jelentős anyagi kár keletkezett.",
-      "updated_at": "2026-09-21T12:19:07.125733Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-09-21T12:19:07.125733Z",
-      "event_date": "2026-09-16",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20260916-003",
-      "injuries": "unknown",
-      "location": "Boldogasszony sugárút és Galamb utca kereszteződése",
-      "location_normalized": "boldogasszony sugarut es galamb utca keresztezodese",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
+        },
         {
           "added_at": "2026-09-21T12:19:07.125733Z",
           "published_at": "2026-09-16T00:00:00",
           "source_name": "Szegeder",
           "title": "Villamossal ütközött egy autó a Galamb utcánál",
           "url": "https://szegeder.hu/szeged/2026-09-16/villamossal-utkozott-egy-auto-a-galamb-utcanal/"
-        }
-      ],
-      "status": "published",
-      "summary": "Szegeden összeütközött egy személyautó és egy villamos a Boldogasszony sugárút és a Galamb utca kereszteződésénél. A műszaki mentést a hivatásos tűzoltók végezték.",
-      "updated_at": "2026-09-21T12:19:07.125733Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-09-21T12:19:07.125733Z",
-      "event_date": "2026-09-16",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20260916-004",
-      "injuries": "minor",
-      "location": "Szeged",
-      "location_normalized": "szeged",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
+        },
         {
           "added_at": "2026-09-21T12:19:07.125733Z",
           "published_at": "2026-09-16T00:00:00",
@@ -7105,7 +7051,7 @@
         }
       ],
       "status": "published",
-      "summary": "Villamos és személyautó ütközött Szegeden.",
+      "summary": "Szegeden összeütközött egy villamos és egy személyautó a Boldogasszony sugárút és Galamb utca kereszteződésében. A helyszínelés és mentés ideje alatt pótlóbuszok közlekedtek.",
       "updated_at": "2026-09-21T12:19:07.125733Z"
     }
   ],

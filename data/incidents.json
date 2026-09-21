@@ -6972,8 +6972,143 @@
       "status": "published",
       "summary": "Villamos és személygépkocsi ütközött össze Szegeden, a Jósika utca és a Kálvária sugárút kereszteződésénél. A baleset miatt pótlóbuszokat kellett beállítani az érintett szakaszon.",
       "updated_at": "2026-07-23T20:54:03.194992Z"
+    },
+    {
+      "confidence": 1.0,
+      "created_at": "2026-09-21T12:19:07.125733Z",
+      "event_date": "2026-09-16",
+      "event_time": "10:30",
+      "event_type": "collision",
+      "id": "szvb-20260916-001",
+      "injuries": "none",
+      "location": "Szeged, Boldogasszony sugárút és Galamb utca kereszteződése",
+      "location_normalized": "szeged boldogasszony sugarut es galamb utca keresztezodese",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T11:50:00+02:00",
+          "source_name": "Index",
+          "title": "Összeütközött egy villamos és egy személyautó Szegeden",
+          "url": "https://index.hu/belfold/2026/09/16/szeged-kozlekedes-baleset-villamos-szemelyauto-utkozes/"
+        },
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-17T18:57:00+02:00",
+          "source_name": "Index",
+          "title": "Figyelmetlen autós miatt borult fel a traktor Bátaszéknél, megsérült a sofőr",
+          "url": "https://index.hu/belfold/2026/09/17/baleset-traktor-szemelyauto-serules-tolna-varmegye-rendorseg/"
+        },
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T13:04:00",
+          "source_name": "szeged.hu",
+          "title": "Villamos és személyautó ütközött a Boldogasszony sugárúton",
+          "url": "https://szeged.hu/cikk/villamos-es-szemelyauto-utkozott-a-boldogasszony-sugaruton"
+        },
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamossal ütközött egy személyautó a Boldogasszony sugárúton Szeged (Frissítve)",
+          "url": "https://webradio.hu/hirek/belfold/villamossal-utkozott-egy-szemelyauto-a-boldogasszony-sugaruton-szeged-frissitve"
+        },
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T09:10:11Z",
+          "source_name": "HódPress",
+          "title": "Villamossal ütközött egy autó Szegeden - pótlóbusz jár a tram-train vonalán is",
+          "url": "https://www.hodpress.hu/villamossal-utkozott-egy-auto-szegeden-potlobusz-jar-a-tram-train-vonalan-is/"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden összeütközött egy villamos és egy személyautó a Boldogasszony sugárút és Galamb utca kereszteződésében. A helyszínelés és mentés ideje alatt pótlóbuszok közlekedtek.",
+      "updated_at": "2026-09-21T12:19:07.125733Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-09-21T12:19:07.125733Z",
+      "event_date": "2026-09-16",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20260916-002",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút, Galamb utca",
+      "location_normalized": "boldogasszony sugarut galamb utca",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Villamossal ütközött egy autó a Boldogasszony sugárúton - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/09/16/villamossal-utkozott-egy-auto-a-boldogasszony-sugaruton/"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden a Boldogasszony sugárút és a Galamb utca kereszteződésében egy személyautó és egy Tatra villamos összeütközött. A személygépkocsiban jelentős anyagi kár keletkezett.",
+      "updated_at": "2026-09-21T12:19:07.125733Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-09-21T12:19:07.125733Z",
+      "event_date": "2026-09-16",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20260916-003",
+      "injuries": "unknown",
+      "location": "Boldogasszony sugárút és Galamb utca kereszteződése",
+      "location_normalized": "boldogasszony sugarut es galamb utca keresztezodese",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T00:00:00",
+          "source_name": "Szegeder",
+          "title": "Villamossal ütközött egy autó a Galamb utcánál",
+          "url": "https://szegeder.hu/szeged/2026-09-16/villamossal-utkozott-egy-auto-a-galamb-utcanal/"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden összeütközött egy személyautó és egy villamos a Boldogasszony sugárút és a Galamb utca kereszteződésénél. A műszaki mentést a hivatásos tűzoltók végezték.",
+      "updated_at": "2026-09-21T12:19:07.125733Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-09-21T12:19:07.125733Z",
+      "event_date": "2026-09-16",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20260916-004",
+      "injuries": "minor",
+      "location": "Szeged",
+      "location_normalized": "szeged",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-16T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos és autó ütközött Szegeden",
+          "url": "https://webradio.hu/hirek/kek-hirek/villamos-es-auto-utkozott-szegeden"
+        },
+        {
+          "added_at": "2026-09-21T12:19:07.125733Z",
+          "published_at": "2026-09-17T09:33:36Z",
+          "source_name": "HódPress",
+          "title": "Több balesethez is riasztották a vármegyei tűzoltókat szerdán",
+          "url": "https://www.hodpress.hu/tobb-balesethez-is-riasztottak-a-varmegyei-tuzoltokat-szerdan/"
+        }
+      ],
+      "status": "published",
+      "summary": "Villamos és személyautó ütközött Szegeden.",
+      "updated_at": "2026-09-21T12:19:07.125733Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-07-24T01:07:06.249919+00:00"
+  "updated_at": "2026-09-21T12:19:07.125733+00:00"
 }

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a hidegfront Szegeden, ma van az autómentes világnap",
+      "url": "https://szeged365.hu/2026/09/22/napi-pakk-folytatodik-a-hidegfront-szegeden-ma-van-az-automentes-vilagnap/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family fotógaléria: gyönyörű szivárványos fotókat készítettek olvasóink az eső közben és után",
+      "url": "https://szeged365.hu/2026/09/22/szeged365-family-fotogaleria-gyonyoru-szivarvanyos-fotokat-keszitettek-olvasoink-az-eso-kozben-es-utan/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napos szerda érkezik, 22 fokig melegszik a levegő Szegeden",
+      "url": "https://szeged365.hu/2026/09/22/napos-szerda-erkezik-22-fokig-melegszik-a-levego-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnés miatt keresnek a rendőrök egy szegedi férfit – segítsünk megtalálni! (fotó)",
+      "url": "https://szeged365.hu/2026/09/22/eltunes-miatt-keresnek-a-rendorok-egy-szegedi-ferfit-segitsunk-megtalalni-foto/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Brutális pusztítás után összefogás Szegeden: subasai tűzoltó önkéntesek és Rotary Club tagok tették rendbe a Gergő ligetet (galéria)",
+      "url": "https://szeged365.hu/2026/09/22/brutalis-pusztitas-utan-osszefogas-szegeden-subasai-tuzolto-onkentesek-es-rotary-club-tagok-tettek-rendbe-a-gergo-ligetet-galeria/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Zöld lámpát kapott az Európai Bizottságtól a szegedi Dr. Letoha Tamás Alzheimer-vértesztje – piacra késznek minősítették",
+      "url": "https://szeged365.hu/2026/09/22/zold-lampat-kapott-az-europai-bizottsagtol-a-szegedi-dr-letoha-tamas-alzheimer-kutatasa-piacra-kesznek-minositettek/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bíró Melinda történelmet írt a Vitéz SE csapatánál, ő az első játékosuk, aki felkerült az egyéni WTA világranglistára",
+      "url": "https://szeged365.hu/2026/09/22/biro-melinda-tortenelmet-irt-a-vitez-se-csapatanal-o-az-elso-jatekosuk-aki-felkerult-az-egyeni-wta-vilagranglistara/"
+    },
+    {
+      "first_seen": "2026-09-22T18:08:01.527403Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mihálik Edvinék azt javasolják, hogy a szegedi önkormányzati képviselők ne kapjanak plusz fizetést felügyelőbizottsági pozíciókért",
+      "url": "https://szeged365.hu/2026/09/22/mihalik-edvinek-azt-javasoljak-hogy-onkormanyzati-kepviselok-ne-kapjanak-plusz-fizetest-felugyelobizottsagi-poziciokert-szegeden/"
+    },
+    {
       "first_seen": "2026-09-22T12:10:01.449218Z",
       "published_at": "2026-09-21T00:00:00",
       "reason": "prefiltered",
@@ -50,14 +122,6 @@
     },
     {
       "first_seen": "2026-09-22T09:03:01.688838Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-22T09:03:01.688838Z",
       "published_at": "2026-09-22T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -95,14 +159,6 @@
       "source_name": "Szeged365",
       "title": "Fényesnek látszik a foci jövője Szegeden, újabb veretlen fordulót hoztak össze a Grosics fiataljai",
       "url": "https://szeged365.hu/2026/09/22/fenyesnek-latszik-a-foci-jovoje-szegeden-ujabb-veretlen-fordulot-hoztak-ossze-a-grosics-fiataljai/"
-    },
-    {
-      "first_seen": "2026-09-22T09:03:01.688838Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a hidegfront Szegeden, ma van az autómentes világnap",
-      "url": "https://szeged365.hu/2026/09/22/napi-pakk-folytatodik-a-hidegfront-szegeden-ma-van-az-automentes-vilagnap/"
     },
     {
       "first_seen": "2026-09-22T09:03:01.688838Z",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Már elindult a visszaszámlálás a Temesvári Magyar Napokig, a Szegedről induló buszon pedig egyre kevesebb a hely",
       "url": "https://szeged365.hu/2026/09/21/mar-elindult-a-visszaszamlalas-a-temesvari-magyar-napokig-a-szegedrol-indulo-buszon-pedig-egyre-kevesebb-a-hely/"
-    },
-    {
-      "first_seen": "2026-09-21T12:03:02.125477Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Halász Noémi a Szeged365-nek: Mihálik Edvint nem váltották le",
-      "url": "https://szeged365.hu/2026/09/21/halasz-noemi-a-szeged365-nek-mihalik-edvint-nem-valtottak-le/"
-    },
-    {
-      "first_seen": "2026-09-21T12:03:02.125477Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elképesztő szegedi sikersztori: 13 évesen közel 10 kilóval nagyobbak között indult Szemendrey Zoé, majd 1,5 perc alatt RSMMAF-bajnok lett! (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/21/elkepeszto-szegedi-sikersztori-13-evesen-kozel-10-kiloval-nagyobbak-kozott-indult-szemendrey-zoe-majd-15-perc-alatt-rsmmaf-bajnok-lett-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-21T12:03:02.125477Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ha valaki a családodban éppen a felépülésért küzd, erről a szegedi lehetőségről érdemes tudnod",
-      "url": "https://szeged365.hu/2026/09/21/ha-valaki-a-csaladodban-eppen-a-felepulesert-kuzd-errol-a-szegedi-lehetosegrol-erdemes-tudnod/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Csak bejöttem szétnézni…” – a szegedi Vivissima egy egyszerű körülnézésből is divatélményt varázsol (videó)",
-      "url": "https://szeged365.hu/2026/09/21/csak-bejottem-szetnezni-a-szegedi-vivissima-egy-egyszeru-korulnezesbol-is-divatelmenyt-varazsol-video/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Leváltották Mihálik Edvint – új elnöke lett a Szeged Jövője Egyesületnek",
-      "url": "https://szeged365.hu/2026/09/21/levaltottak-mihalik-edvint-uj-elnoke-lett-a-szeged-jovoje-egyesuletnek/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Taroltak a szegedi ökölvívók: rengeteg érem született a Kelet – Magyarországi Régiós Ökölvívó Bajnokságon",
-      "url": "https://szeged365.hu/2026/09/21/taroltak-a-szegedi-okolvivok-rengeteg-erem-szuletett-a-kelet-magyarorszagi-regios-okolvivo-bajnoksagon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-22T12:10:01.449218Z"
+  "updated_at": "2026-09-22T18:08:01.527403Z"
 }

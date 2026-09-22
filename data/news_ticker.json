@@ -1,6 +1,110 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "#MINDENMÁS",
+      "url": "https://szeged365.hu/mindenmas/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
+      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt az oldalát kevesen ismerik a délvidéki művészetnek: különleges történet költözik a szegedi Délvidék Házba",
+      "url": "https://szeged365.hu/2026/09/22/ezt-az-oldalat-kevesen-ismerik-a-delvideki-muveszetnek-kulonleges-tortenet-koltozik-a-szegedi-delvidek-hazba/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karikó Katalin Lindauba hívja a fiatal kutatókat, szegedi kutatók előtt is nyitva a lehetőség",
+      "url": "https://szeged365.hu/2026/09/22/kariko-katalin-lindauba-hivja-a-fiatal-kutatokat-szegedi-kutatok-elott-is-nyitva-a-lehetoseg/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Súlyos sérüléssel végződött a szegedi ütközés, vádat emeltek az autós ellen",
+      "url": "https://szeged365.hu/2026/09/22/sulyos-serulessel-vegzodott-a-szegedi-utkozes-vadat-emeltek-az-autos-ellen/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb jó hír a szegedi teniszpályáról: Török Tamás harmadik lett az országos válogatón",
+      "url": "https://szeged365.hu/2026/09/22/ujabb-jo-hir-a-szegedi-teniszpalyarol-torok-tamas-harmadik-lett-az-orszagos-valogaton/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fényesnek látszik a foci jövője Szegeden, újabb veretlen fordulót hoztak össze a Grosics fiataljai",
+      "url": "https://szeged365.hu/2026/09/22/fenyesnek-latszik-a-foci-jovoje-szegeden-ujabb-veretlen-fordulot-hoztak-ossze-a-grosics-fiataljai/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a hidegfront Szegeden, ma van az autómentes világnap",
+      "url": "https://szeged365.hu/2026/09/22/napi-pakk-folytatodik-a-hidegfront-szegeden-ma-van-az-automentes-vilagnap/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#KÖZÉLET",
+      "url": "https://szeged365.hu/kozelet/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#KIKAPCS",
+      "url": "https://szeged365.hu/kikapcs/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SPORT",
+      "url": "https://szeged365.hu/sport/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SZEGEDI ARCOK",
+      "url": "https://szeged365.hu/szegediarcok/"
+    },
+    {
+      "first_seen": "2026-09-22T09:03:01.688838Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SMART SZEGED",
+      "url": "https://szeged365.hu/smartszeged/"
+    },
+    {
       "first_seen": "2026-09-21T18:06:01.429277Z",
       "published_at": "2026-09-21T00:00:00",
       "reason": "prefiltered",
@@ -95,22 +199,6 @@
       "source_name": "Szeged365",
       "title": "Elhunyt Wagner István, a szegedi Móra Ferenc Múzeum korábbi igazgatóhelyettese",
       "url": "https://szeged365.hu/2026/09/21/elhunyt-wagner-istvan-a-szegedi-mora-ferenc-muzeum-korabbi-igazgatohelyettese/"
-    },
-    {
-      "first_seen": "2026-09-21T18:06:01.429277Z",
-      "published_at": "2026-09-09T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "#MINDENMÁS",
-      "url": "https://szeged365.hu/mindenmas/"
-    },
-    {
-      "first_seen": "2026-09-21T12:03:02.125477Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
     },
     {
       "first_seen": "2026-09-21T12:03:02.125477Z",
@@ -231,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Tízzel küldte haza a Balatonfüredet a PICK Szeged, már a félidőben óriási volt a különbség",
       "url": "https://szeged365.hu/2026/09/20/tizzel-kuldte-haza-a-balatonfuredet-a-pick-szeged-mar-a-felidoben-oriasi-volt-a-kulonbseg/"
-    },
-    {
-      "first_seen": "2026-09-20T18:10:01.583195Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkezik a nyárzáró hidegfront: mindössze 22 fok várható hétfőn Szegeden",
-      "url": "https://szeged365.hu/2026/09/20/megerkezett-a-nyarzaro-hidegfront-mindossze-22-fok-varhato-hetfon-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-20T15:05:01.527232Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: “Szeged zöldítése közös munka!”",
-      "url": "https://szeged365.hu/2026/09/20/botka-laszlo-szeged-zolditese-kozos-munka/"
-    },
-    {
-      "first_seen": "2026-09-20T15:05:01.527232Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tíz utcában áramszünet lesz hétfőn Szeged szomszédságában, Makón",
-      "url": "https://szeged365.hu/2026/09/20/tiz-utcaban-aramszunet-lesz-hetfon-szeged-szomszedsagaban-makon/"
-    },
-    {
-      "first_seen": "2026-09-20T15:05:01.527232Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meccsnap: itthon fogadja a Balatonfüredi KSE együttesét az OTP Bank- Pick Szeged",
-      "url": "https://szeged365.hu/2026/09/20/meccsnap-itthon-fogadja-a-balatonfuredi-kse-egyutteset-az-otp-bank-pick-szeged/"
-    },
-    {
-      "first_seen": "2026-09-20T15:05:01.527232Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt egy 49 éves, Szegeden született férfi – a rendőrség segítséget kér (fotó)",
-      "url": "https://szeged365.hu/2026/09/20/eltunt-egy-49-eves-szegeden-szuletett-ferfi-a-rendorseg-segitseget-ker-foto/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-21T18:06:01.429277Z"
+  "updated_at": "2026-09-22T09:03:01.688838Z"
 }

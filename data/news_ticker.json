@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-22T12:10:01.449218Z",
+      "published_at": "2026-09-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kapcsolati erőszak miatt köröznek egy szegedi nőt (fotó)",
+      "url": "https://szeged365.hu/2026/09/21/kapcsolati-eroszak-miatt-koroznek-egy-szegedi-not-foto/"
+    },
+    {
+      "first_seen": "2026-09-22T12:10:01.449218Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az év végéig megváltozik a forgalmi rend és a parkolás az egyik szegedi sugárút belső szervízútján",
+      "url": "https://szeged365.hu/2026/09/22/az-ev-vegeig-megvaltozik-a-forgalmi-rend-es-a-parkolas-az-egyik-szegedi-sugarut-belso-szervizutjan/"
+    },
+    {
+      "first_seen": "2026-09-22T12:10:01.449218Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb 1100 gumi került elő a szegedi horgásztóból – kiderült, mi lesz a sorsuk",
+      "url": "https://szeged365.hu/2026/09/22/ujabb-1100-gumi-kerult-elo-a-szegedi-horgasztobol-kiderult-mi-lesz-a-sorsuk/"
+    },
+    {
+      "first_seen": "2026-09-22T12:10:01.449218Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szurkolói fórumot tart a PICK Szeged, aláírásokat is osztanak",
+      "url": "https://szeged365.hu/2026/09/22/szurkoloi-forumot-tart-a-pick-szeged-alairasokat-is-osztanak/"
+    },
+    {
+      "first_seen": "2026-09-22T12:10:01.449218Z",
+      "published_at": "2026-09-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két különleges kulturális programmal is készül az SZTE Bartók Béla Művészeti Kara Szegeden",
+      "url": "https://szeged365.hu/2026/09/22/ket-kulonleges-kulturalis-programmal-is-keszul-a-hetvegere-az-szte-bartok-bela-muveszeti-kara-szegeden/"
+    },
+    {
       "first_seen": "2026-09-22T09:03:01.688838Z",
       "published_at": "2026-09-21T00:00:00",
       "reason": "ai_rejected",
@@ -249,14 +289,6 @@
       "url": "https://szeged365.hu/2026/09/21/ha-valaki-a-csaladodban-eppen-a-felepulesert-kuzd-errol-a-szegedi-lehetosegrol-erdemes-tudnod/"
     },
     {
-      "first_seen": "2026-09-21T12:03:02.125477Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kapcsolati erőszak miatt köröznek egy szegedi nőt (fotó)",
-      "url": "https://szeged365.hu/2026/09/21/kapcsolati-eroszak-miatt-koroznek-egy-szegedi-not-foto/"
-    },
-    {
       "first_seen": "2026-09-21T09:08:01.573955Z",
       "published_at": "2026-09-18T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Taroltak a szegedi ökölvívók: rengeteg érem született a Kelet – Magyarországi Régiós Ökölvívó Bajnokságon",
       "url": "https://szeged365.hu/2026/09/21/taroltak-a-szegedi-okolvivok-rengeteg-erem-szuletett-a-kelet-magyarorszagi-regios-okolvivo-bajnoksagon/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Három parkolóhely, teljesen más funkció – mutatjuk, hogy nézett ki a Park(ing) Day Szegeden (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/21/harom-parkolohely-teljesen-mas-funkcio-mutatjuk-hogy-nezett-ki-a-parking-day-szegeden-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tízezer forintért megverte ismerősét egy férfi Szegeden",
-      "url": "https://szeged365.hu/2026/09/21/tizezer-forintert-megverte-ismeroset-egy-ferfi-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fa dőlt egy vasúti felsővezetékre, csak Ceglédig közlekednek a szegedi vonatok",
-      "url": "https://szeged365.hu/2026/09/21/fa-dolt-egy-vasuti-felsovezetekre-csak-cegledig-kozlekednek-a-szegedi-vonatok/"
-    },
-    {
-      "first_seen": "2026-09-21T09:08:01.573955Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tízzel küldte haza a Balatonfüredet a PICK Szeged, már a félidőben óriási volt a különbség",
-      "url": "https://szeged365.hu/2026/09/20/tizzel-kuldte-haza-a-balatonfuredet-a-pick-szeged-mar-a-felidoben-oriasi-volt-a-kulonbseg/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-22T09:03:01.688838Z"
+  "updated_at": "2026-09-22T12:10:01.449218Z"
 }

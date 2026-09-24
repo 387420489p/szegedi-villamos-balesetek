@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Dr. Fodor Antal: nem kerül napirendre a szegedi közgyűlésen sem a Centrum gödör ügye, sem a jó tanuló diákok támogatása, és a képviselők díjazásának nullára csökkentése sem",
+      "url": "https://szeged365.hu/2026/09/23/dr-fodor-antal-nem-kerul-napirendre-a-szegedi-kozgyulesen-sem-a-centrum-godor-ugye-sem-a-jo-tanulo-diakok-tamogatasa-es-a-kepviselok-dijazasanak-nullara-csokkentese-sem/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas összefogás: hajnalig kerestek egy eltűnt, 53 éves mentálisan beteg férfit Szegeden (fotók)",
+      "url": "https://szeged365.hu/2026/09/23/hatalmas-osszefogas-hajnalig-kerestek-egy-eltunt-53-eves-mentalisan-beteg-ferfit-szegeden-fotok/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nagyon sűrű volt” – a Szegedi Vízisport Egyesület kajak-kenusai értékelték a kiemelkedően sikeres 2026-os versenyszezont",
+      "url": "https://szeged365.hu/2026/09/24/nagyon-suru-volt-a-szegedi-vizisport-egyesulet-kajak-kenusai-ertekeltek-a-kiemelkedoen-sikeres-2026-os-versenyszezont/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megvannak a 2027-es Szegedi Borfesztivál, a Dóm téri Kavalkád és a Hídivásár pontos dátumai",
+      "url": "https://szeged365.hu/2026/09/24/megvannak-a-2027-es-szegedi-borfesztival-a-dom-teri-kavalkad-es-a-hidivasar-pontos-datumai/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megerősítette az ATIVIZIG: termálvíz szennyezte a rehabilitált Holt-Tiszát Szegeden, az illetékes hatóság azonnali hatállyal leállította a szennyezést okozó nyomóvezetéket",
+      "url": "https://szeged365.hu/2026/09/24/megerositette-az-ativizig-termalviz-szennyezte-a-rehabilitalt-holt-tiszat-szegeden-az-illetekes-hatosag-azonnali-hatallyal-leallititotta-a-szennyezest-okozo-nyomovezeteket/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: “próbáljanak meg valami zöldet tenni a több ezer négyzetméter beton helyett” – avagy ezt terjesztenék elő a helyiek a szegedi közgyűlésen (videó)",
+      "url": "https://szeged365.hu/2026/09/24/szegedi-pletykak-probaljanak-meg-valami-zoldet-tenni-a-tobb-ezer-negyzetmeter-beton-helyett-avagy-ezt-terjesztenek-elo-a-helyiek-a-szegedi-kozgyulesen-video/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Most tudtuk meg: különleges filmvetítéssel zárul a Mentés 1.0 Szegeden, Karinthy megrázó története kerül vászonra",
+      "url": "https://szeged365.hu/2026/09/24/pentek-este-erre-erdemes-figyelni-szegeden-nyilvanos-filmvetitessel-zarul-a-mentes-1-0-talalkozoja/"
+    },
+    {
+      "first_seen": "2026-09-24T15:07:01.569459Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sör, burger, blues és csuklóból tekert gólok: profi csocsósok és fergeteges sörpongbajnokság veszi be az Erzsébet Ligetet!",
+      "url": "https://szeged365.hu/2026/09/24/sor-burger-blues-es-csuklobol-tekert-golok-profi-csocsosok-es-fergeteges-sorpongbajnoksag-veszi-be-az-erzsebet-ligetet/"
+    },
+    {
       "first_seen": "2026-09-24T12:05:01.601500Z",
       "published_at": "2026-09-24T00:00:00",
       "reason": "prefiltered",
@@ -165,22 +229,6 @@
       "published_at": "2026-09-23T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Dr. Fodor Antal: Nem kerül napirendre a szegedi közgyűlésen sem a Centrum gödör ügye, sem a jó tanuló diákok támogatása, és a képviselők díjazásának nullára csökkentése sem",
-      "url": "https://szeged365.hu/2026/09/23/dr-fodor-antal-nem-kerul-napirendre-a-szegedi-kozgyulesen-sem-a-centrum-godor-ugye-sem-a-jo-tanulo-diakok-tamogatasa-es-a-kepviselok-dijazasanak-nullara-csokkentese-sem/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas összefogás: hajnalig kerestek egy eltűnt, 53 éves mentálisan beteg férfit Szegeden (fotók)",
-      "url": "https://szeged365.hu/2026/09/23/hatalmas-osszefogas-hajnalig-kerestek-egy-eltunt-53-eves-mentalisan-beteg-ferfit-szegeden-fotok/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Újabb bejelentést tett Magyar Péter a mentelmi jogok kapcsán",
       "url": "https://szeged365.hu/2026/09/23/ujabb-bejelentest-tett-magyar-peter-a-mentelmi-jogok-kapcsan/"
     },
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: egy kis felmelegedést hoz a szerda Szegedre, ma van az őszi napéjegyenlőség",
       "url": "https://szeged365.hu/2026/09/23/napi-pakk-egy-kis-felmelegedest-hoz-a-szerda-szegedre-ma-van-az-oszi-napejegyenloseg/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hidegfront érkezik Szegedre, és folytatódik a Bor tér",
-      "url": "https://szeged365.hu/2026/09/17/napi-pakk-hidegfront-erkezik-szegedre-es-folytatodik-a-bor-ter/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a hidegfront Szegeden, ma van az autómentes világnap",
-      "url": "https://szeged365.hu/2026/09/22/napi-pakk-folytatodik-a-hidegfront-szegeden-ma-van-az-automentes-vilagnap/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family fotógaléria: gyönyörű szivárványos fotókat készítettek olvasóink az eső közben és után",
-      "url": "https://szeged365.hu/2026/09/22/szeged365-family-fotogaleria-gyonyoru-szivarvanyos-fotokat-keszitettek-olvasoink-az-eso-kozben-es-utan/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napos szerda érkezik, 22 fokig melegszik a levegő Szegeden",
-      "url": "https://szeged365.hu/2026/09/22/napos-szerda-erkezik-22-fokig-melegszik-a-levego-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnés miatt keresnek a rendőrök egy szegedi férfit – segítsünk megtalálni! (fotó)",
-      "url": "https://szeged365.hu/2026/09/22/eltunes-miatt-keresnek-a-rendorok-egy-szegedi-ferfit-segitsunk-megtalalni-foto/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Brutális pusztítás után összefogás Szegeden: subasai tűzoltó önkéntesek és Rotary Club tagok tették rendbe a Gergő ligetet (galéria)",
-      "url": "https://szeged365.hu/2026/09/22/brutalis-pusztitas-utan-osszefogas-szegeden-subasai-tuzolto-onkentesek-es-rotary-club-tagok-tettek-rendbe-a-gergo-ligetet-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-24T12:05:01.601500Z"
+  "updated_at": "2026-09-24T15:07:01.569459Z"
 }

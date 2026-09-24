@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-24T09:06:01.448842Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem korlátozzák a Téli kikötő környkének teherforgalmát – több előterjesztés napirendre vételét is leszavazták a Városüzemeltetési Bizottság ülésén Szegeden",
+      "url": "https://szeged365.hu/2026/09/24/nem-korlatozzak-a-teli-kikoto-kornykenek-teherforgalmat-tobb-eloterjesztes-napirendre-vetelet-is-leszavaztak-a-varosuzemeltetesi-bizottsag-ulesen-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-24T09:06:01.448842Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nem vagyok NER-feleség” – megszólalt a szegedi születésű üzletasszony, Várkonyi Andrea, aki demagógnak tartja azt a véleményt, hogy az adófizetők pénzéből élnének",
+      "url": "https://szeged365.hu/2026/09/24/nem-vagyok-ner-feleseg-megszolalt-a-szegedi-szuletesu-uzletasszony-varkonyi-andrea-aki-demagognak-tartja-azt-a-velemenyt-hogy-az-adofizetok-penzebol-elnenek/"
+    },
+    {
+      "first_seen": "2026-09-24T09:06:01.448842Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kisteherautók karamboloztak Szegeden, a tűzoltókat is riasztották",
+      "url": "https://szeged365.hu/2026/09/24/kisteherautok-karamboloztak-szegeden-a-tuzoltokat-is-riasztottak/"
+    },
+    {
       "first_seen": "2026-09-24T06:04:01.449481Z",
       "published_at": "2026-09-24T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Mihálik Edvinék azt javasolják, hogy a szegedi önkormányzati képviselők ne kapjanak plusz fizetést felügyelőbizottsági pozíciókért",
       "url": "https://szeged365.hu/2026/09/22/mihalik-edvinek-azt-javasoljak-hogy-onkormanyzati-kepviselok-ne-kapjanak-plusz-fizetest-felugyelobizottsagi-poziciokert-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-22T12:10:01.449218Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kapcsolati erőszak miatt köröznek egy szegedi nőt (fotó)",
-      "url": "https://szeged365.hu/2026/09/21/kapcsolati-eroszak-miatt-koroznek-egy-szegedi-not-foto/"
-    },
-    {
-      "first_seen": "2026-09-22T12:10:01.449218Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az év végéig megváltozik a forgalmi rend és a parkolás az egyik szegedi sugárút belső szervízútján",
-      "url": "https://szeged365.hu/2026/09/22/az-ev-vegeig-megvaltozik-a-forgalmi-rend-es-a-parkolas-az-egyik-szegedi-sugarut-belso-szervizutjan/"
-    },
-    {
-      "first_seen": "2026-09-22T12:10:01.449218Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb 1100 gumi került elő a szegedi horgásztóból – kiderült, mi lesz a sorsuk",
-      "url": "https://szeged365.hu/2026/09/22/ujabb-1100-gumi-kerult-elo-a-szegedi-horgasztobol-kiderult-mi-lesz-a-sorsuk/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-24T06:04:01.449481Z"
+  "updated_at": "2026-09-24T09:06:01.448842Z"
 }

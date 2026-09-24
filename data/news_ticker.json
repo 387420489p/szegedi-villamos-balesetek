@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-24T12:05:01.601500Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb szennyezés a rehabilitált Holt-Tiszánál? Túlfolyás és termálvíz szag miatt vizsgálják a területet Szegeden (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/24/ujabb-szennyezes-a-rehabilitalt-holt-tiszanal-tulfolyas-es-termalviz-szag-miatt-vizsgaljak-a-teruletet-szegeden-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-24T12:05:01.601500Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi kutatók: a bél saját vírusai is segíthetnek a súlyos fertőzések leküzdésében",
+      "url": "https://szeged365.hu/2026/09/24/szegedi-kutatok-a-bel-sajat-virusai-is-segithetnek-a-sulyos-fertozesek-lekuzdeseben/"
+    },
+    {
+      "first_seen": "2026-09-24T12:05:01.601500Z",
+      "published_at": "2026-09-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedről indulhat az új sportőrület: egyetlen közös kihívásba gyűjtik a futók, bringások és sétálók kilométereit",
+      "url": "https://szeged365.hu/2026/09/24/szegedrol-indulhat-az-uj-sportorulet-egyetlen-kozos-kihivasba-gyujtik-a-futok-bringasok-es-setalok-kilometereit/"
+    },
+    {
       "first_seen": "2026-09-24T09:06:01.448842Z",
       "published_at": "2026-09-24T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Brutális pusztítás után összefogás Szegeden: subasai tűzoltó önkéntesek és Rotary Club tagok tették rendbe a Gergő ligetet (galéria)",
       "url": "https://szeged365.hu/2026/09/22/brutalis-pusztitas-utan-osszefogas-szegeden-subasai-tuzolto-onkentesek-es-rotary-club-tagok-tettek-rendbe-a-gergo-ligetet-galeria/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Zöld lámpát kapott az Európai Bizottságtól a szegedi Dr. Letoha Tamás Alzheimer-vértesztje – piacra késznek minősítették",
-      "url": "https://szeged365.hu/2026/09/22/zold-lampat-kapott-az-europai-bizottsagtol-a-szegedi-dr-letoha-tamas-alzheimer-kutatasa-piacra-kesznek-minositettek/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bíró Melinda történelmet írt a Vitéz SE csapatánál, ő az első játékosuk, aki felkerült az egyéni WTA világranglistára",
-      "url": "https://szeged365.hu/2026/09/22/biro-melinda-tortenelmet-irt-a-vitez-se-csapatanal-o-az-elso-jatekosuk-aki-felkerult-az-egyeni-wta-vilagranglistara/"
-    },
-    {
-      "first_seen": "2026-09-22T18:08:01.527403Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mihálik Edvinék azt javasolják, hogy a szegedi önkormányzati képviselők ne kapjanak plusz fizetést felügyelőbizottsági pozíciókért",
-      "url": "https://szeged365.hu/2026/09/22/mihalik-edvinek-azt-javasoljak-hogy-onkormanyzati-kepviselok-ne-kapjanak-plusz-fizetest-felugyelobizottsagi-poziciokert-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-24T09:06:01.448842Z"
+  "updated_at": "2026-09-24T12:05:01.601500Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-25T18:01:01.428541Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Száraz, napos-felhős időt hoz a hétvége Szegedre",
+      "url": "https://szeged365.hu/2026/09/25/szaraz-napos-felhos-idot-hoz-a-hetvege-szegeden/"
+    },
+    {
       "first_seen": "2026-09-25T15:03:01.537208Z",
       "published_at": "2026-08-26T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Energiahatékony e-üzemanyagot állítanának elő Szegeden, kétmilliárd forintos támogatást nyertek a projektre",
       "url": "https://szeged365.hu/2026/09/24/energiahatekony-e-uzemanyagot-allitananak-elo-szegeden-ketmilliard-forintos-tamogatast-nyertek-a-projektre/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: esősnek ígérkezik a csütörtök Szegeden, ma van a méter és a kilogramm születésnapja",
-      "url": "https://szeged365.hu/2026/09/24/napi-pakk-esosnek-igerkezik-a-csutortok-szegeden-ma-van-a-meter-es-a-kilogramm-szuletesnapja/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-25T15:03:01.537208Z"
+  "updated_at": "2026-09-25T18:01:01.428541Z"
 }

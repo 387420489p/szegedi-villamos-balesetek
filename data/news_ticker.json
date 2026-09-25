@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-25T09:06:01.568983Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi kutatók: az első generációs honfoglalók genetikai állományának legalább fele a finnugor manysikkal közös ősöktől származik",
+      "url": "https://szeged365.hu/2026/09/25/szegedi-kutatok-az-elso-generacios-honfoglalok-genetikai-allomanyanak-legalabb-fele-a-finnugor-manysikkal-kozos-osoktol-szarmazik/"
+    },
+    {
+      "first_seen": "2026-09-25T09:06:01.568983Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két nap, öt zenekar, két teljesen eltérő hangulat – sűrű hétvége jön a Városi Rock Klubban Szegeden",
+      "url": "https://szeged365.hu/2026/09/25/ket-nap-ot-zenekar-ket-teljesen-eltero-hangulat-suru-hetvege-jon-a-varosi-rock-klubban-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-25T09:06:01.568983Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gengszterélet, Csongrád-Csanádban: marihuánát szívott Szegeden, majd autóval menekült a rendőrök elől egy férfi, végül egy körforgalomban fennakadt (videóval)",
+      "url": "https://szeged365.hu/2026/09/25/gengszterelet-csongrad-csanadban-marihuanat-szivott-szegeden-majd-autoval-menekult-a-rendorok-elol-egy-ferfi-vegul-egy-korforgalomban-fennakadt-videoval/"
+    },
+    {
       "first_seen": "2026-09-25T06:02:01.603644Z",
       "published_at": "2026-09-25T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Három premier előtti film, Verdák 20. évforduló és sztárvendégek – ezt tartogatja a Belvárosi Mozi következő műsorhete Szegeden",
       "url": "https://szeged365.hu/2026/09/23/harom-premier-elotti-film-verdak-20-evfordulo-es-sztarvendegek-ezt-tartogatja-a-belvarosi-mozi-kovetkezo-musorhete-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megvan az időpont, mikor indulhat meg a teljeskörű termelés a szegedi BYD gyárban",
-      "url": "https://szeged365.hu/2026/09/23/megvan-az-idopont-mikor-indulhat-meg-a-teljeskoru-termeles-a-szegedi-byd-gyarban/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Légy turista a saját városodban! – Érdekes sétával várnak mindenkit a Turizmus Világnapján Szegeden",
-      "url": "https://szeged365.hu/2026/09/23/legy-turista-a-sajat-varosodban-erdekes-setaval-var-mindenkit-a-tourinform-a-turizmus-vilagnapjan/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
-      "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-25T06:02:01.603644Z"
+  "updated_at": "2026-09-25T09:06:01.568983Z"
 }

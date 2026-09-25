@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-25T06:02:01.603644Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "52 nap után sikerült teljesen eloltani a Vajdaságban tomboló erdőtüzet",
+      "url": "https://szeged365.hu/2026/09/25/52-nap-utan-sikerult-teljesen-eloltani-a-vajdasagban-tombolo-erdotuzet/"
+    },
+    {
+      "first_seen": "2026-09-25T06:02:01.603644Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tizennégy határsértőt tartóztattak fel a magyar rendőrök egy nap alatt, Szeged és Röszke külterületén csíptek el migránsokat",
+      "url": "https://szeged365.hu/2026/09/25/tizennegy-hatarsertot-tartoztattak-fel-a-magyar-rendorok-egy-nap-alatt-szeged-es-roszke-kulteruleten-csiptek-el-migransokat/"
+    },
+    {
+      "first_seen": "2026-09-25T06:02:01.603644Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel köszönt ránk a péntek Szegeden, 100 éve kezdett el elterjedni az ötnapos munkahét",
+      "url": "https://szeged365.hu/2026/09/25/napi-pakk-napos-felhos-idovel-koszont-rank-a-pentek-100-eve-kezdett-el-elterjedni-az-otnapos-munkahet/"
+    },
+    {
+      "first_seen": "2026-09-25T06:02:01.603644Z",
+      "published_at": "2026-09-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: dübörög a Bortér, startol a Continental Futófesztivál és hagyományőrző nap is lesz Szentmihályon – mutatjuk milyen események dobják fel a hétvégét Szegeden!",
+      "url": "https://szeged365.hu/2026/09/18/szeged365-kikapcs-duborog-a-borter-startol-a-continental-futofesztival-es-hagyomanyorzo-nap-is-lesz-szentmihalyon-mutatjuk-milyen-esemenyek-dobjak-fel-a-hetveget-szegeden/"
+    },
+    {
       "first_seen": "2026-09-24T18:09:01.557677Z",
       "published_at": "2026-09-24T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
       "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb bejelentést tett Magyar Péter a mentelmi jogok kapcsán",
-      "url": "https://szeged365.hu/2026/09/23/ujabb-bejelentest-tett-magyar-peter-a-mentelmi-jogok-kapcsan/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A SZIN főszervezője, Kolonics Erika is bekerült az NKA Programok és Fesztiválok Kollégiumába",
-      "url": "https://szeged365.hu/2026/09/23/a-szin-foszervezoje-kolonics-erika-is-bekerult-az-nka-programok-es-fesztivalok-kollegiumaba/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bajba jutott emberek nyomában: tagokat toboroz a Hanimec Mentőkutyás Egyesület Szegeden",
-      "url": "https://szeged365.hu/2026/09/23/bajba-jutott-emberek-nyomaban-tagokat-toboroz-a-hanimec-mentokutyas-egyesulet-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-23T12:08:01.463127Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt egy 53 éves szegedi férfi, a rendőrség segítséget kér a megtalálásához",
-      "url": "https://szeged365.hu/2026/09/23/eltunt-egy-53-eves-szegedi-ferfi-a-rendorseg-segitseget-ker-a-megtalalasahoz/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-24T18:09:01.557677Z"
+  "updated_at": "2026-09-25T06:02:01.603644Z"
 }

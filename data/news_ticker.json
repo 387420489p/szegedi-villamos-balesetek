@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Döntött a közgyűlés: továbbra is a MÁV üzemelteti a szegedi buszokat, és a Somogyi-könyvtár új igazgatóját is megválasztották",
+      "url": "https://szeged365.hu/2026/09/25/dontott-a-kozgyules-tovabbra-is-a-mav-uzemelteti-a-szegedi-buszokat-es-a-somogyi-konyvtar-uj-igazgatojat-is-megvalasztottak/"
+    },
+    {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt a nyereményjátékot te sem akarod kihagyni: Random Trip és brutál erős fellépők érkeznek a JATE-ba",
+      "url": "https://szeged365.hu/2026/09/25/ezt-a-nyeremenyjatekot-te-sem-akarod-kihagyni-random-trip-es-brutal-eros-fellepok-erkeznek-a-jate-ba/"
+    },
+    {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kényelmesebb utazás, új megállók, élhetőbb környezet – befejeződtek a munkálatok a Szeged-Röszke vasútvonalon",
+      "url": "https://szeged365.hu/2026/09/25/kenyelmesebb-utazas-uj-megallok-elhetobb-kornyezet-befejezodtek-a-munkalatok-a-szeged-roszke-vasutvonalon/"
+    },
+    {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: jótékonysági divatshow, Kutatók Éjszakája, különleges kulturális kiállítások, és pacalfőző verseny is várja a szegedieket a hétvégén",
+      "url": "https://szeged365.hu/2026/09/25/szeged365-kikapcs-jotekonysagi-divatshow-kulonleges-kulturalis-kiallitasok-es-pacalfozo-verseny-is-varja-a-szegedieket-a-hetvegen/"
+    },
+    {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fegyverzeti és kutyás bemutató, szabadulószoba, és előadások – kitárja kapuit a rendőrség a Kutatók Éjszakáján Szegeden",
+      "url": "https://szeged365.hu/2026/09/25/fegyverzeti-es-kutyas-bemutato-szabaduloszoba-es-eloadasok-kitarja-kapuit-a-rendorseg-a-kutatok-ejszakajan-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-25T12:01:01.543554Z",
+      "published_at": "2026-09-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Stohl András ismét Szegedre érkezik: különleges GasztroTalkShow jön a Napfény Műteremben",
+      "url": "https://szeged365.hu/2026/09/25/stohl-andras-ismet-szegedre-erkezik-kulonleges-gasztrotalkshow-jon-a-napfeny-muteremben/"
+    },
+    {
       "first_seen": "2026-09-25T09:06:01.568983Z",
       "published_at": "2026-09-25T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Három arany, öt ezüst és egy bronz – az utóbbi hetekben sikert sikerre halmoz a szegedi Boxvilág SE (galéria)",
       "url": "https://szeged365.hu/2026/09/23/harom-arany-negy-ezust-es-egy-bronz-az-utobbi-hetekben-sikert-sikerre-halmoz-a-szegedi-boxvilag-se-galeria/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Esőt hoz Szegedre a csütörtök",
-      "url": "https://szeged365.hu/2026/09/23/esot-hoz-szegedre-a-csutortok/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Petőfi jövőre debütál Szegeden – 2027-ben egy új magyar musical ősbemutatójának ad otthont a Szabadtéri Játékok (videó)",
-      "url": "https://szeged365.hu/2026/09/23/petofi-jovore-debutal-szegeden-2027-ben-egy-uj-magyar-musical-osbemutatojanak-ad-otthont-a-szabadteri-jatekok-video/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Zumba, fitnesz, jóga, Katus Attila és Czanik Balázs – harmadjára jön Szegedre a PINK Október mozgásfesztivál",
-      "url": "https://szeged365.hu/2026/09/23/zumba-fitnesz-joga-katus-attila-es-czanik-balazs-harmadjara-jon-szegedre-a-pink-oktober-mozgasfesztival/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Oktatási- és vizsgaplatformot fejlesztenek a szegedi egyetemen – a cél a betegbiztonság erősítése",
-      "url": "https://szeged365.hu/2026/09/23/oktatasi-es-vizsgaplatformot-fejlesztenek-a-szegedi-egyetemen-a-cel-a-betegbiztonsag-erositese/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyre hamarabb sötétedik, de azért ne siess haza: mutatjuk, mivel készül a Cheers az őszi estékre Szegeden",
-      "url": "https://szeged365.hu/2026/09/23/egyre-hamarabb-sotetedik-de-azert-ne-siess-haza-mutatjuk-mivel-keszul-a-cheers-az-oszi-estekre-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Három premier előtti film, Verdák 20. évforduló és sztárvendégek – ezt tartogatja a Belvárosi Mozi következő műsorhete Szegeden",
-      "url": "https://szeged365.hu/2026/09/23/harom-premier-elotti-film-verdak-20-evfordulo-es-sztarvendegek-ezt-tartogatja-a-belvarosi-mozi-kovetkezo-musorhete-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-25T09:06:01.568983Z"
+  "updated_at": "2026-09-25T12:01:01.543554Z"
 }

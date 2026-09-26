@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-26T18:04:01.472105Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "24 karátos arany a nappali falán? Szegeden már ez is lehetséges – Czinkóczi Károly festőmesterrel beszélgettünk az OIKOS különleges világáról",
+      "url": "https://szeged365.hu/2026/09/26/24-karatos-arany-a-nappali-falan-szegeden-mar-ez-is-lehetseges-czinkoczi-karoly-festomesterrel-beszelgettunk-az-oikos-kulonleges-vilagarol/"
+    },
+    {
+      "first_seen": "2026-09-26T18:04:01.472105Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kellemes, napos őszi napunk lesz vasárnap Szegeden",
+      "url": "https://szeged365.hu/2026/09/26/kellemes-napos-oszi-napunk-lesz-vasarnap-szegeden/"
+    },
+    {
       "first_seen": "2026-09-26T15:08:01.457363Z",
       "published_at": "2026-09-26T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Most tudtuk meg: különleges filmvetítéssel zárul a Mentés 1.0 Szegeden, Karinthy megrázó története kerül vászonra",
       "url": "https://szeged365.hu/2026/09/24/pentek-este-erre-erdemes-figyelni-szegeden-nyilvanos-filmvetitessel-zarul-a-mentes-1-0-talalkozoja/"
-    },
-    {
-      "first_seen": "2026-09-24T15:07:01.569459Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sör, burger, blues és csuklóból tekert gólok: profi csocsósok és fergeteges sörpongbajnokság veszi be az Erzsébet Ligetet!",
-      "url": "https://szeged365.hu/2026/09/24/sor-burger-blues-es-csuklobol-tekert-golok-profi-csocsosok-es-fergeteges-sorpongbajnoksag-veszi-be-az-erzsebet-ligetet/"
-    },
-    {
-      "first_seen": "2026-09-24T12:05:01.601500Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb szennyezés a rehabilitált Holt-Tiszánál? Túlfolyás és termálvíz szag miatt vizsgálják a területet Szegeden (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/24/ujabb-szennyezes-a-rehabilitalt-holt-tiszanal-tulfolyas-es-termalviz-szag-miatt-vizsgaljak-a-teruletet-szegeden-fotokkal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-26T15:08:01.457363Z"
+  "updated_at": "2026-09-26T18:04:01.472105Z"
 }

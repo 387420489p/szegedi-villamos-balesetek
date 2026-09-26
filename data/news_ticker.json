@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-26T15:08:01.457363Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Virágba borul Szeged, megkezdődött az őszi virágosztás (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/26/viragba-borul-szeged-megkezdodott-az-oszi-viragosztas-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-26T15:08:01.457363Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Veszélyes manőver! Három sávon és egy záróvonalon is átvágott egy autós Szegeden",
+      "url": "https://szeged365.hu/2026/09/26/veszelyes-manover-harom-savon-es-egy-zarovonalon-is-atvagott-egy-autos-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-26T15:08:01.457363Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Figyelem, szegedi diákok! Fontos változásra emlékeztet a MÁV a diákbérletekkel kapcsolatban",
+      "url": "https://szeged365.hu/2026/09/26/figyelem-szegedi-diakok-fontos-valtozasra-emlekeztet-a-mav-a-diakberletekkel-kapcsolatban/"
+    },
+    {
       "first_seen": "2026-09-26T12:04:01.442559Z",
       "published_at": "2026-09-26T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb szennyezés a rehabilitált Holt-Tiszánál? Túlfolyás és termálvíz szag miatt vizsgálják a területet Szegeden (fotókkal)",
       "url": "https://szeged365.hu/2026/09/24/ujabb-szennyezes-a-rehabilitalt-holt-tiszanal-tulfolyas-es-termalviz-szag-miatt-vizsgaljak-a-teruletet-szegeden-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-24T12:05:01.601500Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi kutatók: a bél saját vírusai is segíthetnek a súlyos fertőzések leküzdésében",
-      "url": "https://szeged365.hu/2026/09/24/szegedi-kutatok-a-bel-sajat-virusai-is-segithetnek-a-sulyos-fertozesek-lekuzdeseben/"
-    },
-    {
-      "first_seen": "2026-09-24T12:05:01.601500Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedről indulhat az új sportőrület: egyetlen közös kihívásba gyűjtik a futók, bringások és sétálók kilométereit",
-      "url": "https://szeged365.hu/2026/09/24/szegedrol-indulhat-az-uj-sportorulet-egyetlen-kozos-kihivasba-gyujtik-a-futok-bringasok-es-setalok-kilometereit/"
-    },
-    {
-      "first_seen": "2026-09-24T09:06:01.448842Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem korlátozzák a Téli kikötő környkének teherforgalmát – több előterjesztés napirendre vételét is leszavazták a Városüzemeltetési Bizottság ülésén Szegeden",
-      "url": "https://szeged365.hu/2026/09/24/nem-korlatozzak-a-teli-kikoto-kornykenek-teherforgalmat-tobb-eloterjesztes-napirendre-vetelet-is-leszavaztak-a-varosuzemeltetesi-bizottsag-ulesen-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-26T12:04:01.442559Z"
+  "updated_at": "2026-09-26T15:08:01.457363Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-26T12:04:01.442559Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Izgalmas napjuk lesz szombaton a szegedi sportrajongóknak, három csapatnak is szurkolhatnak!",
+      "url": "https://szeged365.hu/2026/09/26/izgalmas-napjuk-lesz-szombaton-a-szegedi-sportrajongoknak-harom-csapatnak-is-szurkolhatnak/"
+    },
+    {
+      "first_seen": "2026-09-26T12:04:01.442559Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas sulikezdési akció pörög a Prágai Látszerészetben: 1+1 Essilor Stellest lencse és 20-20% keretkedvezmény várja a szegedi családokat!",
+      "url": "https://szeged365.hu/2026/09/26/hatalmas-sulikezdesi-akcio-porog-a-pragai-latszereszetben-11-essilor-stellest-lencse-es-20-20-keretkedvezmeny-varja-a-szegedi-csaladokat/"
+    },
+    {
       "first_seen": "2026-09-26T06:04:01.445458Z",
       "published_at": "2026-09-26T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem korlátozzák a Téli kikötő környkének teherforgalmát – több előterjesztés napirendre vételét is leszavazták a Városüzemeltetési Bizottság ülésén Szegeden",
       "url": "https://szeged365.hu/2026/09/24/nem-korlatozzak-a-teli-kikoto-kornykenek-teherforgalmat-tobb-eloterjesztes-napirendre-vetelet-is-leszavaztak-a-varosuzemeltetesi-bizottsag-ulesen-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-24T09:06:01.448842Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nem vagyok NER-feleség” – megszólalt a szegedi születésű üzletasszony, Várkonyi Andrea, aki demagógnak tartja azt a véleményt, hogy az adófizetők pénzéből élnének",
-      "url": "https://szeged365.hu/2026/09/24/nem-vagyok-ner-feleseg-megszolalt-a-szegedi-szuletesu-uzletasszony-varkonyi-andrea-aki-demagognak-tartja-azt-a-velemenyt-hogy-az-adofizetok-penzebol-elnenek/"
-    },
-    {
-      "first_seen": "2026-09-24T09:06:01.448842Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kisteherautók karamboloztak Szegeden, a tűzoltókat is riasztották",
-      "url": "https://szeged365.hu/2026/09/24/kisteherautok-karamboloztak-szegeden-a-tuzoltokat-is-riasztottak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-26T06:04:01.445458Z"
+  "updated_at": "2026-09-26T12:04:01.442559Z"
 }

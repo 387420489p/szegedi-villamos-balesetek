@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-26T06:04:01.445458Z",
+      "published_at": "2026-09-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéssel indul a hétvége Szegeden, 81 éve halt meg Bartók Béla",
+      "url": "https://szeged365.hu/2026/09/26/napi-pakk-napsutessel-indul-a-hetvege-szegeden-81-eve-halt-meg-bartok-bela/"
+    },
+    {
       "first_seen": "2026-09-25T18:01:01.428541Z",
       "published_at": "2026-09-25T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Kisteherautók karamboloztak Szegeden, a tűzoltókat is riasztották",
       "url": "https://szeged365.hu/2026/09/24/kisteherautok-karamboloztak-szegeden-a-tuzoltokat-is-riasztottak/"
-    },
-    {
-      "first_seen": "2026-09-24T06:04:01.449481Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Energiahatékony e-üzemanyagot állítanának elő Szegeden, kétmilliárd forintos támogatást nyertek a projektre",
-      "url": "https://szeged365.hu/2026/09/24/energiahatekony-e-uzemanyagot-allitananak-elo-szegeden-ketmilliard-forintos-tamogatast-nyertek-a-projektre/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-25T18:01:01.428541Z"
+  "updated_at": "2026-09-26T06:04:01.445458Z"
 }

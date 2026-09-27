@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-27T15:07:01.432185Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Harminc év, több generáció, rengeteg rock: újra jön az Öreg Rockerek Bulija",
+      "url": "https://szeged365.hu/2026/09/27/harminc-ev-tobb-generacio-rengeteg-rock-ujra-jon-az-oreg-rockkerek-bulija/"
+    },
+    {
+      "first_seen": "2026-09-27T15:07:01.432185Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "33 meccsből 30 szegedi győzelem, hétfőn pedig jön a 34. Szeged-Gyöngyös mérkőzés",
+      "url": "https://szeged365.hu/2026/09/27/33-meccsbol-30-szegedi-gyozelem-hetfon-pedig-jon-a-34-szeged-gyongyos-merkozes/"
+    },
+    {
       "first_seen": "2026-09-27T12:03:01.479868Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Igazi őszi időt hoz a péntek, felhőátvonulások zavarják meg a napsütést Szegeden",
       "url": "https://szeged365.hu/2026/09/24/igazi-oszi-idot-hoz-a-pentek-felhoatvonulasok-zavarjak-meg-a-napsutest-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Negyvenöt millió forintból újitották fel a szentesi kórház transzfúziós osztályát, a radiológiai osztály pedig új röngtenberendezést kapott (fotók és videó)",
-      "url": "https://szeged365.hu/2026/09/24/negyvenot-millio-forintbol-ujult-meg-a-szentesi-korhaz-transzfuzios-es-radiologiai-osztalya-fotok-es-video/"
-    },
-    {
-      "first_seen": "2026-09-24T15:07:01.569459Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dr. Fodor Antal: nem kerül napirendre a szegedi közgyűlésen sem a Centrum gödör ügye, sem a jó tanuló diákok támogatása, és a képviselők díjazásának nullára csökkentése sem",
-      "url": "https://szeged365.hu/2026/09/23/dr-fodor-antal-nem-kerul-napirendre-a-szegedi-kozgyulesen-sem-a-centrum-godor-ugye-sem-a-jo-tanulo-diakok-tamogatasa-es-a-kepviselok-dijazasanak-nullara-csokkentese-sem/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-27T12:03:01.479868Z"
+  "updated_at": "2026-09-27T15:07:01.432185Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-27T12:03:01.479868Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Magyar Péter után most Orbán Viktor is országjárásra indult",
+      "url": "https://szeged365.hu/2026/09/27/magyar-peter-utan-most-orban-viktor-is-orszagjarasra-indul/"
+    },
+    {
+      "first_seen": "2026-09-27T12:03:01.479868Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Robotok, mesterséges intelligencia és űrkutatás: Szegeden rendezik meg a XV. Tudományfesztivált",
+      "url": "https://szeged365.hu/2026/09/27/robotok-mesterseges-intelligencia-es-urkutatas-szegeden-rendezik-meg-a-xv-tudomanyfesztivalt/"
+    },
+    {
       "first_seen": "2026-09-27T09:07:01.446196Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Dr. Fodor Antal: nem kerül napirendre a szegedi közgyűlésen sem a Centrum gödör ügye, sem a jó tanuló diákok támogatása, és a képviselők díjazásának nullára csökkentése sem",
       "url": "https://szeged365.hu/2026/09/23/dr-fodor-antal-nem-kerul-napirendre-a-szegedi-kozgyulesen-sem-a-centrum-godor-ugye-sem-a-jo-tanulo-diakok-tamogatasa-es-a-kepviselok-dijazasanak-nullara-csokkentese-sem/"
-    },
-    {
-      "first_seen": "2026-09-24T15:07:01.569459Z",
-      "published_at": "2026-09-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas összefogás: hajnalig kerestek egy eltűnt, 53 éves mentálisan beteg férfit Szegeden (fotók)",
-      "url": "https://szeged365.hu/2026/09/23/hatalmas-osszefogas-hajnalig-kerestek-egy-eltunt-53-eves-mentalisan-beteg-ferfit-szegeden-fotok/"
-    },
-    {
-      "first_seen": "2026-09-24T15:07:01.569459Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nagyon sűrű volt” – a Szegedi Vízisport Egyesület kajak-kenusai értékelték a kiemelkedően sikeres 2026-os versenyszezont",
-      "url": "https://szeged365.hu/2026/09/24/nagyon-suru-volt-a-szegedi-vizisport-egyesulet-kajak-kenusai-ertekeltek-a-kiemelkedoen-sikeres-2026-os-versenyszezont/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-27T09:07:01.446196Z"
+  "updated_at": "2026-09-27T12:03:01.479868Z"
 }

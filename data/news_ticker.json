@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-27T09:07:01.446196Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Másodikként ért célba, mégsem kapott érmet a szegedi Fábián Bettina, a sapkája miatt zárták ki",
+      "url": "https://szeged365.hu/2026/09/27/masodikkent-ert-celba-megsem-kapott-ermet-a-szegedi-fabian-bettina-a-sapkaja-miatt-zartak-ki/"
+    },
+    {
       "first_seen": "2026-09-27T06:01:01.456384Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Nagyon sűrű volt” – a Szegedi Vízisport Egyesület kajak-kenusai értékelték a kiemelkedően sikeres 2026-os versenyszezont",
       "url": "https://szeged365.hu/2026/09/24/nagyon-suru-volt-a-szegedi-vizisport-egyesulet-kajak-kenusai-ertekeltek-a-kiemelkedoen-sikeres-2026-os-versenyszezont/"
-    },
-    {
-      "first_seen": "2026-09-24T15:07:01.569459Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megvannak a 2027-es Szegedi Borfesztivál, a Dóm téri Kavalkád és a Hídivásár pontos dátumai",
-      "url": "https://szeged365.hu/2026/09/24/megvannak-a-2027-es-szegedi-borfesztival-a-dom-teri-kavalkad-es-a-hidivasar-pontos-datumai/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-27T06:01:01.456384Z"
+  "updated_at": "2026-09-27T09:07:01.446196Z"
 }

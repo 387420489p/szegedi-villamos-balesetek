@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-27T18:09:01.455978Z",
+      "published_at": "2026-09-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Itt a vénasszonyok nyara, meleg és napos időnk lesz hétfőn Szegeden",
+      "url": "https://szeged365.hu/2026/09/27/itt-a-venasszonyok-nyara-meleg-es-napos-idonk-lesz-hetfon-szegeden/"
+    },
+    {
       "first_seen": "2026-09-27T15:07:01.432185Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Több évtizednyi autótörténet egyetlen napon: veteránjárgányok lepik el Szegedet",
       "url": "https://szeged365.hu/2026/09/24/tobb-evtizednyi-autotortenet-egyetlen-napon-veteranjarganyok-lepik-el-szegedet/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Igazi őszi időt hoz a péntek, felhőátvonulások zavarják meg a napsütést Szegeden",
-      "url": "https://szeged365.hu/2026/09/24/igazi-oszi-idot-hoz-a-pentek-felhoatvonulasok-zavarjak-meg-a-napsutest-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-27T15:07:01.432185Z"
+  "updated_at": "2026-09-27T18:09:01.455978Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-28T09:10:01.441161Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "118 éves lesz a szegedi villamosközlekedés! Csatasorba állnak a nosztalgiavillamosok a városban",
+      "url": "https://szeged365.hu/2026/09/28/118-eves-lesz-a-szegedi-villamoskozlekedes-csatasorba-allnak-a-nosztalgiavillamosok-a-varosban/"
+    },
+    {
       "first_seen": "2026-09-28T06:09:01.444489Z",
       "published_at": "2026-09-28T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Sold Out: az összes jegy elfogyott a péntek esti Luxoya VIP Haj, Smink és Divatshow-ra",
       "url": "https://szeged365.hu/2026/09/24/sold-out-az-osszes-jegy-elfogyott-a-pentek-esti-luxoya-vip-haj-smink-es-divatshow-ra/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nagy fordulat két nappal a döntés előtt: a Szegeden is bemutatkozó dr. Kosztoványi Roland mögé állt Beregszászy Csaba",
-      "url": "https://szeged365.hu/2026/09/24/nagy-fordulat-ket-nappal-a-dontes-elott-a-szegeden-is-bemutatkozo-dr-kosztovanyi-roland-moge-allt-beregszaszy-csaba/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-28T06:09:01.444489Z"
+  "updated_at": "2026-09-28T09:10:01.441161Z"
 }

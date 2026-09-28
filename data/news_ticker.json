@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-28T06:09:01.444489Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kiszáradt, balesetveszélyes fákat vág ki az SZKHT, teljes útlezárás mellett dolgoznak",
+      "url": "https://szeged365.hu/2026/09/28/kiszaradt-balesetveszelyes-fakat-vag-ki-az-szkht-teljes-utlezaras-mellett-dolgoznak/"
+    },
+    {
+      "first_seen": "2026-09-28T06:09:01.444489Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: 25 fokkal támad a vénasszonyok nyara Szegeden, mutatjuk, kik ünnepelnek ma",
+      "url": "https://szeged365.hu/2026/09/28/napi-pakk-25-fokkal-tamad-a-venasszonyok-nyara-szegeden-mutatjuk-kik-unnepelnek-ma/"
+    },
+    {
       "first_seen": "2026-09-27T18:09:01.455978Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nagy fordulat két nappal a döntés előtt: a Szegeden is bemutatkozó dr. Kosztoványi Roland mögé állt Beregszászy Csaba",
       "url": "https://szeged365.hu/2026/09/24/nagy-fordulat-ket-nappal-a-dontes-elott-a-szegeden-is-bemutatkozo-dr-kosztovanyi-roland-moge-allt-beregszaszy-csaba/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nemcsak aranyosak, okosak is! Szolgálati kutyák bizonyították rátermettségüket Szegeden (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/24/nemcsak-aranyosak-okosak-is-szolgalati-kutyak-bizonyitottak-ratermettseguket-szegeden-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több évtizednyi autótörténet egyetlen napon: veteránjárgányok lepik el Szegedet",
-      "url": "https://szeged365.hu/2026/09/24/tobb-evtizednyi-autotortenet-egyetlen-napon-veteranjarganyok-lepik-el-szegedet/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-27T18:09:01.455978Z"
+  "updated_at": "2026-09-28T06:09:01.444489Z"
 }

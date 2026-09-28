@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-28T18:05:01.448861Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztő összeg! Több mint 4,6 millió forint gyűlt össze a Szent Ferenc Jótékonysági Főzésen Szegeden (fotókkal)",
+      "url": "https://szeged365.hu/2026/09/28/elkepeszto-osszeg-tobb-mint-46-millio-forint-gyult-ossze-a-szent-ferenc-jotekonysagi-fozesen-szegeden-fotokkal/"
+    },
+    {
+      "first_seen": "2026-09-28T18:05:01.448861Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedre kerültek az Aranykonvoj- és Gundalf-ügyhöz kapcsolódó feljelentések",
+      "url": "https://szeged365.hu/2026/09/28/szegedre-kerultek-az-aranykonvoj-es-gundalf-ugyhoz-kapcsolodo-feljelentesek/"
+    },
+    {
+      "first_seen": "2026-09-28T18:05:01.448861Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódik a vénasszonyok nyara: kedden a napsütésé lesz a főszerep Szegeden",
+      "url": "https://szeged365.hu/2026/09/28/folytatodik-a-venasszonyok-nyara-kedden-a-napsutese-lesz-a-foszerep-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-28T18:05:01.448861Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Koncertekkel, táncműsorral és fényfestéssel indul a 30. Őszi kulturális fesztivál Szegeden, kiderültek a nyitónap programjai",
+      "url": "https://szeged365.hu/2026/09/28/koncertekkel-tancmusorral-es-fenyfestessel-indul-a-30-oszi-kulturalis-fesztival-szegeden-kiderultek-a-nyitonap-programjai/"
+    },
+    {
       "first_seen": "2026-09-28T15:10:01.482498Z",
       "published_at": "2026-09-27T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Kényelmesebb utazás, új megállók, élhetőbb környezet – befejeződtek a munkálatok a Szeged-Röszke vasútvonalon",
       "url": "https://szeged365.hu/2026/09/25/kenyelmesebb-utazas-uj-megallok-elhetobb-kornyezet-befejezodtek-a-munkalatok-a-szeged-roszke-vasutvonalon/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: jótékonysági divatshow, Kutatók Éjszakája, különleges kulturális kiállítások, és pacalfőző verseny is várja a szegedieket a hétvégén",
-      "url": "https://szeged365.hu/2026/09/25/szeged365-kikapcs-jotekonysagi-divatshow-kulonleges-kulturalis-kiallitasok-es-pacalfozo-verseny-is-varja-a-szegedieket-a-hetvegen/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fegyverzeti és kutyás bemutató, szabadulószoba, és előadások – kitárja kapuit a rendőrség a Kutatók Éjszakáján Szegeden",
-      "url": "https://szeged365.hu/2026/09/25/fegyverzeti-es-kutyas-bemutato-szabaduloszoba-es-eloadasok-kitarja-kapuit-a-rendorseg-a-kutatok-ejszakajan-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Stohl András ismét Szegedre érkezik: különleges GasztroTalkShow jön a Napfény Műteremben",
-      "url": "https://szeged365.hu/2026/09/25/stohl-andras-ismet-szegedre-erkezik-kulonleges-gasztrotalkshow-jon-a-napfeny-muteremben/"
-    },
-    {
-      "first_seen": "2026-09-25T09:06:01.568983Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi kutatók: az első generációs honfoglalók genetikai állományának legalább fele a finnugor manysikkal közös ősöktől származik",
-      "url": "https://szeged365.hu/2026/09/25/szegedi-kutatok-az-elso-generacios-honfoglalok-genetikai-allomanyanak-legalabb-fele-a-finnugor-manysikkal-kozos-osoktol-szarmazik/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-28T15:10:01.482498Z"
+  "updated_at": "2026-09-28T18:05:01.448861Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-28T12:03:01.475136Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bajnoki öv, aranyérem és KO-győzelem – brutális hétvégét zárt a szegedi Sárközi MMA Team (galéria)",
+      "url": "https://szeged365.hu/2026/09/28/bajnoki-ov-aranyerem-es-ko-gyozelem-brutalis-hetveget-zart-a-szegedi-sarkozi-mma-team-galeria/"
+    },
+    {
+      "first_seen": "2026-09-28T12:03:01.475136Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy legenda távozott: elhunyt Kovács Sándor, avagy Sada, aki generációkat tanított kitartásra, fegyelemre és a sport szeretetére Szegeden",
+      "url": "https://szeged365.hu/2026/09/28/egy-legenda-tavozott-elhunyt-kovacs-sandor-avagy-sada-aki-generaciokat-tanitott-kitartasra-fegyelemre-es-a-sport-szeretetere-szegeden/"
+    },
+    {
       "first_seen": "2026-09-28T09:10:01.441161Z",
       "published_at": "2026-09-28T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Baleset nehezíti a közlekedést Szegeden, kerülőutat kell választani",
       "url": "https://szeged365.hu/2026/09/24/baleset-neheziti-a-kozlekedest-szegeden-keruloutat-kell-valasztani/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "118 éve zakatolnak villamosok Szeged utcáin, ennek alkalmából fotóalbumot készít a Szegedi Közlekedési Kft.",
-      "url": "https://szeged365.hu/2026/09/24/118-eve-zakatolnak-villamosok-szeged-utcain-ennek-alkalmabol-fotoalbumot-keszit-a-szegedi-kozlekedesi-kft/"
-    },
-    {
-      "first_seen": "2026-09-24T18:09:01.557677Z",
-      "published_at": "2026-09-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sold Out: az összes jegy elfogyott a péntek esti Luxoya VIP Haj, Smink és Divatshow-ra",
-      "url": "https://szeged365.hu/2026/09/24/sold-out-az-osszes-jegy-elfogyott-a-pentek-esti-luxoya-vip-haj-smink-es-divatshow-ra/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-28T09:10:01.441161Z"
+  "updated_at": "2026-09-28T12:03:01.475136Z"
 }

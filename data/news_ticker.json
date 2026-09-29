@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-29T18:09:58.696657Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási siker: ezüstérmes lett a szegedi Kollár Vanessza a kick-box világbajnokságon!",
+      "url": "https://szeged365.hu/2026/09/29/oriasi-siker-ezustermes-lett-a-szegedi-kollar-vanessza-a-kick-box-vilagbajnoksagon/"
+    },
+    {
+      "first_seen": "2026-09-29T18:09:58.696657Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeptember 30-án, azaz holnap vesznek búcsút Deák Bill Gyulától Budapesten",
+      "url": "https://szeged365.hu/2026/09/29/szeptember-30-an-azaz-holnap-vesznek-bucsut-deak-bill-gyulatol-budapesten/"
+    },
+    {
+      "first_seen": "2026-09-29T18:09:58.696657Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is kapható sonkát hívott vissza a forgalmazó – súlyos betegséget okozhat, nem szabad elfogyasztani!",
+      "url": "https://szeged365.hu/2026/09/29/szegeden-is-kaphato-sonkat-hivott-vissza-a-forgalmazo-sulyos-betegseget-okozhat-nem-szabad-elfogyasztani/"
+    },
+    {
+      "first_seen": "2026-09-29T18:09:58.696657Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szerdán száraz, szinte zavartalan napsütéses időre készülhetünk Szegeden",
+      "url": "https://szeged365.hu/2026/09/29/szerdan-szaraz-szinte-zavartalan-napsuteses-idore-keszulhetunk-szegeden/"
+    },
+    {
       "first_seen": "2026-09-29T15:03:01.646282Z",
       "published_at": "2026-09-29T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Itt a vénasszonyok nyara, meleg és napos időnk lesz hétfőn Szegeden",
       "url": "https://szeged365.hu/2026/09/27/itt-a-venasszonyok-nyara-meleg-es-napos-idonk-lesz-hetfon-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-27T15:07:01.432185Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "33 meccsből 30 szegedi győzelem, hétfőn pedig jön a 34. Szeged-Gyöngyös mérkőzés",
-      "url": "https://szeged365.hu/2026/09/27/33-meccsbol-30-szegedi-gyozelem-hetfon-pedig-jon-a-34-szeged-gyongyos-merkozes/"
-    },
-    {
-      "first_seen": "2026-09-27T12:03:01.479868Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Magyar Péter után most Orbán Viktor is országjárásra indult",
-      "url": "https://szeged365.hu/2026/09/27/magyar-peter-utan-most-orban-viktor-is-orszagjarasra-indul/"
-    },
-    {
-      "first_seen": "2026-09-27T12:03:01.479868Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Robotok, mesterséges intelligencia és űrkutatás: Szegeden rendezik meg a XV. Tudományfesztivált",
-      "url": "https://szeged365.hu/2026/09/27/robotok-mesterseges-intelligencia-es-urkutatas-szegeden-rendezik-meg-a-xv-tudomanyfesztivalt/"
-    },
-    {
-      "first_seen": "2026-09-27T09:07:01.446196Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Másodikként ért célba, mégsem kapott érmet a szegedi Fábián Bettina, a sapkája miatt zárták ki",
-      "url": "https://szeged365.hu/2026/09/27/masodikkent-ert-celba-megsem-kapott-ermet-a-szegedi-fabian-bettina-a-sapkaja-miatt-zartak-ki/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-29T15:03:01.646282Z"
+  "updated_at": "2026-09-29T18:09:58.696657Z"
 }

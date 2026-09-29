@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-29T12:09:01.762566Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két hónapon át, 80 helyszínen, 350 programmal jön a 30. Őszi Kulturális Fesztivál Szegeden – megvannak a részletes programok",
+      "url": "https://szeged365.hu/2026/09/29/ket-honapon-at-80-helyszinen-350-programmal-jon-a-30-oszi-kulturalis-fesztival-szegeden-megvannak-a-reszletes-programok/"
+    },
+    {
+      "first_seen": "2026-09-29T12:09:01.762566Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Balhé Szeged belvárosában? Rendőrautó intézkedik a Kárász utcán (fotó)",
+      "url": "https://szeged365.hu/2026/09/29/balhe-szeged-belvarosaban-rendorauto-intezkedik-a-karasz-utcan-foto/"
+    },
+    {
+      "first_seen": "2026-09-29T12:09:01.762566Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Céges évzárót vagy karácsonyi vacsorát szervezel Szegeden? Ezt a belvárosi helyszínt is érdemes megnézni (galéria)",
+      "url": "https://szeged365.hu/2026/09/29/ceges-evzarot-vagy-karacsonyi-vacsorat-szervezel-szegeden-ezt-a-belvarosi-helyszint-is-erdemes-megnezni-galeria/"
+    },
+    {
+      "first_seen": "2026-09-29T12:09:01.762566Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt most nagyon eltalálták: kacsasalátát kóstoltunk a szegedi Napfény Műteremben (videó)",
+      "url": "https://szeged365.hu/2026/09/29/ezt-most-nagyon-eltalaltak-kacsasalatat-kostoltunk-a-szegedi-napfeny-muteremben-video/"
+    },
+    {
       "first_seen": "2026-09-29T09:04:29.032831Z",
       "published_at": "2026-09-29T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Figyelem, szegedi diákok! Fontos változásra emlékeztet a MÁV a diákbérletekkel kapcsolatban",
       "url": "https://szeged365.hu/2026/09/26/figyelem-szegedi-diakok-fontos-valtozasra-emlekeztet-a-mav-a-diakberletekkel-kapcsolatban/"
-    },
-    {
-      "first_seen": "2026-09-26T12:04:01.442559Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Izgalmas napjuk lesz szombaton a szegedi sportrajongóknak, három csapatnak is szurkolhatnak!",
-      "url": "https://szeged365.hu/2026/09/26/izgalmas-napjuk-lesz-szombaton-a-szegedi-sportrajongoknak-harom-csapatnak-is-szurkolhatnak/"
-    },
-    {
-      "first_seen": "2026-09-26T12:04:01.442559Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas sulikezdési akció pörög a Prágai Látszerészetben: 1+1 Essilor Stellest lencse és 20-20% keretkedvezmény várja a szegedi családokat!",
-      "url": "https://szeged365.hu/2026/09/26/hatalmas-sulikezdesi-akcio-porog-a-pragai-latszereszetben-11-essilor-stellest-lencse-es-20-20-keretkedvezmeny-varja-a-szegedi-csaladokat/"
-    },
-    {
-      "first_seen": "2026-09-26T06:04:01.445458Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéssel indul a hétvége Szegeden, 81 éve halt meg Bartók Béla",
-      "url": "https://szeged365.hu/2026/09/26/napi-pakk-napsutessel-indul-a-hetvege-szegeden-81-eve-halt-meg-bartok-bela/"
-    },
-    {
-      "first_seen": "2026-09-25T18:01:01.428541Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Száraz, napos-felhős időt hoz a hétvége Szegedre",
-      "url": "https://szeged365.hu/2026/09/25/szaraz-napos-felhos-idot-hoz-a-hetvege-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-29T09:04:29.032831Z"
+  "updated_at": "2026-09-29T12:09:01.762566Z"
 }

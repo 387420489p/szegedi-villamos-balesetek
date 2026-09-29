@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Fényűző” életmű a REÖK-ben: Botos Péter, Ferenczy Noémi-díjas üvegszobrász eddigi legnagyobb tárlatát nyitották meg Szegeden",
+      "url": "https://szeged365.hu/2026/09/29/fenyuzo-eletmu-a-reok-ben-botos-peter-ferenczy-noemi-dijas-uvegszobrasz-eddigi-legnagyobb-tarlatat-nyitottak-meg-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fontos ügy miatt találkoztak Szegeden a külhoni magyar könyvkiadók, közös megoldást keresnek arra, hogyan jussanak el a könyvek az olvasókhoz (videó + galéria)",
+      "url": "https://szeged365.hu/2026/09/29/fontos-ugy-miatt-talalkoztak-szegeden-a-kulhoni-magyar-konyvkiadok-kozos-megoldast-keresnek-arra-hogyan-jussanak-el-a-konyvek-az-olvasokhoz-video-galeria/"
+    },
+    {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Betörte az ablakot, bemászott a házba, majd több mint 10 millió forintnyi zsákmánnyal távozott a betörő Szegeden",
+      "url": "https://szeged365.hu/2026/09/29/betorte-az-ablakot-bemaszott-a-hazba-majd-tobb-mint-10-millio-forintnyi-zsakmannyal-tavozott-a-betoro-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Szőregi út mellett baleset történt az 5-ös főúton is, félpályás korlátozás van érvényben",
+      "url": "https://szeged365.hu/2026/09/29/a-szoregi-ut-mellett-baleset-tortent-az-5-os-fouton-is-felpalyas-korlatozas-van-ervenyben/"
+    },
+    {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi diák zsebelte be az Európai Űrügynökség EIROforum Prize különdíját a Fiatal Tudósok Versenyén",
+      "url": "https://szeged365.hu/2026/09/29/szegedi-diak-zsebelte-be-az-europai-urugynokseg-eiroforum-prize-kulondijat-a-fiatal-tudosok-versenyen/"
+    },
+    {
+      "first_seen": "2026-09-29T09:04:29.032831Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden is folytatódik a vénasszonyok nyara Szegeden, ma van a kávé világnapja",
+      "url": "https://szeged365.hu/2026/09/29/napi-pakk-kedden-is-folytatodik-a-venasszonyok-nyara-szegeden-ma-van-a-kave-vilagnapja/"
+    },
+    {
       "first_seen": "2026-09-28T18:05:01.448861Z",
       "published_at": "2026-09-28T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Száraz, napos-felhős időt hoz a hétvége Szegedre",
       "url": "https://szeged365.hu/2026/09/25/szaraz-napos-felhos-idot-hoz-a-hetvege-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-25T15:03:01.537208Z",
-      "published_at": "2026-08-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jövő szerdán rajtol a sárkányhajó-vb Kínában – a magyar csapatban szerepel a szegedi Kiss Ágnes is",
-      "url": "https://szeged365.hu/2026/09/25/jovo-szerdan-rajtol-a-sarkanyhajo-vb-kinaban-a-magyar-csapatban-szerepel-a-szegedi-kiss-agnes-is/"
-    },
-    {
-      "first_seen": "2026-09-25T15:03:01.537208Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Sportsbladet értesülései szerint a PICK Szeged korábbi játékosa volt a világ legjobban kereső kézise",
-      "url": "https://szeged365.hu/2026/09/25/a-sportsbladet-ertesulesei-szerint-a-pick-szeged-korabbi-jatekosa-volt-a-vilag-legjobban-kereso-kezise/"
-    },
-    {
-      "first_seen": "2026-09-25T15:03:01.537208Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Retró Horgászversenyt rendez a sándorfalvi Nádastó, és a nevezéssel a Duchenne-szindrómás szegedi kisfiú, Mirkó gyógyulását is támogathatod!",
-      "url": "https://szeged365.hu/2026/09/25/retro-horgaszversenyt-rendez-a-sandorfalvi-nadasto-es-a-nevezessel-a-duchenne-szindromas-szegedi-kisfiu-mirko-gyogyulasat-is-tamogathatod/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Döntött a közgyűlés: továbbra is a MÁV üzemelteti a szegedi buszokat, és a Somogyi-könyvtár új igazgatóját is megválasztották",
-      "url": "https://szeged365.hu/2026/09/25/dontott-a-kozgyules-tovabbra-is-a-mav-uzemelteti-a-szegedi-buszokat-es-a-somogyi-konyvtar-uj-igazgatojat-is-megvalasztottak/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt a nyereményjátékot te sem akarod kihagyni: Random Trip és brutál erős fellépők érkeznek a JATE-ba",
-      "url": "https://szeged365.hu/2026/09/25/ezt-a-nyeremenyjatekot-te-sem-akarod-kihagyni-random-trip-es-brutal-eros-fellepok-erkeznek-a-jate-ba/"
-    },
-    {
-      "first_seen": "2026-09-25T12:01:01.543554Z",
-      "published_at": "2026-09-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kényelmesebb utazás, új megállók, élhetőbb környezet – befejeződtek a munkálatok a Szeged-Röszke vasútvonalon",
-      "url": "https://szeged365.hu/2026/09/25/kenyelmesebb-utazas-uj-megallok-elhetobb-kornyezet-befejezodtek-a-munkalatok-a-szeged-roszke-vasutvonalon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-28T18:05:01.448861Z"
+  "updated_at": "2026-09-29T09:04:29.032831Z"
 }

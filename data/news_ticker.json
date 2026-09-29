@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megáll az ész: egy 60 éves férfi 58 alkalommal gyújtogatott Szeged környékén, eljárás indult ellene (videó)",
+      "url": "https://szeged365.hu/2026/09/29/megall-az-esz-egy-60-eves-ferfi-58-alkalommal-gyujtogatott-szeged-kornyeken-eljaras-indult-ellene-video/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Szeged belvárosában – a Petőfi Sándor sugárúton forgalmi akadály alakult ki",
+      "url": "https://szeged365.hu/2026/09/29/baleset-tortent-szeged-belvarosaban-a-petofi-sandor-sugaruton-forgalmi-akadaly-alakult-ki/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hello október: brutálisan sűrű hónappal robban be a klubturné-szezon a JATE Klubba Szegeden",
+      "url": "https://szeged365.hu/2026/09/29/hello-oktober-brutalisan-suru-honappal-robban-be-a-klubturne-szezon-a-jate-klubba-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi sikersztorik: húsz év munkája vált közkinccsé – Fábri-Ivánovics Tünde, Szegeden élő népdalénekes száz moldvai dallamot hozott vissza az életbe",
+      "url": "https://szeged365.hu/2026/09/29/szegedi-sikersztorik-husz-ev-munkaja-valt-kozkinccse-fabri-ivanovics-tunde-szegeden-elo-nepdalenekes-szaz-moldvai-dallamot-hozott-vissza-az-eletbe/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Születésnapi ajándékkal készül a Szent Vincent: 50 százalék kedvezmény járhat az érintettek szállására Szegeden (videó)",
+      "url": "https://szeged365.hu/2026/09/29/szuletesnapi-ajandekkal-keszul-a-szent-vincent-50-szazalek-kedvezmeny-jarhat-az-erintettek-szallasara-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elutasították a fellebbezést, a szegedi Fábián Bettina nem kaphatja vissza az ezüstérmét",
+      "url": "https://szeged365.hu/2026/09/29/elutasitottak-a-fellebbezest-a-szegedi-fabian-bettina-nem-kaphatja-vissza-az-ezustermet/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt nem elég nézni: kóstolj bele Vietnám ízeibe Szegeden, a NAMO-ban (videó)",
+      "url": "https://szeged365.hu/2026/09/29/ezt-nem-eleg-nezni-kostolj-bele-vietnam-izeibe-szegeden-a-namo-ban-video/"
+    },
+    {
+      "first_seen": "2026-09-29T15:03:01.646282Z",
+      "published_at": "2026-09-29T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Felborult kisbusz, kisiklott tram-train, súlyos sérültek – életszerű balesetet szimuláltak Szegeden, a rendező pályaudvaron (videóval, fotókkal)",
+      "url": "https://szeged365.hu/2026/09/29/felborult-kisbusz-kisiklott-tram-train-sulyos-serultek-eletszeru-balesetet-szimulaltak-szegeden-a-rendezo-palyaudvaron-videoval-fotokkal/"
+    },
+    {
       "first_seen": "2026-09-29T12:09:01.762566Z",
       "published_at": "2026-09-29T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Másodikként ért célba, mégsem kapott érmet a szegedi Fábián Bettina, a sapkája miatt zárták ki",
       "url": "https://szeged365.hu/2026/09/27/masodikkent-ert-celba-megsem-kapott-ermet-a-szegedi-fabian-bettina-a-sapkaja-miatt-zartak-ki/"
-    },
-    {
-      "first_seen": "2026-09-27T06:01:01.456384Z",
-      "published_at": "2026-09-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kiránduláshoz tökéletes időjárásunk lesz a turizmus világnapján",
-      "url": "https://szeged365.hu/2026/09/27/napi-pakk-kirandulashoz-tokeletes-idojarasunk-lesz-a-turizmus-vilagnapjan/"
-    },
-    {
-      "first_seen": "2026-09-27T06:01:01.456384Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sima Pick győzelem, egy szeretni való csavarral",
-      "url": "https://szeged365.hu/2026/09/26/sima-pick-gyozelem-egy-szeretni-valo-csavarral/"
-    },
-    {
-      "first_seen": "2026-09-27T06:01:01.456384Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-26T18:04:01.472105Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "24 karátos arany a nappali falán? Szegeden már ez is lehetséges – Czinkóczi Károly festőmesterrel beszélgettünk az OIKOS különleges világáról",
-      "url": "https://szeged365.hu/2026/09/26/24-karatos-arany-a-nappali-falan-szegeden-mar-ez-is-lehetseges-czinkoczi-karoly-festomesterrel-beszelgettunk-az-oikos-kulonleges-vilagarol/"
-    },
-    {
-      "first_seen": "2026-09-26T18:04:01.472105Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kellemes, napos őszi napunk lesz vasárnap Szegeden",
-      "url": "https://szeged365.hu/2026/09/26/kellemes-napos-oszi-napunk-lesz-vasarnap-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-26T15:08:01.457363Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Virágba borul Szeged, megkezdődött az őszi virágosztás (fotókkal)",
-      "url": "https://szeged365.hu/2026/09/26/viragba-borul-szeged-megkezdodott-az-oszi-viragosztas-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-26T15:08:01.457363Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Veszélyes manőver! Három sávon és egy záróvonalon is átvágott egy autós Szegeden",
-      "url": "https://szeged365.hu/2026/09/26/veszelyes-manover-harom-savon-es-egy-zarovonalon-is-atvagott-egy-autos-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-26T15:08:01.457363Z",
-      "published_at": "2026-09-26T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Figyelem, szegedi diákok! Fontos változásra emlékeztet a MÁV a diákbérletekkel kapcsolatban",
-      "url": "https://szeged365.hu/2026/09/26/figyelem-szegedi-diakok-fontos-valtozasra-emlekeztet-a-mav-a-diakberletekkel-kapcsolatban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-29T12:09:01.762566Z"
+  "updated_at": "2026-09-29T15:03:01.646282Z"
 }

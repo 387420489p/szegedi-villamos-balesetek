@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-30T18:08:49.131954Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megtudhatod, hogyan működik Szeged geotermikus távfűtése: különleges helyszínek nyílnak meg az Erőművek Éjszakáján",
+      "url": "https://szeged365.hu/2026/09/30/megtudhatod-hogyan-mukodik-szeged-geotermikus-tavfutese-kulonleges-helyszinek-nyilnak-meg-az-eromuvek-ejszakajan/"
+    },
+    {
+      "first_seen": "2026-09-30T18:08:49.131954Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztő látvány az égen, hatalmas madárraj vonult át Szeged felett (videóval)",
+      "url": "https://szeged365.hu/2026/09/30/elkepeszto-latvany-az-egen-hatalmas-madarraj-vonult-at-szeged-felett-videoval/"
+    },
+    {
+      "first_seen": "2026-09-30T18:08:49.131954Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódik a derült, napsütéses időjárás Szegeden",
+      "url": "https://szeged365.hu/2026/09/30/folytatodik-a-derult-napsuteses-idojaras-szegeden/"
+    },
+    {
+      "first_seen": "2026-09-30T18:08:49.131954Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Best of Friss Hús: az év legjobb magyar rövidfilmjei jönnek a szegedi Belvárosi moziba, közönségtalálkozóval",
+      "url": "https://szeged365.hu/2026/09/30/best-of-friss-hus-az-ev-legjobb-magyar-rovidfilmjei-jonnek-a-szegedi-belvarosi-moziba-kozonsegtalalkozoval/"
+    },
+    {
       "first_seen": "2026-09-30T15:04:01.614399Z",
       "published_at": "2026-09-30T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Felborult kisbusz, kisiklott tram-train, súlyos sérültek – életszerű balesetet szimuláltak Szegeden, a rendező pályaudvaron (videóval, fotókkal)",
       "url": "https://szeged365.hu/2026/09/29/felborult-kisbusz-kisiklott-tram-train-sulyos-serultek-eletszeru-balesetet-szimulaltak-szegeden-a-rendezo-palyaudvaron-videoval-fotokkal/"
-    },
-    {
-      "first_seen": "2026-09-29T12:09:01.762566Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Két hónapon át, 80 helyszínen, 350 programmal jön a 30. Őszi Kulturális Fesztivál Szegeden – megvannak a részletes programok",
-      "url": "https://szeged365.hu/2026/09/29/ket-honapon-at-80-helyszinen-350-programmal-jon-a-30-oszi-kulturalis-fesztival-szegeden-megvannak-a-reszletes-programok/"
-    },
-    {
-      "first_seen": "2026-09-29T12:09:01.762566Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Balhé Szeged belvárosában? Rendőrautó intézkedik a Kárász utcán (fotó)",
-      "url": "https://szeged365.hu/2026/09/29/balhe-szeged-belvarosaban-rendorauto-intezkedik-a-karasz-utcan-foto/"
-    },
-    {
-      "first_seen": "2026-09-29T12:09:01.762566Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Céges évzárót vagy karácsonyi vacsorát szervezel Szegeden? Ezt a belvárosi helyszínt is érdemes megnézni (galéria)",
-      "url": "https://szeged365.hu/2026/09/29/ceges-evzarot-vagy-karacsonyi-vacsorat-szervezel-szegeden-ezt-a-belvarosi-helyszint-is-erdemes-megnezni-galeria/"
-    },
-    {
-      "first_seen": "2026-09-29T12:09:01.762566Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt most nagyon eltalálták: kacsasalátát kóstoltunk a szegedi Napfény Műteremben (videó)",
-      "url": "https://szeged365.hu/2026/09/29/ezt-most-nagyon-eltalaltak-kacsasalatat-kostoltunk-a-szegedi-napfeny-muteremben-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-30T15:04:01.614399Z"
+  "updated_at": "2026-09-30T18:08:49.131954Z"
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-09-30T09:01:01.648782Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Grabowsky újra akcióban Szegeden: 40 év után mozivásznon a Macskafogó",
+      "url": "https://szeged365.hu/2026/09/30/grabowsky-ujra-akcioban-szegeden-40-ev-utan-mozivasznon-a-macskafogo/"
+    },
+    {
+      "first_seen": "2026-09-30T09:01:01.648782Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "The future is here: humanoid robot és robotkutya érkezett a Szegedi Tudományegyetem Mérnöki Karára",
+      "url": "https://szeged365.hu/2026/09/30/humanoid-robot-es-robotkutya-erkezett-a-szegedi-tudomanyegyetem-mernoki-karara/"
+    },
+    {
+      "first_seen": "2026-09-30T09:01:01.648782Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Letartóztatták az algyői gyújtogatót Szegeden, több mint 50 alkalommal okozott tüzet a férfi",
+      "url": "https://szeged365.hu/2026/09/30/letartoztattak-az-algyoi-gyujtogatot-szegeden-tobb-mint-50-alkalommal-okozott-tuzet-a-ferfi/"
+    },
+    {
       "first_seen": "2026-09-30T06:06:01.640262Z",
       "published_at": "2026-09-30T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Karbon protézislábakat is bemutattak Szegeden: különleges vendég érkezett a Szent Vincent Rehabilitáiós Központ nyílt napjára (videó)",
       "url": "https://szeged365.hu/2026/09/28/karbon-protezislabakat-is-bemutattak-szegeden-kulonleges-vendeg-erkezett-a-szent-vincent-rehabilitaios-kozpont-nyilt-napjara-video/"
-    },
-    {
-      "first_seen": "2026-09-28T15:10:01.482498Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A MÚSZ beadványban kéri, hogy a szegedi Fábián Bettina visszakaphassa az ezüstérmét",
-      "url": "https://szeged365.hu/2026/09/28/a-musz-beadvanyban-keri-hogy-a-szegedi-fabian-bettina-visszakaphassa-ezustermet/"
-    },
-    {
-      "first_seen": "2026-09-28T15:10:01.482498Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Novotelben lakott, ott tanult meg önállóan élni, ma már Szeged a második otthona: így lett Ahmed Nawazból igazi szegedi arc (videó)",
-      "url": "https://szeged365.hu/2026/09/28/a-novotelben-lakott-ott-tanult-meg-onalloan-elni-ma-mar-szeged-a-masodik-otthona-igy-lett-ahmed-nawazbol-igazi-szegedi-arc-video/"
-    },
-    {
-      "first_seen": "2026-09-28T15:10:01.482498Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Logan egy igazi hős volt” – dobogóra állt egy szegedi kutyakozmetikus és kutyája a belgiumi világbajnokságon (galéria, videó)",
-      "url": "https://szeged365.hu/2026/09/28/logan-egy-igazi-hos-volt-dobogora-allt-egy-szegedi-kutyakozmetikus-es-kutyaja-a-belgiumi-vilagbajnoksagon-galeria-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-30T06:06:01.640262Z"
+  "updated_at": "2026-09-30T09:01:01.648782Z"
 }

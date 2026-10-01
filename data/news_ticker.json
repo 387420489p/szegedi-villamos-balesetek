@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-01T15:09:35.601013Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ma ünnepli 10. születésnapját a Szent Vincent Rehabilitációs Központ, és különleges meglepetésekkel készülnek",
+      "url": "https://szeged365.hu/2026/10/01/ma-unnepli-10-szuletesnapjat-a-szent-vincent-rehabilitacios-kozpont-es-kulonleges-meglepetesekkel-keszulnek/"
+    },
+    {
+      "first_seen": "2026-10-01T15:09:35.601013Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ti kérdeztétek, mi utánajártunk: ez a három dolog érdekli most a legtöbb embert a szegedi Cédrus Ligetről (videó)",
+      "url": "https://szeged365.hu/2026/10/01/ti-kerdeztetek-mi-utanajartunk-ez-a-harom-dolog-erdekli-most-a-legtobb-embert-a-szegedi-cedrus-ligetrol-video/"
+    },
+    {
+      "first_seen": "2026-10-01T15:09:35.601013Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„A zene világnapja ezúttal nem halk és ünnepélyes lesz” – olasz és szegedi punkenergia érkezik a Városi Rock Klubba",
+      "url": "https://szeged365.hu/2026/10/01/a-zene-vilagnapja-ezuttal-nem-halk-es-unnepelyes-lesz-olasz-es-szegedi-punkenergia-erkezik-a-varosi-rock-klubba/"
+    },
+    {
       "first_seen": "2026-10-01T12:04:35.696367Z",
       "published_at": "2026-10-01T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
       "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: megközelítjük a 30 fokot, hamarosan elrajtol a Continental futófesztivál, ma is vár a Bor tér!",
-      "url": "https://szeged365.hu/2026/09/20/napi-pakk-megkozelitjuk-a-30-fokot-hamarosan-elrajtol-a-continental-futofesztival-ma-is-var-a-borter/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: ideér a hidegfront, ma is vár a MASZK Egyesület remek előadással, forgalmival még ingyen utazhatsz Szegeden!",
-      "url": "https://szeged365.hu/2026/09/21/napi-pakk-ideer-a-hidegfront-ma-is-var-a-maszk-egyesulet-remek-eloadassal-forgalmival-meg-ma-is-ingyen-utazhatsz-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-29T18:09:58.696657Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási siker: ezüstérmes lett a szegedi Kollár Vanessza a kick-box világbajnokságon!",
-      "url": "https://szeged365.hu/2026/09/29/oriasi-siker-ezustermes-lett-a-szegedi-kollar-vanessza-a-kick-box-vilagbajnoksagon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-01T12:04:35.696367Z"
+  "updated_at": "2026-10-01T15:09:35.601013Z"
 }

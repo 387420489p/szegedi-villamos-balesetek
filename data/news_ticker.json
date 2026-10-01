@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-01T09:02:04.640968Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 live: 118 éves a szegedi villamosközlekedés! Nosztalgiajáratokkal és ünnepi eseménnyel is készül az SZKT (frissítve)",
+      "url": "https://szeged365.hu/2026/10/01/szeged365-live-118-eves-a-szegedi-villamoskozlekedes-a-szuletesnap-az-egyik-kulonleges-jarmu-eleteben-is-uj-fejezetet-nyit-a-magyar-muszaki-es-kozlekedesi-muzeumhoz-kerul-a-legendas-609-es-bengali/"
+    },
+    {
+      "first_seen": "2026-10-01T09:02:04.640968Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jobban nem is indulhatna az október: a hétvégén Honeybeast, Mehringer és Nagy Bogi is ingyen koncertezik az ÁRKÁD Szegedben!",
+      "url": "https://szeged365.hu/2026/10/01/jobban-nem-is-indulhatna-az-oktober-a-hetvegen-honeybeast-mehringer-es-nagy-bogi-is-ingyen-koncertezik-az-arkad-szegedben/"
+    },
+    {
+      "first_seen": "2026-10-01T09:02:04.640968Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bangladesi, jordán és nepáli migránsokat fogtak Szeged közigazgatási területén",
+      "url": "https://szeged365.hu/2026/10/01/bangladesi-jordan-es-nepali-migransokat-fogtak-szeged-kozigazgatasi-teruleten/"
+    },
+    {
       "first_seen": "2026-10-01T06:09:01.668170Z",
       "published_at": "2026-09-30T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szerdán száraz, szinte zavartalan napsütéses időre készülhetünk Szegeden",
       "url": "https://szeged365.hu/2026/09/29/szerdan-szaraz-szinte-zavartalan-napsuteses-idore-keszulhetunk-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megáll az ész: egy 60 éves férfi 58 alkalommal gyújtogatott Szeged környékén, eljárás indult ellene (videó)",
-      "url": "https://szeged365.hu/2026/09/29/megall-az-esz-egy-60-eves-ferfi-58-alkalommal-gyujtogatott-szeged-kornyeken-eljaras-indult-ellene-video/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt Szeged belvárosában – a Petőfi Sándor sugárúton forgalmi akadály alakult ki",
-      "url": "https://szeged365.hu/2026/09/29/baleset-tortent-szeged-belvarosaban-a-petofi-sandor-sugaruton-forgalmi-akadaly-alakult-ki/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hello október: brutálisan sűrű hónappal robban be a klubturné-szezon a JATE Klubba Szegeden",
-      "url": "https://szeged365.hu/2026/09/29/hello-oktober-brutalisan-suru-honappal-robban-be-a-klubturne-szezon-a-jate-klubba-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-01T06:09:01.668170Z"
+  "updated_at": "2026-10-01T09:02:04.640968Z"
 }

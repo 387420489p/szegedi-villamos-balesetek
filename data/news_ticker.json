@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-01T12:04:35.696367Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ingatlanközvetítéssel is foglalkozik a szegedi Proinvest, de nem úgy, ahogy elsőre gondolnád (videó)",
+      "url": "https://szeged365.hu/2026/10/01/ingatlankozvetitessel-is-foglalkozik-a-szegedi-proinvest-de-nem-ugy-ahogy-elsore-gondolnad-video/"
+    },
+    {
+      "first_seen": "2026-10-01T12:04:35.696367Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szakmai előadások, sport, gyerekprogramok és közös élmények – a Diabétesz Világnapján cukorbetegség kerül a középpontba Szegeden",
+      "url": "https://szeged365.hu/2026/10/01/szakmai-eloadasok-sport-gyerekprogramok-es-kozos-elmenyek-a-diabetesz-vilagnapjan-cukorbetegseg-kerul-a-kozeppontba-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-01T12:04:35.696367Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas tűz ütött ki Szegeden – óriási füstfelhő sötétítette el az eget, benzin és alkoholszármazékok égnek (galéria) (frissítve)",
+      "url": "https://szeged365.hu/2026/10/01/tuz-van-szegeden-oriasi-fustfelho-sotetitette-el-az-eget-galeria/"
+    },
+    {
       "first_seen": "2026-10-01T09:02:04.640968Z",
       "published_at": "2026-10-01T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Óriási siker: ezüstérmes lett a szegedi Kollár Vanessza a kick-box világbajnokságon!",
       "url": "https://szeged365.hu/2026/09/29/oriasi-siker-ezustermes-lett-a-szegedi-kollar-vanessza-a-kick-box-vilagbajnoksagon/"
-    },
-    {
-      "first_seen": "2026-09-29T18:09:58.696657Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeptember 30-án, azaz holnap vesznek búcsút Deák Bill Gyulától Budapesten",
-      "url": "https://szeged365.hu/2026/09/29/szeptember-30-an-azaz-holnap-vesznek-bucsut-deak-bill-gyulatol-budapesten/"
-    },
-    {
-      "first_seen": "2026-09-29T18:09:58.696657Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is kapható sonkát hívott vissza a forgalmazó – súlyos betegséget okozhat, nem szabad elfogyasztani!",
-      "url": "https://szeged365.hu/2026/09/29/szegeden-is-kaphato-sonkat-hivott-vissza-a-forgalmazo-sulyos-betegseget-okozhat-nem-szabad-elfogyasztani/"
-    },
-    {
-      "first_seen": "2026-09-29T18:09:58.696657Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szerdán száraz, szinte zavartalan napsütéses időre készülhetünk Szegeden",
-      "url": "https://szeged365.hu/2026/09/29/szerdan-szaraz-szinte-zavartalan-napsuteses-idore-keszulhetunk-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-01T09:02:04.640968Z"
+  "updated_at": "2026-10-01T12:04:35.696367Z"
 }

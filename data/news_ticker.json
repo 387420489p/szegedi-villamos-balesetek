@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-01T18:01:43.497111Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Botka László az Idősek világnapján: Hálásak vagyunk az idősek munkájáért, tudásáért, szeretetéért",
+      "url": "https://szeged365.hu/2026/10/01/botka-laszlo-az-idosek-vilagnapjan-halasak-vagyunk-az-idosek-munkajaert-tudasaert-szereteteert/"
+    },
+    {
+      "first_seen": "2026-10-01T18:01:43.497111Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Medikémia-tűz: újabb információk érkeztek a helyszínen végzett levegő-mérésekről",
+      "url": "https://szeged365.hu/2026/10/01/medikemia-tuz-ujabb-informaciok-erkeztek-a-helyszinen-vegzett-levego-meresekrol/"
+    },
+    {
+      "first_seen": "2026-10-01T18:01:43.497111Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Pénteken is velünk marad a verőfényes napsütés Szegeden, széltől, és csapadéktól sem kell tartanunk",
+      "url": "https://szeged365.hu/2026/10/01/penteken-is-velunk-marad-a-verofenyes-napsutes-szegeden-szeltol-es-csapadektol-sem-kell-tartanunk/"
+    },
+    {
+      "first_seen": "2026-10-01T18:01:43.497111Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megszólalt az OMSZ: egy ember megsérült a Medikémiánál történt tűzesetben",
+      "url": "https://szeged365.hu/2026/10/01/megszolalt-az-omsz-egy-ember-megserult-a-beketelepi-tuzesetben/"
+    },
+    {
       "first_seen": "2026-10-01T15:09:35.601013Z",
       "published_at": "2026-10-01T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Letartóztatták az algyői gyújtogatót Szegeden, több mint 50 alkalommal okozott tüzet a férfi",
       "url": "https://szeged365.hu/2026/09/30/letartoztattak-az-algyoi-gyujtogatot-szegeden-tobb-mint-50-alkalommal-okozott-tuzet-a-ferfi/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jogerősen 14 év fegyházbüntetésre ítélték azt a férfit, aki megölte alvó feleségét Szegeden",
-      "url": "https://szeged365.hu/2026/09/30/jogerosen-14-ev-fegyhazbuntetesre-iteltek-azt-a-ferfit-aki-megolte-alvo-feleseget-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéssel és robotokkal ér véget a szeptember a Napfény Városában",
-      "url": "https://szeged365.hu/2026/09/30/napi-pakk-napsutessel-es-robotokkal-er-veget-a-szeptember-a-napfeny-varosaban/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "38-szor tekerték körbe a Földet a szegediek: hároméves lett a régió legnagyobb spinning terme, a Global Fitness",
-      "url": "https://szeged365.hu/2026/09/29/38-szor-tekertek-korbe-a-foldet-a-szegediek-haromeves-lett-a-regio-legnagyobb-spinning-terme-a-global-fitness/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a Bor Tér Szegeden",
-      "url": "https://szeged365.hu/2026/09/18/napi-pakk-napos-felhos-idovel-folytatodik-a-bor-ter-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-01T15:09:35.601013Z"
+  "updated_at": "2026-10-01T18:01:43.497111Z"
 }

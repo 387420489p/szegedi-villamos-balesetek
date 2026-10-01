@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megjelent az 100 leggazdagabb magyar listája: az élen továbbra is Mészáros Lőrinc áll, őt követi a PICK Szeged tulajdonosa",
+      "url": "https://szeged365.hu/2026/09/30/megjelent-az-100-leggazdagabb-magyar-listaja-a-lista-elen-tovabbra-is-meszaros-lorinc-all-ot-koveti-a-pick-szeged-tulajdonosa/"
+    },
+    {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Reagált az egyetem: a szentesi pszichiátriai osztály működése folyamatos, az ellátás szüneteltetését a Klinikai Központ nem tervezi",
+      "url": "https://szeged365.hu/2026/10/01/reagalt-az-egyetem-a-szentesi-pszichiatriai-osztaly-mukodese-folyamatos-az-ellatas-szunetelteteset-a-klinikai-kozpont-nem-tervezi/"
+    },
+    {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Töklámpások, őszi hangulat és izgalmas programok – itt az ősz, jön a Tök Jó Nap a Füvészkertben",
+      "url": "https://szeged365.hu/2026/10/01/toklampasok-oszi-hangulat-es-izgalmas-programok-itt-az-osz-jon-a-tok-jo-nap-a-fuveszkertben/"
+    },
+    {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-10-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: derült éggel startol az október és az Őszi kulturális fesztivál Szegeden",
+      "url": "https://szeged365.hu/2026/10/01/napi-pakk-derult-eggel-startol-az-oktober-es-az-oszi-kulturalis-fesztival-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-09-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Show must go on: csapatot bővít a Luxoya VIP Szeged!",
+      "url": "https://szeged365.hu/2026/09/30/show-must-go-on-csapatot-bovit-a-luxoya-vip-szeged/"
+    },
+    {
+      "first_seen": "2026-10-01T06:09:01.668170Z",
+      "published_at": "2026-09-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéssel indítjuk a hétvégét Szegeden, még mindig robog a Bor tér",
+      "url": "https://szeged365.hu/2026/09/19/napi-pakk-napsutessel-inditjuk-a-hetveget-szegeden-meg-mindig-robog-a-bor-ter/"
+    },
+    {
       "first_seen": "2026-09-30T18:08:49.131954Z",
       "published_at": "2026-09-30T00:00:00",
       "reason": "prefiltered",
@@ -173,14 +221,6 @@
       "published_at": "2026-09-30T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Megjelent az 100 leggazdagabb magyar listája: az élen továbbra is Mészáros Lőrinc áll, őt követi a PICK Szeged tulajdonosa",
-      "url": "https://szeged365.hu/2026/09/30/megjelent-az-100-leggazdagabb-magyar-listaja-a-lista-elen-tovabbra-is-meszaros-lorinc-all-ot-koveti-a-pick-szeged-tulajdonosa/"
-    },
-    {
-      "first_seen": "2026-09-30T06:06:01.640262Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Jogerősen 14 év fegyházbüntetésre ítélték azt a férfit, aki megölte alvó feleségét Szegeden",
       "url": "https://szeged365.hu/2026/09/30/jogerosen-14-ev-fegyhazbuntetesre-iteltek-azt-a-ferfit-aki-megolte-alvo-feleseget-szegeden/"
     },
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Hello október: brutálisan sűrű hónappal robban be a klubturné-szezon a JATE Klubba Szegeden",
       "url": "https://szeged365.hu/2026/09/29/hello-oktober-brutalisan-suru-honappal-robban-be-a-klubturne-szezon-a-jate-klubba-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi sikersztorik: húsz év munkája vált közkinccsé – Fábri-Ivánovics Tünde, Szegeden élő népdalénekes száz moldvai dallamot hozott vissza az életbe",
-      "url": "https://szeged365.hu/2026/09/29/szegedi-sikersztorik-husz-ev-munkaja-valt-kozkinccse-fabri-ivanovics-tunde-szegeden-elo-nepdalenekes-szaz-moldvai-dallamot-hozott-vissza-az-eletbe/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Születésnapi ajándékkal készül a Szent Vincent: 50 százalék kedvezmény járhat az érintettek szállására Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/09/29/szuletesnapi-ajandekkal-keszul-a-szent-vincent-50-szazalek-kedvezmeny-jarhat-az-erintettek-szallasara-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elutasították a fellebbezést, a szegedi Fábián Bettina nem kaphatja vissza az ezüstérmét",
-      "url": "https://szeged365.hu/2026/09/29/elutasitottak-a-fellebbezest-a-szegedi-fabian-bettina-nem-kaphatja-vissza-az-ezustermet/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt nem elég nézni: kóstolj bele Vietnám ízeibe Szegeden, a NAMO-ban (videó)",
-      "url": "https://szeged365.hu/2026/09/29/ezt-nem-eleg-nezni-kostolj-bele-vietnam-izeibe-szegeden-a-namo-ban-video/"
-    },
-    {
-      "first_seen": "2026-09-29T15:03:01.646282Z",
-      "published_at": "2026-09-29T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Felborult kisbusz, kisiklott tram-train, súlyos sérültek – életszerű balesetet szimuláltak Szegeden, a rendező pályaudvaron (videóval, fotókkal)",
-      "url": "https://szeged365.hu/2026/09/29/felborult-kisbusz-kisiklott-tram-train-sulyos-serultek-eletszeru-balesetet-szimulaltak-szegeden-a-rendezo-palyaudvaron-videoval-fotokkal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-30T18:08:49.131954Z"
+  "updated_at": "2026-10-01T06:09:01.668170Z"
 }

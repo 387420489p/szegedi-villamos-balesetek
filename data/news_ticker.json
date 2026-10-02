@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-02T15:06:35.712340Z",
+      "published_at": "2026-10-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Most nem lesz finomkodás: elszabadul a keményebb vonal a Városi Rock Klubban Szegeden",
+      "url": "https://szeged365.hu/2026/10/02/most-nem-lesz-finomkodas-elszabadul-a-kemenyebb-vonal-a-varosi-rock-klubban-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-02T15:06:35.712340Z",
+      "published_at": "2026-10-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi korrekt: egy másik vegyipari vállalat segítséget ajánlott a szegedi Medikémiának a tűzeset után",
+      "url": "https://szeged365.hu/2026/10/02/napi-korrekt-egy-masik-vegyipari-vallalat-segitseget-ajanlott-a-szegedi-medikemianak-a-tuzeset-utan/"
+    },
+    {
       "first_seen": "2026-10-02T12:07:35.609068Z",
       "published_at": "2026-10-01T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Folytatódik a derült, napsütéses időjárás Szegeden",
       "url": "https://szeged365.hu/2026/09/30/folytatodik-a-derult-napsuteses-idojaras-szegeden/"
-    },
-    {
-      "first_seen": "2026-09-30T18:08:49.131954Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Best of Friss Hús: az év legjobb magyar rövidfilmjei jönnek a szegedi Belvárosi moziba, közönségtalálkozóval",
-      "url": "https://szeged365.hu/2026/09/30/best-of-friss-hus-az-ev-legjobb-magyar-rovidfilmjei-jonnek-a-szegedi-belvarosi-moziba-kozonsegtalalkozoval/"
-    },
-    {
-      "first_seen": "2026-09-30T15:04:01.614399Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Igazi pickupok, bármilyen feladatra: megérkezett a FOTON Szegedre (videó)",
-      "url": "https://szeged365.hu/2026/09/30/igazi-pickupok-barmilyen-feladatra-megerkezett-a-foton-szegedre-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-02T12:07:35.609068Z"
+  "updated_at": "2026-10-02T15:06:35.712340Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-03T18:07:35.625525Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: melyik szegedi sportolóra legyen büszke idén a Napfény Városa? Már lehet nevezni a 2026-os Legszegedibb Szegediekre, mutatjuk, kiket javasoltak a járókelők! (videó)",
+      "url": "https://szeged365.hu/2026/10/03/szegedi-pletykak-melyik-szegedi-sportolora-legyen-buszke-iden-a-napfeny-varosa-mar-lehet-nevezni-a-2026-os-legszegedibb-szegediekre-mutatjuk-kiket-javasoltak-a-jarokelok-video/"
+    },
+    {
+      "first_seen": "2026-10-03T18:07:35.625525Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap is marad a vénasszonyok nyara Szegeden, de nagy lesz a hőingás",
+      "url": "https://szeged365.hu/2026/10/03/vasarnap-is-marad-a-venasszonyok-nyara-szegeden-de-nagy-lesz-a-hoingas/"
+    },
+    {
       "first_seen": "2026-10-03T12:09:35.598835Z",
       "published_at": "2026-10-03T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megszólalt az OMSZ: egy ember megsérült a Medikémiánál történt tűzesetben",
       "url": "https://szeged365.hu/2026/10/01/megszolalt-az-omsz-egy-ember-megserult-a-beketelepi-tuzesetben/"
-    },
-    {
-      "first_seen": "2026-10-01T15:09:35.601013Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ma ünnepli 10. születésnapját a Szent Vincent Rehabilitációs Központ, és különleges meglepetésekkel készülnek",
-      "url": "https://szeged365.hu/2026/10/01/ma-unnepli-10-szuletesnapjat-a-szent-vincent-rehabilitacios-kozpont-es-kulonleges-meglepetesekkel-keszulnek/"
-    },
-    {
-      "first_seen": "2026-10-01T15:09:35.601013Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ti kérdeztétek, mi utánajártunk: ez a három dolog érdekli most a legtöbb embert a szegedi Cédrus Ligetről (videó)",
-      "url": "https://szeged365.hu/2026/10/01/ti-kerdeztetek-mi-utanajartunk-ez-a-harom-dolog-erdekli-most-a-legtobb-embert-a-szegedi-cedrus-ligetrol-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-03T12:09:35.598835Z"
+  "updated_at": "2026-10-03T18:07:35.625525Z"
 }

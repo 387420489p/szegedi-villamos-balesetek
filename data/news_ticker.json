@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-03T12:09:35.598835Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pofátlan parkolások Szegeden: járdán és kapubejáró előtt is megálltak",
+      "url": "https://szeged365.hu/2026/10/03/napi-pofatlan-parkolasok-szegeden-jardan-es-kapubejaro-elott-is-megalltak/"
+    },
+    {
+      "first_seen": "2026-10-03T12:09:35.598835Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gálázik a szegedi Gémes Levente: görög ellenféllel bokszol október 9-én",
+      "url": "https://szeged365.hu/2026/10/03/a-legjobb-magyar-okolvivok-kozott-galazik-a-szegedi-gemes-levente-gorog-ellenfellel-bokszol-oktober-9-en/"
+    },
+    {
+      "first_seen": "2026-10-03T12:09:35.598835Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megszólalt a Medikémia a tűzről: információik szerint stabil az állapota a súlyosan sérült munkavállalójuknak",
+      "url": "https://szeged365.hu/2026/10/03/megszolalt-a-medikemia-a-tuzrol-informacioik-szerint-stabil-az-allapota-a-sulyosan-serult-munkavallalojuknak/"
+    },
+    {
       "first_seen": "2026-10-03T09:08:35.588679Z",
       "published_at": "2026-10-03T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ti kérdeztétek, mi utánajártunk: ez a három dolog érdekli most a legtöbb embert a szegedi Cédrus Ligetről (videó)",
       "url": "https://szeged365.hu/2026/10/01/ti-kerdeztetek-mi-utanajartunk-ez-a-harom-dolog-erdekli-most-a-legtobb-embert-a-szegedi-cedrus-ligetrol-video/"
-    },
-    {
-      "first_seen": "2026-10-01T15:09:35.601013Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„A zene világnapja ezúttal nem halk és ünnepélyes lesz” – olasz és szegedi punkenergia érkezik a Városi Rock Klubba",
-      "url": "https://szeged365.hu/2026/10/01/a-zene-vilagnapja-ezuttal-nem-halk-es-unnepelyes-lesz-olasz-es-szegedi-punkenergia-erkezik-a-varosi-rock-klubba/"
-    },
-    {
-      "first_seen": "2026-10-01T12:04:35.696367Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ingatlanközvetítéssel is foglalkozik a szegedi Proinvest, de nem úgy, ahogy elsőre gondolnád (videó)",
-      "url": "https://szeged365.hu/2026/10/01/ingatlankozvetitessel-is-foglalkozik-a-szegedi-proinvest-de-nem-ugy-ahogy-elsore-gondolnad-video/"
-    },
-    {
-      "first_seen": "2026-10-01T12:04:35.696367Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szakmai előadások, sport, gyerekprogramok és közös élmények – a Diabétesz Világnapján cukorbetegség kerül a középpontba Szegeden",
-      "url": "https://szeged365.hu/2026/10/01/szakmai-eloadasok-sport-gyerekprogramok-es-kozos-elmenyek-a-diabetesz-vilagnapjan-cukorbetegseg-kerul-a-kozeppontba-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-03T09:08:35.588679Z"
+  "updated_at": "2026-10-03T12:09:35.598835Z"
 }

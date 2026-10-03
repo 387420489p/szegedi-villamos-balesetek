@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-03T06:09:35.677912Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szombaton is folytatódik a napsütés Szegeden, Tápé tovább Búcsúzik, a Maty-éren és a belvárosban pedig veteránautók találkoznak",
+      "url": "https://szeged365.hu/2026/10/03/napi-pakk-szombaton-is-folytatodik-a-napsutes-szegeden-tape-tovabb-bucsuzik-a-maty-eren-pedig-veteranautok-talalkoznak/"
+    },
+    {
+      "first_seen": "2026-10-03T06:09:35.677912Z",
+      "published_at": "2026-10-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra feltűnt egy porördög Szegeden, mutatjuk, miért alakulnak ki egyre gyakrabban",
+      "url": "https://szeged365.hu/2026/10/02/ujra-feltunt-egy-porordog-szegeden-mutatjuk-miert-alakulnak-ki-egyre-gyakrabban/"
+    },
+    {
+      "first_seen": "2026-10-03T06:09:35.677912Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A LEGSZEGEDIBB ZENÉSZ ÜTŐT RAGADOTT: BALÁZS-PIRI SOMA BOGÁNYI GERGELLYEL TENISZEZETT A SZEGEDI KONCERT ELŐTT",
+      "url": "https://szeged365.hu/2026/10/03/a-legszegedibb-zenesz-utot-ragadott-balazs-piri-soma-boganyi-gergellyel-teniszezett-a-szegedi-koncert-elott/"
+    },
+    {
       "first_seen": "2026-10-02T18:06:35.709512Z",
       "published_at": "2026-10-01T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Jobban nem is indulhatna az október: a hétvégén Honeybeast, Mehringer és Nagy Bogi is ingyen koncertezik az ÁRKÁD Szegedben!",
       "url": "https://szeged365.hu/2026/10/01/jobban-nem-is-indulhatna-az-oktober-a-hetvegen-honeybeast-mehringer-es-nagy-bogi-is-ingyen-koncertezik-az-arkad-szegedben/"
-    },
-    {
-      "first_seen": "2026-10-01T09:02:04.640968Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bangladesi, jordán és nepáli migránsokat fogtak Szeged közigazgatási területén",
-      "url": "https://szeged365.hu/2026/10/01/bangladesi-jordan-es-nepali-migransokat-fogtak-szeged-kozigazgatasi-teruleten/"
-    },
-    {
-      "first_seen": "2026-10-01T06:09:01.668170Z",
-      "published_at": "2026-09-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megjelent az 100 leggazdagabb magyar listája: az élen továbbra is Mészáros Lőrinc áll, őt követi a PICK Szeged tulajdonosa",
-      "url": "https://szeged365.hu/2026/09/30/megjelent-az-100-leggazdagabb-magyar-listaja-a-lista-elen-tovabbra-is-meszaros-lorinc-all-ot-koveti-a-pick-szeged-tulajdonosa/"
-    },
-    {
-      "first_seen": "2026-10-01T06:09:01.668170Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Reagált az egyetem: a szentesi pszichiátriai osztály működése folyamatos, az ellátás szüneteltetését a Klinikai Központ nem tervezi",
-      "url": "https://szeged365.hu/2026/10/01/reagalt-az-egyetem-a-szentesi-pszichiatriai-osztaly-mukodese-folyamatos-az-ellatas-szunetelteteset-a-klinikai-kozpont-nem-tervezi/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-02T18:06:35.709512Z"
+  "updated_at": "2026-10-03T06:09:35.677912Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-03T09:08:35.588679Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Szamos utcába riasztották a tűzoltókat, kigyulladt egy mosógép (fotók)",
+      "url": "https://szeged365.hu/2026/10/03/a-szamos-utcaba-riasztottak-a-tuzoltokat-kigyulladt-egy-mosogep/"
+    },
+    {
+      "first_seen": "2026-10-03T09:08:35.588679Z",
+      "published_at": "1996-10-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Harminc éve mutatkozott be az OTP-Bank Pick Szeged a BL-ben, kék-fehér zászlókba öltözött a Belvárosi híd",
+      "url": "https://szeged365.hu/2026/10/03/harminc-eve-mutatkozott-be-az-otp-bank-pick-szeged-a-bl-ben-kek-feher-zaszlokba-oltozott-a-belvarosi-hid/"
+    },
+    {
       "first_seen": "2026-10-03T06:09:35.677912Z",
       "published_at": "2026-10-03T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szakmai előadások, sport, gyerekprogramok és közös élmények – a Diabétesz Világnapján cukorbetegség kerül a középpontba Szegeden",
       "url": "https://szeged365.hu/2026/10/01/szakmai-eloadasok-sport-gyerekprogramok-es-kozos-elmenyek-a-diabetesz-vilagnapjan-cukorbetegseg-kerul-a-kozeppontba-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-01T09:02:04.640968Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 live: 118 éves a szegedi villamosközlekedés! Nosztalgiajáratokkal és ünnepi eseménnyel is készül az SZKT (frissítve)",
-      "url": "https://szeged365.hu/2026/10/01/szeged365-live-118-eves-a-szegedi-villamoskozlekedes-a-szuletesnap-az-egyik-kulonleges-jarmu-eleteben-is-uj-fejezetet-nyit-a-magyar-muszaki-es-kozlekedesi-muzeumhoz-kerul-a-legendas-609-es-bengali/"
-    },
-    {
-      "first_seen": "2026-10-01T09:02:04.640968Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jobban nem is indulhatna az október: a hétvégén Honeybeast, Mehringer és Nagy Bogi is ingyen koncertezik az ÁRKÁD Szegedben!",
-      "url": "https://szeged365.hu/2026/10/01/jobban-nem-is-indulhatna-az-oktober-a-hetvegen-honeybeast-mehringer-es-nagy-bogi-is-ingyen-koncertezik-az-arkad-szegedben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-03T06:09:35.677912Z"
+  "updated_at": "2026-10-03T09:08:35.588679Z"
 }

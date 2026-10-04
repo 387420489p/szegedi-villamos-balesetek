@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-04T09:02:18.532289Z",
+      "published_at": "2026-10-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Takáts Tamás és a legdögösebb blues-ritmusok veszik be a szegedi Erzsébet-ligetet – jövő hétvégén érkezik a Burger Blues Beer Fest!",
+      "url": "https://szeged365.hu/2026/10/04/takats-tamas-es-a-legdogosebb-blues-ritmusok-veszik-be-a-szegedi-erzsebet-ligetet-jovo-hetvegen-erkezik-a-burger-blues-beer-fest/"
+    },
+    {
+      "first_seen": "2026-10-04T09:02:18.532289Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mentőt kellett hívni a szombati SZVSE-ESMTK focimeccsre, az egyik játékosnak eltört az állkapcsa",
+      "url": "https://szeged365.hu/2026/10/04/mentot-kellett-hivni-a-szombati-szvse-esmtk-focimeccsre-az-egyik-jatekosnak-eltort-az-allkapcsa/"
+    },
+    {
       "first_seen": "2026-10-04T06:09:35.575563Z",
       "published_at": "2026-10-02T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: pénteken is napfényes lesz a Napfény Városa, Tápén pedig kezdődik a búcsú",
       "url": "https://szeged365.hu/2026/10/02/napi-pakk-penteken-is-napfenyes-lesz-a-napfeny-varosa-tapen-pedig-kezdodik-a-bucsu/"
-    },
-    {
-      "first_seen": "2026-10-02T06:09:35.598164Z",
-      "published_at": "2026-09-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a hidegfront Szegeden, ma van az autómentes világnap",
-      "url": "https://szeged365.hu/2026/09/22/napi-pakk-folytatodik-a-hidegfront-szegeden-ma-van-az-automentes-vilagnap/"
-    },
-    {
-      "first_seen": "2026-10-01T18:01:43.497111Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László az Idősek világnapján: Hálásak vagyunk az idősek munkájáért, tudásáért, szeretetéért",
-      "url": "https://szeged365.hu/2026/10/01/botka-laszlo-az-idosek-vilagnapjan-halasak-vagyunk-az-idosek-munkajaert-tudasaert-szereteteert/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-04T06:09:35.575563Z"
+  "updated_at": "2026-10-04T09:02:18.532289Z"
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-04T12:05:35.592558Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tovább él a hagyomány: idén is menettánccal ünnepeltek Tápén (fotók)",
+      "url": "https://szeged365.hu/2026/10/04/tovabb-el-a-hagyomany-iden-is-menettanccal-unnepeltek-tapen-fotok/"
+    },
+    {
+      "first_seen": "2026-10-04T12:05:35.592558Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Finomságokkal és egy cseppnyi szeretettel lepték meg a rászoruló szegedieket a Mátrix Közhasznú Alapítvány bohócdoktorai",
+      "url": "https://szeged365.hu/2026/10/04/finomsagokkal-es-egy-cseppnyi-szeretettel-leptek-meg-a-raszorulo-szegedieket-a-matrix-kozhasznu-alapitvany-bohocdoktorai/"
+    },
+    {
+      "first_seen": "2026-10-04T12:05:35.592558Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi rendezvényen bukkant fel Novák Katalin, egy okoseszközt mutatott be a volt köztársasági elnök",
+      "url": "https://szeged365.hu/2026/10/04/szegedi-rendezvenyen-bukkant-fel-novak-katalin-egy-okoseszkozt-mutatott-be-a-volt-koztarsasagi-elnok/"
+    },
+    {
       "first_seen": "2026-10-04T09:02:18.532289Z",
       "published_at": "2026-10-09T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Éjfélig oltották a tüzet a Medikémiánál Szegeden, ötven tűzoltó dolgozott a helyszínen",
       "url": "https://szeged365.hu/2026/10/02/ejfelig-oltottak-a-tuzoltoka-medikemianal-szegeden-otven-tuzolto-dolgozott-a-helyszinen/"
-    },
-    {
-      "first_seen": "2026-10-02T06:09:35.598164Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Munkálatokba kezd a Magyar Közút Szeged belterületén! Forgalomkorlátozás lesz a 47-es főút egyes városi szakaszain",
-      "url": "https://szeged365.hu/2026/10/02/munkalatokba-kezd-a-magyar-kozut-szeged-belteruleten-forgalomkorlatozas-lesz-a-47-es-fout-egyes-varosi-szakaszain/"
-    },
-    {
-      "first_seen": "2026-10-02T06:09:35.598164Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "László András szerint Bús Balázs szegedi Csillagbörtönben való elhelyezése aránytalan és magyarázatot kíván – azt szeretné, ha az EP küldöttsége a helyszínen vizsgálná meg az ő fogvatartási körülményeit is",
-      "url": "https://szeged365.hu/2026/10/02/laszlo-andras-szerint-bus-balazs-szegedi-csillagbortonben-valo-elhelyezese-aranytalan-es-magyarazatot-kivan-azt-szeretne-ha-az-ep-kuldottsege-a-helyszinen-vizsgalna-meg-az-o-fogvatartasi-korulmenye/"
-    },
-    {
-      "first_seen": "2026-10-02T06:09:35.598164Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: pénteken is napfényes lesz a Napfény Városa, Tápén pedig kezdődik a búcsú",
-      "url": "https://szeged365.hu/2026/10/02/napi-pakk-penteken-is-napfenyes-lesz-a-napfeny-varosa-tapen-pedig-kezdodik-a-bucsu/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-04T09:02:18.532289Z"
+  "updated_at": "2026-10-04T12:05:35.592558Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-04T18:01:35.459388Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felhős, de kellemes idővel indul a jövő hét Szegeden",
+      "url": "https://szeged365.hu/2026/10/04/felhos-de-kellemes-idovel-indul-a-jovo-het-szegeden/"
+    },
+    {
       "first_seen": "2026-10-04T15:08:35.590515Z",
       "published_at": "2026-10-04T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Europa Nostra-díjas belváros, szeméttel megspékelve – valóban ezt érdemli Szeged? (fotókkal)",
       "url": "https://szeged365.hu/2026/10/02/europa-nostra-dijas-belvaros-szemettel-megspekelve-valoban-ezt-erdemli-szeged-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új korszak kezdődött a Szegedi Tudományegyetem nemzetközi jelenlétében: megnyílt az SZTE képzési központja Xi’anban",
-      "url": "https://szeged365.hu/2026/10/02/uj-korszak-kezdodott-a-szegedi-tudomanyegyetem-nemzetkozi-jelenleteben-megnyilt-az-szte-kepzesi-kozpontja-xianban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-04T15:08:35.590515Z"
+  "updated_at": "2026-10-04T18:01:35.459388Z"
 }

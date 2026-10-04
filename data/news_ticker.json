@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-04T15:08:35.590515Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lopás, csalás, hamis vád – és ez még nem is a teljes bűnlajstroma egy szegedi férfinek (fotó)",
+      "url": "https://szeged365.hu/2026/10/04/lopas-csalas-hamis-vad-es-ez-meg-nem-is-a-teljes-bunlajstroma-egy-szegedi-ferfinek-foto/"
+    },
+    {
+      "first_seen": "2026-10-04T15:08:35.590515Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több órás áramszünet lehet Szegeden és a környékén hétfőtől, mutatjuk, melyik településeket és utcákat érinti",
+      "url": "https://szeged365.hu/2026/10/04/tobb-oras-aramszunet-lesz-szegeden-es-a-kornyeken-hetfotol-mutatjuk-melyik-telepuleseket-es-utcakat-erinti/"
+    },
+    {
       "first_seen": "2026-10-04T12:05:35.592558Z",
       "published_at": "2026-10-04T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Új korszak kezdődött a Szegedi Tudományegyetem nemzetközi jelenlétében: megnyílt az SZTE képzési központja Xi’anban",
       "url": "https://szeged365.hu/2026/10/02/uj-korszak-kezdodott-a-szegedi-tudomanyegyetem-nemzetkozi-jelenleteben-megnyilt-az-szte-kepzesi-kozpontja-xianban/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Koncertekkel, táncműsorral és fényfestéssel indul a 30. Őszi kulturális fesztivál Szegeden, kiderültek a nyitónap programjai (videó)",
-      "url": "https://szeged365.hu/2026/09/28/koncertekkel-tancmusorral-es-fenyfestessel-indul-a-30-oszi-kulturalis-fesztival-szegeden-kiderultek-a-nyitonap-programjai/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Éjfélig oltották a tüzet a Medikémiánál Szegeden, ötven tűzoltó dolgozott a helyszínen",
-      "url": "https://szeged365.hu/2026/10/02/ejfelig-oltottak-a-tuzoltoka-medikemianal-szegeden-otven-tuzolto-dolgozott-a-helyszinen/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-04T12:05:35.592558Z"
+  "updated_at": "2026-10-04T15:08:35.590515Z"
 }

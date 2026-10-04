@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-04T06:09:35.575563Z",
+      "published_at": "2026-10-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: Tápai búcsú, Nagy Bogi koncert, mini halfőző fesztivál, veteránjárgányok, nosztalgiavillamosok – mutatjuk, milyen programokat tartogat a hétvégére Szeged",
+      "url": "https://szeged365.hu/2026/10/02/szeged365-kikapcs-tapai-bucsu-nagy-bogi-koncert-mini-halfozo-fesztival-veteranjarganyok-nosztalgiavillamosok-mutatjuk-milyen-programokat-tartogat-a-hetvegere-szeged/"
+    },
+    {
+      "first_seen": "2026-10-04T06:09:35.575563Z",
+      "published_at": "2026-10-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes idő lesz vasárnap is, elstartolt a 30. Őszi Kulturális Fesztivál, ingyenes Mehringer koncert vár az Árkádban!",
+      "url": "https://szeged365.hu/2026/10/04/napi-pakk-kellemes-ido-lesz-vasarnap-is-elstartolt-a-30-oszi-kulturalis-fesztival-ingyenes-mehringer-koncert-var-az-arkadban/"
+    },
+    {
+      "first_seen": "2026-10-04T06:09:35.575563Z",
+      "published_at": "2026-10-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Erre most egész Szeged és Szatymaz büszke lehet: Asbóth Lilla Brnóban is felállt a dobogó tetejére!",
+      "url": "https://szeged365.hu/2026/10/03/erre-most-egesz-szeged-es-szatymaz-buszke-lehet-asboth-lilla-brnoban-is-felallt-a-dobogo-tetejere/"
+    },
+    {
       "first_seen": "2026-10-03T18:07:35.625525Z",
       "published_at": "2026-10-03T00:00:00",
       "reason": "prefiltered",
@@ -173,14 +197,6 @@
       "published_at": "2026-10-02T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: Tápai búcsú, Nagy Bogi koncert, mini halfőző fesztivál, veteránjárgányok, nosztalgiavillamosok – mutatjuk, milyen programokat tartogat a hétvégére Szeged",
-      "url": "https://szeged365.hu/2026/10/02/szeged365-kikapcs-tapai-bucsu-nagy-bogi-koncert-mini-halfozo-fesztival-veteranjarganyok-nosztalgiavillamosok-mutatjuk-milyen-programokat-tartogat-a-hetvegere-szeged/"
-    },
-    {
-      "first_seen": "2026-10-02T12:07:35.609068Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Óriási szegedi siker: Kiss Ágnes aranyérmes lett a Kínában zajló Szuperkupán, és a Sárkányhajó vb-n is ezüstöt szerzett (galéria)",
       "url": "https://szeged365.hu/2026/10/02/oriasi-szegedi-siker-kiss-agnes-aranyermes-lett-a-kinaban-zajlo-szuperkupan-es-a-sarkanyhajo-vb-n-is-ezustot-szerzett/"
     },
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Botka László az Idősek világnapján: Hálásak vagyunk az idősek munkájáért, tudásáért, szeretetéért",
       "url": "https://szeged365.hu/2026/10/01/botka-laszlo-az-idosek-vilagnapjan-halasak-vagyunk-az-idosek-munkajaert-tudasaert-szereteteert/"
-    },
-    {
-      "first_seen": "2026-10-01T18:01:43.497111Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Pénteken is velünk marad a verőfényes napsütés Szegeden, széltől, és csapadéktól sem kell tartanunk",
-      "url": "https://szeged365.hu/2026/10/01/penteken-is-velunk-marad-a-verofenyes-napsutes-szegeden-szeltol-es-csapadektol-sem-kell-tartanunk/"
-    },
-    {
-      "first_seen": "2026-10-01T18:01:43.497111Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszólalt az OMSZ: egy ember megsérült a Medikémiánál történt tűzesetben",
-      "url": "https://szeged365.hu/2026/10/01/megszolalt-az-omsz-egy-ember-megserult-a-beketelepi-tuzesetben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-03T18:07:35.625525Z"
+  "updated_at": "2026-10-04T06:09:35.575563Z"
 }

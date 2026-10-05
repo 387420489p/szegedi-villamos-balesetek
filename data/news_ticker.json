@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-05T18:04:35.466778Z",
+      "published_at": "2026-11-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Van egy tudományos, műszaki vagy innovációs ötleted? Az SZTE válogatóján a helyed!",
+      "url": "https://szeged365.hu/2026/10/05/van-egy-tudomanyos-muszaki-vagy-innovacios-otleted-az-szte-valogatojan-a-helyed/"
+    },
+    {
+      "first_seen": "2026-10-05T18:04:35.466778Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kitart a szép idő kedden is Szegeden, csak kevés fátyolfelhő jelenhet meg az égen",
+      "url": "https://szeged365.hu/2026/10/05/kitart-a-szep-ido-kedden-is-szegeden-csak-keves-fatyolfelho-jelenhet-meg-az-egen/"
+    },
+    {
+      "first_seen": "2026-10-05T18:04:35.466778Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Sétáló erdő” érkezett Szegedre – kiderült, miért helyeztek el fákat a Klauzál téren (galéria)",
+      "url": "https://szeged365.hu/2026/10/05/setalo-erdo-erkezett-szegedre-kiderult-miert-helyeztek-el-fakat-a-klauzal-teren-galeria/"
+    },
+    {
+      "first_seen": "2026-10-05T18:04:35.466778Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Amikor már az edzőterem előtt meggondolnád magad – ugorj be inkább az Izometria Fitnessbe Szeged belvárosában (videó)",
+      "url": "https://szeged365.hu/2026/10/05/amikor-mar-az-edzoterem-elott-meggondolnad-magad-ugorj-be-inkabb-az-izometria-fitnessbe-szeged-belvarosaban-video/"
+    },
+    {
       "first_seen": "2026-10-05T15:02:35.473682Z",
       "published_at": "2026-10-02T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újra feltűnt egy porördög Szegeden, mutatjuk, miért alakulnak ki egyre gyakrabban",
       "url": "https://szeged365.hu/2026/10/02/ujra-feltunt-egy-porordog-szegeden-mutatjuk-miert-alakulnak-ki-egyre-gyakrabban/"
-    },
-    {
-      "first_seen": "2026-10-03T06:09:35.677912Z",
-      "published_at": "2026-10-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A LEGSZEGEDIBB ZENÉSZ ÜTŐT RAGADOTT: BALÁZS-PIRI SOMA BOGÁNYI GERGELLYEL TENISZEZETT A SZEGEDI KONCERT ELŐTT",
-      "url": "https://szeged365.hu/2026/10/03/a-legszegedibb-zenesz-utot-ragadott-balazs-piri-soma-boganyi-gergellyel-teniszezett-a-szegedi-koncert-elott/"
-    },
-    {
-      "first_seen": "2026-10-02T18:06:35.709512Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Medikémia-tűz: újabb információk érkeztek a helyszínen végzett levegő-mérésekről",
-      "url": "https://szeged365.hu/2026/10/01/medikemia-tuz-ujabb-informaciok-erkeztek-a-helyszinen-vegzett-levego-meresekrol/"
-    },
-    {
-      "first_seen": "2026-10-02T18:06:35.709512Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ez igen, újra nagyot ment a Pick Szeged: nyolcgólos győzelmet arattak a Fradi ellen!",
-      "url": "https://szeged365.hu/2026/10/02/ez-igen-ujra-nagyot-ment-a-pick-szeged-nyolcgolos-gyozelmet-arattak-a-fradi-ellen/"
-    },
-    {
-      "first_seen": "2026-10-02T18:06:35.709512Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "30 ezer árvácska díszíti a köztereket Szegeden, már a tavaszra is készülnek",
-      "url": "https://szeged365.hu/2026/10/02/30-ezer-arvacska-disziti-a-koztereket-szegeden-mar-a-tavaszra-is-keszulnek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-05T15:02:35.473682Z"
+  "updated_at": "2026-10-05T18:04:35.466778Z"
 }

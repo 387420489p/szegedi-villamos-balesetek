@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-05T12:06:35.470592Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap délután leugrott egy nő a szegedi Bertalan hídról (18+)",
+      "url": "https://szeged365.hu/2026/10/05/vasarnap-delutan-leugrott-egy-no-a-szegedi-bertalan-hidrol-18/"
+    },
+    {
+      "first_seen": "2026-10-05T12:06:35.470592Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lassult az algyői vasúti Tisza-híd állapotromlása, de a folyamat nem állt meg: mostantól már csak 50-nel járnak a vasútvillamosok és a vonatok",
+      "url": "https://szeged365.hu/2026/10/05/lassult-az-algyoi-vasuti-tisza-hid-allapotromlasa-de-a-folyamat-nem-allt-meg-mostantol-mar-csak-50-nel-jarnak-a-vasutvillamosok-es-a-vonatok/"
+    },
+    {
+      "first_seen": "2026-10-05T12:06:35.470592Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Drónokkal, lóháton vizsgálták az olvadó Közép-Ázsiai gleccsereket az SZTE kutatói (galéria)",
+      "url": "https://szeged365.hu/2026/10/05/dronokkal-lohaton-vizsgaltak-az-olvado-kozep-azsiai-gleccsereket-az-szte-kutatoi-galeria/"
+    },
+    {
+      "first_seen": "2026-10-05T12:06:35.470592Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Négy hónap kórház után Szegeden kapott új reményt: Valter Krisztián a Szent Vincent Rehabilitációs Központban mesélt a felépüléséről (videó)",
+      "url": "https://szeged365.hu/2026/10/05/negy-honap-korhaz-utan-szegeden-kapott-uj-remenyt-valter-krisztian-a-szent-vincent-rehabilitacios-kozpontban-meselt-a-felepuleserol-video/"
+    },
+    {
       "first_seen": "2026-10-05T09:07:35.465861Z",
       "published_at": "2026-10-02T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "#SZEGEDI ARCOK",
       "url": "https://szeged365.hu/szegediarcok/"
-    },
-    {
-      "first_seen": "2026-10-02T18:06:35.709512Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SMART SZEGED",
-      "url": "https://szeged365.hu/smartszeged/"
-    },
-    {
-      "first_seen": "2026-10-02T15:06:35.712340Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Most nem lesz finomkodás: elszabadul a keményebb vonal a Városi Rock Klubban Szegeden",
-      "url": "https://szeged365.hu/2026/10/02/most-nem-lesz-finomkodas-elszabadul-a-kemenyebb-vonal-a-varosi-rock-klubban-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-02T15:06:35.712340Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi korrekt: egy másik vegyipari vállalat segítséget ajánlott a szegedi Medikémiának a tűzeset után",
-      "url": "https://szeged365.hu/2026/10/02/napi-korrekt-egy-masik-vegyipari-vallalat-segitseget-ajanlott-a-szegedi-medikemianak-a-tuzeset-utan/"
-    },
-    {
-      "first_seen": "2026-10-02T12:07:35.609068Z",
-      "published_at": "2026-10-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas tűz ütött ki Szegeden – óriási füstfelhő sötétítette el az eget, benzin és alkoholszármazékok égnek (galéria) (frissítve)",
-      "url": "https://szeged365.hu/2026/10/01/tuz-van-szegeden-oriasi-fustfelho-sotetitette-el-az-eget-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-05T09:07:35.465861Z"
+  "updated_at": "2026-10-05T12:06:35.470592Z"
 }

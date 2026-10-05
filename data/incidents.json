@@ -7053,8 +7053,40 @@
       "status": "published",
       "summary": "Szegeden összeütközött egy villamos és egy személyautó a Boldogasszony sugárút és Galamb utca kereszteződésében. A helyszínelés és mentés ideje alatt pótlóbuszok közlekedtek.",
       "updated_at": "2026-09-21T12:19:07.125733Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-10-05T06:04:35.480201Z",
+      "event_date": "2026-10-05",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20261005-001",
+      "injuries": "unknown",
+      "location": "Kálvária sugárút",
+      "location_normalized": "kalvaria sugarut",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-10-05T06:04:35.480201Z",
+          "published_at": "2026-10-05T00:00:00",
+          "source_name": "Webrádió",
+          "title": "3-as villamossal ütközött egy személyautó a Kálvária sugárúton Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/3-as-villamossal-utkozott-egy-szemelyauto-a-kalvaria-sugaruton-szegeden"
+        },
+        {
+          "added_at": "2026-10-05T06:04:35.480201Z",
+          "published_at": "2026-10-05T08:13:00",
+          "source_name": "szeged.hu",
+          "title": "Baleset a Kálvária térnél: egy furgon le akarta győzni a 3-as villamost",
+          "url": "https://szeged.hu/cikk/baleset-a-kalvaria-ternel-egy-furgon-le-akarta-gyozni-a-3-as-villamost"
+        }
+      ],
+      "status": "published",
+      "summary": "Egy személyautó ütközött a 3-as villamossal a Kálvária sugárúton.",
+      "updated_at": "2026-10-05T06:04:35.480201Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-09-21T12:19:07.125733+00:00"
+  "updated_at": "2026-10-05T06:04:35.480201+00:00"
 }

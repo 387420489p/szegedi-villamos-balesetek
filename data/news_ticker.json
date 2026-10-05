@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-05T06:04:35.480201Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karbantartást végeznek: nem lesz melegvíz Szeged egyes utcáiban",
+      "url": "https://szeged365.hu/2026/10/05/karbantartast-vegeznek-nem-lesz-melegviz-szeged-egyes-utcaiban/"
+    },
+    {
+      "first_seen": "2026-10-05T06:04:35.480201Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi gokartos a nemzetközi élmezőnyben: Olaszországban állhatott rajthoz Hanus Armand",
+      "url": "https://szeged365.hu/2026/10/05/szegedi-gokartos-a-nemzetkozi-elmezonyben-olaszorszagban-allhatott-rajthoz-hanus-armand/"
+    },
+    {
+      "first_seen": "2026-10-05T06:04:35.480201Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős, de nyári időnk lesz, szuper filmek várnak a Belvárosi Moziban, a REÖK-ben pedig egy csodás kiállítás!",
+      "url": "https://szeged365.hu/2026/10/05/napi-pakk-felhos-de-nyari-idonk-lesz-szuper-filmek-varnak-a-belvarosi-moziban-a-reok-ben-pedig-egy-csodas-kiallitas/"
+    },
+    {
+      "first_seen": "2026-10-05T06:04:35.480201Z",
+      "published_at": "2026-10-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: pénteken is napfényes lesz a Napfény Városa, Tápén pedig kezdődik a búcsú",
+      "url": "https://szeged365.hu/2026/10/02/napi-pakk-penteken-is-napfenyes-lesz-a-napfeny-varosa-tapen-pedig-kezdodik-a-bucsu/"
+    },
+    {
       "first_seen": "2026-10-04T18:01:35.459388Z",
       "published_at": "2026-10-04T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Tűzriadó volt a Rókusi körúti Tescoban",
       "url": "https://szeged365.hu/2026/10/02/tuzriado-volt-a-rokusi-koruti-tescoban/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kemény volt a csütörtök: Szeged mellett hatalmas lángok csaptak fel Csanádpalotán is (videóval)",
-      "url": "https://szeged365.hu/2026/10/02/kemeny-volt-a-csutortok-szeged-mellett-hatalmas-langok-csaptak-fel-csanadpalotan-is-videoval/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged, indulhat a hétvége: ma Nagy Bogi lép színpadra az ÁRKÁD Szegedben, utána pedig egymást érik a koncertek és programok (videó)",
-      "url": "https://szeged365.hu/2026/10/02/szeged-indulhat-a-hetvege-ma-nagy-bogi-lep-szinpadra-az-arkad-szegedben-utana-pedig-egymast-erik-a-koncertek-es-programok-video/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Részegen tarolt le kocsijával három parkoló autót egy sofőr Szegeden, most vádat emeltek ellene",
-      "url": "https://szeged365.hu/2026/10/02/reszegen-tarolt-le-kocsijaval-harom-parkolo-autot-egy-sofor-szegeden-most-vadat-emeltek-ellene/"
-    },
-    {
-      "first_seen": "2026-10-02T09:00:35.558569Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Europa Nostra-díjas belváros, szeméttel megspékelve – valóban ezt érdemli Szeged? (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/02/europa-nostra-dijas-belvaros-szemettel-megspekelve-valoban-ezt-erdemli-szeged-fotokkal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-04T18:01:35.459388Z"
+  "updated_at": "2026-10-05T06:04:35.480201Z"
 }

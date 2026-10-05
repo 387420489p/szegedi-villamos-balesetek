@@ -7055,10 +7055,10 @@
       "updated_at": "2026-09-21T12:19:07.125733Z"
     },
     {
-      "confidence": 0.95,
+      "confidence": 0.98,
       "created_at": "2026-10-05T06:04:35.480201Z",
       "event_date": "2026-10-05",
-      "event_time": null,
+      "event_time": "07:30",
       "event_type": "collision",
       "id": "szvb-20261005-001",
       "injuries": "unknown",
@@ -7080,13 +7080,20 @@
           "source_name": "szeged.hu",
           "title": "Baleset a Kálvária térnél: egy furgon le akarta győzni a 3-as villamost",
           "url": "https://szeged.hu/cikk/baleset-a-kalvaria-ternel-egy-furgon-le-akarta-gyozni-a-3-as-villamost"
+        },
+        {
+          "added_at": "2026-10-05T09:07:35.465861Z",
+          "published_at": "2026-10-05T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Balesettel indult a nap: kihajtottak a villamos elé Szegeden - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/10/05/villamos-ele-hajtott-egy-kisteherauto-szegeden/"
         }
       ],
       "status": "published",
       "summary": "Egy személyautó ütközött a 3-as villamossal a Kálvária sugárúton.",
-      "updated_at": "2026-10-05T06:04:35.480201Z"
+      "updated_at": "2026-10-05T09:07:35.465861Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-05T06:04:35.480201+00:00"
+  "updated_at": "2026-10-05T09:07:35.465861+00:00"
 }

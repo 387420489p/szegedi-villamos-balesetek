@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-06T12:04:35.461757Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Összeütközött egy kamion és egy személyautó Makón – az érintett útszakaszon forgalmi akadály alakult ki",
+      "url": "https://szeged365.hu/2026/10/06/osszeutkozott-egy-kamion-es-egy-szemelyauto-makon-az-erintett-utszakaszon-forgalmi-akadaly-alakult-ki/"
+    },
+    {
+      "first_seen": "2026-10-06T12:04:35.461757Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az ÁRKÁD Szeged születésnapján Nagy Bogi őszintén mesélt a sorsfordító 2026-ról, a bulvár árnyoldaláról és arról, milyen új kalandra készül (videó és galéria)",
+      "url": "https://szeged365.hu/2026/10/06/az-arkad-szeged-szuletesnapjan-nagy-bogi-oszinten-meselt-a-sorsfordito-2026-rol-a-bulvar-arnyoldalarol-es-arrol-milyen-uj-kalandra-keszul-video-es-galeria/"
+    },
+    {
+      "first_seen": "2026-10-06T12:04:35.461757Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Óriási extázisban vagyok” – két profi bokszmeccsre készül a szegedi Gémes Levente, előbb Budapesten, majd Londonban lép ringbe",
+      "url": "https://szeged365.hu/2026/10/06/oriasi-extazisban-vagyok-ket-profi-bokszmeccsre-keszul-a-szegedi-gemes-levente-elobb-budapesten-majd-londonban-lep-ringbe/"
+    },
+    {
+      "first_seen": "2026-10-06T12:04:35.461757Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Izgalmas programok, előadások és tárlatvezetések – jön a Múzeumok Őszi Éjszakája Szegeden",
+      "url": "https://szeged365.hu/2026/10/06/izgalmas-programok-eloadasok-es-tarlatvezetesek-jon-a-muzeumok-oszi-ejszakaja-szegeden/"
+    },
+    {
       "first_seen": "2026-10-06T09:08:35.479568Z",
       "published_at": "2026-10-06T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegedi rendezvényen bukkant fel Novák Katalin, egy okoseszközt mutatott be a volt köztársasági elnök",
       "url": "https://szeged365.hu/2026/10/04/szegedi-rendezvenyen-bukkant-fel-novak-katalin-egy-okoseszkozt-mutatott-be-a-volt-koztarsasagi-elnok/"
-    },
-    {
-      "first_seen": "2026-10-04T09:02:18.532289Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Takáts Tamás és a legdögösebb blues-ritmusok veszik be a szegedi Erzsébet-ligetet – jövő hétvégén érkezik a Burger Blues Beer Fest!",
-      "url": "https://szeged365.hu/2026/10/04/takats-tamas-es-a-legdogosebb-blues-ritmusok-veszik-be-a-szegedi-erzsebet-ligetet-jovo-hetvegen-erkezik-a-burger-blues-beer-fest/"
-    },
-    {
-      "first_seen": "2026-10-04T09:02:18.532289Z",
-      "published_at": "2026-10-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mentőt kellett hívni a szombati SZVSE-ESMTK focimeccsre, az egyik játékosnak eltört az állkapcsa",
-      "url": "https://szeged365.hu/2026/10/04/mentot-kellett-hivni-a-szombati-szvse-esmtk-focimeccsre-az-egyik-jatekosnak-eltort-az-allkapcsa/"
-    },
-    {
-      "first_seen": "2026-10-04T06:09:35.575563Z",
-      "published_at": "2026-10-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Erre most egész Szeged és Szatymaz büszke lehet: Asbóth Lilla Brnóban is felállt a dobogó tetejére!",
-      "url": "https://szeged365.hu/2026/10/03/erre-most-egesz-szeged-es-szatymaz-buszke-lehet-asboth-lilla-brnoban-is-felallt-a-dobogo-tetejere/"
-    },
-    {
-      "first_seen": "2026-10-03T18:07:35.625525Z",
-      "published_at": "2026-10-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Pletykák: melyik szegedi sportolóra legyen büszke idén a Napfény Városa? Már lehet nevezni a 2026-os Legszegedibb Szegediekre, mutatjuk, kiket javasoltak a járókelők! (videó)",
-      "url": "https://szeged365.hu/2026/10/03/szegedi-pletykak-melyik-szegedi-sportolora-legyen-buszke-iden-a-napfeny-varosa-mar-lehet-nevezni-a-2026-os-legszegedibb-szegediekre-mutatjuk-kiket-javasoltak-a-jarokelok-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-06T09:08:35.479568Z"
+  "updated_at": "2026-10-06T12:04:35.461757Z"
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-06T06:08:35.492375Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy kicsit Szegedre költözik Japán! Jön a Momiji, amikor a hegy istene vörösre festi a faleveleket",
+      "url": "https://szeged365.hu/2026/10/06/egy-kicsit-szegedre-koltozik-japan-jon-a-momiji-amikor-a-hegy-istene-vorosre-festi-a-faleveleket/"
+    },
+    {
+      "first_seen": "2026-10-06T06:08:35.492375Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Minden hatodik gépjármű állapota kifogásolható – ellenőrzést tartottak Magyarországon, többek között Szegeden is",
+      "url": "https://szeged365.hu/2026/10/06/minden-hatodik-gepjarmu-allapota-kifogasolhato-ellenorzest-tartottak-magyarorszagon-tobbek-kozott-szegeden-is/"
+    },
+    {
+      "first_seen": "2026-10-06T06:08:35.492375Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden is folytatódik a szép idő Szegeden, ma van az aradi vértanúk emléknapja",
+      "url": "https://szeged365.hu/2026/10/06/napi-pakk-kedden-is-folytatodik-a-szep-ido-szegeden-ma-van-az-aradi-vertanuk-emleknapja/"
+    },
+    {
       "first_seen": "2026-10-05T18:04:35.466778Z",
       "published_at": "2026-11-17T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "A Szamos utcába riasztották a tűzoltókat, kigyulladt egy mosógép (fotók)",
       "url": "https://szeged365.hu/2026/10/03/a-szamos-utcaba-riasztottak-a-tuzoltokat-kigyulladt-egy-mosogep/"
-    },
-    {
-      "first_seen": "2026-10-03T09:08:35.588679Z",
-      "published_at": "1996-10-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Harminc éve mutatkozott be az OTP-Bank Pick Szeged a BL-ben, kék-fehér zászlókba öltözött a Belvárosi híd",
-      "url": "https://szeged365.hu/2026/10/03/harminc-eve-mutatkozott-be-az-otp-bank-pick-szeged-a-bl-ben-kek-feher-zaszlokba-oltozott-a-belvarosi-hid/"
-    },
-    {
-      "first_seen": "2026-10-03T06:09:35.677912Z",
-      "published_at": "2026-10-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szombaton is folytatódik a napsütés Szegeden, Tápé tovább Búcsúzik, a Maty-éren és a belvárosban pedig veteránautók találkoznak",
-      "url": "https://szeged365.hu/2026/10/03/napi-pakk-szombaton-is-folytatodik-a-napsutes-szegeden-tape-tovabb-bucsuzik-a-maty-eren-pedig-veteranautok-talalkoznak/"
-    },
-    {
-      "first_seen": "2026-10-03T06:09:35.677912Z",
-      "published_at": "2026-10-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra feltűnt egy porördög Szegeden, mutatjuk, miért alakulnak ki egyre gyakrabban",
-      "url": "https://szeged365.hu/2026/10/02/ujra-feltunt-egy-porordog-szegeden-mutatjuk-miert-alakulnak-ki-egyre-gyakrabban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-05T18:04:35.466778Z"
+  "updated_at": "2026-10-06T06:08:35.492375Z"
 }

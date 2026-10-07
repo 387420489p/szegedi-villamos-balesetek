@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-07T18:00:58.145082Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb karambol Szeged közelében: ezúttal Zákányszéknél",
+      "url": "https://szeged365.hu/2026/10/07/ujabb-karambol-szeged-kozeleben-ezuttal-zakanyszeknel/"
+    },
+    {
+      "first_seen": "2026-10-07T18:00:58.145082Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Most 990 forintért ehetsz smashburgert Szegeden, de érdemes időben érkezni!",
+      "url": "https://szeged365.hu/2026/10/07/most-990-forintert-ehetsz-smashburgert-szegeden-de-erdemes-idoben-erkezni/"
+    },
+    {
+      "first_seen": "2026-10-07T18:00:58.145082Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mohács 500 év után: a csata két oldalának kutatói most Szegeden rakják össze, mi történt valójában",
+      "url": "https://szeged365.hu/2026/10/07/mohacs-500-ev-utan-a-csata-ket-oldalanak-kutatoi-most-szegeden-rakjak-ossze-mi-tortent-valojaban/"
+    },
+    {
+      "first_seen": "2026-10-07T18:00:58.145082Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hidegfront zárja le a vénasszonyok nyarát Szegeden, de csütörtökön még 27 fokot mérhetünk a városban",
+      "url": "https://szeged365.hu/2026/10/07/hidegfront-zarja-le-a-venasszonyok-nyarat-szegeden-de-csutortokon-meg-27-fokot-merhetunk-a-varosban/"
+    },
+    {
       "first_seen": "2026-10-07T15:03:30.889095Z",
       "published_at": "2026-10-06T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nőtt a Pick Szeged Zrt. adózás előtti eredménye: 3,5 milliárdos profitot hozott az első fél év",
       "url": "https://szeged365.hu/2026/10/06/nott-a-pick-szeged-zrt-adozas-elotti-eredmenye-35-milliardos-profitot-hozott-az-elso-fel-ev/"
-    },
-    {
-      "first_seen": "2026-10-06T15:01:05.898761Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ska-punk csipkés kombiné? Szombaton elszabadul a buli a Városi Rock Klubban Szegeden",
-      "url": "https://szeged365.hu/2026/10/06/ska-punk-csipkes-kombine-szombaton-elszabadul-a-buli-a-varosi-rock-klubban-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-06T12:04:35.461757Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Összeütközött egy kamion és egy személyautó Makón – az érintett útszakaszon forgalmi akadály alakult ki",
-      "url": "https://szeged365.hu/2026/10/06/osszeutkozott-egy-kamion-es-egy-szemelyauto-makon-az-erintett-utszakaszon-forgalmi-akadaly-alakult-ki/"
-    },
-    {
-      "first_seen": "2026-10-06T12:04:35.461757Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az ÁRKÁD Szeged születésnapján Nagy Bogi őszintén mesélt a sorsfordító 2026-ról, a bulvár árnyoldaláról és arról, milyen új kalandra készül (videó és galéria)",
-      "url": "https://szeged365.hu/2026/10/06/az-arkad-szeged-szuletesnapjan-nagy-bogi-oszinten-meselt-a-sorsfordito-2026-rol-a-bulvar-arnyoldalarol-es-arrol-milyen-uj-kalandra-keszul-video-es-galeria/"
-    },
-    {
-      "first_seen": "2026-10-06T12:04:35.461757Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Óriási extázisban vagyok” – két profi bokszmeccsre készül a szegedi Gémes Levente, előbb Budapesten, majd Londonban lép ringbe",
-      "url": "https://szeged365.hu/2026/10/06/oriasi-extazisban-vagyok-ket-profi-bokszmeccsre-keszul-a-szegedi-gemes-levente-elobb-budapesten-majd-londonban-lep-ringbe/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-07T15:03:30.889095Z"
+  "updated_at": "2026-10-07T18:00:58.145082Z"
 }

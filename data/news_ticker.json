@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fagyi, 250 Ft-ért??! Létezik! Szeged legnagyobb fagyis akciójával zárja a szezont az Élménysziget Cukrászda (frissítve)",
+      "url": "https://szeged365.hu/2026/10/06/fagyi-250-ft-ert-letezik-szeged-legnagyobb-fagyis-akciojaval-zarja-a-szezont-az-elmenysziget-cukraszda/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bongor, Queen és Van Gogh egy héten? Naná! – mutatjuk, milyen filmekkel vár a Belvárosi Mozi Szegeden",
+      "url": "https://szeged365.hu/2026/10/07/bongor-queen-es-van-gogh-egy-heten-nana-mutatjuk-milyen-filmekkel-var-a-belvarosi-mozi-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tűz keletkezett Szeged és Algyő között – a lángok a tram-trainről is láthatóak (frissítve, videóval és fotókkal)",
+      "url": "https://szeged365.hu/2026/10/07/avartuz-miatt-atmenetileg-nem-kozlekednek-a-vonatok-szeged-es-algyo-kozott-es-a-tram-train-forgalom-is-megvaltozott/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Takáts Tamás Szegedre hozza a legütősebb blues-rockot, és burgerekből és kézműves sörökből sem lesz hiány a Burger Blues Beer Festen – hétvégén irány az Erzsébet-liget! (interjú)",
+      "url": "https://szeged365.hu/2026/10/07/takats-tamas-szegedre-hozza-a-legutosebb-blues-rockot-es-burgerekbol-es-kezmuves-sorokbol-sem-lesz-hiany-a-burger-blues-beer-festen-hetvegen-irany-az-erzsebet-liget-interju/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kigyulladt egy autó motortere Szegeden",
+      "url": "https://szeged365.hu/2026/10/07/kigyulladt-egy-auto-motortere-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tarján Zsófi elárulta, kikkel állna össze a Honeybeast, Azahriah és Majka neve is előkerült az ÁRKÁD Szeged születésnapján, a kulisszák mögött (videó és galéria)",
+      "url": "https://szeged365.hu/2026/10/07/tarjan-zsofi-elarulta-kikkel-allna-ossze-a-honeybeast-azahriah-es-majka-neve-is-elokerult-az-arkad-szeged-szuletesnapjan-a-kulisszak-mogott-video-es-galeria/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Otthon, ahová jó megérkezni – a szegedi Context HOME a pihenéshez is megadja az alaphangot (videó)",
+      "url": "https://szeged365.hu/2026/10/07/otthon-ahova-jo-megerkezni-a-szegedi-context-home-a-piheneshez-is-megadja-az-alaphangot-video/"
+    },
+    {
+      "first_seen": "2026-10-07T15:03:30.889095Z",
+      "published_at": "2026-10-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fordulat a szegedi lakáspiacon: már nem csak a kisebb lakásokat keresik, mutatjuk, mi változott (videó)",
+      "url": "https://szeged365.hu/2026/10/07/fordulat-a-szegedi-lakaspiacon-mar-nem-csak-a-kisebb-lakasokat-keresik-mutatjuk-mi-valtozott-video/"
+    },
+    {
       "first_seen": "2026-10-07T12:09:41.377357Z",
       "published_at": "2026-10-03T00:00:00",
       "reason": "prefiltered",
@@ -233,14 +297,6 @@
       "url": "https://szeged365.hu/2026/10/06/ska-punk-csipkes-kombine-szombaton-elszabadul-a-buli-a-varosi-rock-klubban-szegeden/"
     },
     {
-      "first_seen": "2026-10-06T15:01:05.898761Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fagyi, 250 Ft-ért??! Létezik! Szeged legnagyobb fagyis akciójával zárja a szezont az Élménysziget Cukrászda",
-      "url": "https://szeged365.hu/2026/10/06/fagyi-250-ft-ert-letezik-szeged-legnagyobb-fagyis-akciojaval-zarja-a-szezont-az-elmenysziget-cukraszda/"
-    },
-    {
       "first_seen": "2026-10-06T12:04:35.461757Z",
       "published_at": "2026-10-06T00:00:00",
       "reason": "prefiltered",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Óriási extázisban vagyok” – két profi bokszmeccsre készül a szegedi Gémes Levente, előbb Budapesten, majd Londonban lép ringbe",
       "url": "https://szeged365.hu/2026/10/06/oriasi-extazisban-vagyok-ket-profi-bokszmeccsre-keszul-a-szegedi-gemes-levente-elobb-budapesten-majd-londonban-lep-ringbe/"
-    },
-    {
-      "first_seen": "2026-10-06T12:04:35.461757Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Izgalmas programok, előadások és tárlatvezetések – jön a Múzeumok Őszi Éjszakája Szegeden",
-      "url": "https://szeged365.hu/2026/10/06/izgalmas-programok-eloadasok-es-tarlatvezetesek-jon-a-muzeumok-oszi-ejszakaja-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-06T09:08:35.479568Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Most nem Aradon tartják őket fogva, hanem Cegléden, Kecskeméten vagy Szegeden” – Bóka János kiáll a közösségük tagjai mellett, és követeli a “politikai foglyok” szabadon bocsátását",
-      "url": "https://szeged365.hu/2026/10/06/most-nem-aradon-tartjak-oket-fogva-hanem-cegleden-kecskemeten-vagy-szegeden-boka-janos-kiall-a-kozosseguk-tagjai-mellett-es-koveteli-a-politikai-foglyok-szabadon-bocsatasat/"
-    },
-    {
-      "first_seen": "2026-10-06T09:08:35.479568Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A róka most nemcsak a tyúkokat, hanem a közönség szívét is ellopja: október 10-én újra látható a Rókaszemű a szegedi Kövér Béla Bábszínházban (videó)",
-      "url": "https://szeged365.hu/2026/10/06/a-roka-most-nemcsak-a-tyukokat-hanem-a-kozonseg-szivet-is-ellopja-oktober-10-en-ujra-lathato-a-rokaszemu-a-szegedi-kover-bela-babszinhazban-video/"
-    },
-    {
-      "first_seen": "2026-10-06T09:08:35.479568Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hamarosan ismét csodás színekben fog pompázni Szeged: megújul a Móra park virágágyása a múzeum előtt, és a Széchenyi tér virágágyásainak őszi előkészítésén is dolgoznak a szakemberek",
-      "url": "https://szeged365.hu/2026/10/06/hamarosan-ismet-csodas-szinekben-fog-pompazni-szeged-megujul-a-mora-park-viragagyasa-a-muzeum-elott-es-a-szechenyi-ter-viragagyasainak-oszi-elokeszitesen-is-dolgoznak-a-szakemberek/"
-    },
-    {
-      "first_seen": "2026-10-06T09:08:35.479568Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi sikersztorik: amikor a munka és a hivatás összefonódik – újabb sikeres vizsgát tudhat maga mögött a szegedi polgárőrség kutyás egysége, Gina és kutyavezetője",
-      "url": "https://szeged365.hu/2026/10/06/amikor-a-munka-es-a-hivatas-osszefonodik-ujabb-sikeres-vizsgat-tudhat-maga-mogott-a-szegedi-polgarorseg-kutyas-egysege-gina-es-kutyavezetoje/"
-    },
-    {
-      "first_seen": "2026-10-06T09:08:35.479568Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Félárbócra eresztették a nemzeti lobogót – ma van az aradi vértanúk emléknapja, megemlékező ünnepség is lesz Szegeden",
-      "url": "https://szeged365.hu/2026/10/06/felarbocra-eresztettek-a-nemzeti-lobogot-ma-van-az-aradi-vertanuk-emleknapja-megemlekezo-unnepseg-is-lesz-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-06T06:08:35.492375Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy kicsit Szegedre költözik Japán! Jön a Momiji, amikor a hegy istene vörösre festi a faleveleket",
-      "url": "https://szeged365.hu/2026/10/06/egy-kicsit-szegedre-koltozik-japan-jon-a-momiji-amikor-a-hegy-istene-vorosre-festi-a-faleveleket/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-07T12:09:41.377357Z"
+  "updated_at": "2026-10-07T15:03:30.889095Z"
 }

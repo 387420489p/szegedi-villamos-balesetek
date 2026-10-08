@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-08T15:00:29.008228Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Zöldül a Szegedi Vízmű rókusi telephelye: a kiszáradt fákat eltávolítják, de a faanyag sem vész kárba (fotókkal)",
+      "url": "https://szeged365.hu/2026/10/08/zoldul-a-szegedi-vizmu-rokusi-telephelye-a-kiszaradt-fakat-eltavolitjak-de-a-faanyag-sem-vesz-karba-fotokkal/"
+    },
+    {
+      "first_seen": "2026-10-08T15:00:29.008228Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is emelkedik a koronavírus koncentrációja, újabb fertőzési hullám jöhet",
+      "url": "https://szeged365.hu/2026/10/08/szegeden-is-emelkedik-a-koronavirus-koncentracioja-ujabb-fertozesi-hullam-johet/"
+    },
+    {
+      "first_seen": "2026-10-08T15:00:29.008228Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Idén rekordszámú, 41 fiatal természettudományos tanár kapott FITT-díjat – több szegedit is díjaztak",
+      "url": "https://szeged365.hu/2026/10/08/iden-rekordszamu-41-fiatal-termeszettudomanyos-tanar-kapott-fitt-dijat-tobb-szegedit-is-dijaztak/"
+    },
+    {
+      "first_seen": "2026-10-08T15:00:29.008228Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "SZKT: újabb forgalmi zavar történt Szegeden, két tram-train nem közlekedik",
+      "url": "https://szeged365.hu/2026/10/08/szkt-ujabb-forgalmi-zavar-tortent-a-szegeden-ket-tram-train-nem-kozlekedik/"
+    },
+    {
       "first_seen": "2026-10-08T12:02:18.729326Z",
       "published_at": "2026-10-08T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megáll az ész: fenyegette, megrángatta, és le is köpte az egyik mentőst a férfi Szegeden, most vádat emeltek ellene",
       "url": "https://szeged365.hu/2026/10/07/megall-az-esz-fenyegette-megrangatta-es-le-is-kopte-az-egyik-mentost-a-ferfi-szegeden-most-vadat-emeltek-ellene/"
-    },
-    {
-      "first_seen": "2026-10-07T06:03:42.932213Z",
-      "published_at": "2026-10-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fjord, Tudatvesztés és Sárga nyakkendő – Román Filmnapokat rendeznek Szegeden",
-      "url": "https://szeged365.hu/2026/10/07/fjord-tudatvesztes-es-sarga-nyakkendo-roman-filmnapokat-rendeznek-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-07T06:03:42.932213Z",
-      "published_at": "2026-10-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy szegedi szobrász kubista alkotásával bővült a Picasso-kiállítás a Móra Ferenc Múzeumban",
-      "url": "https://szeged365.hu/2026/10/07/egy-szegedi-szobrasz-kubista-alkotasaval-bovult-a-picasso-kiallitas-a-mora-ferenc-muzeumban/"
-    },
-    {
-      "first_seen": "2026-10-07T06:03:42.932213Z",
-      "published_at": "2026-10-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szerdán még egy napig élvezhetjük a napsütést Szegeden, balesetet szimulálnak az Erzsébet-ligetben",
-      "url": "https://szeged365.hu/2026/10/07/napi-pakk-szerdan-meg-egy-napig-elvezhetjuk-a-napsutest-szegeden-balesetet-szimulalnak-az-erzsebet-ligetben/"
-    },
-    {
-      "first_seen": "2026-10-07T06:03:42.932213Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem kegyelmezett a Pick Szeged, 10 gólos fölénnyel vették el a Csurgó veretlenségét",
-      "url": "https://szeged365.hu/2026/10/06/nem-kegyelmezett-a-pick-szeged-10-golos-folennyel-vettek-el-a-csurgo-veretlenseget/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-08T12:02:18.729326Z"
+  "updated_at": "2026-10-08T15:00:29.008228Z"
 }

@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-08T09:01:45.796874Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Aknafedlapokat cserélnek Újszegeden, útszűkületre és sebességkorlátozásra kell számítani egy szakaszon",
+      "url": "https://szeged365.hu/2026/10/08/aknafedlapokat-cserelnek-ujszegeden-utszukuletre-es-sebessegkorlatozasra-kell-szamitani-egy-szakaszon/"
+    },
+    {
+      "first_seen": "2026-10-08T09:01:45.796874Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szakértő a szegedi csapadékvízdíj-vita kapcsán: a társasházak lakossági felhasználók, a díjigény jogalapja kétes",
+      "url": "https://szeged365.hu/2026/10/08/szakerto-a-szegedi-csapadekvizdij-vita-kapcsan-a-tarsashazak-lakossagi-felhasznalok-a-dijigeny-jogalapja-ketes/"
+    },
+    {
+      "first_seen": "2026-10-08T09:01:45.796874Z",
+      "published_at": "2026-10-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tizenhét éremmel zárták a pozsonyi Olimpiai Reménységek Versenyét az MVM Szegedi VE fiataljai, ebből hármat a női kajak szakág szerzett meg",
+      "url": "https://szeged365.hu/2026/10/08/tizenhet-eremmel-zartak-a-pozsonyi-olimpiai-remenysegek-versenyet-az-mvm-szegedi-ve-fiataljai-ebbol-harmat-a-noi-kajak-szakag-szerzett-meg/"
+    },
+    {
+      "first_seen": "2026-10-08T09:01:45.796874Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy teljes városnegyed megújítására készül Szeged: megjelent a tervezői közbeszerzés az északi városrész komplex rekonstrukciójára",
+      "url": "https://szeged365.hu/2026/10/08/egy-teljes-varosnegyed-megujitasara-keszul-szeged-megjelent-a-tervezoi-kozbeszerzes-az-eszaki-varosresz-komplex-rekonstrukciojara/"
+    },
+    {
       "first_seen": "2026-10-08T06:00:16.533716Z",
       "published_at": "2026-10-06T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Rajtakapták a 19 éves egyetemistát: festékszóróval esett neki a Szegedi Árvízi Emlékműnek",
       "url": "https://szeged365.hu/2026/10/06/rajtakaptak-a-19-eves-egyetemistat-festekszoroval-esett-neki-a-szegedi-arvizi-emlekmunek/"
-    },
-    {
-      "first_seen": "2026-10-06T18:06:29.640168Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Veszélyes baktériumot találtak egy Szegeden is kapható sajtban – ha ilyet vettél, ne egyél belőle!",
-      "url": "https://szeged365.hu/2026/10/06/veszelyes-bakteriumot-talaltak-egy-szegeden-is-kaphato-sajtban-ha-ilyet-vettel-ne-egyel-belole/"
-    },
-    {
-      "first_seen": "2026-10-06T18:06:29.640168Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hidegfront vet véget a vénasszonyok nyarának, de szerdán még folytatódik a túlnyomóan napos idő Szegeden",
-      "url": "https://szeged365.hu/2026/10/06/hidegfront-vet-veget-a-venasszonyok-nyaranak-de-szerdan-meg-folytatodik-a-tulnyomoan-napos-ido-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-06T18:06:29.640168Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Október 6-án egy nemzet lelkét akarták megtörni, amit nem lehet” – az aradi vértanúkra emlékezett Szeged (fotók és videók)",
-      "url": "https://szeged365.hu/2026/10/06/oktober-6-an-egy-nemzet-lelket-akartak-megtorni-amit-nem-lehet-az-aradi-vertanukra-emlekezett-szeged-fotok-es-videok/"
-    },
-    {
-      "first_seen": "2026-10-06T18:06:29.640168Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lóerők, stílus és hamisítatlan vezetési élmény: Szegedre jön a Golf GTI Roadshow!",
-      "url": "https://szeged365.hu/2026/10/06/loerok-stilus-es-hamisitatlan-vezetesi-elmeny-szegedre-jon-a-golf-gti-roadshow/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-08T06:00:16.533716Z"
+  "updated_at": "2026-10-08T09:01:45.796874Z"
 }

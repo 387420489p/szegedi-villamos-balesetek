@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-11T15:05:16.517735Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel volt a győzelem, de be kellett érni a döntetlennel: így alakult a szegedi focisták hétvégéje",
+      "url": "https://szeged365.hu/2026/10/11/kozel-volt-a-gyozelem-de-be-kellett-erni-a-dontetlennel-igy-alakult-a-szegedi-focistak-hetvegeje/"
+    },
+    {
       "first_seen": "2026-10-11T12:08:32.261270Z",
       "published_at": "2026-10-11T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Több tram-train járat sem közlekedett péntek reggel, Hódmezővásárhelyről pótlóbuszozni kell",
       "url": "https://szeged365.hu/2026/10/09/tobb-tram-train-jarat-sem-kozlekedett-pentek-reggel-hodmezovasarhelyrol-potlobuszozni-kell/"
-    },
-    {
-      "first_seen": "2026-10-08T18:03:16.745804Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Három éve várnak a javításra: születésnapot ünnepelnek a szegedi kerékpárutak úthibái (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/08/harom-eve-varnak-a-javitasra-szuletesnapot-unnepelnek-a-szegedi-kerekparutak-uthibai/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T12:08:32.261270Z"
+  "updated_at": "2026-10-11T15:05:16.517735Z"
 }

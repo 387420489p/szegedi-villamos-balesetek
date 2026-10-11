@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-11T18:06:12.997047Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A hétvégi esőzés után végre kisüt a nap Szegeden, de a pulóverre szükség lesz",
+      "url": "https://szeged365.hu/2026/10/11/a-hetvegi-esozes-utan-vegre-kisut-a-nap-szegeden-de-a-puloverre-szukseg-lesz/"
+    },
+    {
+      "first_seen": "2026-10-11T18:06:12.997047Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem fogott az eső a szegedieken: fergeteges hangulatban zárul a 2026-os Burger-Blues-Beerfest hétvégéje",
+      "url": "https://szeged365.hu/2026/10/11/nem-fogott-az-eso-a-szegedieken-fergeteges-hangulatban-zarul-a-2026-os-burger-blues-beerfest-hetvegeje/"
+    },
+    {
       "first_seen": "2026-10-11T15:05:16.517735Z",
       "published_at": "2026-10-11T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Lopott autóval, ittasan, ráadásul vezetéstől eltiltás hatálya alatt menekült egy férfi a rendőrök elől Szegeden",
       "url": "https://szeged365.hu/2026/10/09/lopott-autoval-ittasan-raadasul-vezetestol-eltiltas-hatalya-alatt-menekult-egy-ferfi-a-rendorok-elol-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-09T06:00:31.589939Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Öt nap, négy helyszín, egy városnyi jazz – novemberben debütál a Jazz Szeged",
-      "url": "https://szeged365.hu/2026/10/09/ot-nap-negy-helyszin-egy-varosnyi-jazz-novemberben-debutal-a-jazz-szeged/"
-    },
-    {
-      "first_seen": "2026-10-09T06:00:31.589939Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több tram-train járat sem közlekedett péntek reggel, Hódmezővásárhelyről pótlóbuszozni kell",
-      "url": "https://szeged365.hu/2026/10/09/tobb-tram-train-jarat-sem-kozlekedett-pentek-reggel-hodmezovasarhelyrol-potlobuszozni-kell/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T15:05:16.517735Z"
+  "updated_at": "2026-10-11T18:06:12.997047Z"
 }

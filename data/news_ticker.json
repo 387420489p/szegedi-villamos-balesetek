@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "TKO a 3. menetben: Gémes Levente nem kegyelmezett görög ellenfelének",
+      "url": "https://szeged365.hu/2026/10/10/tko-a-3-menetben-gemes-levente-nem-kegyelmezett-gorog-ellenfelenek/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 16 éves, szegedi születésű lány, a rendőrség keresi",
+      "url": "https://szeged365.hu/2026/10/11/eltunt-egy-16-eves-szegedi-szuletesu-lany-a-rendorseg-keresi/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Büszkeség! Két szegedi vízilabdázó is meghívást kapott a férfiválogatott fejlesztő edzésére",
+      "url": "https://szeged365.hu/2026/10/11/buszkeseg-ket-szegedi-vizilabdazo-is-meghivast-kapott-a-ferfivalogatott-fejleszto-edzesere/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A rendőrség megerősítette: holttestet találtak a szegedi Zápor-tónál",
+      "url": "https://szeged365.hu/2026/10/11/a-rendorseg-megerositette-holttestet-talaltak-a-szegedi-zapor-tonal/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Letakart test a Zápor-tónál: megrázó olvasói jelzések érkeztek Szegedről",
+      "url": "https://szeged365.hu/2026/10/11/letakart-test-a-zapor-tonal-megrazo-olvasoi-jelzesek-erkeztek-szegedrol/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Brutál sokan olvassátok a Szeged365-ön a BYD-ügyeket, ezért vasárnap reggel kimentünk az Iparvédelmi Túrára (videó)",
+      "url": "https://szeged365.hu/2026/10/11/brutal-sokan-olvassatok-a-szeged365-on-a-byd-ugyeket-ezert-vasarnap-reggel-kimentunk-az-iparvedelmi-turara-video/"
+    },
+    {
+      "first_seen": "2026-10-11T09:31:11.140630Z",
+      "published_at": "2026-10-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: újabb hidegfront érkezik, Katus Attila és Czanik Balázs vár a Pick Arénában a Pink Októberen",
+      "url": "https://szeged365.hu/2026/10/11/napi-pakk-ujabb-hidegfront-erkezik-katus-attila-es-czanik-balazs-var-a-pick-arenaban-a-pink-oktoberen/"
+    },
+    {
       "first_seen": "2026-10-11T00:26:35.514225Z",
       "published_at": "2026-10-10T00:00:00",
       "reason": "prefiltered",
@@ -87,14 +143,6 @@
       "source_name": "Szeged365",
       "title": "Októberi Dolce Vita Szegeden: a Zrínyi Apartman ajándék éjszakával és exkluzív élményekkel vár!",
       "url": "https://szeged365.hu/2026/10/10/oktoberi-dolce-vita-szegeden-a-zrinyi-apartman-ajandek-ejszakaval-es-exkluziv-elmenyekkel-var/"
-    },
-    {
-      "first_seen": "2026-10-10T09:04:50.266470Z",
-      "published_at": "2026-10-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "TKO a 3. menetben: Gémes Levente nem kegyelmezett görög ellenfelének",
-      "url": "https://szeged365.hu/2026/10/10/tko-a-3-menetben-gemes-levente-nem-kegyelmezett-gorog-ellenfelenek/"
     },
     {
       "first_seen": "2026-10-10T06:00:27.523220Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Tény vagy tévhit? Szegedi kutatók segítenek, hogy ne dőljünk be a hamis információknak",
       "url": "https://szeged365.hu/2026/10/08/teny-vagy-tevhit-szegedi-kutatok-segitenek-hogy-ne-doljunk-be-a-hamis-informacioknak/"
-    },
-    {
-      "first_seen": "2026-10-08T18:03:16.745804Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Berobban az igazi ősz: borongós, felhős, és hűvösebb napok jönnek Szegedre",
-      "url": "https://szeged365.hu/2026/10/08/berobban-az-igazi-osz-borongos-felhos-es-huvosebb-napok-jonnek-szegedre/"
-    },
-    {
-      "first_seen": "2026-10-08T18:03:16.745804Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Marad a szegedi Csillagbörtönben Bús Balázs, elutasították a szabadlábra helyezési kérelmét",
-      "url": "https://szeged365.hu/2026/10/08/marad-a-szegedi-csillagbortonben-bus-balazs-elutasitottak-a-szabadlabra-helyezesi-kerelmet/"
-    },
-    {
-      "first_seen": "2026-10-08T15:00:29.008228Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Zöldül a Szegedi Vízmű rókusi telephelye: a kiszáradt fákat eltávolítják, de a faanyag sem vész kárba (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/08/zoldul-a-szegedi-vizmu-rokusi-telephelye-a-kiszaradt-fakat-eltavolitjak-de-a-faanyag-sem-vesz-karba-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-08T15:00:29.008228Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is emelkedik a koronavírus koncentrációja, újabb fertőzési hullám jöhet",
-      "url": "https://szeged365.hu/2026/10/08/szegeden-is-emelkedik-a-koronavirus-koncentracioja-ujabb-fertozesi-hullam-johet/"
-    },
-    {
-      "first_seen": "2026-10-08T15:00:29.008228Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idén rekordszámú, 41 fiatal természettudományos tanár kapott FITT-díjat – több szegedit is díjaztak",
-      "url": "https://szeged365.hu/2026/10/08/iden-rekordszamu-41-fiatal-termeszettudomanyos-tanar-kapott-fitt-dijat-tobb-szegedit-is-dijaztak/"
-    },
-    {
-      "first_seen": "2026-10-08T15:00:29.008228Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "SZKT: újabb forgalmi zavar történt Szegeden, két tram-train nem közlekedik",
-      "url": "https://szeged365.hu/2026/10/08/szkt-ujabb-forgalmi-zavar-tortent-a-szegeden-ket-tram-train-nem-kozlekedik/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T00:26:35.514225Z"
+  "updated_at": "2026-10-11T09:31:11.140630Z"
 }

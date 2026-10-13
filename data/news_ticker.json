@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-12T06:03:13.723467Z",
+      "published_at": "2026-10-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb pofátlan szegedi sofőr: úgy előzött a zebránál, hogy majdnem elgázolt egy gyalogost (videó)",
+      "url": "https://szeged365.hu/2026/10/10/ujabb-pofatlan-szegedi-sofor-ugy-elozott-a-zebranal-hogy-majdnem-elgazolt-egy-gyalogost-video/"
+    },
+    {
+      "first_seen": "2026-10-12T06:03:13.723467Z",
+      "published_at": "2026-10-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tűz ütött ki egy buszban Szegeden (frissítve)",
+      "url": "https://szeged365.hu/2026/10/10/tuz-utott-ki-egy-buszban-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-12T06:03:13.723467Z",
+      "published_at": "2026-10-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Különleges vendég érkezett: rózsás gödényt, azaz pelikánt figyeltek meg a szegedi Fehér-tónál",
+      "url": "https://szeged365.hu/2026/10/12/kulonleges-vendeg-erkezett-rozsas-godenyt-azaz-pelikant-figyeltek-meg-a-szegedi-feher-tonal/"
+    },
+    {
+      "first_seen": "2026-10-12T06:03:13.723467Z",
+      "published_at": "2026-10-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kisüt a nap Szegeden, 124 éve ezen a napon játszotta első meccsét a magyar fociválogatott",
+      "url": "https://szeged365.hu/2026/10/12/napi-pakk-kisut-a-nap-szegeden-124-eve-ezen-a-napon-jatszotta-elso-meccset-a-magyar-focivalogatott/"
+    },
+    {
+      "first_seen": "2026-10-12T06:03:13.723467Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: kit neveznének a szegedi járókelők a 2026-os Legszegedibb Szegediek közé? Gyógyító, zenész és tanító neve is elhangzott (videó)",
+      "url": "https://szeged365.hu/2026/10/06/szegedi-pletykak-kit-neveznenek-a-szegedi-jarokelok-a-2026-os-legszegedibb-szegediek-koze-gyogyito-zenesz-es-tanito-neve-is-elhangzott-video/"
+    },
+    {
       "first_seen": "2026-10-11T18:06:12.997047Z",
       "published_at": "2026-10-11T00:00:00",
       "reason": "prefiltered",
@@ -125,14 +165,6 @@
       "published_at": "2026-10-10T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Újabb pofátlan szegedi sofőr: úgy előzött a zebránál, hogy majdnem elgázolt egy gyalogost (videó)",
-      "url": "https://szeged365.hu/2026/10/10/ujabb-pofatlan-szegedi-sofor-ugy-elozott-a-zebranal-hogy-majdnem-elgazolt-egy-gyalogost-video/"
-    },
-    {
-      "first_seen": "2026-10-11T00:26:35.514225Z",
-      "published_at": "2026-10-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Keretet hirdetett az OTP Bank-Pick Szeged, mi pedig mutatjuk, hogyan jutsz el az Arénába a legkönnyebben",
       "url": "https://szeged365.hu/2026/10/10/keretet-hirdetett-az-otp-bank-pick-szeged-mi-pedig-mutatjuk-hogyan-jutsz-el-az-arenaba-a-legkonnyebben/"
     },
@@ -143,14 +175,6 @@
       "source_name": "Szeged365",
       "title": "Ismét beállt az M5, most Szeged felé: az M0-ás csomópont után lerobbant egy kocsi",
       "url": "https://szeged365.hu/2026/10/10/ismet-beallt-az-m5-most-szeged-fele-az-m0-as-csomopont-utan-lerobbant-egy-kocsi/"
-    },
-    {
-      "first_seen": "2026-10-11T00:26:35.514225Z",
-      "published_at": "2026-10-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tűz ütött ki egy buszban Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/10/10/tuz-utott-ki-egy-buszban-szegeden/"
     },
     {
       "first_seen": "2026-10-11T00:26:35.514225Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Lopott bankkártyával vásárolt egy férfi Szegeden, a rendőrség a lakosság segítségét kéri a megtalálásában",
       "url": "https://szeged365.hu/2026/10/09/lopott-bankkartyaval-vasarolt-egy-ferfi-szegeden-a-rendorseg-a-lakossag-segitseget-keri-a-megtalalasaban/"
-    },
-    {
-      "first_seen": "2026-10-09T22:30:39.884722Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeretetteljes és emberközpontú támogatás: hospice ház kialakítását tervezik Szegeden",
-      "url": "https://szeged365.hu/2026/10/09/szeretetteljes-es-emberkozpontu-tamogatas-hospice-haz-kialakitasat-tervezik-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-09T06:00:31.589939Z",
-      "published_at": "2026-10-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: csütörtökön véget ér a napsütés, de a kellemes meleg még Szegeden marad, és folytatódnak a munkák a 47-es városi szakaszain",
-      "url": "https://szeged365.hu/2026/10/08/napi-pakk-csutortokon-veget-er-a-napsutes-de-a-kellemes-meleg-meg-szegeden-marad-es-folytatodnak-a-munkak-a-47-es-varosi-szakaszain/"
-    },
-    {
-      "first_seen": "2026-10-09T06:00:31.589939Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lopott autóval, ittasan, ráadásul vezetéstől eltiltás hatálya alatt menekült egy férfi a rendőrök elől Szegeden",
-      "url": "https://szeged365.hu/2026/10/09/lopott-autoval-ittasan-raadasul-vezetestol-eltiltas-hatalya-alatt-menekult-egy-ferfi-a-rendorok-elol-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T18:06:12.997047Z"
+  "updated_at": "2026-10-12T06:03:13.723467Z"
 }

@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: kit neveznének a szegedi járókelők a 2026-os Legszegedibb Szegediek közé? Gyógyító, zenész és tanító neve is elhangzott (videó)",
+      "url": "https://szeged365.hu/2026/10/06/szegedi-pletykak-kit-neveznenek-a-szegedi-jarokelok-a-2026-os-legszegedibb-szegediek-koze-gyogyito-zenesz-es-tanito-neve-is-elhangzott-video/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi kisfiú csodája folytatódik: Gellért már a lépcsőket is meghódítja, de a küzdelem nem ért véget! Segítsünk neki, Szeged365 Family!",
+      "url": "https://szeged365.hu/2026/10/13/a-szegedi-kisfiu-csodaja-folytatodik-gellert-mar-a-lepcsoket-is-meghoditja-de-a-kuzdelem-nem-ert-veget-segitsunk-neki-szeged365-family/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lépj Kapás Bogi és Gyurta Gergely nyomdokaiba: Ötpróba Úszónap vár a vásárhelyi Gyarmati Dezső Sportuszodában!",
+      "url": "https://szeged365.hu/2026/10/13/lepj-kapas-bogi-es-gyurta-gergely-nyomdokaiba-otproba-uszonap-var-a-vasarhelyi-gyarmati-dezso-sportuszodaban/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Szegedi Fellebbviteli Főügyészség kirendelt ügyésze lett az NVVH három elnökhelyettesének egyike",
+      "url": "https://szeged365.hu/2026/10/13/a-szegedi-fellebbviteli-fougyeszseg-kirendelt-ugyesze-lett-az-nvvh-harom-elnokhelyettesenek-egyike/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már csak 1 nap maradt a nevezésből, Szeged365 Family! Hamarosan kiderül, kikre szavazhattok a Legszegedibb Szegediek 2026 versenyében",
+      "url": "https://szeged365.hu/2026/10/13/mar-csak-1-nap-maradt-a-nevezesbol-szeged365-family-hamarosan-kiderul-kikre-szavazhattok-a-legszegedibb-szegediek-2026-versenyeben/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2027-03-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újra kitárul a vinoSZFÉRA kapuja: ötödik alkalommal koccintunk Szeged szívében, befutottak a Super Early Bird jegyek!",
+      "url": "https://szeged365.hu/2026/10/13/ujra-kitarul-a-vinoszfera-kapuja-otodik-alkalommal-koccintunk-szeged-sziveben-befutottak-a-super-early-bird-jegyek/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Azonnali hatállyal távozik a Szeged-Csanád GA vezetőedzői posztjáról Laczkó Zsolt",
+      "url": "https://szeged365.hu/2026/10/13/azonnali-hatallyal-tavozik-a-szeged-csanad-ga-vezetoedzoi-posztjarol-laczko-zsolt/"
+    },
+    {
+      "first_seen": "2026-10-13T12:05:03.024309Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lezárult a Magyarország elleni uniós kondícionalitási eljárás! 4,2 milliárd eurós uniós forrás szabadul fel, újra elérhető lesz az Eurasmus+ a szegedi egyetemisták számára is",
+      "url": "https://szeged365.hu/2026/10/13/lezarult-a-magyarorszag-elleni-unios-kondicionalitasi-eljaras-42-milliard-euros-unios-forras-szabadul-fel-ujra-elerheto-lesz-az-eurasmus/"
+    },
+    {
       "first_seen": "2026-10-13T09:02:07.533434Z",
       "published_at": "2026-10-13T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megkárosította az egyik pénzváltót a férfi Szegeden: 3 millió forinttal több pénzt tett el, mint amennyi járt volna neki",
       "url": "https://szeged365.hu/2026/10/12/megkarositotta-az-egyik-penzvaltot-a-ferfi-szegeden-3-millio-forinttal-tobb-penzt-tett-el-mint-amennyi-jart-volna-neki/"
-    },
-    {
-      "first_seen": "2026-10-13T01:00:09.240151Z",
-      "published_at": "2026-10-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Na, erre büszke lehetsz, Szeged365 Family! Éremesővel zárták a hétvégét a Vitéz SE fiatal teniszezői (galéria)",
-      "url": "https://szeged365.hu/2026/10/12/na-erre-buszke-lehetsz-szeged365-family-eremesovel-zartak-a-hetveget-a-vitez-se-fiatal-teniszezoi-galeria/"
-    },
-    {
-      "first_seen": "2026-10-13T01:00:09.240151Z",
-      "published_at": "2026-10-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt a Kálvária sugárúton, félpályán halad a forgalom",
-      "url": "https://szeged365.hu/2026/10/12/baleset-tortent-a-kalvaria-sugaruton-felpalyan-halad-a-forgalom/"
-    },
-    {
-      "first_seen": "2026-10-12T06:03:13.723467Z",
-      "published_at": "2026-10-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb pofátlan szegedi sofőr: úgy előzött a zebránál, hogy majdnem elgázolt egy gyalogost (videó)",
-      "url": "https://szeged365.hu/2026/10/10/ujabb-pofatlan-szegedi-sofor-ugy-elozott-a-zebranal-hogy-majdnem-elgazolt-egy-gyalogost-video/"
-    },
-    {
-      "first_seen": "2026-10-12T06:03:13.723467Z",
-      "published_at": "2026-10-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tűz ütött ki egy buszban Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/10/10/tuz-utott-ki-egy-buszban-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-12T06:03:13.723467Z",
-      "published_at": "2026-10-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Különleges vendég érkezett: rózsás gödényt, azaz pelikánt figyeltek meg a szegedi Fehér-tónál",
-      "url": "https://szeged365.hu/2026/10/12/kulonleges-vendeg-erkezett-rozsas-godenyt-azaz-pelikant-figyeltek-meg-a-szegedi-feher-tonal/"
-    },
-    {
-      "first_seen": "2026-10-12T06:03:13.723467Z",
-      "published_at": "2026-10-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kisüt a nap Szegeden, 124 éve ezen a napon játszotta első meccsét a magyar fociválogatott",
-      "url": "https://szeged365.hu/2026/10/12/napi-pakk-kisut-a-nap-szegeden-124-eve-ezen-a-napon-jatszotta-elso-meccset-a-magyar-focivalogatott/"
-    },
-    {
-      "first_seen": "2026-10-12T06:03:13.723467Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Pletykák: kit neveznének a szegedi járókelők a 2026-os Legszegedibb Szegediek közé? Gyógyító, zenész és tanító neve is elhangzott (videó)",
-      "url": "https://szeged365.hu/2026/10/06/szegedi-pletykak-kit-neveznenek-a-szegedi-jarokelok-a-2026-os-legszegedibb-szegediek-koze-gyogyito-zenesz-es-tanito-neve-is-elhangzott-video/"
-    },
-    {
-      "first_seen": "2026-10-11T18:06:12.997047Z",
-      "published_at": "2026-10-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A hétvégi esőzés után végre kisüt a nap Szegeden, de a pulóverre szükség lesz",
-      "url": "https://szeged365.hu/2026/10/11/a-hetvegi-esozes-utan-vegre-kisut-a-nap-szegeden-de-a-puloverre-szukseg-lesz/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-13T09:02:07.533434Z"
+  "updated_at": "2026-10-13T12:05:03.024309Z"
 }

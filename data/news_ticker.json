@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-14T15:05:29.119511Z",
+      "published_at": "2026-10-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Turbó kukacokkal” értek el látványos eredményeket a szegedi kutatók: több tojás, erősebb csibék",
+      "url": "https://szeged365.hu/2026/10/14/turbo-kukacokkal-ertek-el-latvanyos-eredmenyeket-a-szegedi-kutatok-tobb-tojas-erosebb-csibek/"
+    },
+    {
+      "first_seen": "2026-10-14T15:05:29.119511Z",
+      "published_at": "2026-10-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ozzy klasszikusok jönnek a szegedi Városi Rock Klubba – denevér most nem lesz",
+      "url": "https://szeged365.hu/2026/10/14/ozzy-klasszikusok-jonnek-a-szegedi-varosi-rock-klubba-denever-most-nem-lesz/"
+    },
+    {
       "first_seen": "2026-10-14T11:55:15.263847Z",
       "published_at": "2026-10-06T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Két napra a judóé lesz Szeged! Nemzetközi összecsapások, izgalmas küzdelmek és külföldi tehetségek érkeznek, a Szatymazi SE hatalmas versenyre készül! (galéria)",
       "url": "https://szeged365.hu/2026/10/13/ket-napra-a-judoe-lesz-szeged-nemzetkozi-osszecsapasok-izgalmas-kuzdelmek-es-kulfoldi-tehetsegek-erkeznek-a-szatymazi-se-hatalmas-versenyre-keszul-galeria/"
-    },
-    {
-      "first_seen": "2026-10-13T09:02:07.533434Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Letartóztatták azt a külföldi férfit, aki Szeged belvárosában támadt rá egy nőre",
-      "url": "https://szeged365.hu/2026/10/13/letartoztattak-azt-a-kulfoldi-ferfit-aki-szeged-belvarosaban-tamadt-ra-egy-nore/"
-    },
-    {
-      "first_seen": "2026-10-13T06:01:22.754150Z",
-      "published_at": "2026-12-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden kel életre Freddie Mercury – nyerj belépőket a Szeged365-el!",
-      "url": "https://szeged365.hu/2026/10/13/szegeden-kel-eletre-freddie-mercury-nyerj-belepoket-a-szeged365-el/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-14T11:55:15.263847Z"
+  "updated_at": "2026-10-14T15:05:29.119511Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-15T06:06:46.761089Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
+      "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
+    },
+    {
+      "first_seen": "2026-10-15T06:06:46.761089Z",
+      "published_at": "2026-10-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
+      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
+    },
+    {
       "first_seen": "2026-10-14T18:06:12.000897Z",
       "published_at": "2026-10-14T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "A Szegedi Fellebbviteli Főügyészség kirendelt ügyésze lett az NVVH három elnökhelyettesének egyike",
       "url": "https://szeged365.hu/2026/10/13/a-szegedi-fellebbviteli-fougyeszseg-kirendelt-ugyesze-lett-az-nvvh-harom-elnokhelyettesenek-egyike/"
-    },
-    {
-      "first_seen": "2026-10-13T12:05:03.024309Z",
-      "published_at": "2027-03-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újra kitárul a vinoSZFÉRA kapuja: ötödik alkalommal koccintunk Szeged szívében, befutottak a Super Early Bird jegyek!",
-      "url": "https://szeged365.hu/2026/10/13/ujra-kitarul-a-vinoszfera-kapuja-otodik-alkalommal-koccintunk-szeged-sziveben-befutottak-a-super-early-bird-jegyek/"
-    },
-    {
-      "first_seen": "2026-10-13T12:05:03.024309Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Azonnali hatállyal távozik a Szeged-Csanád GA vezetőedzői posztjáról Laczkó Zsolt",
-      "url": "https://szeged365.hu/2026/10/13/azonnali-hatallyal-tavozik-a-szeged-csanad-ga-vezetoedzoi-posztjarol-laczko-zsolt/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-14T18:06:12.000897Z"
+  "updated_at": "2026-10-15T06:06:46.761089Z"
 }

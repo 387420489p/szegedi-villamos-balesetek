@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már csak 1 nap maradt a nevezésből, Szeged365 Family! Hamarosan kiderül, kikre szavazhattok a Legszegedibb Szegediek 2026 versenyében",
+      "url": "https://szeged365.hu/2026/10/13/mar-csak-1-nap-maradt-a-nevezesbol-szeged365-family-hamarosan-kiderul-kikre-szavazhattok-a-legszegedibb-szegediek-2026-versenyeben/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már csak néhány óra maradt! Ma éjfélig nevezheted a példaképed a 2026-os Legszegedibb Szegediekre",
+      "url": "https://szeged365.hu/2026/10/14/mar-csak-nehany-ora-maradt-ma-ejfelig-nevezheted-a-peldakeped-a-2026-os-legszegedibb-szegediekre/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Őszi gokartszakkör indul Szegeden, ahol a versenyzés titkaiba is belekóstolhatnak a gyerekek",
+      "url": "https://szeged365.hu/2026/10/15/oszi-gokartszakkor-indul-szegeden-ahol-a-versenyzes-titkaiba-is-belekostolhatnak-a-gyerekek/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Részegen rollerezett egy férfi Szegeden, a rendőrség büntetőeljárást indított ellene",
+      "url": "https://szeged365.hu/2026/10/15/reszegen-rollerezett-egy-ferfi-szegeden-a-rendorseg-buntetoeljarast-inditott-ellene/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, most aztán lesz miből válogatni! Pénteken legendák, szombaton dupla buli, így pörgeti fel a hétvégét Szegeden a JATE Klub (galéria)",
+      "url": "https://szeged365.hu/2026/10/15/szeged365-family-most-aztan-lesz-mibol-valogatni-penteken-legendak-szombaton-dupla-buli-igy-porgeti-fel-a-hetveget-szegeden-a-jate-klub-galeria/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gasztro-bombát dob a szegedi belvárosra a Trója: 20% kedvezménnyel szállítják az XXL kedvenceket",
+      "url": "https://szeged365.hu/2026/10/15/gasztro-bombat-dob-a-szegedi-belvarosra-a-troja-20-kedvezmennyel-szallitjak-az-xxl-kedvenceket/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gyógyulj meg, Marcika! Egymillió forint gyűlt össze a Luxoya VIP Szeged divatshow-n a kis hős műtétjére",
+      "url": "https://szeged365.hu/2026/10/15/gyogyulj-meg-marcika-egymillio-forint-gyult-ossze-a-luxoya-vip-szeged-divatshow-n-a-kis-hos-mutetjere/"
+    },
+    {
+      "first_seen": "2026-10-15T09:04:31.508322Z",
+      "published_at": "2026-10-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: ki a legjobb művész, tanító vagy gyógyító? Mutatjuk, kiket jelölnének a Legszegedibb Szegediek közé a járókelők! Mondd meg Te, hogy idén kire legyen büszke a Napfény Városa! (videó)",
+      "url": "https://szeged365.hu/2026/10/09/szegedi-pletykak-ki-a-legjobb-muvesz-tanito-vagy-gyogyito-mutatjuk-kiket-jelolnenek-a-legszegedibb-szegediek-koze-a-jarokelok-mondd-meg-te-hogy-iden-kire-legyen-buszke-a-napfeny-varosa-video/"
+    },
+    {
       "first_seen": "2026-10-15T06:06:46.761089Z",
       "published_at": "2026-10-15T00:00:00",
       "reason": "prefiltered",
@@ -101,14 +165,6 @@
       "published_at": "2026-10-13T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Már csak 1 nap maradt a nevezésből, Szeged365 Family! Hamarosan kiderül, kikre szavazhattok a Legszegedibb Szegediek 2026 versenyében",
-      "url": "https://szeged365.hu/2026/10/13/mar-csak-1-nap-maradt-a-nevezesbol-szeged365-family-hamarosan-kiderul-kikre-szavazhattok-a-legszegedibb-szegediek-2026-versenyeben/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "“Mintha egy bombát dobtak volna le” – hatalmas robbanást hallottak Szegeden (frissítve)",
       "url": "https://szeged365.hu/2026/10/13/mintha-egy-bombat-dobtak-volna-le-hatalmas-robbanast-hallottak-szegeden/"
     },
@@ -119,14 +175,6 @@
       "source_name": "Szeged365",
       "title": "Már csak pár napod maradt, Szeged365 Family! Háromfogásos prémium vacsora és egy elképesztően csábító nyeremény vár a szegedi NOVO Square-ben (videó)",
       "url": "https://szeged365.hu/2026/10/14/mar-csak-par-napod-maradt-szeged365-family-haromfogasos-premium-vacsora-es-egy-elkepesztoen-csabito-nyeremeny-var-a-szegedi-novo-square-ben-video/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már csak néhány óra maradt! Ma éjfélig nevezheted a példaképed a 2026-os Legszegedibb Szegediekre",
-      "url": "https://szeged365.hu/2026/10/14/mar-csak-nehany-ora-maradt-ma-ejfelig-nevezheted-a-peldakeped-a-2026-os-legszegedibb-szegediekre/"
     },
     {
       "first_seen": "2026-10-14T11:55:15.263847Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Sose volt jogsija, el is volt tiltva, mégis volán mögé ült – a szegedi rendőrök lekapcsolták",
       "url": "https://szeged365.hu/2026/10/13/sose-volt-jogsija-el-is-volt-tiltva-megis-volan-moge-ult-a-szegedi-rendorok-lekapcsoltak/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felháborodott levelet kaptunk: szegedi olvasónk fizet a parkolóbérletért, de mégsem tud parkolni",
-      "url": "https://szeged365.hu/2026/10/13/felhaborodott-levelet-kaptunk-szegedi-olvasonk-fizet-a-parkoloberletert-de-megsem-tud-parkolni/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sportban és a tanulásban is tarolnak: tíz SZTE-s hallgatót díjaztak „Spiritus Movetur” Sportösztöndíjjal Szegeden",
-      "url": "https://szeged365.hu/2026/10/13/sportban-es-a-tanulasban-is-tarolnak-tiz-szte-s-hallgatot-dijaztak-spiritus-movetur-sportosztondijjal-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt még a szegediek közül is kevesen tudják! Bartók Béla nyomában jártak a Délvidék Ház bringásai Horgoson (galéria)",
-      "url": "https://szeged365.hu/2026/10/13/ezt-meg-a-szegediek-kozul-is-kevesen-tudjak-bartok-bela-nyomaban-jartak-a-delvidek-haz-bringasai-horgoson-galeria/"
-    },
-    {
-      "first_seen": "2026-10-13T12:05:03.024309Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi kisfiú csodája folytatódik: Gellért már a lépcsőket is meghódítja, de a küzdelem nem ért véget! Segítsünk neki, Szeged365 Family!",
-      "url": "https://szeged365.hu/2026/10/13/a-szegedi-kisfiu-csodaja-folytatodik-gellert-mar-a-lepcsoket-is-meghoditja-de-a-kuzdelem-nem-ert-veget-segitsunk-neki-szeged365-family/"
-    },
-    {
-      "first_seen": "2026-10-13T12:05:03.024309Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lépj Kapás Bogi és Gyurta Gergely nyomdokaiba: Ötpróba Úszónap vár a vásárhelyi Gyarmati Dezső Sportuszodában!",
-      "url": "https://szeged365.hu/2026/10/13/lepj-kapas-bogi-es-gyurta-gergely-nyomdokaiba-otproba-uszonap-var-a-vasarhelyi-gyarmati-dezso-sportuszodaban/"
-    },
-    {
-      "first_seen": "2026-10-13T12:05:03.024309Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Szegedi Fellebbviteli Főügyészség kirendelt ügyésze lett az NVVH három elnökhelyettesének egyike",
-      "url": "https://szeged365.hu/2026/10/13/a-szegedi-fellebbviteli-fougyeszseg-kirendelt-ugyesze-lett-az-nvvh-harom-elnokhelyettesenek-egyike/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-15T06:06:46.761089Z"
+  "updated_at": "2026-10-15T09:04:31.508322Z"
 }

@@ -1,20 +1,204 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
+      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megújul az Űrhajós utca eleje is: négy újabb helyszínen kezdtek útjavításokba Szegeden",
+      "url": "https://szeged365.hu/2026/10/16/javitjak-az-urhajos-utca-elejet-is-negy-ujabb-helyszinen-kezdtek-utjavitasokba-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rá sem ismerünk majd Petőfitelep Fő terére? Szénási Róbert elárulta, milyen látványos változások jöhetnek Szegeden (videó)",
+      "url": "https://szeged365.hu/2026/10/16/ra-sem-ismerunk-majd-petofitelep-fo-terere-szenasi-robert-elarulta-milyen-latvanyos-valtozasok-johetnek-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi cukiság: lámacsikó, és két aranyos alpakacsikó született a Szegedi Vadasparkban",
+      "url": "https://szeged365.hu/2026/10/16/napi-cukisag-lamacsiko-es-ket-aranyos-alpakacsiko-szuletett-a-szegedi-vadasparkban/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A BIO felirat mögött több van, mint gondolnád! A szegedi kötődésű Field Test Hungary megmutatja, mi történik, mielőtt az áru a boltok polcaira kerül (videó, galéria)",
+      "url": "https://szeged365.hu/2026/10/16/a-bio-felirat-mogott-tobb-van-mint-gondolnad-a-szegedi-kotodesu-field-test-hungary-megmutatja-mi-tortenik-mielott-az-aru-a-boltok-polcaira-kerul-video-galeria/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fűtőművek szépségversenye, kézműves foglalkozások és természetvédelem – szuper programokkal készülnek az Erőművek Éjszakájára Szegeden",
+      "url": "https://szeged365.hu/2026/10/16/futomuvek-szepsegversenye-kezmuves-foglalkozasok-es-termeszetvedelem-szuper-programokkal-keszulnek-az-eromuvek-ejszakajara-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nádas Péter Találkozás című drámáját mutatják be az 1956-os forradalom 70. évfordulója alkalmából Szegeden",
+      "url": "https://szeged365.hu/2026/10/16/nadas-peter-talalkozas-cimu-dramajat-mutatjak-be-az-1956-os-forradalom-70-evforduloja-alkalmabol-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szennyvízcsatorna rekonstrukció indul a Makkosházi körúton, lesz némi fennakadás a közlekedésben",
+      "url": "https://szeged365.hu/2026/10/16/szennyvizcsatorna-rekonstrukcio-indul-a-makkoshazi-koruton-lesz-nemi-fennakadas-a-kozlekedesben/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nincs már idő, hogy húsz év múlva valósítsam meg az álmaimat” – különleges könyvbemutatót tartott Dr. Nagy Judit Szegeden",
+      "url": "https://szeged365.hu/2026/10/16/nincs-mar-ido-hogy-husz-ev-mulva-valositsam-meg-az-almaimat-kulonleges-konyvbemutatot-tartott-dr-nagy-judit-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elfajult a vita: gumilövedékes fegyverrel kétszer is rálőtt az egyik férfi a másikra Szegeden, majd a pisztolyt a Tiszába dobta",
+      "url": "https://szeged365.hu/2026/10/16/elfajult-a-vita-gumilovedekes-fegyverrel-ketszer-is-ralott-az-egyik-ferfi-a-masikra-szegeden-majd-a-pisztolyt-a-tiszaba-dobta/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gótikus fesztivál rázza fel a hétvégét Szegeden! Igazi csemegék váltják majd egymást a Rock Klub színpadán",
+      "url": "https://szeged365.hu/2026/10/16/gotikus-fesztival-razza-fel-a-hetveget-szegeden-igazi-csemegek-valtjak-majd-egymast-a-rock-klub-szinpadan/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem sikerült a bravúr Lisszabonban: hat góllal kapott ki a PICK Szeged a portugál Sporting CP otthonában",
+      "url": "https://szeged365.hu/2026/10/16/nem-sikerult-a-bravur-lisszabonban-hat-gollal-kapott-ki-a-pick-szeged-a-portugal-sporting-cp-otthonaban/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel érkezik a péntek Szegedre, ma van az Újraélesztés Világnapja",
+      "url": "https://szeged365.hu/2026/10/16/napi-pakk-napos-felhos-idovel-erkezik-a-pentek-szegedre-ma-van-az-ujraelesztes-vilagnapja/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is kapható ásványvizet hívott vissza a Nébih – ne idd meg!",
+      "url": "https://szeged365.hu/2026/10/15/szegeden-is-kaphato-asvanyvizet-hivott-vissza-a-nebih-ne-idd-meg/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meccsnap: Lisszabonban folytatja a BL-szereplést az OTP Bank-Pick Szeged",
+      "url": "https://szeged365.hu/2026/10/15/meccsnap-lisszabonban-folytatja-a-bl-szereplest-az-otp-bank-pick-szeged/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Színpadon a szegedi Nobel-díjas kutató útja: Udvaros Dorottya bújik Karikó Katalin bőrébe",
+      "url": "https://szeged365.hu/2026/10/15/szinpadon-a-szegedi-nobel-dijas-kutato-utja-udvaros-dorottya-bujik-kariko-katalin-borebe/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tizenhat éves lányt keresnek nagy erőkkel a kisteleki rendőrök, Szegeden is felbukkanhat (fotó)",
+      "url": "https://szeged365.hu/2026/10/15/tizenhat-eves-lanyt-keresnek-nagy-erokkel-a-kisteleki-rendorok-szegeden-is-felbukkanhat-foto/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős, de nyári időnk lesz, szuper filmek várnak a Belvárosi Moziban, a REÖK-ben pedig egy csodás kiállítás!",
+      "url": "https://szeged365.hu/2026/10/05/napi-pakk-felhos-de-nyari-idonk-lesz-szuper-filmek-varnak-a-belvarosi-moziban-a-reok-ben-pedig-egy-csodas-kiallitas/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elvonulnak a felhők, pénteken már több napsütésre számíthatunk Szegeden",
+      "url": "https://szeged365.hu/2026/10/15/elvonulnak-a-felhok-penteken-mar-tobb-napsutesre-szamithatunk-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Erre igazán büszkék lehetünk Szegeden! A Szent Vincent Rehabilitációs Központ egyik ZEPU AI robotját a szegedi rehabilitációs konferencián mutatták be (videó)",
+      "url": "https://szeged365.hu/2026/10/15/erre-igazan-buszkek-lehetunk-szegeden-a-szent-vincent-rehabilitacios-kozpont-egyik-zepu-ai-robotjat-a-szegedi-rehabilitacios-konferencian-mutattak-be-video/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kiállítások, előadások, workshopok és családi programok – 18. alkalommal rendezik meg a Szegedi Képregényfesztivált a Somogyi-könyvtárban",
+      "url": "https://szeged365.hu/2026/10/15/kiallitasok-eloadasok-workshopok-es-csaladi-programok-18-alkalommal-rendezik-meg-a-szegedi-kepregenyfesztivalt-a-somogyi-konyvtarban/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bonyolultabb lesz elindulni a főváros felé: burkolatfelújítás miatt lezárják az M5-ös egyik kihajtó ágát Szegednél",
+      "url": "https://szeged365.hu/2026/10/15/bonyolultabb-lesz-elindulni-a-fovaros-fele-burkolatfelujitas-miatt-lezarjak-az-m5-os-egyik-kihajto-agat-szegednel/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hazaengedték a kórházból, de hogyan tovább? Három éve segít a családoknak a szegedi Gyógyulj Otthon (videó)",
+      "url": "https://szeged365.hu/2026/10/15/hazaengedtek-a-korhazbol-de-hogyan-tovabb-harom-eve-segit-a-csaladoknak-a-szegedi-gyogyulj-otthon-video/"
+    },
+    {
+      "first_seen": "2026-10-16T09:35:25.713559Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megtudtuk, mikor csodálhatjuk meg madártávlatból Szegedet: idén is 180 férőhelyes lesz az óriáskerék",
+      "url": "https://szeged365.hu/2026/10/15/megtudtuk-mikor-csodalhatjuk-meg-madartavlatbol-szegedet-iden-is-180-ferohelyes-lesz-az-oriaskerek/"
+    },
+    {
       "first_seen": "2026-10-15T13:12:35.962543Z",
       "published_at": "2026-10-15T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
       "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
-    },
-    {
-      "first_seen": "2026-10-15T13:12:35.962543Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
-      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
     },
     {
       "first_seen": "2026-10-15T13:12:35.962543Z",
@@ -135,192 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegedi Pletykák: ki a legjobb művész, tanító vagy gyógyító? Mutatjuk, kiket jelölnének a Legszegedibb Szegediek közé a járókelők! Mondd meg Te, hogy idén kire legyen büszke a Napfény Városa! (videó)",
       "url": "https://szeged365.hu/2026/10/09/szegedi-pletykak-ki-a-legjobb-muvesz-tanito-vagy-gyogyito-mutatjuk-kiket-jelolnenek-a-legszegedibb-szegediek-koze-a-jarokelok-mondd-meg-te-hogy-iden-kire-legyen-buszke-a-napfeny-varosa-video/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közös nappalit kapnak a szegediek! Mutatjuk, milyen különleges, ingyenes programokkal készülnek",
-      "url": "https://szeged365.hu/2026/10/14/kozos-nappalit-kapnak-a-szegediek-mutatjuk-milyen-kulonleges-ingyenes-programokkal-keszulnek/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Te tudnád, mit kell tenni, ha valaki összeesik melletted? Szegeden most megtanulhatod!",
-      "url": "https://szeged365.hu/2026/10/14/te-tudnad-mit-kell-tenni-ha-valaki-osszeesik-melletted-szegeden-most-megtanulhatod/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kulcsrakész új otthon Szeged szívében, 5% ÁFÁ-val, lakásbeszámítással? Challenge Accepted, mutatjuk a hét (szerintünk) legjobb ajánlatát!",
-      "url": "https://szeged365.hu/2026/10/14/kulcsrakesz-uj-otthon-szeged-sziveben-5-afa-val-lakasbeszamitassal-challenge-accepted-mutatjuk-a-het-szerintunk-legjobb-ajanlatat/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged is a legnépszerűbb úti célok között, sokan indulnak útnak az október 23-i hosszú hétvégén",
-      "url": "https://szeged365.hu/2026/10/14/szeged-is-a-legnepszerubb-uti-celok-kozott-sokan-indulnak-utnak-az-oktober-23-i-hosszu-hetvegen/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Súlyos állításokat fogalmazott meg a szegedi egyetem kancellárja, most a Fidesz is megszólalt",
-      "url": "https://szeged365.hu/2026/10/14/sulyos-allitasokat-fogalmazott-meg-a-szegedi-egyetem-kancellarja-most-a-fidesz-is-megszolalt/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Esőmentes, igazi őszi időjárást tartogat a csütörtök Szegeden",
-      "url": "https://szeged365.hu/2026/10/14/esomentes-igazi-oszi-idojarast-tartogat-a-csutortokon-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-14T18:06:12.000897Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hivatalos: Tóth Balázs lesz a Szeged-Csanád GA új vezetőedzője",
-      "url": "https://szeged365.hu/2026/10/14/hivatalos-toth-balazs-lesz-a-szeged-csanad-ga-uj-vezetoedzoje/"
-    },
-    {
-      "first_seen": "2026-10-14T15:05:29.119511Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Turbó kukacokkal” értek el látványos eredményeket a szegedi kutatók: több tojás, erősebb csibék",
-      "url": "https://szeged365.hu/2026/10/14/turbo-kukacokkal-ertek-el-latvanyos-eredmenyeket-a-szegedi-kutatok-tobb-tojas-erosebb-csibek/"
-    },
-    {
-      "first_seen": "2026-10-14T15:05:29.119511Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ozzy klasszikusok jönnek a szegedi Városi Rock Klubba – denevér most nem lesz",
-      "url": "https://szeged365.hu/2026/10/14/ozzy-klasszikusok-jonnek-a-szegedi-varosi-rock-klubba-denever-most-nem-lesz/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Pletykák: kit neveznének a szegedi járókelők a 2026-os Legszegedibb Szegediek közé? Gyógyító, zenész és tanító neve is elhangzott (videó)",
-      "url": "https://szeged365.hu/2026/10/06/szegedi-pletykak-kit-neveznenek-a-szegedi-jarokelok-a-2026-os-legszegedibb-szegediek-koze-gyogyito-zenesz-es-tanito-neve-is-elhangzott-video/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Mintha egy bombát dobtak volna le” – hatalmas robbanást hallottak Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/10/13/mintha-egy-bombat-dobtak-volna-le-hatalmas-robbanast-hallottak-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már csak pár napod maradt, Szeged365 Family! Háromfogásos prémium vacsora és egy elképesztően csábító nyeremény vár a szegedi NOVO Square-ben (videó)",
-      "url": "https://szeged365.hu/2026/10/14/mar-csak-par-napod-maradt-szeged365-family-haromfogasos-premium-vacsora-es-egy-elkepesztoen-csabito-nyeremeny-var-a-szegedi-novo-square-ben-video/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tűzszerészeket hívtak egy otthagyott csomag miatt a szegedi Nagyállomásra",
-      "url": "https://szeged365.hu/2026/10/14/tuzszereszeket-hivtak-egy-otthagyott-csomag-miatt-a-szegedi-nagyallomasra-de-szerencsere-nem-volt-gond/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Queen, Oasis, sztárvendégek és filmfesztiválok: brutális mozihét jön a szegedi Belvárosi Moziban",
-      "url": "https://szeged365.hu/2026/10/14/queen-oasis-sztarvendegek-es-filmfesztivalok-brutalis-mozihet-jon-a-szegedi-belvarosi-moziban/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már bejárható a Szeged első világháborús emlékeit bemutató örökségtúra",
-      "url": "https://szeged365.hu/2026/10/14/mar-bejarhato-a-szeged-elso-vilaghaborus-emlekeit-bemutato-oroksegtura/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Politikai nyomásról, Kubatov Gáborról és milliárdos ajánlatokról beszélt Fendler Judit, az SZTE kancellárja",
-      "url": "https://szeged365.hu/2026/10/14/politikai-nyomasrol-kubatov-gaborrol-es-milliardos-ajanlatokrol-beszelt-fendler-judit-az-szte-kancellarja/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mozgásban lendült a Vörösmarty! Hatalmas siker volt a Sportágválasztó Családi Nap az iskolában",
-      "url": "https://szeged365.hu/2026/10/14/mozgasban-lendult-a-vorosmarty-hatalmas-siker-volt-a-sportagvalaszto-csaladi-nap-az-iskolaban/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi trash: le akart pihenni a férfi, ezért betört egy Szeged környéki tanyára – nem volt jó ötlet, vádemelés lett a vége",
-      "url": "https://szeged365.hu/2026/10/14/napi-trash-le-akart-pihenni-a-ferfi-ezert-betort-egy-szeged-kornyeki-tanyara-nem-volt-jo-otlet-vademeles-lett-a-vege/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kérdőív indul, hogy Szeged biztonságosabb és nőbarátabb város legyen",
-      "url": "https://szeged365.hu/2026/10/14/kerdoiv-indul-hogy-szeged-biztonsagosabb-es-nobaratabb-varos-legyen/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: felhős, majd napos időt hoz a szerda, munkálatok indulnak két főút Szegedre bevezető szakaszán",
-      "url": "https://szeged365.hu/2026/10/14/napi-pakk-felhos-majd-napos-idot-hoz-a-szerda-munkalatok-indulnak-ket-fout-szegedre-bevezeto-szakaszan/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elütött egy autó egy gyalogost a Gutenberg utcánál",
-      "url": "https://szeged365.hu/2026/10/13/elutott-egy-auto-egy-gyalogost-a-gutenberg-utcanal/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csodás látványosság lesz az égen: október 21-én tetőzik az Orionida meteorraj",
-      "url": "https://szeged365.hu/2026/10/13/csodas-latvanyossag-lesz-az-egen-oktober-21-en-tetozik-az-orionida-meteorraj/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kellemes idő lesz vasárnap is, elstartolt a 30. Őszi Kulturális Fesztivál, ingyenes Mehringer koncert vár az Árkádban!",
-      "url": "https://szeged365.hu/2026/10/04/napi-pakk-kellemes-ido-lesz-vasarnap-is-elstartolt-a-30-oszi-kulturalis-fesztival-ingyenes-mehringer-koncert-var-az-arkadban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-15T13:12:35.962543Z"
+  "updated_at": "2026-10-16T09:35:25.713559Z"
 }

@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
+      "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
+      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Van új a nap alatt”: konferenciát tartottak Szegeden a napenergia jövőjéről – a szakma áfacsökkentést és átlátható szabályozást sürget",
+      "url": "https://szeged365.hu/2026/10/15/van-uj-a-nap-alatt-konferenciat-tartottak-szegeden-a-napenergia-jovojerol-a-szakma-afacsokkentest-es-atlathato-szabalyozast-surget/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tíz napig az utcán aludt Marseille-ben, később világsztárokat és milliárdosokat furikázott Monacóban – elképesztő életútja van a szegedi Mérész Csabának",
+      "url": "https://szeged365.hu/2026/10/15/tiz-napig-az-utcan-aludt-marseille-ben-kesobb-vilagsztarokat-es-milliardosokat-furikazott-monacoban-elkepeszto-eletutja-van-a-szegedi-meresz-csabanak/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Aszfaltozási munkálatok kezdődnek Szeged déli városrészében – több utcában félpályás útlezárásra kell számítani",
+      "url": "https://szeged365.hu/2026/10/15/aszfaltozasi-munkalatok-kezdodnek-szeged-deli-varosreszeben-tobb-utcaban-felpalyas-utlezarasra-kell-szamitani/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Üdv a Napfény Városában, Szeged Eye! Megérkeztek az óriáskerék alkotóelemei a Dóm térre",
+      "url": "https://szeged365.hu/2026/10/15/udv-a-napfeny-varosaban-szeged-eye-megerkeztek-az-oriaskerek-alkotoelemei-a-dom-terre/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Most páros belépőt nyerhettek Vecsei H. Miklós és a QJÚB koncertjére, akik nem is akárhol, hanem a szegedi JATE Klubban indítják új turnéjukat!",
+      "url": "https://szeged365.hu/2026/10/15/most-paros-belepot-nyerhettek-vecsei-h-miklos-es-a-qjub-koncertjere-akik-nem-is-akarhol-hanem-a-szegedi-jate-klubban-inditjak-uj-turnejukat/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi diákok teszik rendbe a Belvárosi temető hadisírjait Halottak napja előtt (galéria)",
+      "url": "https://szeged365.hu/2026/10/15/szegedi-diakok-teszik-rendbe-a-belvarosi-temeto-hadisirjait-halottak-napja-elott-galeria/"
+    },
+    {
+      "first_seen": "2026-10-15T13:12:35.962543Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi ügyvéd kapott szerepet az egyik újonnan induló műsorban! Dr. Ragány Zoltán ezúttal azonban nem fakanalat ragad, hanem a tárgyalóteremben küzd majd",
+      "url": "https://szeged365.hu/2026/10/15/szegedi-ugyved-kapott-szerepet-az-egyik-ujonnan-indulo-musorban-dr-ragany-zoltan-ezuttal-azonban-nem-fakanalat-ragad-hanem-a-targyaloteremben-kuzd-majd/"
+    },
+    {
       "first_seen": "2026-10-15T09:04:31.508322Z",
       "published_at": "2026-10-13T00:00:00",
       "reason": "prefiltered",
@@ -63,22 +135,6 @@
       "source_name": "Szeged365",
       "title": "Szegedi Pletykák: ki a legjobb művész, tanító vagy gyógyító? Mutatjuk, kiket jelölnének a Legszegedibb Szegediek közé a járókelők! Mondd meg Te, hogy idén kire legyen büszke a Napfény Városa! (videó)",
       "url": "https://szeged365.hu/2026/10/09/szegedi-pletykak-ki-a-legjobb-muvesz-tanito-vagy-gyogyito-mutatjuk-kiket-jelolnenek-a-legszegedibb-szegediek-koze-a-jarokelok-mondd-meg-te-hogy-iden-kire-legyen-buszke-a-napfeny-varosa-video/"
-    },
-    {
-      "first_seen": "2026-10-15T06:06:46.761089Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
-      "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
-    },
-    {
-      "first_seen": "2026-10-15T06:06:46.761089Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
-      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
     },
     {
       "first_seen": "2026-10-14T18:06:12.000897Z",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: kellemes idő lesz vasárnap is, elstartolt a 30. Őszi Kulturális Fesztivál, ingyenes Mehringer koncert vár az Árkádban!",
       "url": "https://szeged365.hu/2026/10/04/napi-pakk-kellemes-ido-lesz-vasarnap-is-elstartolt-a-30-oszi-kulturalis-fesztival-ingyenes-mehringer-koncert-var-az-arkadban/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felhősen indul a szerda, de délután már a nap is kisüthet Szegeden",
-      "url": "https://szeged365.hu/2026/10/13/felhosen-indul-a-szerda-de-delutan-mar-a-nap-is-kisuthet-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kiderült, ki válthatja Laczkó Zsoltot a Szeged-Csanád GA élén?",
-      "url": "https://szeged365.hu/2026/10/13/kiderult-ki-valthatja-laczko-zsoltot-a-szeged-csanad-ga-elen/"
-    },
-    {
-      "first_seen": "2026-10-14T11:55:15.263847Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszólalt a honvédség, tisztázták, hogy a Gripenek okozták-e a robbanásszerű hangot Szegeden",
-      "url": "https://szeged365.hu/2026/10/13/megszolalt-a-honvedseg-tisztaztak-hogy-a-gripenek-okoztak-e-a-robbanasszeru-hangot-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egészen Erdélyig utazott a Szeged365 csapata, hogy segítsen megmenteni az ősmagyar rózsákat (videó, galéria)",
-      "url": "https://szeged365.hu/2026/10/13/egeszen-erdelyig-utazott-a-szeged365-csapata-hogy-segitsen-megmenteni-az-osmagyar-rozsakat-video-galeria/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi “Sétáló erdő” nem áll meg: zenés programok kísérik a fák útját, melyek pénteken ismét továbbállnak (fotók)",
-      "url": "https://szeged365.hu/2026/10/13/a-szegedi-setalo-erdo-nem-all-meg-zenes-programok-kiserik-a-fak-utjat-melyek-penteken-ismet-tovabballnak-fotok/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közel ezer judóst várnak Szegedre, de az idei verseny többről szól: először rendezik meg a Szabó Ödön – emlékversenyt, a belépés díjtalan!",
-      "url": "https://szeged365.hu/2026/10/13/kozel-ezer-judost-varnak-szegedre-de-az-idei-verseny-tobbrol-szol-eloszor-rendezik-meg-a-szabo-odon-emlekversenyt-a-belepes-dijtalan/"
-    },
-    {
-      "first_seen": "2026-10-13T15:03:05.992604Z",
-      "published_at": "2026-10-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sose volt jogsija, el is volt tiltva, mégis volán mögé ült – a szegedi rendőrök lekapcsolták",
-      "url": "https://szeged365.hu/2026/10/13/sose-volt-jogsija-el-is-volt-tiltva-megis-volan-moge-ult-a-szegedi-rendorok-lekapcsoltak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-15T09:04:31.508322Z"
+  "updated_at": "2026-10-15T13:12:35.962543Z"
 }

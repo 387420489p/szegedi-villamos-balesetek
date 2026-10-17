@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-17T06:01:24.511012Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szombaton borongósabb időre számíthatunk, és ma lesz a Múzeumok Őszi Éjszakája Szegeden",
+      "url": "https://szeged365.hu/2026/10/17/napi-pakk-szombaton-borongosabb-idore-szamithatunk-es-ma-lesz-a-muzeumok-oszi-ejszakaja-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-17T06:01:24.511012Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már csak 1 nap maradt a nevezésből, Szeged365 Family! Hamarosan kiderül, kikre szavazhattok a Legszegedibb Szegediek 2026 versenyében",
+      "url": "https://szeged365.hu/2026/10/13/mar-csak-1-nap-maradt-a-nevezesbol-szeged365-family-hamarosan-kiderul-kikre-szavazhattok-a-legszegedibb-szegediek-2026-versenyeben/"
+    },
+    {
+      "first_seen": "2026-10-17T06:01:24.511012Z",
+      "published_at": "2026-10-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már csak néhány óra maradt! Ma éjfélig nevezheted a példaképed a 2026-os Legszegedibb Szegediekre",
+      "url": "https://szeged365.hu/2026/10/14/mar-csak-nehany-ora-maradt-ma-ejfelig-nevezheted-a-peldakeped-a-2026-os-legszegedibb-szegediekre/"
+    },
+    {
       "first_seen": "2026-10-16T18:09:59.750874Z",
       "published_at": "2026-10-16T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Tizenhat éves lányt keresnek nagy erőkkel a kisteleki rendőrök, Szegeden is felbukkanhat (fotó)",
       "url": "https://szeged365.hu/2026/10/15/tizenhat-eves-lanyt-keresnek-nagy-erokkel-a-kisteleki-rendorok-szegeden-is-felbukkanhat-foto/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: felhős, de nyári időnk lesz, szuper filmek várnak a Belvárosi Moziban, a REÖK-ben pedig egy csodás kiállítás!",
-      "url": "https://szeged365.hu/2026/10/05/napi-pakk-felhos-de-nyari-idonk-lesz-szuper-filmek-varnak-a-belvarosi-moziban-a-reok-ben-pedig-egy-csodas-kiallitas/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elvonulnak a felhők, pénteken már több napsütésre számíthatunk Szegeden",
-      "url": "https://szeged365.hu/2026/10/15/elvonulnak-a-felhok-penteken-mar-tobb-napsutesre-szamithatunk-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Erre igazán büszkék lehetünk Szegeden! A Szent Vincent Rehabilitációs Központ egyik ZEPU AI robotját a szegedi rehabilitációs konferencián mutatták be (videó)",
-      "url": "https://szeged365.hu/2026/10/15/erre-igazan-buszkek-lehetunk-szegeden-a-szent-vincent-rehabilitacios-kozpont-egyik-zepu-ai-robotjat-a-szegedi-rehabilitacios-konferencian-mutattak-be-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:09:59.750874Z"
+  "updated_at": "2026-10-17T06:01:24.511012Z"
 }

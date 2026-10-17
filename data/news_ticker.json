@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-17T09:07:57.511019Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Késnek a szegedi InterCity-k, meghibásodott egy biztosítóberendezés (frissítve)",
+      "url": "https://szeged365.hu/2026/10/17/kesnek-a-szegedi-intercityk-meghibasodott-egy-biztositoberendezes/"
+    },
+    {
       "first_seen": "2026-10-17T06:01:24.511012Z",
       "published_at": "2026-10-17T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Színpadon a szegedi Nobel-díjas kutató útja: Udvaros Dorottya bújik Karikó Katalin bőrébe",
       "url": "https://szeged365.hu/2026/10/15/szinpadon-a-szegedi-nobel-dijas-kutato-utja-udvaros-dorottya-bujik-kariko-katalin-borebe/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tizenhat éves lányt keresnek nagy erőkkel a kisteleki rendőrök, Szegeden is felbukkanhat (fotó)",
-      "url": "https://szeged365.hu/2026/10/15/tizenhat-eves-lanyt-keresnek-nagy-erokkel-a-kisteleki-rendorok-szegeden-is-felbukkanhat-foto/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T06:01:24.511012Z"
+  "updated_at": "2026-10-17T09:07:57.511019Z"
 }

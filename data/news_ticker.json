@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-17T15:06:03.532127Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karcagon mutatkozik be a Szeged-Csanád GA új vezetőedzője, Tóth Balázs",
+      "url": "https://szeged365.hu/2026/10/17/karcagon-mutatkozik-be-a-szeged-csanad-ga-uj-vezetoedzoje-toth-balazs/"
+    },
+    {
+      "first_seen": "2026-10-17T15:06:03.532127Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem csak a bűnözők kézrekerítésében, a fociban is remekeltek megyénk rendőrei",
+      "url": "https://szeged365.hu/2026/10/17/nem-csak-a-bunozok-kezrekeriteseben-a-fociban-is-remekeltek-megyenk-rendorei/"
+    },
+    {
+      "first_seen": "2026-10-17T15:06:03.532127Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb bombafenyegetés volt egy budapesti iskolában: 17 éves fiú az elkövető, döbbenetes miért tette",
+      "url": "https://szeged365.hu/2026/10/17/ujabb-bombafenyegetes-volt-egy-budapesti-iskolaban-17-eves-fiu-az-elkoveto-dobbenetes-miert-tette/"
+    },
+    {
+      "first_seen": "2026-10-17T15:06:03.532127Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Lerobbant egy troli a Csongrádi sugárúton, hatalmas a dugó",
+      "url": "https://szeged365.hu/2026/10/17/lerobbant-egy-troli-a-csongradi-sugaruton/"
+    },
+    {
       "first_seen": "2026-10-17T12:09:20.771796Z",
       "published_at": "2026-10-16T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Nincs már idő, hogy húsz év múlva valósítsam meg az álmaimat” – különleges könyvbemutatót tartott Dr. Nagy Judit Szegeden",
       "url": "https://szeged365.hu/2026/10/16/nincs-mar-ido-hogy-husz-ev-mulva-valositsam-meg-az-almaimat-kulonleges-konyvbemutatot-tartott-dr-nagy-judit-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elfajult a vita: gumilövedékes fegyverrel kétszer is rálőtt az egyik férfi a másikra Szegeden, majd a pisztolyt a Tiszába dobta",
-      "url": "https://szeged365.hu/2026/10/16/elfajult-a-vita-gumilovedekes-fegyverrel-ketszer-is-ralott-az-egyik-ferfi-a-masikra-szegeden-majd-a-pisztolyt-a-tiszaba-dobta/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gótikus fesztivál rázza fel a hétvégét Szegeden! Igazi csemegék váltják majd egymást a Rock Klub színpadán",
-      "url": "https://szeged365.hu/2026/10/16/gotikus-fesztival-razza-fel-a-hetveget-szegeden-igazi-csemegek-valtjak-majd-egymast-a-rock-klub-szinpadan/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem sikerült a bravúr Lisszabonban: hat góllal kapott ki a PICK Szeged a portugál Sporting CP otthonában",
-      "url": "https://szeged365.hu/2026/10/16/nem-sikerult-a-bravur-lisszabonban-hat-gollal-kapott-ki-a-pick-szeged-a-portugal-sporting-cp-otthonaban/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is kapható ásványvizet hívott vissza a Nébih – ne idd meg!",
-      "url": "https://szeged365.hu/2026/10/15/szegeden-is-kaphato-asvanyvizet-hivott-vissza-a-nebih-ne-idd-meg/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T12:09:20.771796Z"
+  "updated_at": "2026-10-17T15:06:03.532127Z"
 }

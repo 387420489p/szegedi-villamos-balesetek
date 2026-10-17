@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-17T12:09:20.771796Z",
+      "published_at": "2026-10-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Vihar dúl Szegeden” – pontosan 70 éve lobbant fel a forradalom lángja, és alakult meg a MEFESZ",
+      "url": "https://szeged365.hu/2026/10/16/vihar-dul-szegeden-pontosan-70-eve-lobbant-fel-a-forradalom-langja-varosunkban/"
+    },
+    {
+      "first_seen": "2026-10-17T12:09:20.771796Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Különleges emlékmozdony érkezik Szegedre ma: 1956 hőseinek állít emléket, a grafikát maguk a MÁV dolgozói alkották (galéria + videó)",
+      "url": "https://szeged365.hu/2026/10/17/kulonleges-emlekmozdony-erkezik-szegedre-ma-1956-hoseinek-allit-emleket-a-grafikat-maguk-a-mav-dolgozoi-alkottak-video/"
+    },
+    {
+      "first_seen": "2026-10-17T12:09:20.771796Z",
+      "published_at": "2026-10-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felháborodott levelet kaptunk: szegedi olvasónk fizet a parkolóbérletért, de mégsem tud parkolni (frissítve)",
+      "url": "https://szeged365.hu/2026/10/13/felhaborodott-levelet-kaptunk-szegedi-olvasonk-fizet-a-parkoloberletert-de-megsem-tud-parkolni/"
+    },
+    {
       "first_seen": "2026-10-17T09:07:57.511019Z",
       "published_at": "2026-10-17T00:00:00",
       "reason": "prefiltered",
@@ -162,14 +186,6 @@
     },
     {
       "first_seen": "2026-10-16T12:01:17.511086Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Vihar dúl Szegeden” – pontosan 70 éve lobbant fel a forradalom lángja városunkban",
-      "url": "https://szeged365.hu/2026/10/16/vihar-dul-szegeden-pontosan-70-eve-lobbant-fel-a-forradalom-langja-varosunkban/"
-    },
-    {
-      "first_seen": "2026-10-16T12:01:17.511086Z",
       "published_at": "2024-01-01T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegeden is kapható ásványvizet hívott vissza a Nébih – ne idd meg!",
       "url": "https://szeged365.hu/2026/10/15/szegeden-is-kaphato-asvanyvizet-hivott-vissza-a-nebih-ne-idd-meg/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meccsnap: Lisszabonban folytatja a BL-szereplést az OTP Bank-Pick Szeged",
-      "url": "https://szeged365.hu/2026/10/15/meccsnap-lisszabonban-folytatja-a-bl-szereplest-az-otp-bank-pick-szeged/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Színpadon a szegedi Nobel-díjas kutató útja: Udvaros Dorottya bújik Karikó Katalin bőrébe",
-      "url": "https://szeged365.hu/2026/10/15/szinpadon-a-szegedi-nobel-dijas-kutato-utja-udvaros-dorottya-bujik-kariko-katalin-borebe/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:07:57.511019Z"
+  "updated_at": "2026-10-17T12:09:20.771796Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-17T18:02:02.154963Z",
+      "published_at": "2026-10-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ott voltunk a szegedi megnyitón: öt érem Szegeden, újabb bajnoki arany Budapestről, fantasztikus sikereket hozott a Szatymazi Judo! (galéria)",
+      "url": "https://szeged365.hu/2026/10/17/ott-voltunk-a-szegedi-megnyiton-ot-erem-szegeden-ujabb-bajnoki-arany-budapestrol-fantasztikus-sikereket-hozott-a-szatymazi-judo-galeria/"
+    },
+    {
       "first_seen": "2026-10-17T15:06:03.532127Z",
       "published_at": "2026-10-17T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szennyvízcsatorna rekonstrukció indul a Makkosházi körúton, lesz némi fennakadás a közlekedésben",
       "url": "https://szeged365.hu/2026/10/16/szennyvizcsatorna-rekonstrukcio-indul-a-makkoshazi-koruton-lesz-nemi-fennakadas-a-kozlekedesben/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nincs már idő, hogy húsz év múlva valósítsam meg az álmaimat” – különleges könyvbemutatót tartott Dr. Nagy Judit Szegeden",
-      "url": "https://szeged365.hu/2026/10/16/nincs-mar-ido-hogy-husz-ev-mulva-valositsam-meg-az-almaimat-kulonleges-konyvbemutatot-tartott-dr-nagy-judit-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T15:06:03.532127Z"
+  "updated_at": "2026-10-17T18:02:02.154963Z"
 }

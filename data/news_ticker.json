@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-19T12:00:04.878842Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Nemzeti Nyomozóiroda eljárást indított a bombafenyegetések kapcsán, amik három szegedi iskolát is érintettek",
+      "url": "https://szeged365.hu/2026/10/19/a-nemzeti-nyomozoiroda-eljarast-inditott-a-bombafenyegetesek-kapcsan-amik-harom-szegedi-iskolat-is-erintettek/"
+    },
+    {
+      "first_seen": "2026-10-19T12:00:04.878842Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Amit Szabó Ödön elkezdett, azt most a fiatalok viszik tovább! A szatymazi judósok 12 éremmel tették büszkévé a közösséget Szegeden (videó, galéria)",
+      "url": "https://szeged365.hu/2026/10/19/amit-szabo-odon-elkezdett-azt-most-a-fiatalok-viszik-tovabb-szegeden-egyutt-dobbant-a-judosok-szive-a-szatymazi-versenyzok-pedig-12-eremmel-tettek-buszkeve-a-kozosseget-video-fotok/"
+    },
+    {
+      "first_seen": "2026-10-19T12:00:04.878842Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset Szegeden – egy menetrend szerinti autóbusz megrongált egy parkoló személygépjárművet",
+      "url": "https://szeged365.hu/2026/10/19/baleset-szegeden-egy-menetrend-szerinti-autobusz-megrongalt-egy-parkolo-szemelygepjarmuvet/"
+    },
+    {
+      "first_seen": "2026-10-19T12:00:04.878842Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem csak Szegeden és Magyarországon volt bombariadó több iskolában, Szerbiában is kaptak fenyegetéseket az intézmények",
+      "url": "https://szeged365.hu/2026/10/19/nem-csak-szegeden-es-magyarorszagon-volt-bombariado-tobb-iskolaban-a-deli-szomszedainknal-is-kaptak-fenyegeteseket-az-intezmenyek/"
+    },
+    {
       "first_seen": "2026-10-19T09:07:09.243430Z",
       "published_at": "2026-10-16T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Itt kezdődött az 1956-os forradalom egyik legfontosabb fejezete: történelmi emlékhely lett a szegedi Auditórium Maximum",
       "url": "https://szeged365.hu/2026/10/16/itt-kezdodott-az-1956-os-forradalom-egyik-legfontosabb-fejezete-tortenelmi-emlekhely-lett-a-szegedi-auditorium-maximum/"
-    },
-    {
-      "first_seen": "2026-10-16T18:09:59.750874Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megszüntették a Szeged Plaza tulajdonosának letartóztatását, de nyomkövetőt kap Jellinek Dániel",
-      "url": "https://szeged365.hu/2026/10/16/megszuntettek-a-szeged-plaza-tulajdonosanak-letartoztatasat-de-nyomkovetot-kap-jellinek-daniel/"
-    },
-    {
-      "first_seen": "2026-10-16T18:09:59.750874Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Klasszikus októberi napunk lesz szombaton: felhősebb időjárást hoz a hétvége első napja Szegedre",
-      "url": "https://szeged365.hu/2026/10/16/klasszikus-oktoberi-napunk-lesz-szombaton-felhosebb-idojarast-hoz-a-hetvege-elso-napja-szegedre/"
-    },
-    {
-      "first_seen": "2026-10-16T18:09:59.750874Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Legendák a Global Fitnessben: világbajnok edzőgárdával robbant be Szeged legújabb küzdősport terme",
-      "url": "https://szeged365.hu/2026/10/16/legendak-a-global-fitnessben-vilagbajnok-edzogardaval-robbant-be-szeged-legujabb-kuzdosport-terme/"
-    },
-    {
-      "first_seen": "2026-10-16T18:09:59.750874Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eljött az ősz – megérkeztek az átvonuló darvak Csongrád-Csanád megye határára (galéria)",
-      "url": "https://szeged365.hu/2026/10/16/eljott-az-osz-megerkeztek-az-atvonulo-darvak-csongrad-csanad-megye-hatarara-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-19T09:07:09.243430Z"
+  "updated_at": "2026-10-19T12:00:04.878842Z"
 }

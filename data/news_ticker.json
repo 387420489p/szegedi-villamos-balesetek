@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-19T06:17:31.782859Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„1956 nem csupán egy forradalom története” – két szegedi polgárőr is elismerésben részesült az Országos Polgárőr Szövetség ünnepi rendezvényén",
+      "url": "https://szeged365.hu/2026/10/19/1956-nem-csupan-egy-forradalom-tortenete-ket-szegedi-polgaror-is-elismeresben-reszesult-az-orszagos-polgaror-szovetseg-unnepi-rendezvenyen/"
+    },
+    {
       "first_seen": "2026-10-19T05:10:35.240877Z",
       "published_at": "2026-10-17T00:00:00",
       "reason": "ai_rejected",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Véget értek a pályafelújítási munkák a 3F-es villamosvonal Fonógyári úti szakaszán",
       "url": "https://szeged365.hu/2026/10/16/veget-ertek-a-palyafelujitasi-munkak-a-3f-es-villamosvonal-fonogyari-uti-szakaszan/"
-    },
-    {
-      "first_seen": "2026-10-16T12:01:17.511086Z",
-      "published_at": "2026-10-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: beköszönt az igazi ősz Szegeden, indulnak a Román Filmnapok",
-      "url": "https://szeged365.hu/2026/10/09/napi-pakk-penteken-kezdodik-az-osz-szegeden-indulnak-a-roman-filmnapok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-19T05:10:35.240877Z"
+  "updated_at": "2026-10-19T06:17:31.782859Z"
 }

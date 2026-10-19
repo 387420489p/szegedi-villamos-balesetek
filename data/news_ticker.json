@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-18T06:06:45.403726Z",
+      "published_at": "2026-10-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
+      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
+    },
+    {
       "first_seen": "2026-10-17T18:02:02.154963Z",
       "published_at": "2026-10-17T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nádas Péter Találkozás című drámáját mutatják be az 1956-os forradalom 70. évfordulója alkalmából Szegeden",
       "url": "https://szeged365.hu/2026/10/16/nadas-peter-talalkozas-cimu-dramajat-mutatjak-be-az-1956-os-forradalom-70-evforduloja-alkalmabol-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-16T09:35:25.713559Z",
-      "published_at": "2026-10-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szennyvízcsatorna rekonstrukció indul a Makkosházi körúton, lesz némi fennakadás a közlekedésben",
-      "url": "https://szeged365.hu/2026/10/16/szennyvizcsatorna-rekonstrukcio-indul-a-makkoshazi-koruton-lesz-nemi-fennakadas-a-kozlekedesben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T18:02:02.154963Z"
+  "updated_at": "2026-10-18T06:06:45.403726Z"
 }

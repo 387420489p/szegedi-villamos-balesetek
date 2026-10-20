@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "70 évvel ezelőtt szegedi fiatalok írtak történelmet, most egy különleges estén elevenedik meg a bátorságuk",
+      "url": "https://szeged365.hu/2026/10/20/70-evvel-ezelott-szegedi-fiatalok-irtak-tortenelmet-most-egy-kulonleges-esten-elevenedik-meg-a-batorsaguk/"
+    },
+    {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi cukiság: új lakók érkeztek a Szegedi Vadasparkba, az afrikai keselyűkkel élnek közös kifutóban",
+      "url": "https://szeged365.hu/2026/10/20/napi-cukisag-uj-lakok-erkeztek-a-szegedi-vadasparkba-az-afrikai-keselyukkel-elnek-kozos-kifutoban/"
+    },
+    {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Igazán büszkék lehetünk: Békésy-díjjal ismerték el az SZTE kutatójának hallásdiagnosztikai fejlesztését",
+      "url": "https://szeged365.hu/2026/10/20/egy-ujabb-szegedi-akire-buszkek-lehetunk-bekesy-dijjal-ismertek-el-az-szte-kutatojanak-hallasdiagnosztikai-fejleszteset/"
+    },
+    {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-08-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Volt, hogy a családom is azt kérte, hogy hagyjam abba” – Détári Vilmos őszintén mesélt a szegedi Szent Vincent mögött álló 10 év küzdelmeiről (videó)",
+      "url": "https://szeged365.hu/2026/10/20/volt-hogy-a-csaladom-is-azt-kerte-hogy-hagyjam-abba-detari-vilmos-oszinten-meselt-a-szegedi-szent-vincent-mogott-allo-10-ev-kuzdelmeirol-video/"
+    },
+    {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„A vidék Magyarországának ugyanúgy joga van a jó közlekedéshez” – 15 perccel is rövidülhet a szegedi Napfény IC-k menetideje",
+      "url": "https://szeged365.hu/2026/10/20/a-videk-magyarorszaganak-ugyanugy-joga-van-a-jo-kozlekedeshez-15-perccel-is-rovidulhet-a-szegedi-napfeny-ic-k-menetideje/"
+    },
+    {
+      "first_seen": "2026-10-20T09:04:00.784450Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem sci-fi, ez Szeged! Emberformájú robotot hoz a PC Trade a SZeBIT-re, ráadásul élőben is megmutatja, mire képes!",
+      "url": "https://szeged365.hu/2026/10/20/nem-sci-fi-ez-szeged-emberformaju-robotot-hoz-a-pc-trade-a-szebit-re-raadasul-eloben-is-megmutatja-mire-kepes/"
+    },
+    {
       "first_seen": "2026-10-20T06:03:27.255405Z",
       "published_at": "2026-10-18T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Lerobbant egy troli a Csongrádi sugárúton",
       "url": "https://szeged365.hu/2026/10/17/lerobbant-egy-troli-a-csongradi-sugaruton/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szép volt, srácok! Érmekkel tértek haza az SZVSE fiatal birkózói Kazincbarcikáról",
-      "url": "https://szeged365.hu/2026/10/19/szep-volt-sracok-ermekkel-tertek-haza-az-szvse-fiatal-birkozoi-a-kazincbarcikarol/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "40 gól Balatonbogláron, és még ennél is jobb hírt kaptak a PICK Szeged szurkolói",
-      "url": "https://szeged365.hu/2026/10/18/40-gol-balatonboglaron-es-meg-ennel-is-jobb-hirt-kaptak-a-pick-szeged-szurkoloi/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden még hétfőn is napos idő várható, de megélénkül a szél",
-      "url": "https://szeged365.hu/2026/10/18/szegeden-meg-hetfon-is-napos-ido-varhato-de-megelenkul-a-szel/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meccsnap: 18 órától Balatonbogláron lépnek pályára az OTP Bank-Pick Szeged játékosai",
-      "url": "https://szeged365.hu/2026/10/18/meccsnap-18-oratol-balatonboglaron-lepnek-palyara-az-otp-bank-pick-szeged-jatekosai/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ismét a zebránál előzött egy autós, ezúttal Tápén (videó)",
-      "url": "https://szeged365.hu/2026/10/18/ismet-a-zebranal-elozott-egy-autos-ezuttal-tapen-video/"
-    },
-    {
-      "first_seen": "2026-10-19T05:10:35.240877Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Zsákban a három pont: győzelemmel mutatkozott be Tóth Balázs a kispadon Karcagon",
-      "url": "https://szeged365.hu/2026/10/18/zsakban-a-harom-pont-gyozelemmel-mutatkozott-be-toth-balazs-a-kispadon-karcagon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-20T06:03:27.255405Z"
+  "updated_at": "2026-10-20T09:04:00.784450Z"
 }

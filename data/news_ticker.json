@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-21T06:09:10.025075Z",
+      "published_at": "2026-10-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
+      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
+    },
+    {
+      "first_seen": "2026-10-21T06:09:10.025075Z",
+      "published_at": "2026-10-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
+      "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
+    },
+    {
+      "first_seen": "2026-10-21T06:09:10.025075Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Török, afgán és szír migránsokat fogtak Szeged külterületén",
+      "url": "https://szeged365.hu/2026/10/21/torok-afgan-es-szir-migransokat-fogtak-szeged-kulteruleten/"
+    },
+    {
+      "first_seen": "2026-10-21T06:09:10.025075Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
+      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
+    },
+    {
       "first_seen": "2026-10-20T18:12:10.112293Z",
       "published_at": "2026-10-19T00:00:00",
       "reason": "prefiltered",
@@ -50,14 +82,6 @@
     },
     {
       "first_seen": "2026-10-20T15:02:09.272743Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
-      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
-    },
-    {
-      "first_seen": "2026-10-20T15:02:09.272743Z",
       "published_at": "2026-10-20T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -103,14 +127,6 @@
       "source_name": "Szeged365",
       "title": "Napi prosztó: letolt nadrággal, szabadjára engedett p*nisszel sétált egy férfi korán reggel Szegeden",
       "url": "https://szeged365.hu/2026/10/20/napi-proszto-letolt-nadraggal-szabadjara-engedett-pnisszel-setalt-egy-ferfi-koran-reggel-szegeden-es-a-fraszt-hozta-olvasonkra/"
-    },
-    {
-      "first_seen": "2026-10-20T15:02:09.272743Z",
-      "published_at": "2026-10-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
-      "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
     },
     {
       "first_seen": "2026-10-20T12:07:50.539348Z",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Új buszjárat indul Szegeden, elkészült a Béketelep és a Liliom Lakókert közösségi közlekedésének a sűrítését szolgáló új menetrend",
       "url": "https://szeged365.hu/2026/10/19/uj-buszjarat-indul-szegeden-elkeszult-a-beketelep-es-a-liliom-lakokert-kozossegi-kozlekedesenek-a-suriteset-szolgalo-uj-menetrend/"
-    },
-    {
-      "first_seen": "2026-10-19T15:05:40.995372Z",
-      "published_at": "2026-10-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tünetek nélkül is lehet baj? Szegeden most kedvezményes a női szűrőcsomag, exkluzív interjú Dr. Benczik Mártával, PhD, a SYNLAB szakmai igazgatójával, laboratóriumvezető főorvosával",
-      "url": "https://szeged365.hu/2026/10/19/tunetek-nelkul-is-lehet-baj-szegeden-most-kedvezmenyes-a-noi-szurocsomag-exkluziv-interju-dr-benczik-martaval-phd-a-synlab-szakmai-igazgatojaval-laboratoriumvezeto-foorvosaval/"
-    },
-    {
-      "first_seen": "2026-10-19T15:05:40.995372Z",
-      "published_at": "2026-10-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dél-Magyarország legnagyobb ingyenes IT-show-ja újra Szegeden: a PC Trade ismét megmutatja, mire lehetünk büszkék!",
-      "url": "https://szeged365.hu/2026/10/19/del-magyarorszag-legnagyobb-ingyenes-it-show-ja-ujra-szegeden-a-pc-trade-ismet-megmutatja-mire-lehetunk-buszkek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-20T18:12:10.112293Z"
+  "updated_at": "2026-10-21T06:09:10.025075Z"
 }

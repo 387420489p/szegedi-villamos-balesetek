@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-21T15:00:55.783918Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elfogták a kukagyújtogatót – 11 köztéri kukát gyújtott fel a férfi Hódmezővásárhelyen, és Szegeden is okozott tüzeket (frissítve, videóval)",
+      "url": "https://szeged365.hu/2026/10/20/elfogtak-a-kukagyujtogatot-11-kozteri-kukat-gyujtott-fel-hodmezovasarhelyen-es-szegeden-is-okozott-tuzeket/"
+    },
+    {
+      "first_seen": "2026-10-21T15:00:55.783918Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Világbajnoki ezüstérmes ökölvívóval húztak kesztyűt a szegedi kadétok – rendhagyó tesiórát tartott Gémes Levente (videó)",
+      "url": "https://szeged365.hu/2026/10/21/vilagbajnoki-ezustermes-okolvivoval-huztak-kesztyut-a-szegedi-kadetok-rendhagyo-tesiorat-tartott-gemes-levente-video/"
+    },
+    {
+      "first_seen": "2026-10-21T15:00:55.783918Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ingyen vihető lámpák, könyvek és ruhák – egy szegedi egyetemista olyan appot fejleszt, ami új életet adhat a megunt cuccoknak",
+      "url": "https://szeged365.hu/2026/10/21/ingyen-viheto-lampak-konyvek-es-ruhak-egy-szegedi-egyetemista-olyan-appot-fejleszt-ami-uj-eletet-adhat-a-megunt-cuccoknak/"
+    },
+    {
+      "first_seen": "2026-10-21T15:00:55.783918Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Pénteken Judas Priest, szombaton punk-szülinap – erős hétvégére készül a Városi Rock Klub Szegeden",
+      "url": "https://szeged365.hu/2026/10/21/penteken-judas-priest-szombaton-punk-szulinap-eros-hetvegere-keszul-a-varosi-rock-klub-szegeden/"
+    },
+    {
       "first_seen": "2026-10-21T12:06:32.773933Z",
       "published_at": "2026-10-18T00:00:00",
       "reason": "prefiltered",
@@ -253,14 +285,6 @@
       "published_at": "2026-10-20T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Elfogták a kukagyújtogatót – 11 köztéri kukát gyújtott fel Hódmezővásárhelyen, és Szegeden is okozott tüzeket",
-      "url": "https://szeged365.hu/2026/10/20/elfogtak-a-kukagyujtogatot-11-kozteri-kukat-gyujtott-fel-hodmezovasarhelyen-es-szegeden-is-okozott-tuzeket/"
-    },
-    {
-      "first_seen": "2026-10-20T12:07:50.539348Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Te is tartasz a téli rezsiszámláktól? Szegeden van egy lakópark, ahol több mint 30 százalékkal csökkenhetnek a költségek!",
       "url": "https://szeged365.hu/2026/10/20/te-is-tartasz-a-teli-rezsiszamlaktol-szegeden-van-egy-lakopark-ahol-tobb-mint-30-szazalekkal-csokkenhetnek-a-koltsegek/"
     },
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Mindenki látja, de kevesen tudják, mi rejtőzik benne: megmutatjuk Szeged egyik legszebb palotáját kívül-belül (videó, galéria)",
       "url": "https://szeged365.hu/2026/10/20/mindenki-latja-de-kevesen-tudjak-mi-rejtozik-benne-megmutatjuk-szeged-egyik-legszebb-palotajat-kivul-belul-video-galeria/"
-    },
-    {
-      "first_seen": "2026-10-20T09:04:00.784450Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "70 évvel ezelőtt szegedi fiatalok írtak történelmet, most egy különleges estén elevenedik meg a bátorságuk",
-      "url": "https://szeged365.hu/2026/10/20/70-evvel-ezelott-szegedi-fiatalok-irtak-tortenelmet-most-egy-kulonleges-esten-elevenedik-meg-a-batorsaguk/"
-    },
-    {
-      "first_seen": "2026-10-20T09:04:00.784450Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi cukiság: új lakók érkeztek a Szegedi Vadasparkba, az afrikai keselyűkkel élnek közös kifutóban",
-      "url": "https://szeged365.hu/2026/10/20/napi-cukisag-uj-lakok-erkeztek-a-szegedi-vadasparkba-az-afrikai-keselyukkel-elnek-kozos-kifutoban/"
-    },
-    {
-      "first_seen": "2026-10-20T09:04:00.784450Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Igazán büszkék lehetünk: Békésy-díjjal ismerték el az SZTE kutatójának hallásdiagnosztikai fejlesztését",
-      "url": "https://szeged365.hu/2026/10/20/egy-ujabb-szegedi-akire-buszkek-lehetunk-bekesy-dijjal-ismertek-el-az-szte-kutatojanak-hallasdiagnosztikai-fejleszteset/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T12:06:32.773933Z"
+  "updated_at": "2026-10-21T15:00:55.783918Z"
 }

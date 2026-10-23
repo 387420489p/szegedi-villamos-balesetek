@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
+      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
+      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Többször megszúrta édesapját egy férfi Forráskúton – hét év börtönre ítélték Szegeden, és kiutasították Magyarország területéről",
+      "url": "https://szeged365.hu/2026/10/22/tobbszor-megszurta-edesapjat-egy-ferfi-forraskuton-hat-ev-bortonre-iteltek-szegeden-es-kiutasitottak-magyarorszag-teruleterol/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Origami- és kalligráfia-bemutató, lampionkészítés és séta a hulló falevelek között – ilyen lesz a hagyományos japán ünnep, a momiji a szegedi Füvészkertben",
+      "url": "https://szeged365.hu/2026/10/22/origami-es-kalligrafia-bemutato-lampionkeszites-es-seta-a-hullo-falevelek-kozott-ilyen-lesz-a-hagyomanyos-japan-unnep-a-momiji-a-szegedi-fuveszkertben/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Új járatot indítanak Újszegedről a halottak napi hétvégére, az SZKT is bővített kapacitással készül a 3F-es vonalon",
+      "url": "https://szeged365.hu/2026/10/22/uj-jaratot-inditanak-ujszegedrol-a-halottak-napi-hetvegere-az-szkt-is-bovitett-kapacitassal-keszul-a-3f-es-vonalon/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: esőt hoz a csütörtök Szegedre, programokból viszont nem lesz hiány",
+      "url": "https://szeged365.hu/2026/10/22/napi-pakk-esot-hoz-a-csutortok-szegedre-programokbol-viszont-nem-lesz-hiany/"
+    },
+    {
+      "first_seen": "2026-10-22T06:02:00.991348Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kisokos: hosszú hétvége és egynapos boltzár – mutatjuk, hogyan alakulnak a nyitvatartások október 23-án Szegeden",
+      "url": "https://szeged365.hu/2026/10/21/szeged365-kisokos-hosszu-hetvege-es-egynapos-boltzar-mutatjuk-hogyan-alakulnak-a-nyitvatartasok-oktober-23-an-szegeden/"
+    },
+    {
       "first_seen": "2026-10-21T18:06:58.766643Z",
       "published_at": "2026-10-20T00:00:00",
       "reason": "prefiltered",
@@ -122,27 +178,11 @@
     },
     {
       "first_seen": "2026-10-21T12:06:32.773933Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
-      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
-    },
-    {
-      "first_seen": "2026-10-21T12:06:32.773933Z",
       "published_at": "2026-10-15T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Napi pakk: csütörtökön sok felhőre számíthatunk Szegeden, ma van a Nemzetközi Fehérbot nap",
       "url": "https://szeged365.hu/2026/10/15/napi-pakk-csutortokon-sok-felhore-szamithatunk-szegeden-ma-van-a-nemzetkozi-feherbot-nap/"
-    },
-    {
-      "first_seen": "2026-10-21T12:06:32.773933Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
-      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
     },
     {
       "first_seen": "2026-10-21T12:06:32.773933Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nagy fordulat előtt áll a lakáspiac: Szegeden is érezhető lehet a Wekerle Plusz program hatása",
       "url": "https://szeged365.hu/2026/10/20/nagy-fordulat-elott-all-a-lakaspiac-szegeden-is-erezheto-lehet-a-wekerle-plusz-program-hatasa/"
-    },
-    {
-      "first_seen": "2026-10-20T18:12:10.112293Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb aranyérmet és különdíjat is szerzett Szeged szupererős rendőrnője, Bálint Gabriella (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/20/ujabb-aranyermet-es-kulondijat-is-szerzett-szeged-szupereros-rendornoje-balint-gabriella-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-20T18:12:10.112293Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyen csak a filmekben van! A sofőr ugrott be a szegedi zenekarba, és továbbjutottak a nemzetközi seregszemlére (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/20/ilyen-csak-a-filmekben-van-a-sofor-ugrott-be-a-szegedi-zenekarba-es-tovabbjutottak-a-nemzetkozi-seregszemlere-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-20T18:12:10.112293Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lannert Judit megszólalt a bombariadókkal kapcsolatban, amik több szegedi iskolát is érintettek",
-      "url": "https://szeged365.hu/2026/10/20/lannert-judit-megszolalt-a-bombariadokkal-kapcsolatban-amik-tobb-szegedi-iskolat-is-erintettek/"
-    },
-    {
-      "first_seen": "2026-10-20T18:12:10.112293Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Borongósabb időnk lesz szerdán, este már némi esőre is számíthatunk Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/borongosabb-idonk-lesz-szerdan-este-mar-esore-is-szamithatunk-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-20T15:02:09.272743Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T18:06:58.766643Z"
+  "updated_at": "2026-10-22T06:02:00.991348Z"
 }

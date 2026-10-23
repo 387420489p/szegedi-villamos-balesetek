@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-23T09:00:52.298958Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elektromos bicajt lopott egy szegedi férfi, nagy erőkkel keresik a rendőrök (fotó)",
+      "url": "https://szeged365.hu/2026/10/23/elektromos-bicajt-lopott-egy-szegedi-ferfi-nagy-erokkel-keresik-a-rendorok-foto/"
+    },
+    {
+      "first_seen": "2026-10-23T09:00:52.298958Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: “az aradi vértanúk emléknapja” – avagy arról kérdeztük az utca emberét, hogy mit ünneplünk október 23-án (videó)",
+      "url": "https://szeged365.hu/2026/10/23/szegedi-pletykak-az-aradi-vertanuk-emleknapja-avagy-arrol-kerdeztuk-az-utca-emberet-hogy-mit-unneplunk-oktober-23-an-video/"
+    },
+    {
+      "first_seen": "2026-10-23T09:00:52.298958Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mit ünneplünk október 23-án? Szegeden már napokkal korábban megmozdultak azok, akik változást akartak",
+      "url": "https://szeged365.hu/2026/10/23/mit-unneplunk-oktober-23-an-szegeden-mar-napokkal-korabban-megmozdultak-azok-akik-valtozast-akartak/"
+    },
+    {
       "first_seen": "2026-10-23T06:02:07.033775Z",
       "published_at": "2026-10-18T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "A szegediek választották ki, és a terv most életre kel: már készül az óriás falfestmény az Olajbányász téren (galéria)",
       "url": "https://szeged365.hu/2026/10/21/a-szegediek-valasztottak-ki-es-a-terv-most-eletre-kel-mar-keszul-az-orias-falfestmeny-az-olajbanyasz-teren-galeria/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi óvodából lopott egy férfi, nagy erőkkel keresik a rendőrök (fotó)",
-      "url": "https://szeged365.hu/2026/10/21/szegedi-ovodabol-lopott-egy-ferfi-nagy-erokkel-keresik-a-rendorok-foto/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Dr. Stumpf Péter szerint Szeged egyáltalán nem jár rosszul a Tisza-kormány költségvetésével",
-      "url": "https://szeged365.hu/2026/10/21/dr-stumpf-peter-szerint-szeged-egyaltalan-nem-jar-rosszul-a-tisza-kormany-koltsegvetesevel/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tört, zúzott egy férfi Szeged belvárosában, nem volt ismeretlen a rendőrök előtt",
-      "url": "https://szeged365.hu/2026/10/21/tort-zuzott-egy-ferfi-szeged-belvarosaban-nem-volt-ismeretlen-a-rendorok-elott/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T06:02:07.033775Z"
+  "updated_at": "2026-10-23T09:00:52.298958Z"
 }

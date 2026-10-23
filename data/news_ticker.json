@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
+      "first_seen": "2026-10-23T06:02:07.033775Z",
       "published_at": "2026-10-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -9,7 +9,7 @@
       "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
     },
     {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
+      "first_seen": "2026-10-23T06:02:07.033775Z",
       "published_at": "2026-10-21T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -322,5 +322,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T02:54:21.873801Z"
+  "updated_at": "2026-10-23T06:02:07.033775Z"
 }

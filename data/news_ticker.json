@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-23T15:06:30.031680Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegediek, figyelem! Új csalási módszer terjed a városban!",
+      "url": "https://szeged365.hu/2026/10/23/szegediek-figyelem-uj-csalasi-modszer-terjed-a-varosban/"
+    },
+    {
+      "first_seen": "2026-10-23T15:06:30.031680Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hétfőtől lezárják a szegedi Mátyás téri körforgalmat, mutatjuk a pontos forgalomváltozásokat",
+      "url": "https://szeged365.hu/2026/10/23/hetfotol-lezarjak-a-szegedi-matyas-teri-korforgalmat-mutatjuk-a-pontos-forgalomvaltozasokat/"
+    },
+    {
       "first_seen": "2026-10-23T12:04:55.280775Z",
       "published_at": "2026-10-23T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Többször megszúrta édesapját egy férfi Forráskúton – hét év börtönre ítélték Szegeden, és kiutasították Magyarország területéről",
       "url": "https://szeged365.hu/2026/10/22/tobbszor-megszurta-edesapjat-egy-ferfi-forraskuton-hat-ev-bortonre-iteltek-szegeden-es-kiutasitottak-magyarorszag-teruleterol/"
-    },
-    {
-      "first_seen": "2026-10-22T06:02:00.991348Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Origami- és kalligráfia-bemutató, lampionkészítés és séta a hulló falevelek között – ilyen lesz a hagyományos japán ünnep, a momiji a szegedi Füvészkertben",
-      "url": "https://szeged365.hu/2026/10/22/origami-es-kalligrafia-bemutato-lampionkeszites-es-seta-a-hullo-falevelek-kozott-ilyen-lesz-a-hagyomanyos-japan-unnep-a-momiji-a-szegedi-fuveszkertben/"
-    },
-    {
-      "first_seen": "2026-10-22T06:02:00.991348Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új járatot indítanak Újszegedről a halottak napi hétvégére, az SZKT is bővített kapacitással készül a 3F-es vonalon",
-      "url": "https://szeged365.hu/2026/10/22/uj-jaratot-inditanak-ujszegedrol-a-halottak-napi-hetvegere-az-szkt-is-bovitett-kapacitassal-keszul-a-3f-es-vonalon/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T12:04:55.280775Z"
+  "updated_at": "2026-10-23T15:06:30.031680Z"
 }

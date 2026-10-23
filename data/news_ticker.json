@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-23T12:04:55.280775Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fölényes győzelem: 34 góllal tértek vissza a nemzetközi porondra a szegedi vízilabdások",
+      "url": "https://szeged365.hu/2026/10/23/folenyes-gyozelem-34-gollal-tertek-vissza-a-nemzetkozi-porondra-a-szegedi-vizilabdasok/"
+    },
+    {
+      "first_seen": "2026-10-23T12:04:55.280775Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: TÖKéletes hétvége, megemlékezések, Japán ünnep és koncertek tömkelege – mutatjuk a hosszú hétvégi menetrendet Szegeden",
+      "url": "https://szeged365.hu/2026/10/23/szeged365-kikapcs-tokeletes-hetvege-megemlekezesek-japan-unnep-es-koncertek-tomkelege-mutatjuk-a-hosszu-hetvegi-menetrendet-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-23T12:04:55.280775Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Október 24. a Pacal világnap, a 45 éves szegedi Fasor Vendéglőben viszont november 1-ig tart az ünnep",
+      "url": "https://szeged365.hu/2026/10/23/oktober-24-a-pacal-vilagnap-a-45-eves-szegedi-fasor-vendegloben-viszont-november-1-ig-tart-az-unnep/"
+    },
+    {
+      "first_seen": "2026-10-23T12:04:55.280775Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Botka László: “Hetven éve Szeged volt a szikra” – Így emlékezett a város 1956-ra (galéria)",
+      "url": "https://szeged365.hu/2026/10/23/botka-laszlo-hetven-eve-szeged-volt-a-szikra-igy-emlekezett-a-varos-1956-ra-galeria/"
+    },
+    {
       "first_seen": "2026-10-23T09:00:52.298958Z",
       "published_at": "2026-10-23T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Új járatot indítanak Újszegedről a halottak napi hétvégére, az SZKT is bővített kapacitással készül a 3F-es vonalon",
       "url": "https://szeged365.hu/2026/10/22/uj-jaratot-inditanak-ujszegedrol-a-halottak-napi-hetvegere-az-szkt-is-bovitett-kapacitassal-keszul-a-3f-es-vonalon/"
-    },
-    {
-      "first_seen": "2026-10-22T06:02:00.991348Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kisokos: hosszú hétvége és egynapos boltzár – mutatjuk, hogyan alakulnak a nyitvatartások október 23-án Szegeden",
-      "url": "https://szeged365.hu/2026/10/21/szeged365-kisokos-hosszu-hetvege-es-egynapos-boltzar-mutatjuk-hogyan-alakulnak-a-nyitvatartasok-oktober-23-an-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi prosztó: letolt nadrággal, szabadjára engedett p*nisszel sétált egy férfi korán reggel Szegeden (frissítve)",
-      "url": "https://szeged365.hu/2026/10/20/napi-proszto-letolt-nadraggal-szabadjara-engedett-pnisszel-setalt-egy-ferfi-koran-reggel-szegeden-es-a-fraszt-hozta-olvasonkra/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Olyan adatokkal tértek haza Ázsiából az SZTE kutatói, melyek fontos alapjai lehetnek a klímaváltozás vizsgálatának",
-      "url": "https://szeged365.hu/2026/10/21/olyan-adatokkal-tertek-haza-azsiabol-az-szte-kutatoi-melyek-fontos-alapjai-lehetnek-a-klimavaltozas-vizsgalatanak/"
-    },
-    {
-      "first_seen": "2026-10-21T18:06:58.766643Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegediek választották ki, és a terv most életre kel: már készül az óriás falfestmény az Olajbányász téren (galéria)",
-      "url": "https://szeged365.hu/2026/10/21/a-szegediek-valasztottak-ki-es-a-terv-most-eletre-kel-mar-keszul-az-orias-falfestmeny-az-olajbanyasz-teren-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T09:00:52.298958Z"
+  "updated_at": "2026-10-23T12:04:55.280775Z"
 }

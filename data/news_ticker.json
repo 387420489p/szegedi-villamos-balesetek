@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-24T06:04:58.352615Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos idő várható, ma éjjel egy órával többet alhatunk, TÖKéletes hétvége vár a Szent István téren",
+      "url": "https://szeged365.hu/2026/10/24/napi-pakk-napos-ido-varhato-es-eljott-az-oraatallitas-ideje-ma-ejjel-egy-oraval-tobbet-alhatunk/"
+    },
+    {
       "first_seen": "2026-10-23T18:08:44.007612Z",
       "published_at": "2026-10-23T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "#BLOG",
       "url": "https://szeged365.hu/blog/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-08-31T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "#MINDENMÁS",
-      "url": "https://szeged365.hu/mindenmas/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T18:08:44.007612Z"
+  "updated_at": "2026-10-24T06:04:58.352615Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-24T09:04:00.770401Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Mi sem így képzeltük el” – megszólalt a PICK Szeged a Bajnokok Ligája-búcsú után",
+      "url": "https://szeged365.hu/2026/10/24/mi-sem-igy-kepzeltuk-el-megszolalt-a-pick-szeged-a-bajnokok-ligaja-bucsu-utan/"
+    },
+    {
       "first_seen": "2026-10-24T06:04:58.352615Z",
       "published_at": "2026-10-24T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "#SPORT",
       "url": "https://szeged365.hu/sport/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#BLOG",
-      "url": "https://szeged365.hu/blog/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T06:04:58.352615Z"
+  "updated_at": "2026-10-24T09:04:00.770401Z"
 }

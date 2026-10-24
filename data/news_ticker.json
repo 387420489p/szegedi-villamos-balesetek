@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-24T18:07:08.531738Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ködös reggellel, felhős égbolttal veszi kezdetét a téli időszámítás Szegeden",
+      "url": "https://szeged365.hu/2026/10/24/kodos-reggellel-felhos-egbolttal-veszi-kezdetet-a-teli-idoszamitas-szegeden/"
+    },
+    {
       "first_seen": "2026-10-24T15:01:16.084602Z",
       "published_at": "2026-10-24T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Elrendelték a hódmezővásárhelyi kukagyújtogató letartóztatását, hatvan tüzet okozott a megyében",
       "url": "https://szeged365.hu/2026/10/22/elrendeltek-a-hodmezovasarhelyi-kukagyujtogato-letartoztatasat-hatvan-tuzet-okozott-a-megyeben/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egészségesebben ebédelnél? A szegedi Salalában nem kell lemondani a jó ízekről (videó)",
-      "url": "https://szeged365.hu/2026/10/22/egeszsegesebben-ebedelnel-a-szegedi-salalaban-nem-kell-lemondani-a-jo-izekrol-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T15:01:16.084602Z"
+  "updated_at": "2026-10-24T18:07:08.531738Z"
 }

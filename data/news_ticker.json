@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-24T15:01:16.084602Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Nem félek!” – levelet írt a szegedi Csillagbörtönből Bús Balázs",
+      "url": "https://szeged365.hu/2026/10/24/nem-fekek-levelet-irt-a-szegedi-csillagbortonbol-bus-balazs/"
+    },
+    {
+      "first_seen": "2026-10-24T15:01:16.084602Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódhat a Szedeák jó sorozata? Szombat este a DEAC ellen bizonyíthatnak a szegediek",
+      "url": "https://szeged365.hu/2026/10/24/folytatodhat-a-szedeak-jo-sorozata-szombat-este-a-deac-ellen-bizonyithatnak-a-szegediek/"
+    },
+    {
+      "first_seen": "2026-10-24T15:01:16.084602Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha ilyen kolbászt vettél, ne edd meg! Szegeden is kapható húskészítményeket hívtak vissza",
+      "url": "https://szeged365.hu/2026/10/24/ha-ilyen-kolbaszt-vettel-ne-edd-meg-szegeden-is-kaphato-huskeszitmenyeket-hivtak-vissza/"
+    },
+    {
       "first_seen": "2026-10-24T12:09:16.517730Z",
       "published_at": "2026-10-23T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egészségesebben ebédelnél? A szegedi Salalában nem kell lemondani a jó ízekről (videó)",
       "url": "https://szeged365.hu/2026/10/22/egeszsegesebben-ebedelnel-a-szegedi-salalaban-nem-kell-lemondani-a-jo-izekrol-video/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szakembör rovatunk bemutatja: utánfutón robogott Szeged felé egy igencsak méretes pálmafa (videóval)",
-      "url": "https://szeged365.hu/2026/10/22/szakembor-rovatunk-bemutatja-utanfuton-robogott-szeged-fele-egy-igencsak-meretes-palmafa/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Rekordszámú jelentkezés érkezett a Szegedi Tudományegyetem START ösztöndíjprogramjára: közel 1500 hallgató részesült támogatásban",
-      "url": "https://szeged365.hu/2026/10/22/rekordszamu-jelentkezes-erkezett-a-szegedi-tudomanyegyetem-start-osztondijprogramjara-kozel-1500-hallgato-reszesult-tamogatasban/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#KÖZÉLET",
-      "url": "https://szeged365.hu/kozelet/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T12:09:16.517730Z"
+  "updated_at": "2026-10-24T15:01:16.084602Z"
 }

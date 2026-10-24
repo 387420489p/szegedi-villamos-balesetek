@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: TÖKéletes hétvége, megemlékezések, Japán ünnep és koncertek tömkelege – mutatjuk a hosszú hétvégi menetrendet Szegeden",
+      "url": "https://szeged365.hu/2026/10/23/szeged365-kikapcs-tokeletes-hetvege-megemlekezesek-japan-unnep-es-koncertek-tomkelege-mutatjuk-a-hosszu-hetvegi-menetrendet-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Botka László: “Hetven éve Szeged volt a szikra” – Így emlékezett a város 1956-ra (galéria)",
+      "url": "https://szeged365.hu/2026/10/23/botka-laszlo-hetven-eve-szeged-volt-a-szikra-igy-emlekezett-a-varos-1956-ra-galeria/"
+    },
+    {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
+      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
+    },
+    {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
+      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
+    },
+    {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztő mérleggel várja vasárnapi ellenfelét a PICK Szeged, eddig egyszer sem kaptak ki tőlük",
+      "url": "https://szeged365.hu/2026/10/24/elkepeszto-merleggel-varja-vasarnapi-ellenfelet-a-pick-szeged-eddig-egyszer-sem-kaptak-ki-toluk/"
+    },
+    {
+      "first_seen": "2026-10-24T12:09:16.517730Z",
+      "published_at": "2026-10-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hosszú idő után újra hazai pályán bizonyíthat a Szeged-Csanád GA, szombaton a Diósgyőr érkezik a Szent Gellért Fórumba",
+      "url": "https://szeged365.hu/2026/10/24/hosszu-ido-utan-ujra-hazai-palyan-bizonyithat-a-szeged-csanad-ga-szombaton-a-diosgyor-erkezik-a-szent-gellert-forumba/"
+    },
+    {
       "first_seen": "2026-10-24T09:04:00.770401Z",
       "published_at": "2026-10-24T00:00:00",
       "reason": "prefiltered",
@@ -53,24 +101,8 @@
       "published_at": "2026-10-23T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: TÖKéletes hétvége, megemlékezések, Japán ünnep és koncertek tömkelege – mutatjuk a hosszú hétvégi menetrendet Szegeden",
-      "url": "https://szeged365.hu/2026/10/23/szeged365-kikapcs-tokeletes-hetvege-megemlekezesek-japan-unnep-es-koncertek-tomkelege-mutatjuk-a-hosszu-hetvegi-menetrendet-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-23T12:04:55.280775Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Október 24. a Pacal világnap, a 45 éves szegedi Fasor Vendéglőben viszont november 1-ig tart az ünnep",
       "url": "https://szeged365.hu/2026/10/23/oktober-24-a-pacal-vilagnap-a-45-eves-szegedi-fasor-vendegloben-viszont-november-1-ig-tart-az-unnep/"
-    },
-    {
-      "first_seen": "2026-10-23T12:04:55.280775Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: “Hetven éve Szeged volt a szikra” – Így emlékezett a város 1956-ra (galéria)",
-      "url": "https://szeged365.hu/2026/10/23/botka-laszlo-hetven-eve-szeged-volt-a-szikra-igy-emlekezett-a-varos-1956-ra-galeria/"
     },
     {
       "first_seen": "2026-10-23T09:00:52.298958Z",
@@ -95,22 +127,6 @@
       "source_name": "Szeged365",
       "title": "Mit ünneplünk október 23-án? Szegeden már napokkal korábban megmozdultak azok, akik változást akartak",
       "url": "https://szeged365.hu/2026/10/23/mit-unneplunk-oktober-23-an-szegeden-mar-napokkal-korabban-megmozdultak-azok-akik-valtozast-akartak/"
-    },
-    {
-      "first_seen": "2026-10-23T06:02:07.033775Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
-      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
-    },
-    {
-      "first_seen": "2026-10-23T06:02:07.033775Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
-      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
     },
     {
       "first_seen": "2026-10-23T02:54:21.873801Z",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "#KÖZÉLET",
       "url": "https://szeged365.hu/kozelet/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#KIKAPCS",
-      "url": "https://szeged365.hu/kikapcs/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SPORT",
-      "url": "https://szeged365.hu/sport/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T09:04:00.770401Z"
+  "updated_at": "2026-10-24T12:09:16.517730Z"
 }

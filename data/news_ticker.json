@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-25T10:04:44.761090Z",
+      "published_at": "2026-10-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap este újabb hidegfront jön, videón mutatjuk, hogyan éri el Szegedet",
+      "url": "https://szeged365.hu/2026/10/25/vasarnap-este-ujabb-hidegfront-jon-videon-mutatjuk-hogyan-eri-el-szegedet/"
+    },
+    {
+      "first_seen": "2026-10-25T10:04:44.761090Z",
+      "published_at": "2026-10-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Athéntól a Tisza-partig: íme a Híd Clinic, ahol a mediterrán temperamentum és a szegedi precizitás találkozik",
+      "url": "https://szeged365.hu/2026/10/25/athentol-a-tisza-partig-ime-a-hid-clinic-ahol-a-mediterran-temperamentum-es-a-szegedi-precizitas-talalkozik/"
+    },
+    {
       "first_seen": "2026-10-25T07:01:47.563403Z",
       "published_at": "2026-10-25T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Itt nem csak a bérletedet ismerik: a szegedi Izometria Fitnessbe a társaság miatt is jó visszatérni (videó)",
       "url": "https://szeged365.hu/2026/10/22/itt-nem-csak-a-berletedet-ismerik-a-szegedi-izometria-fitnessbe-a-tarsasag-miatt-is-jo-visszaterni-video/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel érkezik a péntek Szegedre, ma van az Újraélesztés Világnapja",
-      "url": "https://szeged365.hu/2026/10/16/napi-pakk-napos-felhos-idovel-erkezik-a-pentek-szegedre-ma-van-az-ujraelesztes-vilagnapja/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T07:01:47.563403Z"
+  "updated_at": "2026-10-25T10:04:44.761090Z"
 }

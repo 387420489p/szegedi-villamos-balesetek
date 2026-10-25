@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-25T13:04:14.029390Z",
+      "published_at": "2026-10-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fájó vereség a Szent Gellért Fórumban, már a második percben gólt szerzett az ellenfél csapat (fotókkal)",
+      "url": "https://szeged365.hu/2026/10/25/fajo-vereseg-a-szent-gellert-forumban-mar-a-masodik-percben-golt-szerzett-az-ellenfel-csapat-fotokkal/"
+    },
+    {
       "first_seen": "2026-10-25T10:04:44.761090Z",
       "published_at": "2026-10-25T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szuperszámítógép, mesterséges intelligencia és új lehetőségek: fontos fejlesztést mutattak be Szegeden a HPC-AI Konferencián (galéria)",
       "url": "https://szeged365.hu/2026/10/22/szuperszamitogep-mesterseges-intelligencia-es-uj-lehetosegek-fontos-fejlesztest-mutattak-be-szegeden-a-hpc-ai-konferencian-galeria/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Itt nem csak a bérletedet ismerik: a szegedi Izometria Fitnessbe a társaság miatt is jó visszatérni (videó)",
-      "url": "https://szeged365.hu/2026/10/22/itt-nem-csak-a-berletedet-ismerik-a-szegedi-izometria-fitnessbe-a-tarsasag-miatt-is-jo-visszaterni-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T10:04:44.761090Z"
+  "updated_at": "2026-10-25T13:04:14.029390Z"
 }

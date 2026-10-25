@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-25T07:01:47.563403Z",
+      "published_at": "2026-10-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: beköszöntött a téli időszámítás, 82 éves lett Kovács Kati, és még egy kis szerencse is várhat ránk Szegeden!",
+      "url": "https://szeged365.hu/2026/10/25/napi-pakk-bekoszontott-a-teli-idoszamitas-82-eves-lett-kovacs-kati-es-meg-egy-kis-szerencse-is-varhat-rank-szegeden/"
+    },
+    {
       "first_seen": "2026-10-24T18:07:08.531738Z",
       "published_at": "2026-10-24T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
       "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elrendelték a hódmezővásárhelyi kukagyújtogató letartóztatását, hatvan tüzet okozott a megyében",
-      "url": "https://szeged365.hu/2026/10/22/elrendeltek-a-hodmezovasarhelyi-kukagyujtogato-letartoztatasat-hatvan-tuzet-okozott-a-megyeben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T18:07:08.531738Z"
+  "updated_at": "2026-10-25T07:01:47.563403Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-26T07:06:46.791591Z",
+      "published_at": "2026-10-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szilágyi Benjámin új PICK Aréna-rekordot állított fel! Magabiztos győzelmet aratott a PICK Szeged az újonc Dabas ellen",
+      "url": "https://szeged365.hu/2026/10/26/szilagyi-benjamin-uj-pick-arena-rekordot-allitott-fel-magabiztos-gyozelmet-aratott-a-pick-szeged-az-ujonc-dabas-ellen/"
+    },
+    {
+      "first_seen": "2026-10-26T07:06:46.791591Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: megérkezik a hidegfront Szegedre, több helyen is munkagépek lepik el az utakat",
+      "url": "https://szeged365.hu/2026/10/26/napi-pakk-megerkezik-a-hidegfront-szegedre-tobb-helyen-is-munkagepek-lepik-el-az-utakat/"
+    },
+    {
       "first_seen": "2026-10-25T17:41:58.464815Z",
       "published_at": "2026-10-25T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Saját lábára állt az ÁGOTA Közösség 20 éves fiatalja: Viki megható módon búcsúzott szegedi lakásotthonától",
       "url": "https://szeged365.hu/2026/10/22/sajat-labara-allt-az-agota-kozosseg-20-eves-fiatalja-viki-meghato-modon-bucsuzott-szegedi-lakasotthonatol/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az élete is megérne egy Nobel-díjat: pontosan 40 éve hunyt el Szeged büszkesége, Szent-Györgyi Albert",
-      "url": "https://szeged365.hu/2026/10/22/az-elete-is-megerne-egy-nobel-dijat-pontosan-40-eve-hunyt-el-szeged-buszkesege-szent-gyorgyi-albert/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Többször jeleztek az orvosoknak – négy hónapig kezelték a szegedi nőt a pszichiátrián, de később mégis leugrott a Belvárosi hídról",
-      "url": "https://szeged365.hu/2026/10/22/tobbszor-jeleztek-az-orvosoknak-negy-honapig-kezeltek-a-szegedi-not-a-pszichiatrian-de-kesobb-megis-leugrott-a-belvarosi-hidrol/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T17:41:58.464815Z"
+  "updated_at": "2026-10-26T07:06:46.791591Z"
 }

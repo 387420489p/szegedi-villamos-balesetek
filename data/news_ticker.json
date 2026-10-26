@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-26T13:01:33.774528Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A daganatok korai felismerésétől a személyre szabott kezelésekig – közel kétmilliárd forintos kutatási program zárult Szegeden",
+      "url": "https://szeged365.hu/2026/10/26/a-daganatok-korai-felismeresetol-a-szemelyre-szabott-kezelesekig-kozel-ketmilliard-forintos-kutatasi-program-zarult-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-26T13:01:33.774528Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kisgyerekkel különösen sokat számít, hol laksz! Szegeden van egy hely, ahol a családok hétköznapjai is könnyebbek lehetnek!",
+      "url": "https://szeged365.hu/2026/10/26/kisgyerekkel-kulonosen-sokat-szamit-hol-laksz-szegeden-van-egy-hely-ahol-a-csaladok-hetkoznapjai-is-konnyebbek-lehetnek/"
+    },
+    {
+      "first_seen": "2026-10-26T13:01:33.774528Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismerős lehet valamelyik név? Szatymazról indultak, most 14 éremmel hívták fel magukra a figyelmet két nemzetközi judoversenyeken (fotók)",
+      "url": "https://szeged365.hu/2026/10/26/ismeros-lehet-valamelyik-nev-szatymazrol-indultak-most-14-eremmel-hivtak-fel-magukra-a-figyelmet-ket-nemzetkozi-judoversenyeken-fotok/"
+    },
+    {
+      "first_seen": "2026-10-26T13:01:33.774528Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Csak egy aerobicórára ugranál be? A szegedi Izometria Fitnessben könnyen kedvet kaphatsz a következőhöz is (videó)",
+      "url": "https://szeged365.hu/2026/10/26/csak-egy-aerobicorara-ugranal-be-a-szegedi-izometria-fitnessben-konnyen-kedvet-kaphatsz-a-kovetkezohoz-is-video/"
+    },
+    {
       "first_seen": "2026-10-26T10:08:54.280095Z",
       "published_at": "2026-10-26T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Mit ünneplünk október 23-án? Szegeden már napokkal korábban megmozdultak azok, akik változást akartak",
       "url": "https://szeged365.hu/2026/10/23/mit-unneplunk-oktober-23-an-szegeden-mar-napokkal-korabban-megmozdultak-azok-akik-valtozast-akartak/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: esőt hoz a csütörtök Szegedre, programokból viszont nem lesz hiány",
-      "url": "https://szeged365.hu/2026/10/22/napi-pakk-esot-hoz-a-csutortok-szegedre-programokbol-viszont-nem-lesz-hiany/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Busz és autó ütközött a Berlini körúton – torlódásra kell számítani (frissítve, galériával)",
-      "url": "https://szeged365.hu/2026/10/21/busz-es-auto-utkozott-a-berlini-koruton-torlodasra-kell-szamitani/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Október 25-én jön a tészta világnapja: a szegedi Pizza e Pastában kerestük a kedvencünket – nem könnyű csak egyet választani (videó)",
-      "url": "https://szeged365.hu/2026/10/22/oktober-25-en-jon-a-teszta-vilagnapja-a-szegedi-pizza-e-pastaban-kerestuk-a-kedvencunket-nem-konnyu-csak-egyet-valasztani-video/"
-    },
-    {
-      "first_seen": "2026-10-23T02:54:21.873801Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szentestét is a szegedi Csillagbörtönben töltheti Bús Balázs – karácsonyig meghosszabbították a letartóztatását",
-      "url": "https://szeged365.hu/2026/10/22/a-szentestet-is-a-szegedi-csillagbortonben-toltheti-bus-balazs-karacsonyig-meghosszabbitottak-a-letartoztatasat/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-26T10:08:54.280095Z"
+  "updated_at": "2026-10-26T13:01:33.774528Z"
 }

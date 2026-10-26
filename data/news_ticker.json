@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-26T19:05:10.289132Z",
+      "published_at": "2026-10-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hétfőtől lezárják a szegedi Mátyás téri körforgalmat, mutatjuk a pontos forgalomváltozásokat",
+      "url": "https://szeged365.hu/2026/10/23/hetfotol-lezarjak-a-szegedi-matyas-teri-korforgalmat-mutatjuk-a-pontos-forgalomvaltozasokat/"
+    },
+    {
+      "first_seen": "2026-10-26T19:05:10.289132Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Virtuális állatkert a figyelemzavar vizsgálatára: országos innovációs díjat nyert az SZTE hallgatója (videó)",
+      "url": "https://szeged365.hu/2026/10/26/virtualis-allatkert-a-figyelemzavar-vizsgalatara-orszagos-innovacios-dijat-nyert-az-szte-hallgatoja-video/"
+    },
+    {
+      "first_seen": "2026-10-26T19:05:10.289132Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felhős-napos idővel köszönt ránk a kedd Szegeden",
+      "url": "https://szeged365.hu/2026/10/26/felhos-napos-idovel-koszont-rank-a-kedd-szegeden/"
+    },
+    {
       "first_seen": "2026-10-26T16:06:25.270986Z",
       "published_at": "2026-10-26T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: napos idő várható, ma éjjel egy órával többet alhatunk, TÖKéletes hétvége vár a Szent István téren",
       "url": "https://szeged365.hu/2026/10/24/napi-pakk-napos-ido-varhato-es-eljott-az-oraatallitas-ideje-ma-ejjel-egy-oraval-tobbet-alhatunk/"
-    },
-    {
-      "first_seen": "2026-10-23T18:08:44.007612Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb hidegfront jön, de Szegeden még kitart a napos idő szombaton is",
-      "url": "https://szeged365.hu/2026/10/23/ujabb-hidegfront-jon-de-szegeden-meg-kitart-a-napos-ido-szombaton-is/"
-    },
-    {
-      "first_seen": "2026-10-23T15:06:30.031680Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegediek, figyelem! Új csalási módszer terjed a városban!",
-      "url": "https://szeged365.hu/2026/10/23/szegediek-figyelem-uj-csalasi-modszer-terjed-a-varosban/"
-    },
-    {
-      "first_seen": "2026-10-23T15:06:30.031680Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hétfőtől lezárják a szegedi Mátyás téri körforgalmat, mutatjuk a pontos forgalomváltozásokat",
-      "url": "https://szeged365.hu/2026/10/23/hetfotol-lezarjak-a-szegedi-matyas-teri-korforgalmat-mutatjuk-a-pontos-forgalomvaltozasokat/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-26T16:06:25.270986Z"
+  "updated_at": "2026-10-26T19:05:10.289132Z"
 }

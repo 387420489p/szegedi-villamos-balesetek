@@ -7124,8 +7124,47 @@
       "status": "published",
       "summary": "Villamos és személyautó ütközött Szegeden, a Kossuth Lajos sugárút és a Bocskai utca kereszteződésében, az Anna-kút közelében. A villamos utasai közül senki sem sérült meg; az autóban kinyíltak a légzsákok.",
       "updated_at": "2026-10-27T13:53:44.172225Z"
+    },
+    {
+      "confidence": 0.99,
+      "created_at": "2026-10-27T19:05:26.981065Z",
+      "event_date": "2026-10-27",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20261027-003",
+      "injuries": "none",
+      "location": "József Attila sugárút és Murányi utca",
+      "location_normalized": "jozsef attila sugarut es muranyi utca",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-10-27T19:05:26.981065Z",
+          "published_at": "2026-10-27T13:10:46Z",
+          "source_name": "SZKT",
+          "title": "Baleset a József A. sgt – Murányi u. kereszteződésében",
+          "url": "https://szkt.hu/baleset-a-jozsef-a-sgt-muranyi-u-keresztezodeseben"
+        },
+        {
+          "added_at": "2026-10-27T19:05:26.981065Z",
+          "published_at": "2026-10-27T14:27:00",
+          "source_name": "Szeged365",
+          "title": "Újabb baleset történt Szegeden, ezúttal a József Attila sugárúton – villamospótló buszok közlekednek",
+          "url": "https://szeged365.hu/2026/10/27/ujabb-baleset-tortent-szegeden-ezuttal-a-jozsef-attila-sugaruton-villamospotlo-buszok-kozlekednek/"
+        },
+        {
+          "added_at": "2026-10-27T19:05:26.981065Z",
+          "published_at": "2026-10-27T16:26:07",
+          "source_name": "Webrádió",
+          "title": "Villamossal ütközött egy személyautó a József Attila sugárúton Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/villamossal-utkozott-egy-szemelyauto-a-jozsef-attila-sugaruton-szegeden"
+        }
+      ],
+      "status": "published",
+      "summary": "Nem sokkal 14:00 után egy Volkswagen személyautó Tátra villamossal ütközött a József Attila sugárút és a Murányi utca kereszteződésében. Senki sem sérült meg; a Volkswagen sofőrje elismerte a felelősségét.",
+      "updated_at": "2026-10-27T19:05:26.981065Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T13:53:44.172225+00:00"
+  "updated_at": "2026-10-27T19:05:26.981065+00:00"
 }

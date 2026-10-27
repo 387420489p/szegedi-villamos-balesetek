@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napos-felhős idővel folytatódik a hét Szegeden, 168 éve született a Teddy mackó névadója",
+      "url": "https://szeged365.hu/2026/10/27/napi-pakk-napos-felhos-idovel-folytatodik-a-het-szegeden-168-eve-szuletett-a-teddy-macko-nevadoja/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
+      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nemcsak kódot írnak, jövőt építenek: TOP 100 díjjal ismerték el a szegedi ZENGO-t (Szeged365 videóval)",
+      "url": "https://szeged365.hu/2026/10/27/nemcsak-kodot-irnak-jovot-epitenek-top-100-dijjal-ismertek-el-a-szegedi-zengo-t-szeged365-videoval/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Petíció indult, hogy a szegedi önkormányzat virágosztáskor egynyáriak helyett más növényeket osszon",
+      "url": "https://szeged365.hu/2026/10/27/peticio-indult-hogy-a-szegedi-onkormanyzat-viragosztaskor-egynyariak-helyett-mas-novenyeket-osszon/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Reggel óta nincs áram Móraváros egy részén, megszólalt az MVM",
+      "url": "https://szeged365.hu/2026/10/27/reggel-ota-nincs-aram-moravaros-egy-reszen-megszolalt-az-mvm/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-28T08:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 kisokos: minden részlet, egy helyen – így nyerhetsz egy VW T-Roc-ot a Porsche Szegedtől, egy teljes hétvégére",
+      "url": "https://szeged365.hu/2026/10/27/szeged365-kisokos-minden-reszlet-egy-helyen-igy-nyerhetsz-egy-vw-t-roc-ot-a-porsche-szegedtol-egy-teljes-hetvegere/"
+    },
+    {
+      "first_seen": "2026-10-27T13:06:05.047613Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elgázoltak egy kerékpárost Szegeden",
+      "url": "https://szeged365.hu/2026/10/27/elgazoltak-egy-kerekparost-szegeden/"
+    },
+    {
       "first_seen": "2026-10-27T10:01:34.289587Z",
       "published_at": "2026-10-27T00:00:00",
       "reason": "prefiltered",
@@ -79,22 +135,6 @@
       "source_name": "Szeged365",
       "title": "Humor, irónia és társadalomkritika: Simon Kornél és Nemtelen Erotika koncerttel ünnepel a Rock Klub novemberben",
       "url": "https://szeged365.hu/2026/10/27/humor-ironia-es-tarsadalomkritika-simon-kornel-es-nemtelen-erotika-koncerttel-unnepel-a-rock-klub-novemberben/"
-    },
-    {
-      "first_seen": "2026-10-27T07:04:14.250260Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a hét Szegeden, 168 éve született a Teddy mackó névadója",
-      "url": "https://szeged365.hu/2026/10/27/napi-pakk-napos-felhos-idovel-folytatodik-a-het-szegeden-168-eve-szuletett-a-teddy-macko-nevadoja/"
-    },
-    {
-      "first_seen": "2026-10-27T07:04:14.250260Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     },
     {
       "first_seen": "2026-10-26T19:05:10.289132Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Elmarad Szeged egyik népszerű eseménye, megrendítő bejegyzésben közölte az okát a szervező",
       "url": "https://szeged365.hu/2026/10/25/elmarad-szeged-egyik-nepszeru-esemenye-megrendito-bejegyzesben-kozolte-az-okat-a-szervezo/"
-    },
-    {
-      "first_seen": "2026-10-25T17:41:58.464815Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elképesztő fordítás: 12 pontos hátrányból állt fel a Szedeák, és legyőzte a debrecenieket",
-      "url": "https://szeged365.hu/2026/10/25/elkepeszto-forditas-12-pontos-hatranybol-allt-fel-a-szedeak-es-legyozte-a-debrecenieket/"
-    },
-    {
-      "first_seen": "2026-10-25T13:04:14.029390Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fájó vereség a Szent Gellért Fórumban, már a második percben gólt szerzett az ellenfél csapat (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/25/fajo-vereseg-a-szent-gellert-forumban-mar-a-masodik-percben-golt-szerzett-az-ellenfel-csapat-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-25T10:04:44.761090Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vasárnap este újabb hidegfront jön, videón mutatjuk, hogyan éri el Szegedet",
-      "url": "https://szeged365.hu/2026/10/25/vasarnap-este-ujabb-hidegfront-jon-videon-mutatjuk-hogyan-eri-el-szegedet/"
-    },
-    {
-      "first_seen": "2026-10-25T10:04:44.761090Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Athéntól a Tisza-partig: íme a Híd Clinic, ahol a mediterrán temperamentum és a szegedi precizitás találkozik",
-      "url": "https://szeged365.hu/2026/10/25/athentol-a-tisza-partig-ime-a-hid-clinic-ahol-a-mediterran-temperamentum-es-a-szegedi-precizitas-talalkozik/"
-    },
-    {
-      "first_seen": "2026-10-25T07:01:47.563403Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: beköszöntött a téli időszámítás, 82 éves lett Kovács Kati, és még egy kis szerencse is várhat ránk Szegeden!",
-      "url": "https://szeged365.hu/2026/10/25/napi-pakk-bekoszontott-a-teli-idoszamitas-82-eves-lett-kovacs-kati-es-meg-egy-kis-szerencse-is-varhat-rank-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T10:01:34.289587Z"
+  "updated_at": "2026-10-27T13:06:05.047613Z"
 }

@@ -7092,8 +7092,58 @@
       "status": "published",
       "summary": "Egy személyautó ütközött a 3-as villamossal a Kálvária sugárúton.",
       "updated_at": "2026-10-05T09:07:35.465861Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-10-27T13:06:05.047613Z",
+      "event_date": "2026-10-27",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20261027-001",
+      "injuries": "unknown",
+      "location": "Anna-kút",
+      "location_normalized": "anna x kut",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-10-27T13:06:05.047613Z",
+          "published_at": "2026-10-27T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Újabb baleset Szegeden: autó és villamos ütközött a belvárosban (galéria) - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/10/27/ujabb-baleset-szegeden-auto-es-villamos-utkozott-a-belvarosban-galeria/"
+        }
+      ],
+      "status": "published",
+      "summary": "Személyautó és villamos ütközött össze Szeged belvárosában, az Anna-kútnál. A helyszínre a rendőrök, a katasztrófavédelem és a mentők is kiérkeztek.",
+      "updated_at": "2026-10-27T13:06:05.047613Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-10-27T13:06:05.047613Z",
+      "event_date": "2026-10-27",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20261027-002",
+      "injuries": "unknown",
+      "location": "Kossuth Lajos sugárút és Bocskai utca kereszteződése",
+      "location_normalized": "kossuth lajos sugarut es bocskai utca keresztezodese",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-10-27T13:06:05.047613Z",
+          "published_at": "2026-10-27T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Villamos ütközött személyautóval a Kossuth Lajos sugárúton Szegeden",
+          "url": "https://webradio.hu/hirek/belfold/villamos-utkozott-szemelyautoval-a-kossuth-lajos-sugaruton-szegeden"
+        }
+      ],
+      "status": "published",
+      "summary": "Személyautóval ütközött egy villamos Szegeden, a Kossuth Lajos sugárút és a Bocskai utca kereszteződésében. A villamos utasai közül senki sem sérült meg, az autóban kinyíltak a légzsákok.",
+      "updated_at": "2026-10-27T13:06:05.047613Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-05T09:07:35.465861+00:00"
+  "updated_at": "2026-10-27T13:06:05.047613+00:00"
 }

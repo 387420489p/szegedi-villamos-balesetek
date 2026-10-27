@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ilyen se volt még Szegeden! Zene, látványos dekoráció, cukorkák és különleges fények – rendhagyó meglepetéssel készül az SZKT halloweenre",
+      "url": "https://szeged365.hu/2026/10/27/ilyen-se-volt-meg-szegeden-zene-latvanyos-dekoracio-cukorkak-es-kulonleges-fenyek-rendhagyo-meglepetessel-keszul-az-szkt-halloweenre/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hamarosan ünnepi fényárba borul Szeged főutcája – már szerelik a karácsonyi fényfüzéreket a Kárász utcán (galéria)",
+      "url": "https://szeged365.hu/2026/10/27/hamarosan-unnepi-fenyarba-borul-szeged-foutcaja-mar-szerelik-a-karacsonyi-fenyfuzereket-a-karasz-utcan-galeria/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Humanoid robotok lepik el Szegeden a TIK-et! Jön Dél-Magyarország legnagyobb ingyenes IT-expója, és mutatunk 3 nyomós okot, amiért neked is ott a helyed (videó)",
+      "url": "https://szeged365.hu/2026/10/27/humanoid-robotok-lepik-el-szegeden-a-tik-et-jon-del-magyarorszag-legnagyobb-ingyenes-it-expoja-es-mutatunk-3-nyomos-okot-amiert-neked-is-ott-a-helyed-video/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb baleset: tehergépkocsi és személyautó ütközött a Széksósi úton",
+      "url": "https://szeged365.hu/2026/10/27/ujabb-baleset-tehergepkocsi-es-szemelyauto-utkozott-a-szeksosi-uton/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nehéz egyedül hagyni beteg szerettedet? Mutatjuk, hogyan segíthet a szegedi Care Point az ápolásban, a gyógytornában és a mindennapi gondoskodásban (videó)",
+      "url": "https://szeged365.hu/2026/10/27/nehez-egyedul-hagyni-beteg-szerettedet-mutatjuk-hogyan-segithet-a-szegedi-care-point-az-apolasban-a-gyogytornaban-es-a-mindennapi-gondoskodasban-video/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karambol történt a Fonógyári úton, a baleset következtében egy kandeláber is megsérült",
+      "url": "https://szeged365.hu/2026/10/27/karambol-tortent-a-fonogyari-uton-a-baleset-kovetkezteben-egy-kandelaber-is-megserult/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nagy tételben csempészte a nyugtatót egy férfi, 6 ezer napi adag gyógyszert akart behozni az országba Ásotthalomnál",
+      "url": "https://szeged365.hu/2026/10/27/nagy-tetelben-csempeszte-a-nyugtatot-egy-ferfi-6-ezer-napi-adag-gyogyszert-akart-behozni-az-orszagba-asotthalomnal/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási összefogás, és egy igazán szívmelengető Tacskó Felvonulás készülődik Szegeden",
+      "url": "https://szeged365.hu/2026/10/27/oriasi-osszefogas-es-egy-igazan-szivmelengeto-tacsko-felvonulas-keszulodik-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-27T10:01:34.289587Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ilyen koncerttel nem mindennap találkozhatsz Szegeden! Szombaton Vecsei H. Miklós és a QJÚB hozza el a magyar költészetet a JATE Klubba (galéria)",
+      "url": "https://szeged365.hu/2026/10/27/ilyen-koncerttel-nem-mindennap-talalkozhatsz-szegeden-szombaton-vecsei-h-miklos-es-a-qjub-hozza-el-a-magyar-kolteszetet-a-jate-klubba/"
+    },
+    {
       "first_seen": "2026-10-27T07:04:14.250260Z",
       "published_at": "2026-10-27T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: beköszöntött a téli időszámítás, 82 éves lett Kovács Kati, és még egy kis szerencse is várhat ránk Szegeden!",
       "url": "https://szeged365.hu/2026/10/25/napi-pakk-bekoszontott-a-teli-idoszamitas-82-eves-lett-kovacs-kati-es-meg-egy-kis-szerencse-is-varhat-rank-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-24T18:07:08.531738Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ködös reggellel, felhős égbolttal veszi kezdetét a téli időszámítás Szegeden",
-      "url": "https://szeged365.hu/2026/10/24/kodos-reggellel-felhos-egbolttal-veszi-kezdetet-a-teli-idoszamitas-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-24T15:01:16.084602Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Nem félek!” – levelet írt a szegedi Csillagbörtönből Bús Balázs",
-      "url": "https://szeged365.hu/2026/10/24/nem-fekek-levelet-irt-a-szegedi-csillagbortonbol-bus-balazs/"
-    },
-    {
-      "first_seen": "2026-10-24T15:01:16.084602Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Folytatódhat a Szedeák jó sorozata? Szombat este a DEAC ellen bizonyíthatnak a szegediek",
-      "url": "https://szeged365.hu/2026/10/24/folytatodhat-a-szedeak-jo-sorozata-szombat-este-a-deac-ellen-bizonyithatnak-a-szegediek/"
-    },
-    {
-      "first_seen": "2026-10-24T15:01:16.084602Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ha ilyen kolbászt vettél, ne edd meg! Szegeden is kapható húskészítményeket hívtak vissza",
-      "url": "https://szeged365.hu/2026/10/24/ha-ilyen-kolbaszt-vettel-ne-edd-meg-szegeden-is-kaphato-huskeszitmenyeket-hivtak-vissza/"
-    },
-    {
-      "first_seen": "2026-10-24T12:09:16.517730Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs: TÖKéletes hétvége, megemlékezések, Japán ünnep és koncertek tömkelege – mutatjuk a hosszú hétvégi menetrendet Szegeden",
-      "url": "https://szeged365.hu/2026/10/23/szeged365-kikapcs-tokeletes-hetvege-megemlekezesek-japan-unnep-es-koncertek-tomkelege-mutatjuk-a-hosszu-hetvegi-menetrendet-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-24T12:09:16.517730Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: “Hetven éve Szeged volt a szikra” – Így emlékezett a város 1956-ra (galéria)",
-      "url": "https://szeged365.hu/2026/10/23/botka-laszlo-hetven-eve-szeged-volt-a-szikra-igy-emlekezett-a-varos-1956-ra-galeria/"
-    },
-    {
-      "first_seen": "2026-10-24T12:09:16.517730Z",
-      "published_at": "2026-10-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kellemes, napos időben futhatsz Te is Jakab Győzővel, Szegeden lesz a Szatymaz Judo egyik legfontosabb versenye!",
-      "url": "https://szeged365.hu/2026/10/18/napi-pakk-kellemes-napos-idoben-futhatsz-te-is-jakab-gyozovel-szegeden-lesz-a-szatymaz-judo-egyik-legfontosabb-versenye/"
-    },
-    {
-      "first_seen": "2026-10-24T12:09:16.517730Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
-      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
-    },
-    {
-      "first_seen": "2026-10-24T12:09:16.517730Z",
-      "published_at": "2026-10-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elképesztő mérleggel várja vasárnapi ellenfelét a PICK Szeged, eddig egyszer sem kaptak ki tőlük",
-      "url": "https://szeged365.hu/2026/10/24/elkepeszto-merleggel-varja-vasarnapi-ellenfelet-a-pick-szeged-eddig-egyszer-sem-kaptak-ki-toluk/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T07:04:14.250260Z"
+  "updated_at": "2026-10-27T10:01:34.289587Z"
 }

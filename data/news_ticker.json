@@ -1,20 +1,92 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
+      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs halloweeni különkiadás: csokit vagy csalunk, boszorkányos kalandok és tökfaragás – mutatjuk, hol borzonghatnak a szegediek és a környékbeliek a hétvégén",
+      "url": "https://szeged365.hu/2026/10/26/szeged365-kikapcs-halloweeni-kulonkiadas-csokit-vagy-csalunk-boszorkanyos-kalandok-es-tokfaragas-mutatjuk-hol-borzonghatnak-a-szegediek-es-a-kornyekbeliek-a-hetvegen/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Katonai tiszteletadás mellett emlékezett meg a szolgálat közben életüket vesztett munkatársakról a Szegedi Fegyház és Börtön vezetése",
+      "url": "https://szeged365.hu/2026/10/28/katonai-tiszteletadas-mellett-emlekezett-meg-a-szolgalat-kozben-eletuket-vesztett-munkatarsakrol-a-szegedi-fegyhaz-es-borton-vezetese/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Dr. Palkó Márta, az SZTE Gyógyszerésztudományi Karának egyetemi docense",
+      "url": "https://szeged365.hu/2026/10/27/elhunyt-palko-marta-az-szte-gyogyszeresztudomanyi-karanak-egyetemi-docense/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is kapható nasit hívtak vissza, májelégtelenséget és mérgezést okozhatnak",
+      "url": "https://szeged365.hu/2026/10/27/szegeden-is-kaphato-nasit-hivtak-vissza-majelegtelenseget-es-mergezest-okozhatnak/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódik a csodaszép szegedi ősz: sok naposütést hoz a szerda városunkba",
+      "url": "https://szeged365.hu/2026/10/27/folytatodik-a-csodaszep-szegedi-osz-sok-naposutest-hoz-a-szerda-varosunkba/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Két férfi egymásnak esett és lepofozta egymást egy szegedi bank előtt – mindkettőjük ellen büntetőeljárás indult",
+      "url": "https://szeged365.hu/2026/10/27/ket-ferfi-egymasnak-esett-es-lepofozta-egymast-egy-szegedi-bank-elott-mindkettojuk-ellen-buntetoeljaras-indult/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "2027-ben Szeged ad otthont a kajak-kenu világbajnokságnak – összeállt a magyar válogatott jövő évi programja",
+      "url": "https://szeged365.hu/2026/10/27/2027-ben-szeged-ad-otthont-a-kajak-kenu-vilagbajnoksagnak-osszeallt-a-magyar-valogatott-jovo-evi-programja/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meglepetést tartogat az őszi szünet a szegedi autósoknak: több helyen is változik a közlekedés",
+      "url": "https://szeged365.hu/2026/10/27/meglepetest-tartogat-az-oszi-szunet-a-szegedi-autosoknak-tobb-helyen-is-valtozik-a-kozlekedes/"
+    },
+    {
+      "first_seen": "2026-10-28T07:00:22.891226Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Újabb baleset történt Szegeden, ezúttal a József Attila sugárúton – villamospótló buszok közlekednek (frissítve, fotókkal)",
+      "url": "https://szeged365.hu/2026/10/27/ujabb-baleset-tortent-szegeden-ezuttal-a-jozsef-attila-sugaruton-villamospotlo-buszok-kozlekednek/"
+    },
+    {
       "first_seen": "2026-10-27T13:06:05.047613Z",
       "published_at": "2026-10-27T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Napi pakk: napos-felhős idővel folytatódik a hét Szegeden, 168 éve született a Teddy mackó névadója",
       "url": "https://szeged365.hu/2026/10/27/napi-pakk-napos-felhos-idovel-folytatodik-a-het-szegeden-168-eve-szuletett-a-teddy-macko-nevadoja/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     },
     {
       "first_seen": "2026-10-27T13:06:05.047613Z",
@@ -189,14 +261,6 @@
       "published_at": "2026-10-26T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs halloweeni különkiadás: csokit vagy csalunk, boszorkányos kalandok és tökfaragás – mutatjuk, hol borzonghatnak a szegediek és a környékbeliek a hétvégén",
-      "url": "https://szeged365.hu/2026/10/26/szeged365-kikapcs-halloweeni-kulonkiadas-csokit-vagy-csalunk-boszorkanyos-kalandok-es-tokfaragas-mutatjuk-hol-borzonghatnak-a-szegediek-es-a-kornyekbeliek-a-hetvegen/"
-    },
-    {
-      "first_seen": "2026-10-26T16:06:25.270986Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Egy férfi kést tartott a saját torkához a szegedi Dugonics téren (18+ fotó, frissítve)",
       "url": "https://szeged365.hu/2026/10/26/egy-ferfi-kest-tartott-a-sajat-torkahoz-a-szegedi-dugonics-teren-18-foto/"
     },
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Rács mögé kerültek az álnyomozók – közel 80 millió forintot csaltak ki egy szentesi cégvezetőtől, most letartóztatták őket",
       "url": "https://szeged365.hu/2026/10/26/racs-moge-kerultek-az-alnyomozok-kozel-80-millio-forintot-csaltak-ki-egy-szentesi-cegvezetotol-most-letartoztattak-oket/"
-    },
-    {
-      "first_seen": "2026-10-26T10:08:54.280095Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lezárták a Mátyás téri körforgalmat, az autóbuszoknak küzdelmes lett a terelőútvonal",
-      "url": "https://szeged365.hu/2026/10/26/lezartak-a-matyas-teri-korforgalmat-az-autobuszoknak-kuzdelmes-lett-a-tereloutvonal/"
-    },
-    {
-      "first_seen": "2026-10-26T10:08:54.280095Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sok szegedi nő halogatja a HPV-szűrést, pedig van egy egyszerűbb lehetőség! A SYNLAB főorvosa most elmondta, mire kell figyelni (videó)",
-      "url": "https://szeged365.hu/2026/10/26/sok-szegedi-no-halogatja-a-hpv-szurest-pedig-van-egy-egyszerubb-lehetoseg-a-synlab-foorvosa-most-elmondta-mire-kell-figyelni-video/"
-    },
-    {
-      "first_seen": "2026-10-26T07:06:46.791591Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szilágyi Benjámin új PICK Aréna-rekordot állított fel! Magabiztos győzelmet aratott a PICK Szeged az újonc Dabas ellen",
-      "url": "https://szeged365.hu/2026/10/26/szilagyi-benjamin-uj-pick-arena-rekordot-allitott-fel-magabiztos-gyozelmet-aratott-a-pick-szeged-az-ujonc-dabas-ellen/"
-    },
-    {
-      "first_seen": "2026-10-26T07:06:46.791591Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: megérkezik a hidegfront Szegedre, több helyen is munkagépek lepik el az utakat",
-      "url": "https://szeged365.hu/2026/10/26/napi-pakk-megerkezik-a-hidegfront-szegedre-tobb-helyen-is-munkagepek-lepik-el-az-utakat/"
-    },
-    {
-      "first_seen": "2026-10-25T17:41:58.464815Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kiütéses szegedi siker Londonban: Gémes Levente TKO-val fejezte be (eddig) veretlen svéd ellenfelét",
-      "url": "https://szeged365.hu/2026/10/25/kiuteses-szegedi-siker-londonban-gemes-levente-tko-val-fejezte-be-eddig-veretlen-sved-ellenfelet/"
-    },
-    {
-      "first_seen": "2026-10-25T17:41:58.464815Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hidegfronttal és erős széllel indul október utolsó hete Szegeden",
-      "url": "https://szeged365.hu/2026/10/25/hidegfronttal-es-eros-szellel-indul-oktober-utolso-hete-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-25T17:41:58.464815Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új korszak kezdődik a magyar kézilabda-válogatottnál, négy szegedi játékossal vágnak neki az EB-selejtezőknek, mutatjuk a teljes névsort",
-      "url": "https://szeged365.hu/2026/10/25/uj-korszak-kezdodik-a-magyar-kezilabda-valogatottnal-negy-szegedi-jatekossal-vagnak-neki-az-eb-selejtezoknek-mutatjuk-a-teljes-nevsort/"
-    },
-    {
-      "first_seen": "2026-10-25T17:41:58.464815Z",
-      "published_at": "2026-10-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elmarad Szeged egyik népszerű eseménye, megrendítő bejegyzésben közölte az okát a szervező",
-      "url": "https://szeged365.hu/2026/10/25/elmarad-szeged-egyik-nepszeru-esemenye-megrendito-bejegyzesben-kozolte-az-okat-a-szervezo/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T13:06:05.047613Z"
+  "updated_at": "2026-10-28T07:00:22.891226Z"
 }

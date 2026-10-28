@@ -7119,11 +7119,18 @@
           "source_name": "Webrádió",
           "title": "Villamos ütközött személyautóval a Kossuth Lajos sugárúton Szegeden",
           "url": "https://webradio.hu/hirek/belfold/villamos-utkozott-szemelyautoval-a-kossuth-lajos-sugaruton-szegeden"
+        },
+        {
+          "added_at": "2026-10-28T07:00:22.891226Z",
+          "published_at": "2026-10-27T00:00:00",
+          "source_name": "Szegeder",
+          "title": "Rövid időn belül kétszer is villamosba hajtottak autósok Szegeden",
+          "url": "https://szegeder.hu/szeged/2026-10-27/rovid-idon-belul-ketszer-is-villamosba-hajtottak-autosok-szegeden/"
         }
       ],
       "status": "published",
       "summary": "Villamos és személyautó ütközött Szegeden, a Kossuth Lajos sugárút és a Bocskai utca kereszteződésében, az Anna-kút közelében. A villamos utasai közül senki sem sérült meg; az autóban kinyíltak a légzsákok.",
-      "updated_at": "2026-10-27T13:53:44.172225Z"
+      "updated_at": "2026-10-28T08:24:11Z"
     },
     {
       "confidence": 0.99,
@@ -7162,34 +7169,9 @@
       ],
       "status": "published",
       "summary": "Nem sokkal 14:00 után egy Volkswagen személyautó Tátra villamossal ütközött a József Attila sugárút és a Murányi utca kereszteződésében. Senki sem sérült meg; a Volkswagen sofőrje elismerte a felelősségét.",
-      "updated_at": "2026-10-27T19:05:26.981065Z"
-    },
-    {
-      "confidence": 0.95,
-      "created_at": "2026-10-28T07:00:22.891226Z",
-      "event_date": "2026-10-27",
-      "event_time": null,
-      "event_type": "collision",
-      "id": "szvb-20261027-004",
-      "injuries": "none",
-      "location": "Kossuth Lajos sugárút és Bocskai utca kereszteződése",
-      "location_normalized": "kossuth lajos sugarut es bocskai utca keresztezodese",
-      "mode": "tram",
-      "other_party": "car",
-      "sources": [
-        {
-          "added_at": "2026-10-28T07:00:22.891226Z",
-          "published_at": "2026-10-27T00:00:00",
-          "source_name": "Szegeder",
-          "title": "Rövid időn belül kétszer is villamosba hajtottak autósok Szegeden",
-          "url": "https://szegeder.hu/szeged/2026-10-27/rovid-idon-belul-ketszer-is-villamosba-hajtottak-autosok-szegeden/"
-        }
-      ],
-      "status": "published",
-      "summary": "2026. október 27-én kora délután két villamosbaleset is történt Szegeden: előbb a Kossuth Lajos sugárút és a Bocskai utca kereszteződésében ütközött egy Toyota személyautó PESA villamossal, majd 14 óra után a József Attila sugárút és a Murányi utca sarkán egy Volkswagen ütközött Tatra villamossal. Személyi sérülés egyik esetben sem történt.",
-      "updated_at": "2026-10-28T07:00:22.891226Z"
+      "updated_at": "2026-10-28T08:24:11Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T07:00:22.891226+00:00"
+  "updated_at": "2026-10-28T08:24:11+00:00"
 }

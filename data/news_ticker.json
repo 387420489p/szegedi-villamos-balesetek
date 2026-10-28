@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-28T19:04:44.137009Z",
+      "published_at": "2026-09-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem nyakkendős fickók döntenek… hanem Te! Indul az őrület, startol a 2026-os év Legszegedibb Szegediek közönségszavazása!",
+      "url": "https://szeged365.hu/2026/10/28/nem-nyakkendos-fickok-dontenek-hanem-te-indul-az-orulet-startol-a-2026-os-ev-legszegedibb-szegediek-kozonsegszavazasa/"
+    },
+    {
+      "first_seen": "2026-10-28T19:04:44.137009Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Sikersztorik: rengeteg egészségügyi problémával küzdött, életmódot váltott és IFBB PRO magyar bajnok lett Krupa-Tóth Szabina",
+      "url": "https://szeged365.hu/2026/10/28/szegedi-sikersztorik-rengeteg-egeszsegugyi-problemaval-kuzdott-eletmodot-valtott-es-ifbb-pro-magyar-bajnok-lett-krupa-toth-szabina/"
+    },
+    {
+      "first_seen": "2026-10-28T19:04:44.137009Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megérkezett a karácsonyi varázslat Szegedre: már forog az óriáskerék a Dóm téren (fotókkal)",
+      "url": "https://szeged365.hu/2026/10/28/megerkezett-a-karacsonyi-varazslat-szegedre-mar-forog-az-oriaskerek-a-dom-teren-fotokkal/"
+    },
+    {
+      "first_seen": "2026-10-28T19:04:44.137009Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felhős, borongós csütörtökünk lesz Szegeden, gyenge eső és zápor is előfordulhat",
+      "url": "https://szeged365.hu/2026/10/28/felhos-borongos-csutortokunk-lesz-szegeden-gyenge-eso-es-zapor-is-elofordulhat/"
+    },
+    {
       "first_seen": "2026-10-28T16:01:10.869706Z",
       "published_at": "2026-10-20T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Karambol történt a Fonógyári úton, a baleset következtében egy kandeláber is megsérült",
       "url": "https://szeged365.hu/2026/10/27/karambol-tortent-a-fonogyari-uton-a-baleset-kovetkezteben-egy-kandelaber-is-megserult/"
-    },
-    {
-      "first_seen": "2026-10-27T10:01:34.289587Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nagy tételben csempészte a nyugtatót egy férfi, 6 ezer napi adag gyógyszert akart behozni az országba Ásotthalomnál",
-      "url": "https://szeged365.hu/2026/10/27/nagy-tetelben-csempeszte-a-nyugtatot-egy-ferfi-6-ezer-napi-adag-gyogyszert-akart-behozni-az-orszagba-asotthalomnal/"
-    },
-    {
-      "first_seen": "2026-10-27T10:01:34.289587Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási összefogás, és egy igazán szívmelengető Tacskó Felvonulás készülődik Szegeden",
-      "url": "https://szeged365.hu/2026/10/27/oriasi-osszefogas-es-egy-igazan-szivmelengeto-tacsko-felvonulas-keszulodik-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-27T10:01:34.289587Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyen koncerttel nem mindennap találkozhatsz Szegeden! Szombaton Vecsei H. Miklós és a QJÚB hozza el a magyar költészetet a JATE Klubba (galéria)",
-      "url": "https://szeged365.hu/2026/10/27/ilyen-koncerttel-nem-mindennap-talalkozhatsz-szegeden-szombaton-vecsei-h-miklos-es-a-qjub-hozza-el-a-magyar-kolteszetet-a-jate-klubba/"
-    },
-    {
-      "first_seen": "2026-10-27T07:04:14.250260Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Humor, irónia és társadalomkritika: Simon Kornél és Nemtelen Erotika koncerttel ünnepel a Rock Klub novemberben",
-      "url": "https://szeged365.hu/2026/10/27/humor-ironia-es-tarsadalomkritika-simon-kornel-es-nemtelen-erotika-koncerttel-unnepel-a-rock-klub-novemberben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:01:10.869706Z"
+  "updated_at": "2026-10-28T19:04:44.137009Z"
 }

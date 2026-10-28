@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-28T16:01:10.869706Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
+      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-28T16:01:10.869706Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "75 év, több generáció, megszámlálhatatlan diák: díszdiplomás és pályakezdő pedagógusokat köszöntöttek Szegeden (galéria)",
+      "url": "https://szeged365.hu/2026/10/28/75-ev-tobb-generacio-megszamlalhatatlan-diak-diszdiplomas-es-palyakezdo-pedagogusokat-koszontottek-szegeden-galeria/"
+    },
+    {
+      "first_seen": "2026-10-28T16:01:10.869706Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ha a JATE Klubon múlik, nem lesz idő unatkozni az őszi szünetben! Szegeden dupla Carson Coma, Halloween és egy rakás koncert jön a héten",
+      "url": "https://szeged365.hu/2026/10/28/ha-a-jate-klubon-mulik-nem-lesz-ido-unatkozni-az-oszi-szunetben-szegeden-dupla-carson-coma-halloween-es-egy-rakas-koncert-jon-a-heten/"
+    },
+    {
+      "first_seen": "2026-10-28T16:01:10.869706Z",
+      "published_at": "2026-10-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megérkeztek a VIII. „Nyújts kezet!” Jótékonysági Motoros Felvonulás adományából vásárolt eszközök a szegedi gyermekklinikára (galéria)",
+      "url": "https://szeged365.hu/2026/10/28/megerkeztek-a-viii-nyujts-kezet-jotekonysagi-motoros-felvonulas-adomanyabol-vasarolt-eszkozok-a-szegedi-gyermekklinikara-galeria/"
+    },
+    {
       "first_seen": "2026-10-28T13:06:48.630362Z",
       "published_at": "2026-10-28T00:00:00",
       "reason": "prefiltered",
@@ -95,14 +127,6 @@
       "source_name": "Szeged365",
       "title": "#SMART SZEGED",
       "url": "https://szeged365.hu/smartszeged/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     },
     {
       "first_seen": "2026-10-28T07:00:22.891226Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Humor, irónia és társadalomkritika: Simon Kornél és Nemtelen Erotika koncerttel ünnepel a Rock Klub novemberben",
       "url": "https://szeged365.hu/2026/10/27/humor-ironia-es-tarsadalomkritika-simon-kornel-es-nemtelen-erotika-koncerttel-unnepel-a-rock-klub-novemberben/"
-    },
-    {
-      "first_seen": "2026-10-26T19:05:10.289132Z",
-      "published_at": "2026-10-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hétfőtől lezárják a szegedi Mátyás téri körforgalmat, mutatjuk a pontos forgalomváltozásokat",
-      "url": "https://szeged365.hu/2026/10/23/hetfotol-lezarjak-a-szegedi-matyas-teri-korforgalmat-mutatjuk-a-pontos-forgalomvaltozasokat/"
-    },
-    {
-      "first_seen": "2026-10-26T19:05:10.289132Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Virtuális állatkert a figyelemzavar vizsgálatára: országos innovációs díjat nyert az SZTE hallgatója (videó)",
-      "url": "https://szeged365.hu/2026/10/26/virtualis-allatkert-a-figyelemzavar-vizsgalatara-orszagos-innovacios-dijat-nyert-az-szte-hallgatoja-video/"
-    },
-    {
-      "first_seen": "2026-10-26T19:05:10.289132Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felhős-napos idővel köszönt ránk a kedd Szegeden",
-      "url": "https://szeged365.hu/2026/10/26/felhos-napos-idovel-koszont-rank-a-kedd-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T13:06:48.630362Z"
+  "updated_at": "2026-10-28T16:01:10.869706Z"
 }

@@ -7100,7 +7100,7 @@
       "event_time": null,
       "event_type": "collision",
       "id": "szvb-20261027-001",
-      "injuries": "unknown",
+      "injuries": "minor",
       "location": "Kossuth Lajos sugárút és Bocskai utca kereszteződése",
       "location_normalized": "kossuth lajos sugarut es bocskai utca keresztezodese",
       "mode": "tram",
@@ -7126,11 +7126,18 @@
           "source_name": "Szegeder",
           "title": "Rövid időn belül kétszer is villamosba hajtottak autósok Szegeden",
           "url": "https://szegeder.hu/szeged/2026-10-27/rovid-idon-belul-ketszer-is-villamosba-hajtottak-autosok-szegeden/"
+        },
+        {
+          "added_at": "2026-10-28T16:01:10.869706Z",
+          "published_at": "2026-10-28T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Szerencsésen végződött az őzike kalandja, a szegedi tűzoltók siettek a segítségére - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/10/28/szerencsesen-vegzodott-az-ozike-kalandja-a-szegedi-tuzoltok-siettek-a-segitsegere/"
         }
       ],
       "status": "published",
       "summary": "Villamos és személyautó ütközött Szegeden, a Kossuth Lajos sugárút és a Bocskai utca kereszteződésében, az Anna-kút közelében. A villamos utasai közül senki sem sérült meg; az autóban kinyíltak a légzsákok.",
-      "updated_at": "2026-10-28T08:24:11Z"
+      "updated_at": "2026-10-28T16:01:10.869706Z"
     },
     {
       "confidence": 0.99,
@@ -7173,5 +7180,5 @@
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T08:24:11+00:00"
+  "updated_at": "2026-10-28T16:01:10.869706+00:00"
 }

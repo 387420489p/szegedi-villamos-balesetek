@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-29T13:04:57.793117Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Azt mondták, két órám van hátra” – ma van a stroke világnapja, ebből az alkalomból egész Szegednek üzen Détári Vilmos, aki 11 éve az életéért küzdött!",
+      "url": "https://szeged365.hu/2026/10/29/azt-mondtak-ket-oram-van-hatra-ma-van-a-stroke-vilagnapja-ebbol-az-alkalombol-egesz-szegednek-uzen-detari-vilmos-aki-11-eve-az-eleteert-kuzdott/"
+    },
+    {
+      "first_seen": "2026-10-29T13:04:57.793117Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Emléktáblát avatnak Albert Camus tiszteletére Szegeden",
+      "url": "https://szeged365.hu/2026/10/29/emlektablat-avatnak-albert-camus-tiszteletere-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-29T13:04:57.793117Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Irány Dakar! A világ legjobbjaival versenyezhet a szegedi fiatal, Moór Ádám",
+      "url": "https://szeged365.hu/2026/10/29/irany-dakar-a-vilag-legjobbjaival-versenyezhet-a-szegedi-fiatal-moor-adam/"
+    },
+    {
+      "first_seen": "2026-10-29T13:04:57.793117Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kétszer egymás után a legjobbak között! Hatalmas szegedi siker született, ismét rangos szakmai díjat nyert a Novotel Szeged",
+      "url": "https://szeged365.hu/2026/10/29/ketszer-egymas-utan-a-legjobbak-kozott-hatalmas-szegedi-siker-szuletett-ismet-rangos-szakmai-dijat-nyert-a-novotel-szeged/"
+    },
+    {
+      "first_seen": "2026-10-29T13:04:57.793117Z",
+      "published_at": "2026-10-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hamarosan ünnepi fényárba borul Szeged főutcája – már szerelik a karácsonyi fényfüzéreket a Kárász utcán (galéria)",
+      "url": "https://szeged365.hu/2026/10/27/hamarosan-unnepi-fenyarba-borul-szeged-foutcaja-mar-szerelik-a-karacsonyi-fenyfuzereket-a-karasz-utcan-galeria/"
+    },
+    {
       "first_seen": "2026-10-29T10:07:16.526031Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Meglepetést tartogat az őszi szünet a szegedi autósoknak: több helyen is változik a közlekedés",
       "url": "https://szeged365.hu/2026/10/27/meglepetest-tartogat-az-oszi-szunet-a-szegedi-autosoknak-tobb-helyen-is-valtozik-a-kozlekedes/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Újabb baleset történt Szegeden, ezúttal a József Attila sugárúton – villamospótló buszok közlekednek (frissítve, fotókkal)",
-      "url": "https://szeged365.hu/2026/10/27/ujabb-baleset-tortent-szegeden-ezuttal-a-jozsef-attila-sugaruton-villamospotlo-buszok-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napos-felhős idővel folytatódik a hét Szegeden, 168 éve született a Teddy mackó névadója",
-      "url": "https://szeged365.hu/2026/10/27/napi-pakk-napos-felhos-idovel-folytatodik-a-het-szegeden-168-eve-szuletett-a-teddy-macko-nevadoja/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nemcsak kódot írnak, jövőt építenek: TOP 100 díjjal ismerték el a szegedi ZENGO-t (Szeged365 videóval)",
-      "url": "https://szeged365.hu/2026/10/27/nemcsak-kodot-irnak-jovot-epitenek-top-100-dijjal-ismertek-el-a-szegedi-zengo-t-szeged365-videoval/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Petíció indult, hogy a szegedi önkormányzat virágosztáskor egynyáriak helyett más növényeket osszon",
-      "url": "https://szeged365.hu/2026/10/27/peticio-indult-hogy-a-szegedi-onkormanyzat-viragosztaskor-egynyariak-helyett-mas-novenyeket-osszon/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Reggel óta nincs áram Móraváros egy részén, megszólalt az MVM",
-      "url": "https://szeged365.hu/2026/10/27/reggel-ota-nincs-aram-moravaros-egy-reszen-megszolalt-az-mvm/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:07:16.526031Z"
+  "updated_at": "2026-10-29T13:04:57.793117Z"
 }

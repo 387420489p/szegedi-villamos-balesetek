@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-29T16:07:59.537464Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi Bertalan hídon és az algyői Tisza-hídon is munkálatokba kezd a Magyar Közút",
+      "url": "https://szeged365.hu/2026/10/29/a-szegedi-bertalan-hidon-es-az-algyoi-tisza-hidon-is-munkalatokba-kezd-a-magyar-kozut/"
+    },
+    {
+      "first_seen": "2026-10-29T16:07:59.537464Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hackertámadásra készülnek a TIK-ben, de ezúttal te is végignézheted! November 12-én érkezik Dél-Magyarország legnagyobb ingyenes IT-expója (videó)",
+      "url": "https://szeged365.hu/2026/10/29/hackertamadasra-keszulnek-a-tik-ben-de-ezuttal-te-is-vegignezheted-november-12-en-erkezik-del-magyarorszag-legnagyobb-ingyenes-it-expoja-video/"
+    },
+    {
       "first_seen": "2026-10-29T13:04:57.793117Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Folytatódik a csodaszép szegedi ősz: sok naposütést hoz a szerda városunkba",
       "url": "https://szeged365.hu/2026/10/27/folytatodik-a-csodaszep-szegedi-osz-sok-naposutest-hoz-a-szerda-varosunkba/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "2027-ben Szeged ad otthont a kajak-kenu világbajnokságnak – összeállt a magyar válogatott jövő évi programja",
-      "url": "https://szeged365.hu/2026/10/27/2027-ben-szeged-ad-otthont-a-kajak-kenu-vilagbajnoksagnak-osszeallt-a-magyar-valogatott-jovo-evi-programja/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meglepetést tartogat az őszi szünet a szegedi autósoknak: több helyen is változik a közlekedés",
-      "url": "https://szeged365.hu/2026/10/27/meglepetest-tartogat-az-oszi-szunet-a-szegedi-autosoknak-tobb-helyen-is-valtozik-a-kozlekedes/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:04:57.793117Z"
+  "updated_at": "2026-10-29T16:07:59.537464Z"
 }

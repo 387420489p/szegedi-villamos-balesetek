@@ -7177,8 +7177,54 @@
       "status": "published",
       "summary": "Nem sokkal 14:00 után egy Volkswagen személyautó Tátra villamossal ütközött a József Attila sugárút és a Murányi utca kereszteződésében. Senki sem sérült meg; a Volkswagen sofőrje elismerte a felelősségét.",
       "updated_at": "2026-10-28T08:24:11Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-10-29T16:07:59.537464Z",
+      "event_date": "2026-10-29",
+      "event_time": null,
+      "event_type": "pedestrian_hit",
+      "id": "szvb-20261029-001",
+      "injuries": "minor",
+      "location": "Szeged, Petőfi Sándor sugárút 14.",
+      "location_normalized": "szeged petofi sandor sugarut 14",
+      "mode": "tram",
+      "other_party": "pedestrian",
+      "sources": [
+        {
+          "added_at": "2026-10-29T16:07:59.537464Z",
+          "published_at": "2026-10-29T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Súlyos baleset történt Szegeden: elütött a 4-es villamos egy gyalogost (frissítve + fotók) - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/10/29/sulyos-baleset-tortent-szegeden-elutott-a-4-es-villamos-egy-gyalogost/"
+        },
+        {
+          "added_at": "2026-10-29T16:07:59.537464Z",
+          "published_at": "2026-10-29T00:00:00",
+          "source_name": "Szegeder",
+          "title": "Embert gázolt a villamos a Petőfin",
+          "url": "https://szegeder.hu/szeged/2026-10-29/embert-gazolt-a-villamos-a-petofin/"
+        },
+        {
+          "added_at": "2026-10-29T16:07:59.537464Z",
+          "published_at": "2026-10-29T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Embert gázolt a villamos Szegeden",
+          "url": "https://webradio.hu/hirek/kek-hirek/embert-gazolt-a-villamos-szegeden"
+        },
+        {
+          "added_at": "2026-10-29T16:07:59.537464Z",
+          "published_at": "2026-10-29T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Elütött egy embert a villamos a Petőfi Sándor sugárúton Szegeden (Frissítve)",
+          "url": "https://webradio.hu/hirek/belfold/elutott-egy-embert-a-villamos-a-petofi-sandor-sugaruton-szegeden-frissitve"
+        }
+      ],
+      "status": "published",
+      "summary": "A 4-es villamos elütött egy kukát toló gyalogost Szegeden, a Petőfi Sándor sugárút 14. szám előtt. A nő agyrázkódást szenvedett.",
+      "updated_at": "2026-10-29T16:07:59.537464Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:01:10.869706+00:00"
+  "updated_at": "2026-10-29T16:07:59.537464+00:00"
 }

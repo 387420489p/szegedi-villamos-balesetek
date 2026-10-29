@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-29T19:00:53.032048Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Pénzmosás miatt köröznek egy 51 éves nőt a szegedi rendőrök (fotó)",
+      "url": "https://szeged365.hu/2026/10/29/penzmosas-miatt-koroznek-egy-51-eves-not-a-szegedi-rendorok-foto/"
+    },
+    {
+      "first_seen": "2026-10-29T19:00:53.032048Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lélegeztetőgép-ügy: külföldről üzent a biznisz feltételezett irányítója, két embert ma letartóztattak",
+      "url": "https://szeged365.hu/2026/10/29/lelegeztetogep-ugy-kulfoldrol-uzent-a-biznisz-feltetelezett-iranyitoja-ket-embert-ma-letartoztattak/"
+    },
+    {
+      "first_seen": "2026-10-29T19:00:53.032048Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Velünk maradnak a felhők: borongós napok jönnek Szegedre",
+      "url": "https://szeged365.hu/2026/10/29/velunk-maradnak-a-felhok-borongos-napok-jonnek-szegedre/"
+    },
+    {
+      "first_seen": "2026-10-29T19:00:53.032048Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jó hír érkezett: újra elérhetővé válnak az Erasmus+ ösztöndíjak az SZTE-n",
+      "url": "https://szeged365.hu/2026/10/29/jo-hir-erkezett-ujra-elerhetove-valnak-az-erasmus-osztondijak-az-szte-n/"
+    },
+    {
       "first_seen": "2026-10-29T16:07:59.537464Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs halloweeni különkiadás: csokit vagy csalunk, boszorkányos kalandok és tökfaragás – mutatjuk, hol borzonghatnak a szegediek és a környékbeliek a hétvégén",
       "url": "https://szeged365.hu/2026/10/26/szeged365-kikapcs-halloweeni-kulonkiadas-csokit-vagy-csalunk-boszorkanyos-kalandok-es-tokfaragas-mutatjuk-hol-borzonghatnak-a-szegediek-es-a-kornyekbeliek-a-hetvegen/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Katonai tiszteletadás mellett emlékezett meg a szolgálat közben életüket vesztett munkatársakról a Szegedi Fegyház és Börtön vezetése",
-      "url": "https://szeged365.hu/2026/10/28/katonai-tiszteletadas-mellett-emlekezett-meg-a-szolgalat-kozben-eletuket-vesztett-munkatarsakrol-a-szegedi-fegyhaz-es-borton-vezetese/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt Dr. Palkó Márta, az SZTE Gyógyszerésztudományi Karának egyetemi docense",
-      "url": "https://szeged365.hu/2026/10/27/elhunyt-palko-marta-az-szte-gyogyszeresztudomanyi-karanak-egyetemi-docense/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is kapható nasit hívtak vissza, májelégtelenséget és mérgezést okozhatnak",
-      "url": "https://szeged365.hu/2026/10/27/szegeden-is-kaphato-nasit-hivtak-vissza-majelegtelenseget-es-mergezest-okozhatnak/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Folytatódik a csodaszép szegedi ősz: sok naposütést hoz a szerda városunkba",
-      "url": "https://szeged365.hu/2026/10/27/folytatodik-a-csodaszep-szegedi-osz-sok-naposutest-hoz-a-szerda-varosunkba/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:07:59.537464Z"
+  "updated_at": "2026-10-29T19:00:53.032048Z"
 }

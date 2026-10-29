@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-29T10:07:16.526031Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vitézy Dávidhoz kerül az egykori Százszorszép Gyermekház épületének ügye – négy éve rontja Szeged városképét a létesítmény",
+      "url": "https://szeged365.hu/2026/10/29/vitezy-davidhoz-kerul-az-egykori-szazszorszep-gyermekhaz-epuletenek-ugye/"
+    },
+    {
+      "first_seen": "2026-10-29T10:07:16.526031Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meglopta a lakótársát, majd a bögrével fejbe vágta a nőt a férfi az egyik megyebeli szociális intézményben, vádemelés lett a vége",
+      "url": "https://szeged365.hu/2026/10/29/meglopta-a-lakotarsat-majd-a-bogrevel-fejbe-vagta-a-not-a-ferfi-az-egyik-megyebeli-szocialis-intezmenyben-vademeles-lett-a-vege/"
+    },
+    {
+      "first_seen": "2026-10-29T10:07:16.526031Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jó hír a szegedi lakásvásárlóknak: 2027-ben is maradhat az 5%-os áfa, mutatjuk, miért érdemes most körülnézni a Cédrus Liget Lakóparkban (videó)",
+      "url": "https://szeged365.hu/2026/10/29/jo-hir-a-szegedi-lakasvasarloknak-2027-ben-is-maradhat-az-5-os-afa-mutatjuk-miert-erdemes-most-korulnezni-a-cedrus-liget-lakoparkban-video/"
+    },
+    {
+      "first_seen": "2026-10-29T10:07:16.526031Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fénylő emléket állítanak azoknak, akik örökre a szívünkben élnek: Szeged is csatlakozott az Országos Mindenszenteki Mécsesgyújtáshoz",
+      "url": "https://szeged365.hu/2026/10/29/fenylo-emleket-allitanak-azoknak-akik-orokre-a-szivunkben-elnek-szeged-is-csatlakozott-az-orszagos-mindenszenteki-mecsesgyujtashoz/"
+    },
+    {
       "first_seen": "2026-10-29T07:08:02.764611Z",
       "published_at": "2026-10-27T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Reggel óta nincs áram Móraváros egy részén, megszólalt az MVM",
       "url": "https://szeged365.hu/2026/10/27/reggel-ota-nincs-aram-moravaros-egy-reszen-megszolalt-az-mvm/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-28T08:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 kisokos: minden részlet, egy helyen – így nyerhetsz egy VW T-Roc-ot a Porsche Szegedtől, egy teljes hétvégére",
-      "url": "https://szeged365.hu/2026/10/27/szeged365-kisokos-minden-reszlet-egy-helyen-igy-nyerhetsz-egy-vw-t-roc-ot-a-porsche-szegedtol-egy-teljes-hetvegere/"
-    },
-    {
-      "first_seen": "2026-10-27T13:06:05.047613Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elgázoltak egy kerékpárost Szegeden",
-      "url": "https://szeged365.hu/2026/10/27/elgazoltak-egy-kerekparost-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-27T10:01:34.289587Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hamarosan ünnepi fényárba borul Szeged főutcája – már szerelik a karácsonyi fényfüzéreket a Kárász utcán (galéria)",
-      "url": "https://szeged365.hu/2026/10/27/hamarosan-unnepi-fenyarba-borul-szeged-foutcaja-mar-szerelik-a-karacsonyi-fenyfuzereket-a-karasz-utcan-galeria/"
-    },
-    {
-      "first_seen": "2026-10-27T10:01:34.289587Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Humanoid robotok lepik el Szegeden a TIK-et! Jön Dél-Magyarország legnagyobb ingyenes IT-expója, és mutatunk 3 nyomós okot, amiért neked is ott a helyed (videó)",
-      "url": "https://szeged365.hu/2026/10/27/humanoid-robotok-lepik-el-szegeden-a-tik-et-jon-del-magyarorszag-legnagyobb-ingyenes-it-expoja-es-mutatunk-3-nyomos-okot-amiert-neked-is-ott-a-helyed-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T07:08:02.764611Z"
+  "updated_at": "2026-10-29T10:07:16.526031Z"
 }

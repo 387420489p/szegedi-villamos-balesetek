@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-30T13:07:36.782876Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megérkezett a szegedi tűzoltó-laktanya új sztárja! Elfoglalta helyét a közelmúltban átadott új létraszerek egyike",
+      "url": "https://szeged365.hu/2026/10/30/megerkezett-a-szegedi-tuzolto-laktanya-uj-sztarja-elfoglalta-helyet-a-kozelmultban-atadott-uj-letraszerek-egyike/"
+    },
+    {
+      "first_seen": "2026-10-30T13:07:36.782876Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, csak szólj, kivel koccintanál, a jegyeket mi hozzuk! Indul a nyereményjáték a Bulizz a Borászokkal belépőiért (videó)",
+      "url": "https://szeged365.hu/2026/10/30/szeged365-family-csak-szolj-kivel-koccintanal-a-jegyeket-mi-hozzuk-indul-a-nyeremenyjatek-a-bulizz-a-boraszokkal-belepoiert-video/"
+    },
+    {
+      "first_seen": "2026-10-30T13:07:36.782876Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: rémisztően jó programokkal támad ezen a hétvégén is Szeged – mutatjuk, merre kapcsolódhatsz ki",
+      "url": "https://szeged365.hu/2026/10/30/szeged365-kikapcs-remisztoen-jo-programokkal-tamad-ezen-a-hetvegen-is-szeged-mutatjuk-merre-kapcsolodhatsz-ki/"
+    },
+    {
+      "first_seen": "2026-10-30T13:07:36.782876Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gyere! Szurkolj a PICK Arénában – éld át a Szeged–Veszprém rangadó varázsát!",
+      "url": "https://szeged365.hu/2026/10/30/gyere-szurkolj-a-pick-arenaban-eld-at-a-szeged-veszprem-rangado-varazsat/"
+    },
+    {
       "first_seen": "2026-10-30T10:08:55.024583Z",
       "published_at": "2026-10-30T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ha a JATE Klubon múlik, nem lesz idő unatkozni az őszi szünetben! Szegeden dupla Carson Coma, Halloween és egy rakás koncert jön a héten",
       "url": "https://szeged365.hu/2026/10/28/ha-a-jate-klubon-mulik-nem-lesz-ido-unatkozni-az-oszi-szunetben-szegeden-dupla-carson-coma-halloween-es-egy-rakas-koncert-jon-a-heten/"
-    },
-    {
-      "first_seen": "2026-10-28T16:01:10.869706Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkeztek a VIII. „Nyújts kezet!” Jótékonysági Motoros Felvonulás adományából vásárolt eszközök a szegedi gyermekklinikára (galéria)",
-      "url": "https://szeged365.hu/2026/10/28/megerkeztek-a-viii-nyujts-kezet-jotekonysagi-motoros-felvonulas-adomanyabol-vasarolt-eszkozok-a-szegedi-gyermekklinikara-galeria/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Halloween, horror-maraton és Bongor a Belvárosi Moziban – mutatjuk, mit nézhetsz a héten Szegeden",
-      "url": "https://szeged365.hu/2026/10/28/halloween-horror-maraton-es-bongor-a-belvarosi-moziban-mutatjuk-mit-nezhetsz-a-heten-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vérszomjas riffek, jelmezek és sörre vadászó rockerek – szombaton jön a Rock Halloween Szegeden",
-      "url": "https://szeged365.hu/2026/10/28/verszomjas-riffek-jelmezek-es-sorre-vadaszo-rockerek-szombaton-jon-a-rock-halloween-a-szegedi-rock-klubban/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy kis futással kezdte, aztán meg sem állt 209 kilométerig! Szeged365 Family, ezt az elképesztő történetet novemberben Szegeden, a Délvidék Házban is hallhatjátok!",
-      "url": "https://szeged365.hu/2026/10/28/egy-kis-futassal-kezdte-aztan-meg-sem-allt-209-kilometerig-szeged365-family-ezt-az-elkepeszto-tortenetet-novemberben-szegeden-a-delvidek-hazban-is-hallhatjatok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:08:55.024583Z"
+  "updated_at": "2026-10-30T13:07:36.782876Z"
 }

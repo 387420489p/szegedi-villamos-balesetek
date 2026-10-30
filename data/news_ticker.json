@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
+      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Tolvajt fogtak a rendőrök: kerékpárt és szerszámokat is eltulajdonított egy 43 éves férfi Szegeden",
+      "url": "https://szeged365.hu/2026/10/30/tolvajt-fogtak-a-rendorok-kerekpart-es-szerszamokat-is-eltulajdonitott-egy-43-eves-ferfi-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "800 új növény zöldíti a Cserzy Mihály utcát Szegeden – olyan növényeket választottak, amelyek a városi környezetet és a nyári szárazságot is jól bírják",
+      "url": "https://szeged365.hu/2026/10/30/800-uj-noveny-zolditi-a-cserzy-mihaly-utcat-szegeden-olyan-novenyeket-valasztottak-amelyek-a-varosi-kornyezetet-es-a-nyari-szarazsagot-is-jol-birjak/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős időt hoz a péntek, beindul a halloweeni hangulat Szegeden",
+      "url": "https://szeged365.hu/2026/10/30/napi-pakk-felhos-idot-hoz-a-pentek-beindul-a-halloweeni-hangulat-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "26-31: legyőzte a svédeket az OTP Bank-Pick Szeged",
+      "url": "https://szeged365.hu/2026/10/29/26-31-legyozte-a-svedeket-az-otp-bank-pick-szeged/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sajnos ez most nem jött össze: Matko duplájával az Újpest legyőzte a Szeged-Csanád GA-t (fotók + videó)",
+      "url": "https://szeged365.hu/2026/10/29/1-1-el-fordul-a-szeged-csanad-ga-es-az-ujpest-a-masodik-felidore-hatalmas-a-hangulat-a-szent-gellert-forumban/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: még mindig pörög az Árkád szülinap, több útszakaszon is munkálatokra kell számítani Szegeden",
+      "url": "https://szeged365.hu/2026/10/19/napi-pakk-meg-mindig-porog-az-arkad-szulinap-tobb-utszakaszon-is-munkalatokra-kell-szamitani-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T07:02:37.780127Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: esőt hoz a csütörtök Szegedre, programokból viszont nem lesz hiány",
+      "url": "https://szeged365.hu/2026/10/22/napi-pakk-esot-hoz-a-csutortok-szegedre-programokbol-viszont-nem-lesz-hiany/"
+    },
+    {
       "first_seen": "2026-10-29T19:00:53.032048Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -186,14 +250,6 @@
     },
     {
       "first_seen": "2026-10-28T16:01:10.869706Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-28T16:01:10.869706Z",
       "published_at": "2026-10-28T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -263,64 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegedi kutatók: történelmi mélyponton vannak Magyarország vízkészletei, soha nem látott vízhiány van az országunkban",
       "url": "https://szeged365.hu/2026/10/28/szegedi-kutatok-tortenelmi-melyponton-vannak-magyarorszag-vizkeszletei-soha-nem-latott-vizhiany-van-az-orszagunkban/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ilyen se volt még Szegeden! Zene, látványos dekoráció, cukorkák és különleges fények – rendhagyó meglepetéssel készül az SZKT Halloweenre",
-      "url": "https://szeged365.hu/2026/10/27/ilyen-se-volt-meg-szegeden-zene-latvanyos-dekoracio-cukorkak-es-kulonleges-fenyek-rendhagyo-meglepetessel-keszul-az-szkt-halloweenre/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kisokos: mielőtt útnak indulsz mindenszentek napján, ezt érdemes tudnod a boltok nyitvatartásáról és a közlekedésről",
-      "url": "https://szeged365.hu/2026/10/28/szeged365-kisokos-mielott-utnak-indulsz-mindenszentek-napjan-ezt-erdemes-tudnod-a-boltok-nyitvatartasarol-es-a-kozlekedesrol/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idős asszonyt rabolt ki egy férfi, erőszakkal elvette a nyugdíját – most vádat emelt ellene a Szegedi Járási Ügyészség",
-      "url": "https://szeged365.hu/2026/10/28/idos-asszonyt-rabolt-ki-egy-ferfi-eroszakkal-elvette-a-nyugdijat-most-vadat-emelt-ellene-a-szegedi-jarasi-ugyeszseg/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Afgán, iraki és még etióp állampolgárok is jöttek – illegális migránsokat fogtak Szeged és Röszke külterületén",
-      "url": "https://szeged365.hu/2026/10/28/afgan-iraki-es-meg-etiop-allampolgarok-is-jottek-illegalis-migransokat-fogtak-szeged-es-roszke-kulteruleten/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SZEGEDI ARCOK",
-      "url": "https://szeged365.hu/szegediarcok/"
-    },
-    {
-      "first_seen": "2026-10-28T10:08:10.416440Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SMART SZEGED",
-      "url": "https://szeged365.hu/smartszeged/"
-    },
-    {
-      "first_seen": "2026-10-28T07:00:22.891226Z",
-      "published_at": "2026-10-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Kikapcs halloweeni különkiadás: csokit vagy csalunk, boszorkányos kalandok és tökfaragás – mutatjuk, hol borzonghatnak a szegediek és a környékbeliek a hétvégén",
-      "url": "https://szeged365.hu/2026/10/26/szeged365-kikapcs-halloweeni-kulonkiadas-csokit-vagy-csalunk-boszorkanyos-kalandok-es-tokfaragas-mutatjuk-hol-borzonghatnak-a-szegediek-es-a-kornyekbeliek-a-hetvegen/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:00:53.032048Z"
+  "updated_at": "2026-10-30T07:02:37.780127Z"
 }

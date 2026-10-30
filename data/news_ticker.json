@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-30T19:07:20.259101Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lélegeztetőgép-ügy: külföldről üzent a biznisz feltételezett irányítója, két embert ma letartóztattak",
+      "url": "https://szeged365.hu/2026/10/29/lelegeztetogep-ugy-kulfoldrol-uzent-a-biznisz-feltetelezett-iranyitoja-ket-embert-ma-letartoztattak/"
+    },
+    {
+      "first_seen": "2026-10-30T19:07:20.259101Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Így változhat a bérelhető rollerek használata Szegeden, megszólalt a vállalat az új KRESZ-szabályokról",
+      "url": "https://szeged365.hu/2026/10/30/igy-valtozhat-a-berelheto-rollerek-hasznalata-szegeden-megszolalt-a-vallalat-az-uj-kresz-szabalyokrol/"
+    },
+    {
+      "first_seen": "2026-10-30T19:07:20.259101Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Erősen felhős idővel köszönt ránk a hétvége, de azért a napot is láthatjuk majd Szegeden",
+      "url": "https://szeged365.hu/2026/10/30/erosen-felhos-idovel-koszont-rank-a-hetvege-de-azert-a-napot-is-lathatjuk-majd-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T19:07:20.259101Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szórakozóhelyen és családi háznál is lecsaptak a tolvajok, a rendőrség a szegediek segítségét kéri",
+      "url": "https://szeged365.hu/2026/10/30/szorakozohelyen-es-csaladi-haznal-is-lecsaptak-a-tolvajok-a-rendorseg-a-szegediek-segitseget-keri/"
+    },
+    {
       "first_seen": "2026-10-30T16:09:48.770734Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -205,14 +237,6 @@
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Lélegeztetőgép-ügy: külföldről üzent a biznisz feltételezett irányítója, két embert ma letartóztattak",
-      "url": "https://szeged365.hu/2026/10/29/lelegeztetogep-ugy-kulfoldrol-uzent-a-biznisz-feltetelezett-iranyitoja-ket-embert-ma-letartoztattak/"
-    },
-    {
-      "first_seen": "2026-10-29T19:00:53.032048Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Velünk maradnak a felhők: borongós napok jönnek Szegedre",
       "url": "https://szeged365.hu/2026/10/29/velunk-maradnak-a-felhok-borongos-napok-jonnek-szegedre/"
     },
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Jó hír a szegedi lakásvásárlóknak: 2027-ben is maradhat az 5%-os áfa, mutatjuk, miért érdemes most körülnézni a Cédrus Liget Lakóparkban (videó)",
       "url": "https://szeged365.hu/2026/10/29/jo-hir-a-szegedi-lakasvasarloknak-2027-ben-is-maradhat-az-5-os-afa-mutatjuk-miert-erdemes-most-korulnezni-a-cedrus-liget-lakoparkban-video/"
-    },
-    {
-      "first_seen": "2026-10-29T10:07:16.526031Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fénylő emléket állítanak azoknak, akik örökre a szívünkben élnek: Szeged is csatlakozott az Országos Mindenszenteki Mécsesgyújtáshoz",
-      "url": "https://szeged365.hu/2026/10/29/fenylo-emleket-allitanak-azoknak-akik-orokre-a-szivunkben-elnek-szeged-is-csatlakozott-az-orszagos-mindenszenteki-mecsesgyujtashoz/"
-    },
-    {
-      "first_seen": "2026-10-29T07:08:02.764611Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egymásnak esett, és lepofozta egymást két férfi egy szegedi bank előtt – mindkettőjük ellen büntetőeljárás indult",
-      "url": "https://szeged365.hu/2026/10/27/ket-ferfi-egymasnak-esett-es-lepofozta-egymast-egy-szegedi-bank-elott-mindkettojuk-ellen-buntetoeljaras-indult/"
-    },
-    {
-      "first_seen": "2026-10-29T07:08:02.764611Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Milyen függöny illene ide? Milyen terítő?” – a szegedi Context HOME-ban egy helyen válogathatsz, szakértői segítséggel (videó)",
-      "url": "https://szeged365.hu/2026/10/29/milyen-fuggony-illene-ide-milyen-terito-a-szegedi-context-home-ban-egy-helyen-valogathatsz-szakertoi-segitseggel-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:09:48.770734Z"
+  "updated_at": "2026-10-30T19:07:20.259101Z"
 }

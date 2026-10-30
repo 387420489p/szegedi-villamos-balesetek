@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-29T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi Bertalan hídon és az algyői Tisza-hídon is munkálatokba kezd a Magyar Közút",
+      "url": "https://szeged365.hu/2026/10/29/a-szegedi-bertalan-hidon-es-az-algyoi-tisza-hidon-is-munkalatokba-kezd-a-magyar-kozut/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elképesztő sportszellem! Törött kézzel is kivédte az Újpest büntetőjét a Szeged-Csanád GA kapusa (videóval)",
+      "url": "https://szeged365.hu/2026/10/30/elkepeszto-sportszellem-torott-kezzel-is-kivedte-az-ujpest-buntetojet-a-szeged-csanad-ga-kapusa-videoval/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem a hagymától könnyes a gazdák szeme, hanem attól, amit a Field Test Hungary tud! A Róna Ker-Tész kertészetében jártunk (videó)",
+      "url": "https://szeged365.hu/2026/10/30/nem-a-hagymatol-konnyes-a-gazdak-szeme-hanem-attol-amit-a-field-test-hungary-tud-a-rona-ker-tesz-kerteszeteben-jartunk-video/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegedi Pletykák: “nem kell éjszaka sem félni, de azért vannak kivételek, problémák” – avagy megkérdeztük a szegedieket, mennyire érzik biztonságban magukat Szegeden (videó)",
+      "url": "https://szeged365.hu/2026/10/30/szegedi-pletykak-nem-kell-ejszaka-sem-felni-de-azert-vannak-kivetelek-problemak-avagy-megkerdeztuk-a-szegedieket-mennyire-erzik-biztonsagban-magukat-szegeden-video/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Büszkék lehetünk rá Szegeden! Détári Vilmos egy igazán különleges jubileumi eseményen vett részt, ahol nem akárkikkel ült egy asztalhoz!",
+      "url": "https://szeged365.hu/2026/10/30/buszkek-lehetunk-ra-szegeden-detari-vilmos-egy-igazan-kulonleges-jubileumi-esemenyen-vett-reszt-ahol-nem-akarkikkel-ult-egy-asztalhoz/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy Scooby-Doo-epizód, ami Szegeden játszódik? Most már ilyen is van! Zseniális videót készítettek a szegedi kollégisták",
+      "url": "https://szeged365.hu/2026/10/30/egy-scooby-doo-epizod-ami-szegeden-jatszodik-most-mar-ilyen-is-van-zsenialis-videot-keszitettek-a-szegedi-kollegistak/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 halottak napi árfigyelő: egy szál krizantém 1500 Ft, a sírdísz ovális tálban 7500 Ft – csekkoltuk, hogyan alakulnak az árak Szegeden",
+      "url": "https://szeged365.hu/2026/10/30/szeged365-halottak-napi-arfigyelo-egy-szal-krizantem-1500-ft-a-sirdisz-ovalis-talban-7500-ft-csekkoltuk-hogyan-alakulnak-az-arak-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Koccanás történt Újszegeden, alakul a torlódás",
+      "url": "https://szeged365.hu/2026/10/30/koccanas-tortent-ujszegeden-alakul-a-torlodas/"
+    },
+    {
+      "first_seen": "2026-10-30T16:09:48.770734Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, ezt imádni fogjátok! Megkóstoltuk a Napfény Műterem új étlapjának egyik legfinomabb újdonságát (videó)",
+      "url": "https://szeged365.hu/2026/10/30/szeged365-family-ezt-imadni-fogjatok-megkostoltuk-a-napfeny-muterem-uj-etlapjanak-egyik-legfinomabb-ujdonsagat-video/"
+    },
+    {
       "first_seen": "2026-10-30T13:07:36.782876Z",
       "published_at": "2026-10-30T00:00:00",
       "reason": "prefiltered",
@@ -154,14 +226,6 @@
     },
     {
       "first_seen": "2026-10-29T16:07:59.537464Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi Bertalan hídon és az algyői Tisza-hídon is munkálatokba kezd a Magyar Közút",
-      "url": "https://szeged365.hu/2026/10/29/a-szegedi-bertalan-hidon-es-az-algyoi-tisza-hidon-is-munkalatokba-kezd-a-magyar-kozut/"
-    },
-    {
-      "first_seen": "2026-10-29T16:07:59.537464Z",
       "published_at": "2026-11-12T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Milyen függöny illene ide? Milyen terítő?” – a szegedi Context HOME-ban egy helyen válogathatsz, szakértői segítséggel (videó)",
       "url": "https://szeged365.hu/2026/10/29/milyen-fuggony-illene-ide-milyen-terito-a-szegedi-context-home-ban-egy-helyen-valogathatsz-szakertoi-segitseggel-video/"
-    },
-    {
-      "first_seen": "2026-10-29T07:08:02.764611Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: elbújik a nap Szeged felett, ma ünnepeljük az internet születésének egyik mérföldkövét",
-      "url": "https://szeged365.hu/2026/10/29/napi-pakk-elbujik-a-nap-szeged-felett-ma-unnepeljuk-az-internet-szuletesenek-egyik-merfoldkovet/"
-    },
-    {
-      "first_seen": "2026-10-29T07:08:02.764611Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
-      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
-    },
-    {
-      "first_seen": "2026-10-28T19:04:44.137009Z",
-      "published_at": "2026-09-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem nyakkendős fickók döntenek… hanem Te! Indul az őrület, startol a 2026-os év Legszegedibb Szegediek közönségszavazása!",
-      "url": "https://szeged365.hu/2026/10/28/nem-nyakkendos-fickok-dontenek-hanem-te-indul-az-orulet-startol-a-2026-os-ev-legszegedibb-szegediek-kozonsegszavazasa/"
-    },
-    {
-      "first_seen": "2026-10-28T19:04:44.137009Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Sikersztorik: rengeteg egészségügyi problémával küzdött, életmódot váltott és IFBB PRO magyar bajnok lett Krupa-Tóth Szabina",
-      "url": "https://szeged365.hu/2026/10/28/szegedi-sikersztorik-rengeteg-egeszsegugyi-problemaval-kuzdott-eletmodot-valtott-es-ifbb-pro-magyar-bajnok-lett-krupa-toth-szabina/"
-    },
-    {
-      "first_seen": "2026-10-28T19:04:44.137009Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkezett a karácsonyi varázslat Szegedre: már forog az óriáskerék a Dóm téren (fotókkal)",
-      "url": "https://szeged365.hu/2026/10/28/megerkezett-a-karacsonyi-varazslat-szegedre-mar-forog-az-oriaskerek-a-dom-teren-fotokkal/"
-    },
-    {
-      "first_seen": "2026-10-28T19:04:44.137009Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felhős, borongós csütörtökünk lesz Szegeden, gyenge eső és zápor is előfordulhat",
-      "url": "https://szeged365.hu/2026/10/28/felhos-borongos-csutortokunk-lesz-szegeden-gyenge-eso-es-zapor-is-elofordulhat/"
-    },
-    {
-      "first_seen": "2026-10-28T16:01:10.869706Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "75 év, több generáció, megszámlálhatatlan diák: díszdiplomás és pályakezdő pedagógusokat köszöntöttek Szegeden (galéria)",
-      "url": "https://szeged365.hu/2026/10/28/75-ev-tobb-generacio-megszamlalhatatlan-diak-diszdiplomas-es-palyakezdo-pedagogusokat-koszontottek-szegeden-galeria/"
-    },
-    {
-      "first_seen": "2026-10-28T16:01:10.869706Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ha a JATE Klubon múlik, nem lesz idő unatkozni az őszi szünetben! Szegeden dupla Carson Coma, Halloween és egy rakás koncert jön a héten",
-      "url": "https://szeged365.hu/2026/10/28/ha-a-jate-klubon-mulik-nem-lesz-ido-unatkozni-az-oszi-szunetben-szegeden-dupla-carson-coma-halloween-es-egy-rakas-koncert-jon-a-heten/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:07:36.782876Z"
+  "updated_at": "2026-10-30T16:09:48.770734Z"
 }

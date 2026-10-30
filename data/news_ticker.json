@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-30T10:08:55.024583Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gubanc van: kimaradó és késő járatokra, valamint pótlóbuszos átszállásra számíthat az, aki a szegedi fővonalon utazik vonattal (frissítve)",
+      "url": "https://szeged365.hu/2026/10/30/gubanc-van-kimarado-es-keso-jaratokra-valamint-potlobuszos-atszallasra-szamithat-az-aki-a-szegedi-fovonalon-utazik-vonattal/"
+    },
+    {
+      "first_seen": "2026-10-30T10:08:55.024583Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hamisan vádolta bántalmazással a fegyőrt egy román férfi a Szegedi Fegyház és Börtönben, plusz egy év szabadságvesztést kaphat",
+      "url": "https://szeged365.hu/2026/10/30/hamisan-vadolta-bantalmazassal-a-fegyort-egy-roman-ferfi-a-szegedi-fegyhaz-es-bortonben-plusz-egy-ev-szabadsagvesztest-kaphat/"
+    },
+    {
+      "first_seen": "2026-10-30T10:08:55.024583Z",
+      "published_at": "2026-10-30T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem a szellemek, hanem a gitárok fognak sikítani a Stefánián: ingyenes halloweeni bulival robbantja fel az éjszakát a Városi Rock Klub Szegeden",
+      "url": "https://szeged365.hu/2026/10/30/nem-a-szellemek-hanem-a-gitarok-fognak-sikitani-a-stefanian-ingyenes-halloweeni-bulival-robbantja-fel-az-ejszakat-a-varosi-rock-klub-szegeden/"
+    },
+    {
       "first_seen": "2026-10-30T07:02:37.780127Z",
       "published_at": "2026-10-20T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egy kis futással kezdte, aztán meg sem állt 209 kilométerig! Szeged365 Family, ezt az elképesztő történetet novemberben Szegeden, a Délvidék Házban is hallhatjátok!",
       "url": "https://szeged365.hu/2026/10/28/egy-kis-futassal-kezdte-aztan-meg-sem-allt-209-kilometerig-szeged365-family-ezt-az-elkepeszto-tortenetet-novemberben-szegeden-a-delvidek-hazban-is-hallhatjatok/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Na, ki jön moziba? Szegeden a Kárpátia Filmszínházban most elég két jó barát, és máris van egy ingyenjegyed!",
-      "url": "https://szeged365.hu/2026/10/28/na-ki-jon-moziba-szegeden-a-karpatia-filmszinhazban-most-eleg-ket-jo-barat-es-maris-van-egy-ingyenjegyed/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyhetes rehabilitációt és robotterápiás bérleteket sorsolnak ki Szegeden, de már csak október 31-ig lehet bekerülni a nyereményjátékba! (galéria)",
-      "url": "https://szeged365.hu/2026/10/28/egyhetes-rehabilitaciot-es-robotterapias-berleteket-sorsolnak-ki-szegeden-de-mar-csak-oktober-31-ig-lehet-bekerulni-a-nyeremenyjatekba-galeria/"
-    },
-    {
-      "first_seen": "2026-10-28T13:06:48.630362Z",
-      "published_at": "2026-10-28T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi kutatók: történelmi mélyponton vannak Magyarország vízkészletei, soha nem látott vízhiány van az országunkban",
-      "url": "https://szeged365.hu/2026/10/28/szegedi-kutatok-tortenelmi-melyponton-vannak-magyarorszag-vizkeszletei-soha-nem-latott-vizhiany-van-az-orszagunkban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T07:02:37.780127Z"
+  "updated_at": "2026-10-30T10:08:55.024583Z"
 }

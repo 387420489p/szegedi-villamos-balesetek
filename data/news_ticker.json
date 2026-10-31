@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-31T16:04:57.507877Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi Fábián Bettinát is meghívták az Oceanman-sorozat világdöntőjére",
+      "url": "https://szeged365.hu/2026/10/31/a-szegedi-fabian-bettinat-is-meghivtak-az-oceanman-sorozat-vilagdontojere/"
+    },
+    {
+      "first_seen": "2026-10-31T16:04:57.507877Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Érkezik a Petőfi musical a Szabadtérire: Wunderlich József a címszerepben",
+      "url": "https://szeged365.hu/2026/10/31/erkezik-a-petofi-musical-a-szabadterire-wunderlich-jozsef-a-cimszerepben/"
+    },
+    {
+      "first_seen": "2026-10-31T16:04:57.507877Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Teljes döbbenet: valaki mérgezi az állatokat Szegeden",
+      "url": "https://szeged365.hu/2026/10/31/teljes-dobbenet-valaki-mergezi-az-allatokat-szegeden/"
+    },
+    {
+      "first_seen": "2026-10-31T16:04:57.507877Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Újabb pofátlan szegedi sofőr: a villamossínen vágtatott végig (videó)",
+      "url": "https://szeged365.hu/2026/10/31/ujabb-pofatlan-szegedi-sofor-a-villamossinen-vagtatott-vegig-video/"
+    },
+    {
       "first_seen": "2026-10-31T13:08:01.287302Z",
       "published_at": "2026-10-31T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Jó hír érkezett: újra elérhetővé válnak az Erasmus+ ösztöndíjak az SZTE-n",
       "url": "https://szeged365.hu/2026/10/29/jo-hir-erkezett-ujra-elerhetove-valnak-az-erasmus-osztondijak-az-szte-n/"
-    },
-    {
-      "first_seen": "2026-10-29T16:07:59.537464Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hackertámadásra készülnek a TIK-ben, de ezúttal te is végignézheted! November 12-én érkezik Dél-Magyarország legnagyobb ingyenes IT-expója (videó)",
-      "url": "https://szeged365.hu/2026/10/29/hackertamadasra-keszulnek-a-tik-ben-de-ezuttal-te-is-vegignezheted-november-12-en-erkezik-del-magyarorszag-legnagyobb-ingyenes-it-expoja-video/"
-    },
-    {
-      "first_seen": "2026-10-29T13:04:57.793117Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Azt mondták, két órám van hátra” – ma van a stroke világnapja, ebből az alkalomból egész Szegednek üzen Détári Vilmos, aki 11 éve az életéért küzdött!",
-      "url": "https://szeged365.hu/2026/10/29/azt-mondtak-ket-oram-van-hatra-ma-van-a-stroke-vilagnapja-ebbol-az-alkalombol-egesz-szegednek-uzen-detari-vilmos-aki-11-eve-az-eleteert-kuzdott/"
-    },
-    {
-      "first_seen": "2026-10-29T13:04:57.793117Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Emléktáblát avatnak Albert Camus tiszteletére Szegeden",
-      "url": "https://szeged365.hu/2026/10/29/emlektablat-avatnak-albert-camus-tiszteletere-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-29T13:04:57.793117Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Irány Dakar! A világ legjobbjaival versenyezhet a szegedi fiatal, Moór Ádám",
-      "url": "https://szeged365.hu/2026/10/29/irany-dakar-a-vilag-legjobbjaival-versenyezhet-a-szegedi-fiatal-moor-adam/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:08:01.287302Z"
+  "updated_at": "2026-10-31T16:04:57.507877Z"
 }

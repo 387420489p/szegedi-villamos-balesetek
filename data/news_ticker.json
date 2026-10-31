@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-31T13:08:01.287302Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Csocsó, lábtenisz, ugrálóvár: a gyerekeket is remek programok várták a Szeged-Csanád GA – Újpest meccs előtt (fotók)",
+      "url": "https://szeged365.hu/2026/10/31/csocso-labtenisz-ugralovar-a-gyerekeket-is-remek-programok-vartak-a-szeged-csanad-ga-ujpest-meccs-elott-fotok/"
+    },
+    {
+      "first_seen": "2026-10-31T13:08:01.287302Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Órát lopott egy szegedi szórakozóhelyről egy pofátlan tolvaj (fotók)",
+      "url": "https://szeged365.hu/2026/10/31/orat-lopott-egy-szegedi-szorakozohelyrol-egy-pofatlan-tolvaj-fotok/"
+    },
+    {
+      "first_seen": "2026-10-31T13:08:01.287302Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi cukiság: így ünneplik a Halloweent a Szegedi Vadaspark lakói (galéria)",
+      "url": "https://szeged365.hu/2026/10/31/napi-cukisag-igy-unneplik-a-halloweent-a-szegedi-vadaspark-lakoi-galeria/"
+    },
+    {
       "first_seen": "2026-10-31T10:00:01.256474Z",
       "published_at": "2026-10-31T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Irány Dakar! A világ legjobbjaival versenyezhet a szegedi fiatal, Moór Ádám",
       "url": "https://szeged365.hu/2026/10/29/irany-dakar-a-vilag-legjobbjaival-versenyezhet-a-szegedi-fiatal-moor-adam/"
-    },
-    {
-      "first_seen": "2026-10-29T13:04:57.793117Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kétszer egymás után a legjobbak között! Hatalmas szegedi siker született, ismét rangos szakmai díjat nyert a Novotel Szeged",
-      "url": "https://szeged365.hu/2026/10/29/ketszer-egymas-utan-a-legjobbak-kozott-hatalmas-szegedi-siker-szuletett-ismet-rangos-szakmai-dijat-nyert-a-novotel-szeged/"
-    },
-    {
-      "first_seen": "2026-10-29T13:04:57.793117Z",
-      "published_at": "2026-10-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hamarosan ünnepi fényárba borul Szeged főutcája – már szerelik a karácsonyi fényfüzéreket a Kárász utcán (galéria)",
-      "url": "https://szeged365.hu/2026/10/27/hamarosan-unnepi-fenyarba-borul-szeged-foutcaja-mar-szerelik-a-karacsonyi-fenyfuzereket-a-karasz-utcan-galeria/"
-    },
-    {
-      "first_seen": "2026-10-29T10:07:16.526031Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vitézy Dávidhoz kerül az egykori Százszorszép Gyermekház épületének ügye – négy éve rontja Szeged városképét a létesítmény",
-      "url": "https://szeged365.hu/2026/10/29/vitezy-davidhoz-kerul-az-egykori-szazszorszep-gyermekhaz-epuletenek-ugye/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:00:01.256474Z"
+  "updated_at": "2026-10-31T13:08:01.287302Z"
 }

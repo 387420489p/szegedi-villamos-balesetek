@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-31T10:00:01.256474Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Nagyon ijesztő” – ismét hatalmas robbanást hallottak Szegeden",
+      "url": "https://szeged365.hu/2026/10/31/nagyon-ijeszto-ismet-hatalmas-robbanast-hallottak-szegeden/"
+    },
+    {
       "first_seen": "2026-10-31T07:01:00.531195Z",
       "published_at": "2026-10-31T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Vitézy Dávidhoz kerül az egykori Százszorszép Gyermekház épületének ügye – négy éve rontja Szeged városképét a létesítmény",
       "url": "https://szeged365.hu/2026/10/29/vitezy-davidhoz-kerul-az-egykori-szazszorszep-gyermekhaz-epuletenek-ugye/"
-    },
-    {
-      "first_seen": "2026-10-29T10:07:16.526031Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Meglopta a lakótársát, majd a bögrével fejbe vágta a nőt a férfi az egyik megyebeli szociális intézményben, vádemelés lett a vége",
-      "url": "https://szeged365.hu/2026/10/29/meglopta-a-lakotarsat-majd-a-bogrevel-fejbe-vagta-a-not-a-ferfi-az-egyik-megyebeli-szocialis-intezmenyben-vademeles-lett-a-vege/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:01:00.531195Z"
+  "updated_at": "2026-10-31T10:00:01.256474Z"
 }

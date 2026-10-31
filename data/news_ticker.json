@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-31T19:01:52.775735Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Esőt és viharos szelet hoz a vasárnap Szegedre",
+      "url": "https://szeged365.hu/2026/10/31/esot-es-viharos-szelet-hoz-a-vasarnap-szegedre/"
+    },
+    {
       "first_seen": "2026-10-31T16:04:57.507877Z",
       "published_at": "2026-10-31T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Velünk maradnak a felhők: borongós napok jönnek Szegedre",
       "url": "https://szeged365.hu/2026/10/29/velunk-maradnak-a-felhok-borongos-napok-jonnek-szegedre/"
-    },
-    {
-      "first_seen": "2026-10-29T19:00:53.032048Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó hír érkezett: újra elérhetővé válnak az Erasmus+ ösztöndíjak az SZTE-n",
-      "url": "https://szeged365.hu/2026/10/29/jo-hir-erkezett-ujra-elerhetove-valnak-az-erasmus-osztondijak-az-szte-n/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:04:57.507877Z"
+  "updated_at": "2026-10-31T19:01:52.775735Z"
 }

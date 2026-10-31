@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-10-31T07:01:00.531195Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős idővel indul a hétvége Szegeden, különleges villamos rója majd városunk utcáit, és ma van Halloween ünnepe",
+      "url": "https://szeged365.hu/2026/10/31/napi-pakk-felhos-idovel-indul-a-hetvege-szegeden-kulonleges-villamos-roja-majd-varosunk-utcait-es-ma-van-halloween-unnepe/"
+    },
+    {
       "first_seen": "2026-10-30T19:07:20.259101Z",
       "published_at": "2026-10-29T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Meglopta a lakótársát, majd a bögrével fejbe vágta a nőt a férfi az egyik megyebeli szociális intézményben, vádemelés lett a vége",
       "url": "https://szeged365.hu/2026/10/29/meglopta-a-lakotarsat-majd-a-bogrevel-fejbe-vagta-a-not-a-ferfi-az-egyik-megyebeli-szocialis-intezmenyben-vademeles-lett-a-vege/"
-    },
-    {
-      "first_seen": "2026-10-29T10:07:16.526031Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó hír a szegedi lakásvásárlóknak: 2027-ben is maradhat az 5%-os áfa, mutatjuk, miért érdemes most körülnézni a Cédrus Liget Lakóparkban (videó)",
-      "url": "https://szeged365.hu/2026/10/29/jo-hir-a-szegedi-lakasvasarloknak-2027-ben-is-maradhat-az-5-os-afa-mutatjuk-miert-erdemes-most-korulnezni-a-cedrus-liget-lakoparkban-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:07:20.259101Z"
+  "updated_at": "2026-10-31T07:01:00.531195Z"
 }

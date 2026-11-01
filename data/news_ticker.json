@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-01T16:09:50.285496Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Újabb pofátlan szegedi sofőr: a villamossínen vágtatott végig (videó)",
+      "url": "https://szeged365.hu/2026/10/31/ujabb-pofatlan-szegedi-sofor-a-villamossinen-vagtatott-vegig-video/"
+    },
+    {
+      "first_seen": "2026-11-01T16:09:50.285496Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Egészen a kerítésig merészkednek” – aranysakáloktól rettegnek Domaszéken",
+      "url": "https://szeged365.hu/2026/11/01/egeszen-a-keritesig-mereszkednek-aranysakaloktol-rettegnek-domaszeken/"
+    },
+    {
+      "first_seen": "2026-11-01T16:09:50.285496Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sajnos ez a meccs sem győzelemmel zárult: 1-0-ra kikapott a Szeged-Csanád GA Nagykanizsától",
+      "url": "https://szeged365.hu/2026/11/01/sajnos-ez-a-meccs-sem-gyozelemmel-zarult-1-0-ra-kikapott-a-szeged-csanad-ga-nagykanizsatol/"
+    },
+    {
+      "first_seen": "2026-11-01T16:09:50.285496Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 17 éves makói fiú, a rendőrség nagy erőkkel keresi (frissítve)",
+      "url": "https://szeged365.hu/2026/11/01/eltunt-egy-17-eves-makoi-fiu-a-rendorseg-nagy-erokkel-keresi-foto/"
+    },
+    {
+      "first_seen": "2026-11-01T16:09:50.285496Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Csodás videót kaptunk a Szeged mellett állomásozó darvakról (videó)",
+      "url": "https://szeged365.hu/2026/11/01/csodas-videot-kaptunk-a-szeged-mellett-allomasozo-darvakrol-video/"
+    },
+    {
       "first_seen": "2026-11-01T13:09:39.767952Z",
       "published_at": "2026-11-01T00:00:00",
       "reason": "prefiltered",
@@ -79,14 +119,6 @@
       "source_name": "Szeged365",
       "title": "Teljes döbbenet: valaki mérgezi az állatokat Szegeden",
       "url": "https://szeged365.hu/2026/10/31/teljes-dobbenet-valaki-mergezi-az-allatokat-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-31T16:04:57.507877Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Újabb pofátlan szegedi sofőr: a villamossínen vágtatott végig (videó)",
-      "url": "https://szeged365.hu/2026/10/31/ujabb-pofatlan-szegedi-sofor-a-villamossinen-vagtatott-vegig-video/"
     },
     {
       "first_seen": "2026-10-31T13:08:01.287302Z",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
       "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tolvajt fogtak a rendőrök: kerékpárt és szerszámokat is eltulajdonított egy 43 éves férfi Szegeden",
-      "url": "https://szeged365.hu/2026/10/30/tolvajt-fogtak-a-rendorok-kerekpart-es-szerszamokat-is-eltulajdonitott-egy-43-eves-ferfi-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "800 új növény zöldíti a Cserzy Mihály utcát Szegeden – olyan növényeket választottak, amelyek a városi környezetet és a nyári szárazságot is jól bírják",
-      "url": "https://szeged365.hu/2026/10/30/800-uj-noveny-zolditi-a-cserzy-mihaly-utcat-szegeden-olyan-novenyeket-valasztottak-amelyek-a-varosi-kornyezetet-es-a-nyari-szarazsagot-is-jol-birjak/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: felhős időt hoz a péntek, beindul a halloweeni hangulat Szegeden",
-      "url": "https://szeged365.hu/2026/10/30/napi-pakk-felhos-idot-hoz-a-pentek-beindul-a-halloweeni-hangulat-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-29T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "26-31: legyőzte a svédeket az OTP Bank-Pick Szeged",
-      "url": "https://szeged365.hu/2026/10/29/26-31-legyozte-a-svedeket-az-otp-bank-pick-szeged/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:09:39.767952Z"
+  "updated_at": "2026-11-01T16:09:50.285496Z"
 }

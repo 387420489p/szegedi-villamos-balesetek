@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-01T10:02:02.007696Z",
+      "published_at": "2026-10-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Nagyon ijesztő” – ismét hatalmas robbanást hallottak Szegeden",
+      "url": "https://szeged365.hu/2026/10/31/nagyon-ijeszto-ismet-hatalmas-robbanast-hallottak-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-01T10:02:02.007696Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Nem könnyű leírnunk” – újabb vendéglátóhely húzza le a rolót Szegeden",
+      "url": "https://szeged365.hu/2026/11/01/nem-konnyu-leirnunk-ujabb-vendeglatohely-huzza-le-a-rolot-szegeden/"
+    },
+    {
       "first_seen": "2026-11-01T07:00:12.997254Z",
       "published_at": "2026-11-01T00:00:00",
       "reason": "prefiltered",
@@ -79,14 +95,6 @@
       "source_name": "Szeged365",
       "title": "Napi cukiság: így ünneplik a Halloweent a Szegedi Vadaspark lakói (galéria)",
       "url": "https://szeged365.hu/2026/10/31/napi-cukisag-igy-unneplik-a-halloweent-a-szegedi-vadaspark-lakoi-galeria/"
-    },
-    {
-      "first_seen": "2026-10-31T10:00:01.256474Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Nagyon ijesztő” – ismét hatalmas robbanást hallottak Szegeden",
-      "url": "https://szeged365.hu/2026/10/31/nagyon-ijeszto-ismet-hatalmas-robbanast-hallottak-szegeden/"
     },
     {
       "first_seen": "2026-10-31T07:01:00.531195Z",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: még mindig pörög az Árkád szülinap, több útszakaszon is munkálatokra kell számítani Szegeden",
       "url": "https://szeged365.hu/2026/10/19/napi-pakk-meg-mindig-porog-az-arkad-szulinap-tobb-utszakaszon-is-munkalatokra-kell-szamitani-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: esőt hoz a csütörtök Szegedre, programokból viszont nem lesz hiány",
-      "url": "https://szeged365.hu/2026/10/22/napi-pakk-esot-hoz-a-csutortok-szegedre-programokbol-viszont-nem-lesz-hiany/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:00:12.997254Z"
+  "updated_at": "2026-11-01T10:02:02.007696Z"
 }

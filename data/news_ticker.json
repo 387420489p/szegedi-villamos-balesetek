@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-01T19:09:45.769404Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hétfőn is marad a hűvös idő, a felhőké lesz a főszerep Szegeden",
+      "url": "https://szeged365.hu/2026/11/01/hetfon-is-marad-a-huvos-ido-a-felhoke-lesz-a-foszerep-szegeden/"
+    },
+    {
       "first_seen": "2026-11-01T16:09:50.285496Z",
       "published_at": "2026-10-31T00:00:00",
       "reason": "ai_rejected",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem a szellemek, hanem a gitárok fognak sikítani a Stefánián: ingyenes halloweeni bulival robbantja fel az éjszakát a Városi Rock Klub Szegeden",
       "url": "https://szeged365.hu/2026/10/30/nem-a-szellemek-hanem-a-gitarok-fognak-sikitani-a-stefanian-ingyenes-halloweeni-bulival-robbantja-fel-az-ejszakat-a-varosi-rock-klub-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-30T07:02:37.780127Z",
-      "published_at": "2026-10-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: kedden folytatódik az ősz és összművészeti eseménysorozat indul a 1956-os forradalom 70. évfordulójára Szegeden",
-      "url": "https://szeged365.hu/2026/10/20/napi-pakk-kedden-folytatodik-az-osz-es-osszmuveszeti-esemenysorozat-indul-a-1956-os-forradalom-70-evfordulojara-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:09:50.285496Z"
+  "updated_at": "2026-11-01T19:09:45.769404Z"
 }

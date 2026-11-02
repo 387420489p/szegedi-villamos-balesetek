@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-02T07:02:29.503105Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Különleges műtárggyal bővült a szegedi Móra Ferenc Múzeum „Drága barátom, Picasso” című tárlata",
+      "url": "https://szeged365.hu/2026/11/02/kulonleges-mutarggyal-bovult-a-szegedi-mora-ferenc-muzeum-draga-baratom-picasso-cimu-tarlata/"
+    },
+    {
+      "first_seen": "2026-11-02T07:02:29.503105Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: a hűvös, esős időben izgalmas filmek várnak a szegedi mozikban",
+      "url": "https://szeged365.hu/2026/11/02/napi-pakk-a-huvos-esos-idoben-izgalmas-filmek-varnak-a-szegedi-mozikban/"
+    },
+    {
+      "first_seen": "2026-11-02T07:02:29.503105Z",
+      "published_at": "2026-10-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: esőt hoz a csütörtök Szegedre, programokból viszont nem lesz hiány",
+      "url": "https://szeged365.hu/2026/10/22/napi-pakk-esot-hoz-a-csutortok-szegedre-programokbol-viszont-nem-lesz-hiany/"
+    },
+    {
       "first_seen": "2026-11-01T19:09:45.769404Z",
       "published_at": "2026-11-01T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Gyere! Szurkolj a PICK Arénában – éld át a Szeged–Veszprém rangadó varázsát!",
       "url": "https://szeged365.hu/2026/10/30/gyere-szurkolj-a-pick-arenaban-eld-at-a-szeged-veszprem-rangado-varazsat/"
-    },
-    {
-      "first_seen": "2026-10-30T10:08:55.024583Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gubanc van: kimaradó és késő járatokra, valamint pótlóbuszos átszállásra számíthat az, aki a szegedi fővonalon utazik vonattal (frissítve)",
-      "url": "https://szeged365.hu/2026/10/30/gubanc-van-kimarado-es-keso-jaratokra-valamint-potlobuszos-atszallasra-szamithat-az-aki-a-szegedi-fovonalon-utazik-vonattal/"
-    },
-    {
-      "first_seen": "2026-10-30T10:08:55.024583Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hamisan vádolta bántalmazással a fegyőrt egy román férfi a Szegedi Fegyház és Börtönben, plusz egy év szabadságvesztést kaphat",
-      "url": "https://szeged365.hu/2026/10/30/hamisan-vadolta-bantalmazassal-a-fegyort-egy-roman-ferfi-a-szegedi-fegyhaz-es-bortonben-plusz-egy-ev-szabadsagvesztest-kaphat/"
-    },
-    {
-      "first_seen": "2026-10-30T10:08:55.024583Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem a szellemek, hanem a gitárok fognak sikítani a Stefánián: ingyenes halloweeni bulival robbantja fel az éjszakát a Városi Rock Klub Szegeden",
-      "url": "https://szeged365.hu/2026/10/30/nem-a-szellemek-hanem-a-gitarok-fognak-sikitani-a-stefanian-ingyenes-halloweeni-bulival-robbantja-fel-az-ejszakat-a-varosi-rock-klub-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:09:45.769404Z"
+  "updated_at": "2026-11-02T07:02:29.503105Z"
 }

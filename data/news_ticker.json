@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-02T13:06:07.523705Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ezt éhesen tényleg ne nézd meg! Újabb isteni finomságot teszteltünk Szeged szívében, és már tudjuk, mit érdemes legközelebb megkóstolnod (videó)",
+      "url": "https://szeged365.hu/2026/11/02/ezt-ehesen-tenyleg-ne-nezd-meg-ujabb-isteni-finomsagot-teszteltunk-szeged-sziveben-es-mar-tudjuk-mit-erdemes-legkozelebb-megkostolnod-video/"
+    },
+    {
+      "first_seen": "2026-11-02T13:06:07.523705Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Csendben érkező csodák: szegedi összefogással tehetik szebbé a délvidéki gyermekek és idősek karácsonyát",
+      "url": "https://szeged365.hu/2026/11/02/csendben-erkezo-csodak-szegedi-osszefogassal-tehetik-szebbe-a-delvideki-gyermekek-es-idosek-karacsonyat/"
+    },
+    {
+      "first_seen": "2026-11-02T13:06:07.523705Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gyere! Szurkolj a PICK Arénában – éld át a Szeged–Veszprém rangadó varázsát!",
+      "url": "https://szeged365.hu/2026/11/02/gyere-szurkolj-a-pick-arenaban-eld-at-a-szeged-veszprem-rangado-varazsat/"
+    },
+    {
+      "first_seen": "2026-11-02T13:06:07.523705Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Mozgalmas volt mindenszentek napja: Szeged külterületén csíptek el migránsokat a rendőrök",
+      "url": "https://szeged365.hu/2026/11/02/mozgalmas-volt-mindenszentek-napja-szeged-kulteruleten-csiptek-el-migransokat-a-rendorok/"
+    },
+    {
       "first_seen": "2026-11-02T10:06:43.772253Z",
       "published_at": "2026-11-02T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Elképesztő sportszellem! Törött kézzel is kivédte az Újpest büntetőjét a Szeged-Csanád GA kapusa (videóval)",
       "url": "https://szeged365.hu/2026/10/30/elkepeszto-sportszellem-torott-kezzel-is-kivedte-az-ujpest-buntetojet-a-szeged-csanad-ga-kapusa-videoval/"
-    },
-    {
-      "first_seen": "2026-10-30T16:09:48.770734Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem a hagymától könnyes a gazdák szeme, hanem attól, amit a Field Test Hungary tud! A Róna Ker-Tész kertészetében jártunk (videó)",
-      "url": "https://szeged365.hu/2026/10/30/nem-a-hagymatol-konnyes-a-gazdak-szeme-hanem-attol-amit-a-field-test-hungary-tud-a-rona-ker-tesz-kerteszeteben-jartunk-video/"
-    },
-    {
-      "first_seen": "2026-10-30T16:09:48.770734Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi Pletykák: “nem kell éjszaka sem félni, de azért vannak kivételek, problémák” – avagy megkérdeztük a szegedieket, mennyire érzik biztonságban magukat Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/10/30/szegedi-pletykak-nem-kell-ejszaka-sem-felni-de-azert-vannak-kivetelek-problemak-avagy-megkerdeztuk-a-szegedieket-mennyire-erzik-biztonsagban-magukat-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-10-30T16:09:48.770734Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Büszkék lehetünk rá Szegeden! Détári Vilmos egy igazán különleges jubileumi eseményen vett részt, ahol nem akárkikkel ült egy asztalhoz!",
-      "url": "https://szeged365.hu/2026/10/30/buszkek-lehetunk-ra-szegeden-detari-vilmos-egy-igazan-kulonleges-jubileumi-esemenyen-vett-reszt-ahol-nem-akarkikkel-ult-egy-asztalhoz/"
-    },
-    {
-      "first_seen": "2026-10-30T16:09:48.770734Z",
-      "published_at": "2026-10-30T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy Scooby-Doo-epizód, ami Szegeden játszódik? Most már ilyen is van! Zseniális videót készítettek a szegedi kollégisták",
-      "url": "https://szeged365.hu/2026/10/30/egy-scooby-doo-epizod-ami-szegeden-jatszodik-most-mar-ilyen-is-van-zsenialis-videot-keszitettek-a-szegedi-kollegistak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:06:43.772253Z"
+  "updated_at": "2026-11-02T13:06:07.523705Z"
 }

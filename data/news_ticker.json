@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-02T19:09:25.534043Z",
+      "published_at": "2026-11-01T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt egy 17 éves makói fiú, a rendőrség nagy erőkkel keresi (frissítve)",
+      "url": "https://szeged365.hu/2026/11/01/eltunt-egy-17-eves-makoi-fiu-a-rendorseg-nagy-erokkel-keresi-foto/"
+    },
+    {
+      "first_seen": "2026-11-02T19:09:25.534043Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az idei év legerősebb hónapját zárta a BYD, hamarosan indul a szegedi gyár, de lehet, hogy nem kapják meg a beígért támogatást",
+      "url": "https://szeged365.hu/2026/11/02/az-idei-ev-legerosebb-honapjat-zarta-a-byd-hamarosan-indul-a-szegedi-gyar-de-lehet-hogy-nem-kapjak-meg-a-beigert-tamogatast/"
+    },
+    {
+      "first_seen": "2026-11-02T19:09:25.534043Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Felhős, kissé szeles idővel folytatódik a hét Szegeden",
+      "url": "https://szeged365.hu/2026/11/02/felhos-kisse-szeles-idovel-folytatodik-a-het-szegeden/"
+    },
+    {
       "first_seen": "2026-11-02T16:00:25.575285Z",
       "published_at": "2026-11-02T00:00:00",
       "reason": "prefiltered",
@@ -197,14 +221,6 @@
       "published_at": "2026-11-01T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Eltűnt egy 17 éves makói fiú, a rendőrség nagy erőkkel keresi (frissítve)",
-      "url": "https://szeged365.hu/2026/11/01/eltunt-egy-17-eves-makoi-fiu-a-rendorseg-nagy-erokkel-keresi-foto/"
-    },
-    {
-      "first_seen": "2026-11-01T16:09:50.285496Z",
-      "published_at": "2026-11-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Csodás videót kaptunk a Szeged mellett állomásozó darvakról (videó)",
       "url": "https://szeged365.hu/2026/11/01/csodas-videot-kaptunk-a-szeged-mellett-allomasozo-darvakrol-video/"
     },
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Órát lopott egy szegedi szórakozóhelyről egy pofátlan tolvaj (fotók)",
       "url": "https://szeged365.hu/2026/10/31/orat-lopott-egy-szegedi-szorakozohelyrol-egy-pofatlan-tolvaj-fotok/"
-    },
-    {
-      "first_seen": "2026-10-31T13:08:01.287302Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi cukiság: így ünneplik a Halloweent a Szegedi Vadaspark lakói (galéria)",
-      "url": "https://szeged365.hu/2026/10/31/napi-cukisag-igy-unneplik-a-halloweent-a-szegedi-vadaspark-lakoi-galeria/"
-    },
-    {
-      "first_seen": "2026-10-31T07:01:00.531195Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: felhős idővel indul a hétvége Szegeden, különleges villamos rója majd városunk utcáit, és ma van Halloween ünnepe",
-      "url": "https://szeged365.hu/2026/10/31/napi-pakk-felhos-idovel-indul-a-hetvege-szegeden-kulonleges-villamos-roja-majd-varosunk-utcait-es-ma-van-halloween-unnepe/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:00:25.575285Z"
+  "updated_at": "2026-11-02T19:09:25.534043Z"
 }

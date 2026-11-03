@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Figaro egy filmforgatás kulisszái mögött házasodik a Szegedi Nemzeti Színházban (galéria)",
+      "url": "https://szeged365.hu/2026/11/03/figaro-egy-filmforgatas-kulisszai-mogott-hazasodik-a-szegedi-nemzeti-szinhazban-galeria/"
+    },
+    {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Környezetvédelmi kockázat miatt visszahívtak egy elektromos borotvát – Szegedre is eljuthatott (fotó)",
+      "url": "https://szeged365.hu/2026/11/03/kornyezetvedelmi-kockazat-miatt-visszahivtak-egy-elektromos-borotvat-szegedre-is-eljuthatott-foto/"
+    },
+    {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "100 nap és 100 éjszaka a Tiszán: nem mindennapi kalandra vállalkozott a szegedi Gózon Zsolt (galéria)",
+      "url": "https://szeged365.hu/2026/11/03/100-nap-es-100-ejszaka-a-tiszan-nem-mindennapi-kalandra-vallalkozott-a-szegedi-gozon-zsolt-galeria/"
+    },
+    {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Igazi őszies időnk lesz: szerdán délután visszatér a napsütés Szegedre",
+      "url": "https://szeged365.hu/2026/11/03/igazi-oszies-idonk-lesz-szerdan-visszater-a-napsutes-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fodor Antal: a kormányhivatal megállapította, hogy Botka László több alkalommal törvénysértést követett el a szegedi közgyűléseken",
+      "url": "https://szeged365.hu/2026/11/03/a-kormanyhivatal-megallapitotta-hogy-botka-laszlo-tobb-alkalommal-torvenysertest-kovetett-el-a-szegedi-kozgyuleseken/"
+    },
+    {
+      "first_seen": "2026-11-03T19:08:50.525123Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Újabb baleset Szeged belvárosában: a 20-as busszal ütközött egy autó",
+      "url": "https://szeged365.hu/2026/11/03/ujabb-baleset-szeged-belvarosaban-a-20-as-busszal-utkozott-egy-auto/"
+    },
+    {
       "first_seen": "2026-11-03T16:07:46.784484Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Falakon innen, tereken túl: csoportos kiállítás nyílik Szegeden, ami a városi környezet, és az ember belső világa közötti kapcsolatot állítja középpontba",
       "url": "https://szeged365.hu/2026/11/02/falakon-innen-tereken-tul-csoportos-kiallitas-nyilik-szegeden-ami-a-varosi-kornyezet-es-az-ember-belso-vilaga-kozotti-kapcsolatot-allitja-kozeppontba/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegediek a világ körül: Etiópiában tanított, Oxfordban adott elő, majd diplomatának állt: Dr. Szélinger Balázs története, aki szerint Szeged az univerzum közepe",
-      "url": "https://szeged365.hu/2026/11/02/szegediek-a-vilag-korul-etiopiaban-tanitott-oxfordban-adott-elo-majd-diplomatanak-allt-dr-szelinger-balazs-tortenete-aki-szerint-szeged-az-univerzum-kozepe/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ki az, aki sosem tud ellenállni a Pumpkin Spice őrületnek? Van egy jó hírünk, már Szeged belvárosában, a Kárpátia Borházban is hódít",
-      "url": "https://szeged365.hu/2026/11/02/ki-az-aki-sosem-tud-ellenallni-a-pumpkin-spice-oruletnek-van-egy-jo-hirunk-mar-szeged-belvarosaban-a-karpatia-borhazban-is-hodit/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megállíthatatlan a szegedi harcos: két újabb aranyérem után Törökországban képviselheti Magyarországot Szemendrey Zoé",
-      "url": "https://szeged365.hu/2026/11/02/megallithatatlan-a-szegedi-harcos-ket-ujabb-aranyerem-utan-torokorszagban-kepviselheti-magyarorszagot-szemendrey-zoe/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Extravagáns, egészséges ételeket keresel? Bingo: indul a Hummus Plus webshop, mindenre 20% kedvezményt adnak!",
-      "url": "https://szeged365.hu/2026/11/02/extravagans-egeszseges-eteleket-keresel-bingo-indul-a-hummus-plus-webshop-mindenre-20-kedvezmenyt-adnak/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Tiltott videókat szerzett be egy fiatal férfi, kiskorú gyermekek voltak a felvételeken – a Szegedi Járási Ügyészség vádat emelt ellene",
-      "url": "https://szeged365.hu/2026/11/02/tiltott-videokat-szerzett-be-egy-fiatal-ferfi-kiskoru-gyermekek-voltak-rajta-a-szegedi-jarasi-ugyeszseg-vadat-emelt-ellene/"
-    },
-    {
-      "first_seen": "2026-11-02T07:02:29.503105Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Különleges műtárggyal bővült a szegedi Móra Ferenc Múzeum „Drága barátom, Picasso” című tárlata",
-      "url": "https://szeged365.hu/2026/11/02/kulonleges-mutarggyal-bovult-a-szegedi-mora-ferenc-muzeum-draga-baratom-picasso-cimu-tarlata/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:07:46.784484Z"
+  "updated_at": "2026-11-03T19:08:50.525123Z"
 }

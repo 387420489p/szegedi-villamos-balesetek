@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-03T13:08:00.015663Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Novák Katalin a Napfény IC-n Mekizett",
+      "url": "https://szeged365.hu/2026/11/03/novak-katalin-a-napfeny-ic-n-mekizett-foto/"
+    },
+    {
+      "first_seen": "2026-11-03T13:08:00.015663Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi siker: Moór Ádám bronzérmes lett az ifjúsági olimpián",
+      "url": "https://szeged365.hu/2026/11/03/oriasi-szegedi-siker-moor-adam-bronzermes-lett-az-ifjusagi-olimpian/"
+    },
+    {
+      "first_seen": "2026-11-03T13:08:00.015663Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Decemberben Queen-slágerektől lesz hangos Szeged: Wolf Kati, Kocsis Tibor és Király Viktor érkezik a Városi Sportcsarnokba!",
+      "url": "https://szeged365.hu/2026/11/03/decemberben-queen-slagerektol-lesz-hangos-szeged-wolf-kati-kocsis-tibor-es-kiraly-viktor-erkezik-a-varosi-sportcsarnokba/"
+    },
+    {
       "first_seen": "2026-11-03T10:06:41.069262Z",
       "published_at": "2026-11-02T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Premier a Nagykanizsa ellen: 13 órától játszik a Szeged-Csanád GA",
       "url": "https://szeged365.hu/2026/11/01/premier-a-nagykanizsa-ellen-egy-oratol-jatszik-a-szeged-csanad-ga/"
-    },
-    {
-      "first_seen": "2026-11-01T10:02:02.007696Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Nagyon ijesztő” – ismét hatalmas robbanást hallottak Szegeden",
-      "url": "https://szeged365.hu/2026/10/31/nagyon-ijeszto-ismet-hatalmas-robbanast-hallottak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-01T10:02:02.007696Z",
-      "published_at": "2026-11-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Nem könnyű leírnunk” – újabb vendéglátóhely húzza le a rolót Szegeden",
-      "url": "https://szeged365.hu/2026/11/01/nem-konnyu-leirnunk-ujabb-vendeglatohely-huzza-le-a-rolot-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-01T07:00:12.997254Z",
-      "published_at": "2026-11-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: lehűlés várható viharos széllel, Szeged is csatlakozott az Országos Mindenszenteki Mécsesgyújtáshoz",
-      "url": "https://szeged365.hu/2026/11/01/napi-pakk-lehules-varhato-viharos-szellel-szeged-is-csatlakozott-az-orszagos-mindenszenteki-mecsesgyujtashoz/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:06:41.069262Z"
+  "updated_at": "2026-11-03T13:08:00.015663Z"
 }

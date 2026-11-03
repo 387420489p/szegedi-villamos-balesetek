@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-03T07:07:59.583981Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gyönyörű falfestményekkel gazdagodhat városunk: már pályázhatnak dekorfestésre a panelházak közösségei Szegeden",
+      "url": "https://szeged365.hu/2026/11/03/gyonyoru-falfestmenyekkel-gazdagodhat-varosunk-mar-palyazhatnak-dekorfestesre-a-panelhazak-kozossegei-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-03T07:07:59.583981Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lezárult a pályázatok elbírálása: a Tömörkény-gimnázium egyik tanára vezetheti a Szegedi Tankerületi Központot",
+      "url": "https://szeged365.hu/2026/11/03/lezarult-a-palyazatok-elbiralasa-a-tomorkeny-gimnazium-egyik-tanara-vezetheti-a-szegedi-tankeruleti-kozpontot/"
+    },
+    {
+      "first_seen": "2026-11-03T07:07:59.583981Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: marad velünk a felhős, nyirkos idő, dübörög a 30. Őszi Kulturális Fesztivál",
+      "url": "https://szeged365.hu/2026/11/03/napi-pakk-marad-velunk-a-felhos-nyirkos-ido-duborog-a-30-oszi-kulturalis-fesztival/"
+    },
+    {
       "first_seen": "2026-11-02T19:09:25.534043Z",
       "published_at": "2026-11-01T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Érkezik a Petőfi musical a Szabadtérire: Wunderlich József a címszerepben",
       "url": "https://szeged365.hu/2026/10/31/erkezik-a-petofi-musical-a-szabadterire-wunderlich-jozsef-a-cimszerepben/"
-    },
-    {
-      "first_seen": "2026-10-31T16:04:57.507877Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Teljes döbbenet: valaki mérgezi az állatokat Szegeden",
-      "url": "https://szeged365.hu/2026/10/31/teljes-dobbenet-valaki-mergezi-az-allatokat-szegeden/"
-    },
-    {
-      "first_seen": "2026-10-31T13:08:01.287302Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csocsó, lábtenisz, ugrálóvár: a gyerekeket is remek programok várták a Szeged-Csanád GA – Újpest meccs előtt (fotók)",
-      "url": "https://szeged365.hu/2026/10/31/csocso-labtenisz-ugralovar-a-gyerekeket-is-remek-programok-vartak-a-szeged-csanad-ga-ujpest-meccs-elott-fotok/"
-    },
-    {
-      "first_seen": "2026-10-31T13:08:01.287302Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Órát lopott egy szegedi szórakozóhelyről egy pofátlan tolvaj (fotók)",
-      "url": "https://szeged365.hu/2026/10/31/orat-lopott-egy-szegedi-szorakozohelyrol-egy-pofatlan-tolvaj-fotok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:09:25.534043Z"
+  "updated_at": "2026-11-03T07:07:59.583981Z"
 }

@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-03T10:06:41.069262Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Halálos baleset történt az M43-ason, Szegednél",
+      "url": "https://szeged365.hu/2026/11/02/halalos-baleset-tortent-az-m43-ason/"
+    },
+    {
+      "first_seen": "2026-11-03T10:06:41.069262Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kábítószer birtoklás miatt indított büntetőeljárást a rendőrség egy szegedi férfi ellen",
+      "url": "https://szeged365.hu/2026/11/03/kabitoszer-birtoklas-miatt-inditott-buntetoeljarast-a-rendorseg-egy-szegedi-ferfi-ellen/"
+    },
+    {
+      "first_seen": "2026-11-03T10:06:41.069262Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb fotókkal bővült a pofátlan parkolás rovatunk! Van itt minden: gyalogátkelőn dekkolás, és gyalogosok számára kijelölt helyen álló autó is",
+      "url": "https://szeged365.hu/2026/11/03/ujabb-fotokkal-bovult-a-pofatlan-parkolas-rovatunk-van-itt-minden-gyalogatkelon-dekkolas-es-gyalogosok-szamara-kijelolt-helyen-allo-auto-is/"
+    },
+    {
+      "first_seen": "2026-11-03T10:06:41.069262Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Emlékeztek még a szatymazi judósokra, Szeged365 Family? Hanna és Bence újabb két éremmel tért haza Szerbiából!",
+      "url": "https://szeged365.hu/2026/11/03/emlekeztek-meg-a-szatymazi-judosokra-szeged365-family-hanna-es-bence-ujabb-ket-eremmel-tert-haza-szerbiabol/"
+    },
+    {
+      "first_seen": "2026-11-03T10:06:41.069262Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Száguldva előzött a fiatal férfi, súlyos baleset lett a vége: az autó többször átfordult a tengelye körül, majd egy kerítést átszakítva állt meg Makó közelében",
+      "url": "https://szeged365.hu/2026/11/03/szaguldva-elozott-a-fiatal-ferfi-sulyos-baleset-lett-a-vege-az-auto-tobbszor-atfordult-a-tengelye-korul-majd-egy-keritest-atszakitva-allt-meg-mako-kozeleben/"
+    },
+    {
       "first_seen": "2026-11-03T07:07:59.583981Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -127,14 +167,6 @@
       "source_name": "Szeged365",
       "title": "Mozgalmas volt mindenszentek napja: Szeged külterületén csíptek el migránsokat a rendőrök",
       "url": "https://szeged365.hu/2026/11/02/mozgalmas-volt-mindenszentek-napja-szeged-kulteruleten-csiptek-el-migransokat-a-rendorok/"
-    },
-    {
-      "first_seen": "2026-11-02T10:06:43.772253Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Halálos baleset történt az M43-ason, Szegednél",
-      "url": "https://szeged365.hu/2026/11/02/halalos-baleset-tortent-az-m43-ason/"
     },
     {
       "first_seen": "2026-11-02T10:06:43.772253Z",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: lehűlés várható viharos széllel, Szeged is csatlakozott az Országos Mindenszenteki Mécsesgyújtáshoz",
       "url": "https://szeged365.hu/2026/11/01/napi-pakk-lehules-varhato-viharos-szellel-szeged-is-csatlakozott-az-orszagos-mindenszenteki-mecsesgyujtashoz/"
-    },
-    {
-      "first_seen": "2026-11-01T07:00:12.997254Z",
-      "published_at": "2026-10-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: több felhővel folytatódik az ősz Szegeden, 85 éve született Jankovics Marcell",
-      "url": "https://szeged365.hu/2026/10/21/napi-pakk-tobb-felhovel-folytatodik-az-osz-szegeden-85-eve-szuletett-jankovics-marcell/"
-    },
-    {
-      "first_seen": "2026-10-31T19:01:52.775735Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Esőt és viharos szelet hoz a vasárnap Szegedre",
-      "url": "https://szeged365.hu/2026/10/31/esot-es-viharos-szelet-hoz-a-vasarnap-szegedre/"
-    },
-    {
-      "first_seen": "2026-10-31T16:04:57.507877Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi Fábián Bettinát is meghívták az Oceanman-sorozat világdöntőjére",
-      "url": "https://szeged365.hu/2026/10/31/a-szegedi-fabian-bettinat-is-meghivtak-az-oceanman-sorozat-vilagdontojere/"
-    },
-    {
-      "first_seen": "2026-10-31T16:04:57.507877Z",
-      "published_at": "2026-10-31T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Érkezik a Petőfi musical a Szabadtérire: Wunderlich József a címszerepben",
-      "url": "https://szeged365.hu/2026/10/31/erkezik-a-petofi-musical-a-szabadterire-wunderlich-jozsef-a-cimszerepben/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:07:59.583981Z"
+  "updated_at": "2026-11-03T10:06:41.069262Z"
 }

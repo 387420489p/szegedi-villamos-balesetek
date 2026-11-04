@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szerdán visszatér a napsütés Szegedre, 70 éve ért véget a forradalom",
+      "url": "https://szeged365.hu/2026/11/04/napi-pakk-szerdan-visszater-a-napsutes-szegedre-sandorfalvanal-pedig-robbantani-fognak-a-katonak/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem kérdés többé, hogy repetáznak-e a szegedi diákok: tarol a szabadszedéses menza, újabb iskolák csatlakoztak a rendszerhez (galéria)",
+      "url": "https://szeged365.hu/2026/11/04/nem-kerdes-tobbe-hogy-repetaznak-e-a-szegedi-diakok-tarol-a-szabadszedeses-menza-ujabb-iskolak-csatlakoztak-a-rendszerhez-galeria/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Aznap tudta meg, hogy díjat nyert, amikor megszületett az unokája: a szegedi Göröncséri Hajnalka lett az Év Ingatlanosa Magyarországon! (videó)",
+      "url": "https://szeged365.hu/2026/11/04/aznap-tudta-meg-hogy-dijat-nyert-amikor-megszuletett-az-unokaja-a-szegedi-goroncseri-hajnalka-lett-az-ev-ingatlanosa-magyarorszagon-video/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több ezer ügynökakta vált nyilvánossá – szegedi kötődésű nevek is felbukkantak a dokumentumokban (frissítve)",
+      "url": "https://szeged365.hu/2026/11/04/tobb-ezer-ugynokakta-valt-nyilvanossa-szegedi-kotodesu-nevek-is-felbukkantak-a-dokumentumokban/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét Szegedre jön Karikó Katalin",
+      "url": "https://szeged365.hu/2026/11/04/ismet-szegedre-jon-kariko-katalin/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, különleges jazzhétvége vár rátok Szegeden, ráadásul két páros belépőt is kisorsolunk a koncertekre!",
+      "url": "https://szeged365.hu/2026/11/04/szeged365-family-kulonleges-jazzhetvege-var-ratok-szegeden-raadasul-ket-paros-belepot-is-kisorsolunk-a-koncertekre/"
+    },
+    {
+      "first_seen": "2026-11-04T13:06:39.024725Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hétfőtől egy kicsit felbolydul a közlekedés Szegeden: két hétig fog dolgozni a Magyar Közút a Bertalan hídon",
+      "url": "https://szeged365.hu/2026/11/04/hetfotol-egy-kicsit-felbolydul-a-kozlekedes-szegeden-ket-hetig-fog-dolgozni-a-magyar-kozut-a-bertalan-hidon/"
+    },
+    {
       "first_seen": "2026-11-04T10:07:06.070631Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -71,14 +127,6 @@
       "source_name": "Szeged365",
       "title": "Talált aranygyűrűket tulajdonított el két fiatal Erzsébet-liget edzőparkjában, keresi őket a rendőrség (fotók)",
       "url": "https://szeged365.hu/2026/11/04/talalt-aranygyuruket-tulajdonitott-el-ket-fiatal-erzsebet-liget-edzoparkjaban-keresi-oket-a-rendorseg-fotok/"
-    },
-    {
-      "first_seen": "2026-11-04T07:05:49.099333Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: szerdán visszatér a napsütés Szegedre, 70 éve ért véget a forradalom",
-      "url": "https://szeged365.hu/2026/11/04/napi-pakk-szerdan-visszater-a-napsutes-szegedre-sandorfalvanal-pedig-robbantani-fognak-a-katonak/"
     },
     {
       "first_seen": "2026-11-04T07:05:49.099333Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb fotókkal bővült a pofátlan parkolás rovatunk! Van itt minden: gyalogátkelőn dekkolás, és gyalogosok számára kijelölt helyen álló autó is",
       "url": "https://szeged365.hu/2026/11/03/ujabb-fotokkal-bovult-a-pofatlan-parkolas-rovatunk-van-itt-minden-gyalogatkelon-dekkolas-es-gyalogosok-szamara-kijelolt-helyen-allo-auto-is/"
-    },
-    {
-      "first_seen": "2026-11-03T10:06:41.069262Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Emlékeztek még a szatymazi judósokra, Szeged365 Family? Hanna és Bence újabb két éremmel tért haza Szerbiából!",
-      "url": "https://szeged365.hu/2026/11/03/emlekeztek-meg-a-szatymazi-judosokra-szeged365-family-hanna-es-bence-ujabb-ket-eremmel-tert-haza-szerbiabol/"
-    },
-    {
-      "first_seen": "2026-11-03T10:06:41.069262Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Száguldva előzött a fiatal férfi, súlyos baleset lett a vége: az autó többször átfordult a tengelye körül, majd egy kerítést átszakítva állt meg Makó közelében",
-      "url": "https://szeged365.hu/2026/11/03/szaguldva-elozott-a-fiatal-ferfi-sulyos-baleset-lett-a-vege-az-auto-tobbszor-atfordult-a-tengelye-korul-majd-egy-keritest-atszakitva-allt-meg-mako-kozeleben/"
-    },
-    {
-      "first_seen": "2026-11-03T07:07:59.583981Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gyönyörű falfestményekkel gazdagodhat városunk: már pályázhatnak dekorfestésre a panelházak közösségei Szegeden",
-      "url": "https://szeged365.hu/2026/11/03/gyonyoru-falfestmenyekkel-gazdagodhat-varosunk-mar-palyazhatnak-dekorfestesre-a-panelhazak-kozossegei-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-03T07:07:59.583981Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lezárult a pályázatok elbírálása: a Tömörkény-gimnázium egyik tanára vezetheti a Szegedi Tankerületi Központot",
-      "url": "https://szeged365.hu/2026/11/03/lezarult-a-palyazatok-elbiralasa-a-tomorkeny-gimnazium-egyik-tanara-vezetheti-a-szegedi-tankeruleti-kozpontot/"
-    },
-    {
-      "first_seen": "2026-11-02T19:09:25.534043Z",
-      "published_at": "2026-11-01T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt egy 17 éves makói fiú, a rendőrség nagy erőkkel keresi (frissítve)",
-      "url": "https://szeged365.hu/2026/11/01/eltunt-egy-17-eves-makoi-fiu-a-rendorseg-nagy-erokkel-keresi-foto/"
-    },
-    {
-      "first_seen": "2026-11-02T19:09:25.534043Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az idei év legerősebb hónapját zárta a BYD, hamarosan indul a szegedi gyár, de lehet, hogy nem kapják meg a beígért támogatást",
-      "url": "https://szeged365.hu/2026/11/02/az-idei-ev-legerosebb-honapjat-zarta-a-byd-hamarosan-indul-a-szegedi-gyar-de-lehet-hogy-nem-kapjak-meg-a-beigert-tamogatast/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:07:06.070631Z"
+  "updated_at": "2026-11-04T13:06:39.024725Z"
 }

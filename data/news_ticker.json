@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Gazdák, ezt hallottátok? A Field Test Hungarynél akár másnap a szegedi laborban lehet a mintátok, ráadásul a szállítás ingyenes (videó)",
+      "url": "https://szeged365.hu/2026/11/04/gazdak-ezt-hallottatok-a-field-test-hungarynel-akar-masnap-a-szegedi-laborban-lehet-a-mintatok-raadasul-a-szallitas-ingyenes-video/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Három napig a libáé a főszerep a szegedi Fasor Vendéglőben: a Márton-napi lakomára már most érdemes foglalni!",
+      "url": "https://szeged365.hu/2026/11/04/harom-napig-a-libae-a-foszerep-a-szegedi-fasor-vendegloben-a-marton-napi-lakomara-mar-most-erdemes-foglalni/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Koncertfilm, olasz filmnapok és egy kultikus magyar klasszikus – izgalmas hét vár a Belvárosi Moziban",
+      "url": "https://szeged365.hu/2026/11/04/koncertfilm-olasz-filmnapok-es-egy-kultikus-magyar-klasszikus-izgalmas-het-var-a-belvarosi-moziban/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Masszív torlódás alakult ki az M5-ös autópályán, Szeged felé (videóval)",
+      "url": "https://szeged365.hu/2026/11/04/massziv-torlodas-alakult-ki-az-m5-os-autopalyan-szeged-fele-videoval/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-08-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Ugye csak álmodtam a balesetet?” – Szegeden mesélt élete legnehezebb pillanatáról Szimonetta, most egy egész közösség segíthet neki (videó)",
+      "url": "https://szeged365.hu/2026/11/04/ugye-csak-almodtam-a-balesetet-szegeden-meselt-elete-legnehezebb-pillanatarol-szimonetta-most-egy-egesz-kozosseg-segithet-neki-video/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A bankszámláján landolt a kicsalt összeg: pénzmosás miatt emelt vádat a Szegedi Járási Ügyészség egy férfival szemben",
+      "url": "https://szeged365.hu/2026/11/04/a-bankszamlajan-landolt-a-kicsalt-osszeg-penzmosas-miatt-emelt-vadat-a-szegedi-jarasi-ugyeszseg-egy-ferfival-szemben/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Apró kezek, hatalmas szívek! Olyasmi történt Szegeden, amire még az ÁGOTA® Játszóház és Tanoda, Ifi Klubban sem volt példa (videó, galéria)",
+      "url": "https://szeged365.hu/2026/11/04/apro-kezek-hatalmas-szivek-olyasmi-tortent-szegeden-amire-meg-az-agota-jatszohaz-es-tanoda-ifi-klubban-sem-volt-pelda-video-galeria/"
+    },
+    {
+      "first_seen": "2026-11-04T10:07:06.070631Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "„Kérjen meg valakit az utcán, aki arra jár” – bezárták a mozgáskorlátozottaknak fenntartott bejáratot a szegedi 1-es postán, az utcáról, az ablakon keresztül lehet ügyet intézni",
+      "url": "https://szeged365.hu/2026/11/04/kerjen-meg-valakit-az-utcan-aki-arra-jar-bezartak-a-mozgaskorlatozottaknak-fenntartott-bejaratot-a-szegedi-1-es-postan-az-utcarol-az-ablakon-keresztul-lehet-ugyet-intezni/"
+    },
+    {
       "first_seen": "2026-11-04T07:05:49.099333Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Az idei év legerősebb hónapját zárta a BYD, hamarosan indul a szegedi gyár, de lehet, hogy nem kapják meg a beígért támogatást",
       "url": "https://szeged365.hu/2026/11/02/az-idei-ev-legerosebb-honapjat-zarta-a-byd-hamarosan-indul-a-szegedi-gyar-de-lehet-hogy-nem-kapjak-meg-a-beigert-tamogatast/"
-    },
-    {
-      "first_seen": "2026-11-02T19:09:25.534043Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felhős, kissé szeles idővel folytatódik a hét Szegeden",
-      "url": "https://szeged365.hu/2026/11/02/felhos-kisse-szeles-idovel-folytatodik-a-het-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-02T16:00:25.575285Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Munkaügyi pert vesztett a Csongrád-Csanád Megyei Rendőr-főkapitányság",
-      "url": "https://szeged365.hu/2026/11/02/munkaugyi-pert-vesztettek-a-csongrad-csanad-megyei-rendor-fokapitanysag/"
-    },
-    {
-      "first_seen": "2026-11-02T16:00:25.575285Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, ezt ne hagyjátok ki novemberben! Ingyenes szűrések, sportprogramok és közös élmények várnak Szegeden",
-      "url": "https://szeged365.hu/2026/11/02/szeged365-family-ezt-ne-hagyjatok-ki-novemberben-ingyenes-szuresek-sportprogramok-es-kozos-elmenyek-varnak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-02T16:00:25.575285Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Stumpf Péter: a BYD gyár adója itt marad a szegedieknek (videó)",
-      "url": "https://szeged365.hu/2026/11/02/stumpf-peter-a-byd-gyar-adoja-itt-marad-a-szegedieknek-video/"
-    },
-    {
-      "first_seen": "2026-11-02T16:00:25.575285Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Alig 5 napja indult, de már több mint 6000 szavazat érkezett a 2026-os Legszegedibb Szegediek voksolására – mutatjuk, kik állnak az élen!",
-      "url": "https://szeged365.hu/2026/11/02/alig-5-napja-indult-de-mar-tobb-mint-6000-szavazat-erkezett-a-2026-os-legszegedibb-szegediek-voksolasara-mutatjuk-kik-allnak-az-elen/"
-    },
-    {
-      "first_seen": "2026-11-02T16:00:25.575285Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Két hónapig feküdtem itt, és utána saját lábamon mentem haza” – megszólalt a szegedi Care Point egyik páciense, aki őszintén mesélt nekünk a felépüléséről (videó)",
-      "url": "https://szeged365.hu/2026/11/02/ket-honapig-fekudtem-itt-es-utana-sajat-labamon-mentem-haza-megszolalt-a-szegedi-care-point-egyik-paciense-aki-oszinten-meselt-nekunk-a-felepuleserol-video/"
-    },
-    {
-      "first_seen": "2026-11-02T13:06:07.523705Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt éhesen tényleg ne nézd meg! Újabb isteni finomságot teszteltünk Szeged szívében, és már tudjuk, mit érdemes legközelebb megkóstolnod (videó)",
-      "url": "https://szeged365.hu/2026/11/02/ezt-ehesen-tenyleg-ne-nezd-meg-ujabb-isteni-finomsagot-teszteltunk-szeged-sziveben-es-mar-tudjuk-mit-erdemes-legkozelebb-megkostolnod-video/"
-    },
-    {
-      "first_seen": "2026-11-02T13:06:07.523705Z",
-      "published_at": "2026-11-02T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csendben érkező csodák: szegedi összefogással tehetik szebbé a délvidéki gyermekek és idősek karácsonyát",
-      "url": "https://szeged365.hu/2026/11/02/csendben-erkezo-csodak-szegedi-osszefogassal-tehetik-szebbe-a-delvideki-gyermekek-es-idosek-karacsonyat/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:05:49.099333Z"
+  "updated_at": "2026-11-04T10:07:06.070631Z"
 }

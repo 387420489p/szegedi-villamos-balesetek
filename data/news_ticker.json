@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-05T19:05:43.135651Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szombaton meccsnap a Szent Gellért Fórumban: a szegedi kék-feketék a Szentlőrinc csapatát fogadják",
+      "url": "https://szeged365.hu/2026/11/05/szombaton-meccsnap-a-szent-gellert-forumban-a-szegedi-kek-feketek-a-szentlorinc-csapatat-fogadjak/"
+    },
+    {
+      "first_seen": "2026-11-05T19:05:43.135651Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sapka, sál elővesz: fagyos lesz a csütörtök hajnal, -3 fok köré csökken a hőmérséklet Szegeden",
+      "url": "https://szeged365.hu/2026/11/05/fagyos-lesz-a-csutortok-hajnal-3-fok-kore-csokken-a-homerseklet-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-05T19:05:43.135651Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Országos modell alapjává válhat a szegedi Gyermekklinikán kidolgozott gyermekvédelmi protokoll",
+      "url": "https://szeged365.hu/2026/11/05/orszagos-modell-alapjava-valhat-a-szegedi-gyermekklinikan-kidolgozott-gyermekvedelmi-protokoll/"
+    },
+    {
       "first_seen": "2026-11-05T16:06:36.315675Z",
       "published_at": "2026-11-05T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Baleset történt az M5-ös autópályán, már több kilométeres a torlódás (videó) (frissítve)",
       "url": "https://szeged365.hu/2026/11/04/baleset-tortent-az-m5-os-autopalyan-mar-tobb-kilometeres-a-torlodas-video/"
-    },
-    {
-      "first_seen": "2026-11-04T16:04:36.536042Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Urbex365: elhagyatott folyosók, félbemaradt álmok és egy titokzatos Tisza-parti múlt – bekukkantottunk az egykori újszegedi camping főépületébe (galéria)",
-      "url": "https://szeged365.hu/2026/11/04/urbex365-elhagyatott-folyosok-felbemaradt-almok-es-egy-titokzatos-tisza-parti-mult-bekukkantottunk-az-egykori-ujszegedi-camping-foepuletebe-galeria/"
-    },
-    {
-      "first_seen": "2026-11-04T16:04:36.536042Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb fontos bejelentés érkezett a lakásvásárlásról: mutatjuk, mi változhat 2027-ben, és hol érdemes már most körülnézni Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/11/04/ujabb-fontos-bejelentes-erkezett-a-lakasvasarlasrol-mutatjuk-mi-valtozhat-2027-ben-es-hol-erdemes-mar-most-korulnezni-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-11-04T16:04:36.536042Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb bátor, kis indián Szegeden, ahogy vereti a villamossínen! Vajon eltévedt?",
-      "url": "https://szeged365.hu/2026/11/04/ujabb-bator-kis-indian-szegeden-ahogy-vereti-a-villamossinen-vajon-eltevedt/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:06:36.315675Z"
+  "updated_at": "2026-11-05T19:05:43.135651Z"
 }

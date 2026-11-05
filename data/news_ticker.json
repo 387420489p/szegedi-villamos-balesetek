@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-05T10:02:00.317472Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Toborzó irodát nyit a Szegedi Tudományegyetem Kenyában, a teljes kelet-afrikai térségben népszerűsítik az SZTE képzéseit",
+      "url": "https://szeged365.hu/2026/11/05/toborzo-irodat-nyit-a-szegedi-tudomanyegyetem-kenyaban-a-teljes-kelet-afrikai-tersegben-nepszerusitik-az-szte-kepzeseit/"
+    },
+    {
+      "first_seen": "2026-11-05T10:02:00.317472Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Brillíroztak a Csongrád-Csanád megyei úszók! Ugrai Panna arany, Fábián Fanni pedig ezüstéremmel kezdte az országos bajnokságot",
+      "url": "https://szeged365.hu/2026/11/05/brilliroztak-a-csongrad-csanad-megyei-uszok-ugrai-panna-arany-fabian-fanni-pedig-ezusteremmel-kezdte-az-orszagos-bajnoksagot/"
+    },
+    {
+      "first_seen": "2026-11-05T10:02:00.317472Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Légy látható, maradj biztonságban” – Light Friday akciót tart a rendőrség Szegeden, láthatóságot biztosító eszközöket is kaphatunk",
+      "url": "https://szeged365.hu/2026/11/05/legy-lathato-maradj-biztonsagban-light-friday-akciot-tart-a-rendorseg-szegeden-lathatosagot-biztosito-eszkozoket-is-kaphatunk/"
+    },
+    {
       "first_seen": "2026-11-05T07:08:45.071498Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "A bankszámláján landolt a kicsalt összeg: pénzmosás miatt emelt vádat a Szegedi Járási Ügyészség egy férfival szemben",
       "url": "https://szeged365.hu/2026/11/04/a-bankszamlajan-landolt-a-kicsalt-osszeg-penzmosas-miatt-emelt-vadat-a-szegedi-jarasi-ugyeszseg-egy-ferfival-szemben/"
-    },
-    {
-      "first_seen": "2026-11-04T10:07:06.070631Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Apró kezek, hatalmas szívek! Olyasmi történt Szegeden, amire még az ÁGOTA® Játszóház és Tanoda, Ifi Klubban sem volt példa (videó, galéria)",
-      "url": "https://szeged365.hu/2026/11/04/apro-kezek-hatalmas-szivek-olyasmi-tortent-szegeden-amire-meg-az-agota-jatszohaz-es-tanoda-ifi-klubban-sem-volt-pelda-video-galeria/"
-    },
-    {
-      "first_seen": "2026-11-04T10:07:06.070631Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "„Kérjen meg valakit az utcán, aki arra jár” – bezárták a mozgáskorlátozottaknak fenntartott bejáratot a szegedi 1-es postán, az utcáról, az ablakon keresztül lehet ügyet intézni",
-      "url": "https://szeged365.hu/2026/11/04/kerjen-meg-valakit-az-utcan-aki-arra-jar-bezartak-a-mozgaskorlatozottaknak-fenntartott-bejaratot-a-szegedi-1-es-postan-az-utcarol-az-ablakon-keresztul-lehet-ugyet-intezni/"
-    },
-    {
-      "first_seen": "2026-11-04T07:05:49.099333Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt Szeged legendás vezetésoktatója, Jakab Csaba",
-      "url": "https://szeged365.hu/2026/11/03/elhunyt-szeged-legendas-vezetesoktatoja-jakab-csaba/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:08:45.071498Z"
+  "updated_at": "2026-11-05T10:02:00.317472Z"
 }

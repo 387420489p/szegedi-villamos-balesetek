@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-06T07:08:49.537344Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: marad velünk a felhős, nyirkos idő, dübörög a 30. Őszi Kulturális Fesztivál",
+      "url": "https://szeged365.hu/2026/11/03/napi-pakk-marad-velunk-a-felhos-nyirkos-ido-duborog-a-30-oszi-kulturalis-fesztival/"
+    },
+    {
+      "first_seen": "2026-11-06T07:08:49.537344Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi Laura nem vetette meg a luxust, már 160 áldozatát azonosították a TikTok csalónak (frissítve)",
+      "url": "https://szeged365.hu/2026/11/04/a-szegedi-laura-nem-vetette-meg-a-luxust-mar-160-aldozatat-azonositottak-a-tiktok-csalonak/"
+    },
+    {
+      "first_seen": "2026-11-06T07:08:49.537344Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyetemi tanulmányokba kezdett a Legszegedibb Sportoló díjas Báhidi Bence",
+      "url": "https://szeged365.hu/2026/11/06/egyetemi-tanulmanyokba-kezd-a-legszegedibb-sportolo-dijas-bahidi-bence/"
+    },
+    {
+      "first_seen": "2026-11-06T07:08:49.537344Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: faggyal indul a reggel Szegeden, estefelé pedig újra jön a Light Friday",
+      "url": "https://szeged365.hu/2026/11/06/napi-pakk-faggyal-indul-a-reggel-szegeden-estefele-pedig-ujra-jon-a-light-friday/"
+    },
+    {
       "first_seen": "2026-11-05T19:05:43.135651Z",
       "published_at": "2026-11-05T00:00:00",
       "reason": "prefiltered",
@@ -249,14 +281,6 @@
       "url": "https://szeged365.hu/2026/10/26/virtualis-allatkert-a-figyelemzavar-vizsgalatara-orszagos-innovacios-dijat-nyert-az-szte-hallgatoja-video/"
     },
     {
-      "first_seen": "2026-11-05T07:08:45.071498Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: marad velünk a felhős, nyirkos idő, dübörög a 30. Őszi Kulturális Fesztivál",
-      "url": "https://szeged365.hu/2026/11/03/napi-pakk-marad-velunk-a-felhos-nyirkos-ido-duborog-a-30-oszi-kulturalis-fesztival/"
-    },
-    {
       "first_seen": "2026-11-04T19:04:56.070150Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -285,14 +309,6 @@
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "A szegedi Laura nem vetette meg a luxust, már 160 áldozatát azonosították a TikTok csalónak",
-      "url": "https://szeged365.hu/2026/11/04/a-szegedi-laura-nem-vetette-meg-a-luxust-mar-160-aldozatat-azonositottak-a-tiktok-csalonak/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Egy több százezret érő kutya szaladgál Újszegeden – gazdi, merre vagy?",
       "url": "https://szeged365.hu/2026/11/04/egy-tobbszazezret-ero-kutya-szaladgal-ujszegeden-gazdi-merre-vagy/"
     },
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Már biztos: a szentestét is a szegedi Csillagbörtönben tölti Bús Balázs",
       "url": "https://szeged365.hu/2026/11/04/mar-biztos-a-szentestet-is-a-szegedi-csillagbortonben-tolti-bus-balazs/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sok napsütéssel köszönt ránk a csütörtök Szegeden",
-      "url": "https://szeged365.hu/2026/11/04/sok-napsutessel-koszont-rank-a-csutortok-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt az M5-ös autópályán, már több kilométeres a torlódás (videó) (frissítve)",
-      "url": "https://szeged365.hu/2026/11/04/baleset-tortent-az-m5-os-autopalyan-mar-tobb-kilometeres-a-torlodas-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-05T19:05:43.135651Z"
+  "updated_at": "2026-11-06T07:08:49.537344Z"
 }

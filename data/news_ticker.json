@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-06T10:02:31.588188Z",
+      "published_at": "2026-11-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Toborzóirodát nyit a Szegedi Tudományegyetem Kenyában, a teljes kelet-afrikai térségben népszerűsítik az SZTE képzéseit",
+      "url": "https://szeged365.hu/2026/11/05/toborzo-irodat-nyit-a-szegedi-tudomanyegyetem-kenyaban-a-teljes-kelet-afrikai-tersegben-nepszerusitik-az-szte-kepzeseit/"
+    },
+    {
+      "first_seen": "2026-11-06T10:02:31.588188Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ez igen: behúzta az 500 km/h feletti sebességrekordot a Szegeden gyárat építő BYD",
+      "url": "https://szeged365.hu/2026/11/06/ez-igen-behuzta-az-500-km-h-feletti-sebessegrekordot-a-szegeden-gyarat-epito-byd/"
+    },
+    {
+      "first_seen": "2026-11-06T10:02:31.588188Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltiltották a vezetéstől, mégis volán mögé ült egy szegedi férfi, büntetőeljárás indult ellene",
+      "url": "https://szeged365.hu/2026/11/06/eltiltottak-a-vezetestol-megis-volan-moge-ult-egy-szegedi-ferfi-buntetoeljaras-indult-ellene/"
+    },
+    {
+      "first_seen": "2026-11-06T10:02:31.588188Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is lesz Olasz Filmfesztivál, a 10 éve elhunyt Bud Spencer előtt is tisztelegnek",
+      "url": "https://szeged365.hu/2026/11/06/szegeden-is-lesz-olasz-filmfesztival-a-10-eve-elhunyt-bud-spencer-elott-tisztelegnek/"
+    },
+    {
       "first_seen": "2026-11-06T07:08:49.537344Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -213,14 +245,6 @@
       "published_at": "2026-11-05T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Toborzó irodát nyit a Szegedi Tudományegyetem Kenyában, a teljes kelet-afrikai térségben népszerűsítik az SZTE képzéseit",
-      "url": "https://szeged365.hu/2026/11/05/toborzo-irodat-nyit-a-szegedi-tudomanyegyetem-kenyaban-a-teljes-kelet-afrikai-tersegben-nepszerusitik-az-szte-kepzeseit/"
-    },
-    {
-      "first_seen": "2026-11-05T10:02:00.317472Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Brillíroztak a Csongrád-Csanád megyei úszók! Ugrai Panna arany, Fábián Fanni pedig ezüstéremmel kezdte az országos bajnokságot",
       "url": "https://szeged365.hu/2026/11/05/brilliroztak-a-csongrad-csanad-megyei-uszok-ugrai-panna-arany-fabian-fanni-pedig-ezusteremmel-kezdte-az-orszagos-bajnoksagot/"
     },
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Hajrá a második félidőben: 3-0-ra legyőzte a Szeged-Csanád GA a BVSC Zuglót",
       "url": "https://szeged365.hu/2026/11/04/hajra-a-masodik-felidoben-3-0-ra-legyozte-a-szeged-csanad-ga-a-bvsc-zuglot/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ötven méterrel a Dóm tér felett kezdődik a karácsony: itt a 2026-os Szegedi Advent",
-      "url": "https://szeged365.hu/2026/11/04/otven-meterrel-a-dom-ter-felett-kezdodik-a-karacsony-itt-a-2026-os-szegedi-advent/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egy több százezret érő kutya szaladgál Újszegeden – gazdi, merre vagy?",
-      "url": "https://szeged365.hu/2026/11/04/egy-tobbszazezret-ero-kutya-szaladgal-ujszegeden-gazdi-merre-vagy/"
-    },
-    {
-      "first_seen": "2026-11-04T19:04:56.070150Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már biztos: a szentestét is a szegedi Csillagbörtönben tölti Bús Balázs",
-      "url": "https://szeged365.hu/2026/11/04/mar-biztos-a-szentestet-is-a-szegedi-csillagbortonben-tolti-bus-balazs/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T07:08:49.537344Z"
+  "updated_at": "2026-11-06T10:02:31.588188Z"
 }

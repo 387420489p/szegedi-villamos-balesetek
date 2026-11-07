@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-07T07:09:19.151853Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hideg reggel, napos délután, és egy igazán szívmelengető tacskófelvonulás is vár ma rád Szegeden",
+      "url": "https://szeged365.hu/2026/11/07/napi-pakk-hideg-reggel-napos-delutan-es-egy-igazan-szivmelengeto-tacskofelvonulas-is-var-ma-rad-szegeden/"
+    },
+    {
       "first_seen": "2026-11-06T19:02:40.284583Z",
       "published_at": "2026-11-06T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Vajon mi lesz belőlük öt év múlva? Megható időkapszulák készültek Szegeden, de más meglepetéseket is tartogatott az ÁGOTA Tanoda és Játszóház, Ifi Klub! (galéria)",
       "url": "https://szeged365.hu/2026/11/05/vajon-mi-lesz-beloluk-ot-ev-mulva-meghato-idokapszulak-keszultek-szegeden-de-mas-meglepeteseket-is-tartogatott-az-agota-tanoda-es-jatszohaz-ifi-klub-galeria/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Te rábíznád az életed a mesterséges intelligenciára? Szegeden a SzeBIT-en a legmerészebb technológiai kérdések is terítékre kerülnek! (galéria)",
-      "url": "https://szeged365.hu/2026/11/05/te-rabiznad-az-eleted-a-mesterseges-intelligenciara-szegeden-a-szebit-en-a-legmereszebb-technologiai-kerdesek-is-teritekre-kerulnek-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:02:40.284583Z"
+  "updated_at": "2026-11-07T07:09:19.151853Z"
 }

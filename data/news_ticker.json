@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-07T13:03:58.033082Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egykori tanítványa jelölte, végül ő lett a 2025-ös Legszegedibb Nő díj nyertese – Farkasné Székely Angéla most arra buzdít mindenkit, hogy szavazzon a 2026-os Legszegedibb Szegediek jelöltjeire (videó)",
+      "url": "https://szeged365.hu/2026/11/03/egykori-tanitvanya-jelolte-vegul-o-lett-a-2025-os-legszegedibb-no-dij-nyertese-farkasne-szekely-angela-most-arra-buzdit-mindenkit-hogy-szavazzon-a-2026-os-legszegedibb-szegediek-jeloltjeir/"
+    },
+    {
+      "first_seen": "2026-11-07T13:03:58.033082Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "22 ezer szavazat, elképesztő fordulatok és egy 6300 voksnál járó szegedi tehetség – mutatjuk, hogy áll jelenleg a Legszegedibb Szegediek versenye!",
+      "url": "https://szeged365.hu/2026/11/06/22-ezer-szavazat-elkepeszto-fordulatok-es-egy-6300-voksnal-jaro-szegedi-tehetseg-mutatjuk-hogy-all-jelenleg-a-legszegedibb-szegediek-versenye/"
+    },
+    {
+      "first_seen": "2026-11-07T13:03:58.033082Z",
+      "published_at": "2026-11-02T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Futárt keres a Hummus Plus: saját csapattal szállítja a bowl és saláta csodákat a szegedi webshop",
+      "url": "https://szeged365.hu/2026/11/07/futart-keres-a-hummus-plus-sajat-csapattal-szallitja-a-bowl-es-salata-csodakat-a-szegedi-webshop/"
+    },
+    {
+      "first_seen": "2026-11-07T13:03:58.033082Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A szegedi Gyermekklinika alapkőletételének századik évfordulójára is emlékeztek a gyermekorvosok kongresszusán Szegeden",
+      "url": "https://szeged365.hu/2026/11/07/a-szegedi-gyermekklinika-alapkoletetelenek-szazadik-evfordulojara-is-emlekeztek-a-gyermekorvosok-kongresszusan-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-07T13:03:58.033082Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hosszú kerülő helyett 10 perc: elkészült az új út, amely közelebb hozza Gyálarétet és Tompaszigetet Szentmihályhoz (galéria)",
+      "url": "https://szeged365.hu/2026/11/07/hosszu-kerulo-helyett-10-perc-elkeszult-az-uj-ut-amely-kozelebb-hozza-gyalaretet-es-tompaszigetet-szentmihalyhoz-galeria/"
+    },
+    {
       "first_seen": "2026-11-07T07:09:19.151853Z",
       "published_at": "2026-11-07T00:00:00",
       "reason": "prefiltered",
@@ -98,27 +138,11 @@
     },
     {
       "first_seen": "2026-11-06T13:02:39.357852Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egykori tanítványa jelölte, végül ő lett a 2025-ös Legszegedibb Nő díj nyertese – Farkasné Székely Angéla most arra buzdít mindenkit, hogy szavazzon a 2026-os Legszegedibb Szegediek jelöltjeire (videó)",
-      "url": "https://szeged365.hu/2026/11/03/egykori-tanitvanya-jelolte-vegul-o-lett-a-2025-os-legszegedibb-no-dij-nyertese-farkasne-szekely-angela-most-arra-buzdit-mindenkit-hogy-szavazzon-a-2026-os-legszegedibb-szegediek-jeloltjeir/"
-    },
-    {
-      "first_seen": "2026-11-06T13:02:39.357852Z",
       "published_at": "2026-11-06T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Kiderült, hogy van a bagolyfióka, akit a közutasok találtak",
       "url": "https://szeged365.hu/2026/11/06/kiderult-hogy-van-a-bagolyfioka-akit-a-kozutasok-talaltak/"
-    },
-    {
-      "first_seen": "2026-11-06T13:02:39.357852Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "22 ezer szavazat, elképesztő fordulatok és egy 6300 voksnál járó szegedi tehetség – mutatjuk, hogy áll jelenleg a Legszegedibb Szegediek versenye!",
-      "url": "https://szeged365.hu/2026/11/06/22-ezer-szavazat-elkepeszto-fordulatok-es-egy-6300-voksnal-jaro-szegedi-tehetseg-mutatjuk-hogy-all-jelenleg-a-legszegedibb-szegediek-versenye/"
     },
     {
       "first_seen": "2026-11-06T13:02:39.357852Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Jövő héten Szegedre költözik a technológia jövője! A Samsungtól a Huawei-ig, igazi techóriások érkeznek Dél-Magyarország legnagyobb ingyenes IT-expójára! (galéria)",
       "url": "https://szeged365.hu/2026/11/05/jovo-heten-szegedre-koltozik-a-technologia-jovoje-a-samsungtol-a-huawei-ig-igazi-techoriasok-erkeznek-del-magyarorszag-legnagyobb-ingyenes-it-expojara-galeria/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Három kamion karambolozott az M5-ösön: óriási torlódás alakult ki",
-      "url": "https://szeged365.hu/2026/11/05/harom-kamion-karambolozott-az-m5-oson-oriasi-torlodas-alakult-ki/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A környékbeliek ismét összefogtak a gyerekekért: takarók és mesekönyvek is érkeztek a Szegedi Gyermekklinikára (galéria)",
-      "url": "https://szeged365.hu/2026/11/05/a-kornyekbeliek-ismet-osszefogtak-a-gyerekekert-takarok-es-mesekonyvek-is-erkeztek-a-szegedi-gyermekklinikara-galeria/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vajon mi lesz belőlük öt év múlva? Megható időkapszulák készültek Szegeden, de más meglepetéseket is tartogatott az ÁGOTA Tanoda és Játszóház, Ifi Klub! (galéria)",
-      "url": "https://szeged365.hu/2026/11/05/vajon-mi-lesz-beloluk-ot-ev-mulva-meghato-idokapszulak-keszultek-szegeden-de-mas-meglepeteseket-is-tartogatott-az-agota-tanoda-es-jatszohaz-ifi-klub-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:09:19.151853Z"
+  "updated_at": "2026-11-07T13:03:58.033082Z"
 }

@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-07T16:07:37.538192Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ingyenes láthatósági eszközöket osztottak Szegeden: a polgárőrök is csatlakoztak a Light Friday akcióhoz (galéria)",
+      "url": "https://szeged365.hu/2026/11/07/ingyenes-lathatosagi-eszkozoket-osztottak-szegeden-a-polgarorok-is-csatlakoztak-a-light-friday-akciohoz-galeria/"
+    },
+    {
+      "first_seen": "2026-11-07T16:07:37.538192Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több mint kétszázan futottak a bajnokokkal a beteg gyerekekért Szegeden, 341 ezer forintnál is több adomány gyűlt össze (videók)",
+      "url": "https://szeged365.hu/2026/11/07/tobb-mint-ketszazan-futottak-a-bajnokokkal-a-beteg-gyerekekert-szegeden-341-ezer-forintnal-is-tobb-adomany-gyult-ossze-videok/"
+    },
+    {
+      "first_seen": "2026-11-07T16:07:37.538192Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Háromszáz rendőrségi szakembert képeznek tovább Szegeden, 163,27 millió forintos uniós támogatással",
+      "url": "https://szeged365.hu/2026/11/07/haromszaz-rendorsegi-szakembert-kepeznek-tovabb-szegeden-16327-millio-forintos-unios-tamogatassal/"
+    },
+    {
       "first_seen": "2026-11-07T13:03:58.033082Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Fontos elismernünk azt, hogy igenis szükségünk van jó tanítókra” – a 2025-ös Legszegedibb Tanító díj nyertese, Prónay Szabolcs, mindenkit arra bíztat, hogy szavazzon az idei Legszegedibb Szegediek jelöltjeire (videó)",
       "url": "https://szeged365.hu/2026/11/04/fontos-elismernunk-azt-hogy-igenis-szuksegunk-van-jo-tanitokra-a-2025-os-legszegedibb-tanito-dij-nyertese-pronay-szabolcs-mindenkit-arra-biztat-hogy-szavazzon-az-idei-l/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Több ezer ügynökakta vált nyilvánossá – szegedi kötődésű nevek is felbukkantak a dokumentumokban (frissítve)",
-      "url": "https://szeged365.hu/2026/11/04/tobb-ezer-ugynokakta-valt-nyilvanossa-szegedi-kotodesu-nevek-is-felbukkantak-a-dokumentumokban/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "130-nál is több új munkahelyet hozhat Szegedre a ContiTech, közel 300 fősre növekedhet a nemzetközi kompetenciaközpont (galéria)",
-      "url": "https://szeged365.hu/2026/11/05/130-nal-is-tobb-uj-munkahelyet-hozhat-szegedre-a-contitech-kozel-300-fosre-novekedhet-a-nemzetkozi-kompetenciakozpont-galeria/"
-    },
-    {
-      "first_seen": "2026-11-05T13:08:56.772757Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jövő héten Szegedre költözik a technológia jövője! A Samsungtól a Huawei-ig, igazi techóriások érkeznek Dél-Magyarország legnagyobb ingyenes IT-expójára! (galéria)",
-      "url": "https://szeged365.hu/2026/11/05/jovo-heten-szegedre-koltozik-a-technologia-jovoje-a-samsungtol-a-huawei-ig-igazi-techoriasok-erkeznek-del-magyarorszag-legnagyobb-ingyenes-it-expojara-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:03:58.033082Z"
+  "updated_at": "2026-11-07T16:07:37.538192Z"
 }

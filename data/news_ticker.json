@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-08T19:00:01.298083Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hétfőn csapadékosnak ígérkezik a reggel Szegeden, de délutánra már felszakadozhat a felhőzet",
+      "url": "https://szeged365.hu/2026/11/08/hetfon-csapadekosnak-igerkezik-a-reggel-szegeden-de-delutanra-mar-felszakadozhat-a-felhozet/"
+    },
+    {
+      "first_seen": "2026-11-08T19:00:01.298083Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Akár 1-2 kilométeres dugók is lehetnek: munkálatok kezdődnek a szegedi Bertalan hídon és az Algyői Tisza-hídon",
+      "url": "https://szeged365.hu/2026/11/08/akar-1-2-kilometeres-dugok-is-lehetnek-munkalatok-kezdodnek-a-szegedi-bertalan-hidon-es-az-algyoi-tisza-hidon/"
+    },
+    {
       "first_seen": "2026-11-08T16:02:07.285628Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "A szegedi Laura nem vetette meg a luxust, már 160 áldozatát azonosították a TikTok csalónak (frissítve)",
       "url": "https://szeged365.hu/2026/11/04/a-szegedi-laura-nem-vetette-meg-a-luxust-mar-160-aldozatat-azonositottak-a-tiktok-csalonak/"
-    },
-    {
-      "first_seen": "2026-11-06T07:08:49.537344Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyetemi tanulmányokba kezdett a Legszegedibb Sportoló díjas Báhidi Bence",
-      "url": "https://szeged365.hu/2026/11/06/egyetemi-tanulmanyokba-kezd-a-legszegedibb-sportolo-dijas-bahidi-bence/"
-    },
-    {
-      "first_seen": "2026-11-05T19:05:43.135651Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szombaton meccsnap a Szent Gellért Fórumban: a szegedi kék-feketék a Szentlőrinc csapatát fogadják",
-      "url": "https://szeged365.hu/2026/11/05/szombaton-meccsnap-a-szent-gellert-forumban-a-szegedi-kek-feketek-a-szentlorinc-csapatat-fogadjak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:02:07.285628Z"
+  "updated_at": "2026-11-08T19:00:01.298083Z"
 }

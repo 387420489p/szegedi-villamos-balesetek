@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-08T16:02:07.285628Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egykori tanítványa jelölte, végül ő lett a 2025-ös Legszegedibb Nő díj nyertese – Farkasné Székely Angéla most arra buzdít mindenkit, hogy szavazzon a 2026-os Legszegedibb Szegediek jelöltjeire (videó)",
+      "url": "https://szeged365.hu/2026/11/03/egykori-tanitvanya-jelolte-vegul-o-lett-a-2025-os-legszegedibb-no-dij-nyertese-farkasne-szekely-angela-most-arra-buzdit-mindenkit-hogy-szavazzon-a-2026-os-legszegedibb-szegediek-jeloltjeir/"
+    },
+    {
+      "first_seen": "2026-11-08T16:02:07.285628Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kevesebb eső, perzselő napsugárzás: egyre nehezebb a fák dolga Szegeden",
+      "url": "https://szeged365.hu/2026/11/08/kevesebb-eso-perzselo-napsugarzas-egyre-nehezebb-a-fak-dolga-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-08T16:02:07.285628Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyetlen szavazat is megváltoztathat egy életet – Kiszel Jennifer, Legszegedibb Zenész is szavazásra buzdít mindenkit a Legszegedibb Szegediek 2026-os versenyében!",
+      "url": "https://szeged365.hu/2026/11/08/egyetlen-szavazat-is-megvaltoztathat-egy-eletet-kiszel-jennifer-legszegedibb-zenesz-is-szavazasra-buzdit-mindenkit-a-legszegedibb-szegediek-2026-os-versenyeben/"
+    },
+    {
+      "first_seen": "2026-11-08T16:02:07.285628Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi cukiság: „a hangulat kutya jó volt!” – tacskók vonultak Szegeden két fontos ügyért (fotók és videó)",
+      "url": "https://szeged365.hu/2026/11/08/napi-cukisag-a-hangulat-kutya-jo-volt-tacskok-vonultak-szegeden-ket-fontos-ugyert-fotok-es-video/"
+    },
+    {
       "first_seen": "2026-11-08T13:01:13.045218Z",
       "published_at": "2026-11-08T00:00:00",
       "reason": "prefiltered",
@@ -87,14 +119,6 @@
       "source_name": "Szeged365",
       "title": "Háromszáz rendőrségi szakembert képeznek tovább Szegeden, 163,27 millió forintos uniós támogatással",
       "url": "https://szeged365.hu/2026/11/07/haromszaz-rendorsegi-szakembert-kepeznek-tovabb-szegeden-16327-millio-forintos-unios-tamogatassal/"
-    },
-    {
-      "first_seen": "2026-11-07T13:03:58.033082Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egykori tanítványa jelölte, végül ő lett a 2025-ös Legszegedibb Nő díj nyertese – Farkasné Székely Angéla most arra buzdít mindenkit, hogy szavazzon a 2026-os Legszegedibb Szegediek jelöltjeire (videó)",
-      "url": "https://szeged365.hu/2026/11/03/egykori-tanitvanya-jelolte-vegul-o-lett-a-2025-os-legszegedibb-no-dij-nyertese-farkasne-szekely-angela-most-arra-buzdit-mindenkit-hogy-szavazzon-a-2026-os-legszegedibb-szegediek-jeloltjeir/"
     },
     {
       "first_seen": "2026-11-07T13:03:58.033082Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szombaton meccsnap a Szent Gellért Fórumban: a szegedi kék-feketék a Szentlőrinc csapatát fogadják",
       "url": "https://szeged365.hu/2026/11/05/szombaton-meccsnap-a-szent-gellert-forumban-a-szegedi-kek-feketek-a-szentlorinc-csapatat-fogadjak/"
-    },
-    {
-      "first_seen": "2026-11-05T19:05:43.135651Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sapka, sál elővesz: fagyos lesz a csütörtök hajnal, -3 fok köré csökken a hőmérséklet Szegeden",
-      "url": "https://szeged365.hu/2026/11/05/fagyos-lesz-a-csutortok-hajnal-3-fok-kore-csokken-a-homerseklet-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-05T19:05:43.135651Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Országos modell alapjává válhat a szegedi Gyermekklinikán kidolgozott gyermekvédelmi protokoll",
-      "url": "https://szeged365.hu/2026/11/05/orszagos-modell-alapjava-valhat-a-szegedi-gyermekklinikan-kidolgozott-gyermekvedelmi-protokoll/"
-    },
-    {
-      "first_seen": "2026-11-05T16:06:36.315675Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi cukiság, második forduló: szépen cseperedik a szegedi pingvinfióka (fotók és videó)",
-      "url": "https://szeged365.hu/2026/11/05/napi-cukisag-masodik-fordulo-szepen-cseperedik-a-szegedi-pingvinfioka-fotok-es-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T13:01:13.045218Z"
+  "updated_at": "2026-11-08T16:02:07.285628Z"
 }

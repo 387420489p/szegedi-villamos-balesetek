@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-08T13:01:13.045218Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közös gokartozás és üzemanyag-támogatás: a szegedi Gokart Park vendégül látta az önkéntes tűzoltókat (videó)",
+      "url": "https://szeged365.hu/2026/11/08/kozos-gokartozas-es-uzemanyag-tamogatas-a-szegedi-gokart-park-vendegul-latta-az-onkentes-tuzoltokat-video/"
+    },
+    {
       "first_seen": "2026-11-08T10:05:42.046231Z",
       "published_at": "2026-11-08T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi cukiság, második forduló: szépen cseperedik a szegedi pingvinfióka (fotók és videó)",
       "url": "https://szeged365.hu/2026/11/05/napi-cukisag-masodik-fordulo-szepen-cseperedik-a-szegedi-pingvinfioka-fotok-es-video/"
-    },
-    {
-      "first_seen": "2026-11-05T16:06:36.315675Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újból tarolt a megállíthatatlan szegedi őrnagy: Pusztai Beáta két arannyal és egy világcsúccsal tért haza a fekvenyomó világbajnokságról",
-      "url": "https://szeged365.hu/2026/11/05/ujbol-tarolt-a-megallithatatlan-szegedi-ornagy-pusztai-beata-ket-arannyal-es-egy-vilagcsuccsal-tert-haza-a-fekvenyomo-vilagbajnoksagrol/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:05:42.046231Z"
+  "updated_at": "2026-11-08T13:01:13.045218Z"
 }

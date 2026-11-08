@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-08T10:05:42.046231Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét hatalmas robbanásszerű hangokat hallottak Szegeden",
+      "url": "https://szeged365.hu/2026/11/08/ismet-hatalmas-robbanasszeru-hangokat-hallottak-szegeden/"
+    },
+    {
       "first_seen": "2026-11-08T07:09:35.632871Z",
       "published_at": "2026-11-07T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újból tarolt a megállíthatatlan szegedi őrnagy: Pusztai Beáta két arannyal és egy világcsúccsal tért haza a fekvenyomó világbajnokságról",
       "url": "https://szeged365.hu/2026/11/05/ujbol-tarolt-a-megallithatatlan-szegedi-ornagy-pusztai-beata-ket-arannyal-es-egy-vilagcsuccsal-tert-haza-a-fekvenyomo-vilagbajnoksagrol/"
-    },
-    {
-      "first_seen": "2026-11-05T16:06:36.315675Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, indulhat a sörkaland? Cseh, bajor, belga és skót kedvencek várnak a Napfény Műteremben (videó)",
-      "url": "https://szeged365.hu/2026/11/05/szeged365-family-indulhat-a-sorkaland-cseh-bajor-belga-es-skot-kedvencek-varnak-a-napfeny-muteremben-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T07:09:35.632871Z"
+  "updated_at": "2026-11-08T10:05:42.046231Z"
 }

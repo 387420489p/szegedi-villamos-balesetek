@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-08T07:09:35.632871Z",
+      "published_at": "2026-11-07T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: hideg reggel, napos délután, és programokból sem lesz hiány Szegeden",
+      "url": "https://szeged365.hu/2026/11/07/napi-pakk-hideg-reggel-napos-delutan-es-egy-igazan-szivmelengeto-tacskofelvonulas-is-var-ma-rad-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-08T07:09:35.632871Z",
+      "published_at": "2026-11-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: a hideg reggel után napsütötte délután következik, és tacskók lepik el ma Szeged belvárosát",
+      "url": "https://szeged365.hu/2026/11/08/napi-pakk-a-hideg-reggel-utan-napsutotte-delutan-kovetkezik-es-tacskok-lepik-el-ma-szeged-belvarosat/"
+    },
+    {
       "first_seen": "2026-11-07T19:01:43.277709Z",
       "published_at": "2026-11-06T00:00:00",
       "reason": "prefiltered",
@@ -95,14 +111,6 @@
       "source_name": "Szeged365",
       "title": "Hosszú kerülő helyett 10 perc: elkészült az új út, amely közelebb hozza Gyálarétet és Tompaszigetet Szentmihályhoz (galéria)",
       "url": "https://szeged365.hu/2026/11/07/hosszu-kerulo-helyett-10-perc-elkeszult-az-uj-ut-amely-kozelebb-hozza-gyalaretet-es-tompaszigetet-szentmihalyhoz-galeria/"
-    },
-    {
-      "first_seen": "2026-11-07T07:09:19.151853Z",
-      "published_at": "2026-11-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hideg reggel, napos délután, és egy igazán szívmelengető tacskófelvonulás is vár ma rád Szegeden",
-      "url": "https://szeged365.hu/2026/11/07/napi-pakk-hideg-reggel-napos-delutan-es-egy-igazan-szivmelengeto-tacskofelvonulas-is-var-ma-rad-szegeden/"
     },
     {
       "first_seen": "2026-11-06T19:02:40.284583Z",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Family, indulhat a sörkaland? Cseh, bajor, belga és skót kedvencek várnak a Napfény Műteremben (videó)",
       "url": "https://szeged365.hu/2026/11/05/szeged365-family-indulhat-a-sorkaland-cseh-bajor-belga-es-skot-kedvencek-varnak-a-napfeny-muteremben-video/"
-    },
-    {
-      "first_seen": "2026-11-05T16:06:36.315675Z",
-      "published_at": "2026-11-05T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem akármilyen hétfő este közeleg Szegeden: Csík János és Őze Áron is színpadra lép az IH Rendezvényközpontban!",
-      "url": "https://szeged365.hu/2026/11/05/nem-akarmilyen-hetfo-este-kozeleg-szegeden-csik-janos-es-oze-aron-is-szinpadra-lep-az-ih-rendezvenykozpontban/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:01:43.277709Z"
+  "updated_at": "2026-11-08T07:09:35.632871Z"
 }

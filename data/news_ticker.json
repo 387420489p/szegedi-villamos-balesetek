@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-09T07:08:47.789588Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jégszobrász show, adventi gyertyagyújtás, fényfestés és Manó Műhely – megvan a Szeged Advent részletes programja, mutatjuk!",
+      "url": "https://szeged365.hu/2026/11/09/jegszobrasz-show-adventi-gyertyagyujtas-fenyfestes-es-mano-muhely-megvan-a-szeged-advent-reszletes-programja-mutatjuk/"
+    },
+    {
+      "first_seen": "2026-11-09T07:08:47.789588Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kisebb tűz keletkezett egy szegedi társasházban az éjjel",
+      "url": "https://szeged365.hu/2026/11/09/kisebb-tuz-keletkezett-egy-szegedi-tarsashazban-az-ejjel/"
+    },
+    {
+      "first_seen": "2026-11-09T07:08:47.789588Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhős égbolttal indul a hét Szegeden, és munkálatok indulnak a Bertalan hídon",
+      "url": "https://szeged365.hu/2026/11/09/napi-pakk-felhos-egbolttal-indul-a-het-szegeden-es-munkalatok-indulnak-a-bertalan-hidon/"
+    },
+    {
       "first_seen": "2026-11-08T19:00:01.298083Z",
       "published_at": "2026-11-08T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ez igen: behúzta az 500 km/h feletti sebességrekordot a Szegeden gyárat építő BYD",
       "url": "https://szeged365.hu/2026/11/06/ez-igen-behuzta-az-500-km-h-feletti-sebessegrekordot-a-szegeden-gyarat-epito-byd/"
-    },
-    {
-      "first_seen": "2026-11-06T10:02:31.588188Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltiltották a vezetéstől, mégis volán mögé ült egy szegedi férfi, büntetőeljárás indult ellene",
-      "url": "https://szeged365.hu/2026/11/06/eltiltottak-a-vezetestol-megis-volan-moge-ult-egy-szegedi-ferfi-buntetoeljaras-indult-ellene/"
-    },
-    {
-      "first_seen": "2026-11-06T10:02:31.588188Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is lesz Olasz Filmfesztivál, a 10 éve elhunyt Bud Spencer előtt is tisztelegnek",
-      "url": "https://szeged365.hu/2026/11/06/szegeden-is-lesz-olasz-filmfesztival-a-10-eve-elhunyt-bud-spencer-elott-tisztelegnek/"
-    },
-    {
-      "first_seen": "2026-11-06T07:08:49.537344Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szegedi Laura nem vetette meg a luxust, már 160 áldozatát azonosították a TikTok csalónak (frissítve)",
-      "url": "https://szeged365.hu/2026/11/04/a-szegedi-laura-nem-vetette-meg-a-luxust-mar-160-aldozatat-azonositottak-a-tiktok-csalonak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:00:01.298083Z"
+  "updated_at": "2026-11-09T07:08:47.789588Z"
 }

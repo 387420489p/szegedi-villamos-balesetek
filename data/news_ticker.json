@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-10T07:08:32.135343Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem támogatja a kormány, hogy megvonják az építményadó-mentességet a BYD-tól Szegeden",
+      "url": "https://szeged365.hu/2026/11/10/nem-tamogatja-a-kormany-hogy-megvonjak-az-epitmenyado-mentesseget-a-byd-tol-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-10T07:08:32.135343Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Le a kalappal: egy rangos nemzetközi fesztiválon, Jerevánban képviselte városunk kultúráját a Szegedi Pinceszínház",
+      "url": "https://szeged365.hu/2026/11/10/le-a-kalappal-egy-rangos-nemzetkozi-fesztivalon-jerevanban-kepviselte-varosunk-kulturajat-a-szegedi-pinceszinhaz/"
+    },
+    {
+      "first_seen": "2026-11-10T07:08:32.135343Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: esőt hoz a kedd Szegedre és Bud Spencerre emlékeznek a ma induló Olasz Filmfesztiválon",
+      "url": "https://szeged365.hu/2026/11/10/napi-pakk-esot-hoz-a-kedd-szegedre-es-bud-spencerre-emlekeznek-a-ma-indulo-olasz-filmfesztivalon/"
+    },
+    {
+      "first_seen": "2026-11-10T07:08:32.135343Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Szeged365 kommentmezőtől a T-Roc volán mögé: robbant a hangulat, megvannak a Nagy Szegedi SUV-kvíz nyertesei!",
+      "url": "https://szeged365.hu/2026/11/09/a-szeged365-kommentmezotol-a-t-roc-volan-moge-robbant-a-hangulat-megvannak-a-nagy-szegedi-suv-kviz-nyertesei/"
+    },
+    {
       "first_seen": "2026-11-09T19:09:01.308671Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Közös gokartozás és üzemanyag-támogatás: a szegedi Gokart Park vendégül látta az önkéntes tűzoltókat (videó)",
       "url": "https://szeged365.hu/2026/11/08/kozos-gokartozas-es-uzemanyag-tamogatas-a-szegedi-gokart-park-vendegul-latta-az-onkentes-tuzoltokat-video/"
-    },
-    {
-      "first_seen": "2026-11-08T10:05:42.046231Z",
-      "published_at": "2026-11-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ismét hatalmas robbanásszerű hangokat hallottak Szegeden",
-      "url": "https://szeged365.hu/2026/11/08/ismet-hatalmas-robbanasszeru-hangokat-hallottak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-08T07:09:35.632871Z",
-      "published_at": "2026-11-07T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: hideg reggel, napos délután, és programokból sem lesz hiány Szegeden",
-      "url": "https://szeged365.hu/2026/11/07/napi-pakk-hideg-reggel-napos-delutan-es-egy-igazan-szivmelengeto-tacskofelvonulas-is-var-ma-rad-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-08T07:09:35.632871Z",
-      "published_at": "2026-11-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: a hideg reggel után napsütötte délután következik, és tacskók lepik el ma Szeged belvárosát",
-      "url": "https://szeged365.hu/2026/11/08/napi-pakk-a-hideg-reggel-utan-napsutotte-delutan-kovetkezik-es-tacskok-lepik-el-ma-szeged-belvarosat/"
-    },
-    {
-      "first_seen": "2026-11-07T19:01:43.277709Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Válaszolt a Magyar Posta: vízbeszivárgási problémák miatt zárták le az akadálymentes bejáratot Szegeden, egyelőre ügyfélhívó csengőt helyeznek ki",
-      "url": "https://szeged365.hu/2026/11/06/a-nyilvanossag-ereje-cikkunk-nyoman-megoldodhat-egy-mozgasserult-olvasonk-problemaja/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:09:01.308671Z"
+  "updated_at": "2026-11-10T07:08:32.135343Z"
 }

@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-11T19:02:19.045348Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "SZKT: “Folyamatosan dolgozunk a szegedi parkolóautomaták bankkártyás fizetési szolgáltatásának helyreállításán”",
+      "url": "https://szeged365.hu/2026/11/10/szkt-folyamatosan-dolgozunk-a-szegedi-parkoloautomatak-bankkartyas-fizetesi-szolgaltatasanak-helyreallitasan/"
+    },
+    {
+      "first_seen": "2026-11-11T19:02:19.045348Z",
+      "published_at": "2026-11-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Néhány deciméternyi vízen is múlhat: értékes Csongrád-Csanád megyei láprétek megőrzésén dolgoznak a szegedi kutatók (galéria)",
+      "url": "https://szeged365.hu/2026/11/11/nehany-decimeternyi-vizen-is-mulhat-ertekes-csongrad-csanad-megyei-lapretek-megorzesen-dolgoznak-a-szegedi-kutatok-galeria/"
+    },
+    {
+      "first_seen": "2026-11-11T19:02:19.045348Z",
+      "published_at": "2026-11-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Te is színpadra léphetsz a Szegedi Szabadtérin: statisztákat keresnek a Miss Saigon bemutatójához, mutatjuk a részleteket!",
+      "url": "https://szeged365.hu/2026/11/11/te-is-szinpadra-lephetsz-a-szegedi-szabadterin-statisztakat-keresnek-a-miss-saigon-bemutatojahoz-mutatjuk-a-reszleteket/"
+    },
+    {
+      "first_seen": "2026-11-11T19:02:19.045348Z",
+      "published_at": "2026-11-11T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nem tágítanak a felhők: folytatódik a szürke, esős idő Szegeden",
+      "url": "https://szeged365.hu/2026/11/11/nem-tagitanak-a-felhok-folytatodik-a-szurke-esos-ido-szegeden/"
+    },
+    {
       "first_seen": "2026-11-11T16:09:01.543171Z",
       "published_at": "2026-11-10T00:00:00",
       "reason": "prefiltered",
@@ -209,14 +241,6 @@
       "url": "https://szeged365.hu/2026/11/10/ne-tedd-messzire-az-esernyot-borongos-esos-idovel-folytatodik-a-het-szegeden/"
     },
     {
-      "first_seen": "2026-11-10T19:05:50.803130Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "SZKT: “Folyamatosan dolgozunk a szegedi parkolóautomaták bankkártyás fizetési szolgáltatásának helyreállításán”",
-      "url": "https://szeged365.hu/2026/11/10/szkt-folyamatosan-dolgozunk-a-szegedi-parkoloautomatak-bankkartyas-fizetesi-szolgaltatasanak-helyreallitasan/"
-    },
-    {
       "first_seen": "2026-11-10T16:08:57.809620Z",
       "published_at": "2026-11-03T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "39 millió forintból újul meg Szeged egyik forgalmas körútjának kerékpárútja – mutatjuk a részleteket (galéria)",
       "url": "https://szeged365.hu/2026/11/10/39-millio-forintbol-ujul-meg-szeged-egyik-forgalmas-korutjanak-kerekparutja-mutatjuk-a-reszleteket-galeria/"
-    },
-    {
-      "first_seen": "2026-11-10T16:08:57.809620Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem kell egyedül megküzdened szeretted ápolásával! Mutatjuk, hogyan segít a Care Point Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/11/10/nem-kell-egyedul-megkuzdened-szeretted-apolasaval-mutatjuk-hogyan-segit-a-care-point-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-11-10T13:07:06.312242Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: esőt hoz a kedd Szegedre és Bud Spencerre emlékeznek a ma induló Olasz Filmfesztiválon",
-      "url": "https://szeged365.hu/2026/11/10/napi-pakk-esot-hoz-a-kedd-szegedre-es-bud-spencerre-emlekeznek-a-ma-indulo-olasz-filmfesztivalon/"
-    },
-    {
-      "first_seen": "2026-11-10T13:07:06.312242Z",
-      "published_at": "2026-11-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egekben a temetkezés ára: Szegeden a temetések 87%-a már hamvasztásos, de ennek több oka is van",
-      "url": "https://szeged365.hu/2026/11/09/egekben-a-temetkezes-ara-szegeden-a-temetesek-87-a-mar-hamvasztasos-de-ennek-tobb-oka-is-van/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:09:01.543171Z"
+  "updated_at": "2026-11-11T19:02:19.045348Z"
 }

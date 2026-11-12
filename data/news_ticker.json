@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Botka László: “Szeged megkapta az MTA Honoris Causa Tudománybarát Település elismerését!”",
+      "url": "https://szeged365.hu/2026/11/12/botka-laszlo-szeged-megkapta-az-mta-honoris-causa-tudomanybarat-telepules-elismereset/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Egy kicsit megdobbant a szívem” – megérkezett az új Audi Q7 a Porsche Szegedhez, Nagy Lajos már meg is mutatta nekünk (videó)",
+      "url": "https://szeged365.hu/2026/11/12/egy-kicsit-megdobbant-a-szivem-megerkezett-az-uj-audi-q7-a-porsche-szegedhez-nagy-lajos-mar-meg-is-mutatta-nekunk-video/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "November elejéig 257 lakóépület gyulladt ki Csongrád-Csanád megyében, a legtöbb embert a szegedi Vértói útról szállították kórházba",
+      "url": "https://szeged365.hu/2026/11/12/november-elejeig-257-lakoepulet-gyulladt-ki-csongrad-csanad-megyeben-a-legtobb-embert-a-szegedi-vertoi-utrol-szallitottak-korhazba/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Legszegedibb Gyógyító, Dr. Rokszin Richárd is szavazásra motivál mindenkit a 2026-os Legszegedibb Szegediek versenyen! (videó)",
+      "url": "https://szeged365.hu/2026/11/12/a-legszegedibb-gyogyito-dr-rokszin-richard-is-szavazasra-motival-mindenkit-a-2026-os-legszegedibb-szegediek-versenyen-video/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egész évben másokra figyelsz? Az ünnepekre magadnak is válassz a szegedi Context Woman kínálatából! (videó)",
+      "url": "https://szeged365.hu/2026/11/12/egesz-evben-masokra-figyelsz-az-unnepekre-magadnak-is-valassz-a-szegedi-context-woman-kinalatabol-video/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas büszkeség: négy szegedi versenyző is van “2026 legjobbja” kajak-kenu díjazottjai között",
+      "url": "https://szeged365.hu/2026/11/12/hatalmas-buszkeseg-negy-szegedi-versenyzo-is-van-2026-legjobbja-kajak-kenu-dijazottjai-kozott/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napközben zakóban helytáll, este pulóverben lazít: a szegedi Context Men kínálatában a párod mindkét szettjét megtalálod (videó)",
+      "url": "https://szeged365.hu/2026/11/03/napkozben-zakoban-helytall-este-puloverben-lazit-a-szegedi-context-men-kinalataban-a-parod-mindket-szettjet-megtalalod-video/"
+    },
+    {
+      "first_seen": "2026-11-12T16:02:09.575811Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Fontos elismernünk azt, hogy igenis szükségünk van jó tanítókra” – a 2025-ös Legszegedibb Tanító díj nyertese, Prónay Szabolcs, mindenkit arra bíztat, hogy szavazzon az idei Legszegedibb Szegediek jelöltjeire (videó)",
+      "url": "https://szeged365.hu/2026/11/04/fontos-elismernunk-azt-hogy-igenis-szuksegunk-van-jo-tanitokra-a-2025-os-legszegedibb-tanito-dij-nyertese-pronay-szabolcs-mindenkit-arra-biztat-hogy-szavazzon-az-idei-l/"
+    },
+    {
       "first_seen": "2026-11-12T13:06:34.291289Z",
       "published_at": "2026-11-06T00:00:00",
       "reason": "prefiltered",
@@ -255,72 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ozzy Osbourne búcsúkoncertje, csillagok közötti utazás és egy rekorddöntő magyar film – izgalmas hét vár a Belvárosi Moziban",
       "url": "https://szeged365.hu/2026/11/11/ozzy-osbourne-bucsukoncertje-csillagok-kozotti-utazas-es-egy-rekorddonto-magyar-film-izgalmas-het-var-a-belvarosi-moziban/"
-    },
-    {
-      "first_seen": "2026-11-11T13:08:06.560414Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Határérték feletti az ivóvíz arzéntartalma nyolc Szeged környéki településen",
-      "url": "https://szeged365.hu/2026/11/11/hatarertek-feletti-az-ivoviz-arzentartalma-nyolc-szeged-kornyeki-telepulesen/"
-    },
-    {
-      "first_seen": "2026-11-11T13:08:06.560414Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Emelt szintű karbantartást végeznek Szeged és Hódmezővásárhely között, éjszakánként pótlóbuszozni kell a vonatok és a tram-trainek helyett, és félpályás útlezárás is lesz",
-      "url": "https://szeged365.hu/2026/11/11/emelt-szintu-karbantartast-vegeznek-szeged-es-hodmezovasarhely-kozott-ejszakankent-potlobuszozni-kell-a-vonatok-es-a-tram-trainek-helyett-es-felpalyas-utlezaras-is-lesz/"
-    },
-    {
-      "first_seen": "2026-11-11T13:08:06.560414Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Holnap egy humanoid robottal is találkozhatsz Szegeden, de a java csak most jön! Mutatjuk, kik miatt lesz érdemes benézni a TIK-be!",
-      "url": "https://szeged365.hu/2026/11/11/holnap-egy-humanoid-robottal-is-talalkozhatsz-szegeden-de-a-java-csak-most-jon-mutatjuk-kik-miatt-lesz-erdemes-benezni-a-tik-be/"
-    },
-    {
-      "first_seen": "2026-11-11T13:08:06.560414Z",
-      "published_at": "2026-11-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi prosztó: beszólt egy fiatal nőnek, majd önkielégítést végezhetett egy férfi az újszegedi Ligetben",
-      "url": "https://szeged365.hu/2026/11/09/napi-proszto-beszolt-egy-fiatal-nonek-majd-onkielegitest-vegezhetett-egy-ferfi-az-ujszegedi-ligetben/"
-    },
-    {
-      "first_seen": "2026-11-11T13:08:06.560414Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Baleset történt Szeged belvárosában, villamospótló autóbuszok közlekednek",
-      "url": "https://szeged365.hu/2026/11/11/baleset-tortent-szeged-belvarosaban-villamospotlo-autobuszok-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-11-11T10:02:34.019891Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fesztivált rendez korábbi hallgatóinak a Szegedi Tudományegyetem, szakmai, kulturális, irodalmi és közösségi programokkal készülnek",
-      "url": "https://szeged365.hu/2026/11/10/fesztivalt-rendez-korabbi-hallgatoinak-a-szegedi-tudomanyegyetem-szakmai-kulturalis-irodalmi-es-kozossegi-programokkal-keszulnek/"
-    },
-    {
-      "first_seen": "2026-11-11T10:02:34.019891Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Új projekt indul: olvasókörök és könyvklubok jelentkezését várja a Kultúrtérkép Szegeden",
-      "url": "https://szeged365.hu/2026/11/11/uj-projekt-indul-olvasokorok-es-konyvklubok-jelentkezeset-varja-a-kulturterkep-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-11T10:02:34.019891Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Két zónában már minden parkolóautomata működése helyreállt Szegeden, a kék zónában azonban még dolgoznak a szakemberek",
-      "url": "https://szeged365.hu/2026/11/11/ket-zonaban-mar-minden-parkoloautomata-mukodese-helyreallt-szegeden-a-kek-zonaban-azonban-meg-dolgoznak-a-szakemberek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-12T13:06:34.291289Z"
+  "updated_at": "2026-11-12T16:02:09.575811Z"
 }

@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "V6-os motorok, quattro hajtás, akár hét ülés: megérkezett az új Audi Q7 a Porsche Szegedhez (videó)",
+      "url": "https://szeged365.hu/2026/11/12/egy-kicsit-megdobbant-a-szivem-megerkezett-az-uj-audi-q7-a-porsche-szegedhez-nagy-lajos-mar-meg-is-mutatta-nekunk-video/"
+    },
+    {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Új fejezet az orvosbiológiai kutatásokban: a szegedi HCEMM csatlakozik a HUN-REN hálózatához",
+      "url": "https://szeged365.hu/2026/11/13/uj-fejezet-az-orvosbiologiai-kutatasokban-a-szegedi-hcemm-csatlakozik-a-hun-ren-halozatahoz/"
+    },
+    {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy helyes választól a Sportcsarnok nézőteréig: megvannak a QUEEN POP-ROCK SYMPHONIC LIVE játékunk nyertesei!",
+      "url": "https://szeged365.hu/2026/11/13/egy-helyes-valasztol-a-sportcsarnok-nezotereig-megvannak-a-queen-pop-rock-symphonic-live-jatekunk-nyertesei/"
+    },
+    {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-12-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyenesen Dél-Karolinából érkezik az ünnepi hangulat: világszínvonalú amerikai gospel-show robban be a Szegedi Nemzeti Színházba! (videókkal)",
+      "url": "https://szeged365.hu/2026/11/13/egyenesen-del-karolinabol-erkezik-az-unnepi-hangulat-vilagszinvonalu-amerikai-gospel-show-robban-be-a-szegedi-nemzeti-szinhazba-videokkal/"
+    },
+    {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megáll az ész: sártengerré vált a zöldterület az egyik újszegedi csomagpont környékén (galéria)",
+      "url": "https://szeged365.hu/2026/11/13/megall-az-esz-sartengerre-valt-a-zoldterulet-az-egyik-ujszegedi-csomagpont-kornyeken-galeria/"
+    },
+    {
+      "first_seen": "2026-11-13T16:08:38.928243Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Molnár János, a szegedi Orvostudományi Karának egykori tanszékvezetője és a szegedi orvosképzés meghatározó alakja",
+      "url": "https://szeged365.hu/2026/11/13/elhunyt-molnar-janos-a-szegedi-orvostudomanyi-karanak-egykori-tanszekvezetoje-es-a-szegedi-orvoskepzes-meghatarozo-alakja/"
+    },
+    {
       "first_seen": "2026-11-13T13:05:32.290422Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -197,14 +245,6 @@
       "published_at": "2026-11-12T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "„Egy kicsit megdobbant a szívem” – megérkezett az új Audi Q7 a Porsche Szegedhez, Nagy Lajos már meg is mutatta nekünk (videó)",
-      "url": "https://szeged365.hu/2026/11/12/egy-kicsit-megdobbant-a-szivem-megerkezett-az-uj-audi-q7-a-porsche-szegedhez-nagy-lajos-mar-meg-is-mutatta-nekunk-video/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "November elejéig 257 lakóépület gyulladt ki Csongrád-Csanád megyében, a legtöbb embert a szegedi Vértói útról szállították kórházba",
       "url": "https://szeged365.hu/2026/11/12/november-elejeig-257-lakoepulet-gyulladt-ki-csongrad-csanad-megyeben-a-legtobb-embert-a-szegedi-vertoi-utrol-szallitottak-korhazba/"
     },
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ezt megcsinálták a szegediek! Másodszor is országos díjat nyert a Novotel Szeged, most megmutatjuk, kik állnak a hatalmas siker mögött (videó)",
       "url": "https://szeged365.hu/2026/11/12/ezt-megcsinaltak-a-szegediek-masodszor-is-orszagos-dijat-nyert-a-novotel-szeged-most-megmutatjuk-kik-allnak-a-hatalmas-siker-mogott-video/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Most a Plazában mozgat meg a Global Fitness: ingyenes tanácsadással, mini edzésekkel és nyereményes kihívásokkal várnak a hétvégi Egészség & Szépség EXPO-n",
-      "url": "https://szeged365.hu/2026/11/12/most-a-plazaban-mozgat-meg-a-global-fitness-ingyenes-tanacsadassal-mini-edzesekkel-es-nyeremenyes-kihivasokkal-varnak-a-hetvegi-egeszseg-szepseg-expo-n/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, ezt szívből ajánljuk! November 21-én bárki díjmentesen benézhet egy igazi filmfesztiválra Szegeden! (videó)",
-      "url": "https://szeged365.hu/2026/11/12/szeged365-family-ezt-szivbol-ajanljuk-november-21-en-barki-dijmentesen-benezhet-egy-igazi-filmfesztivalra-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Égi áldás: már több mint 35 mm eső esett Szeged környékén",
-      "url": "https://szeged365.hu/2026/11/12/egi-aldas-mar-tobb-mint-35-mm-eso-esett-szeged-kornyeken/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megvan, ki vitte el az 500 ezer forintos fődíjat Szegeden! Ott voltunk a Szent Vincent Rehabilitációs Központ születésnapi sorsolásán, mutatjuk az összes nyertest (videó)",
-      "url": "https://szeged365.hu/2026/11/12/megvan-ki-vitte-el-az-500-ezer-forintos-fodijat-szegeden-ott-voltunk-a-szent-vincent-rehabilitacios-kozpont-szuletesnapi-sorsolasan-mutatjuk-az-osszes-nyertest-video/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "ai_rejected",
-      "source_name": "Szeged365",
-      "title": "Az SZKT pályázatot hirdet: eladó szegedi villamost tessék!",
-      "url": "https://szeged365.hu/2026/11/12/az-szkt-palyazatot-hirdet-elado-szegedi-villamost-tessek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T13:05:32.290422Z"
+  "updated_at": "2026-11-13T16:08:38.928243Z"
 }

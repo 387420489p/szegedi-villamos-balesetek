@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-13T07:01:11.118633Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Marilyn Monroe életét dolgozta fel a Szegedi Kortárs Balett, a sztárlétről szól az új produkció",
+      "url": "https://szeged365.hu/2026/11/13/marilyn-monroe-eletet-dolgozta-fel-a-szegedi-kortars-balett-a-sztarletrol-szol-az-uj-produkcio/"
+    },
+    {
+      "first_seen": "2026-11-13T07:01:11.118633Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: marad az esős idő, elstartol az SZTE fesztiválja",
+      "url": "https://szeged365.hu/2026/11/13/napi-pakk-marad-az-esos-ido-elrajtol-az-szte-fesztivalja-ma-is-var-a-naturtex-outlet-vasara/"
+    },
+    {
       "first_seen": "2026-11-12T19:06:49.047882Z",
       "published_at": "2026-11-12T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Nem tágítanak a felhők: folytatódik a szürke, esős idő Szegeden",
       "url": "https://szeged365.hu/2026/11/11/nem-tagitanak-a-felhok-folytatodik-a-szurke-esos-ido-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-11T16:09:01.543171Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kinevezték az új kancellárt: Prof. Dr. Buzás Norbert váltja Dr. Fendler Juditot",
-      "url": "https://szeged365.hu/2026/11/10/kineveztek-az-uj-kancellart-prof-dr-buzas-norbert-valtja-dr-fendler-juditot/"
-    },
-    {
-      "first_seen": "2026-11-11T16:09:01.543171Z",
-      "published_at": "2026-11-11T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nagy Sándor: „Szeged szebb lesz, mint volt!” – elkészült a Szilléri sugárúti tömbbelső átalakítása (galéria)",
-      "url": "https://szeged365.hu/2026/11/11/nagy-sandor-szeged-szebb-lesz-mint-volt-elkeszult-a-szilleri-sugaruti-tombbelso-atalakitasa-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-12T19:06:49.047882Z"
+  "updated_at": "2026-11-13T07:01:11.118633Z"
 }

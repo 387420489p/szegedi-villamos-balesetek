@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-13T19:08:24.959706Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Ez a mérkőzés egy döntővel ér fel!” – újabb fontos hazai meccs vár a Szedeákra, a Pécs érkezik Szegedre",
+      "url": "https://szeged365.hu/2026/11/13/ez-a-merkozes-egy-dontovel-er-fel-ujabb-fontos-hazai-meccs-var-a-szedeakra-a-pecs-erkezik-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-13T19:08:24.959706Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Búcsúznak a felhők: szombaton végre kisüt a nap Szegeden",
+      "url": "https://szeged365.hu/2026/11/13/bucsuznak-a-felhok-szombaton-vegre-kisut-a-nap-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-13T19:08:24.959706Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szombaton mindenkire nagy szükségünk lesz” – a PICK Aréna ad otthont a legendás Szeged–Veszprém párharc újabb fejezetének",
+      "url": "https://szeged365.hu/2026/11/13/szombaton-mindenkire-nagy-szuksegunk-lesz-a-pick-arena-ad-otthont-a-legendas-szeged-veszprem-parharc-ujabb-fejezetenek/"
+    },
+    {
       "first_seen": "2026-11-13T16:08:38.928243Z",
       "published_at": "2026-11-12T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Family, ezt hallanotok kell! Détári Vilmos olyan bejelentést tett, ami sok családnak jelenthet könnyebbséget Szegeden (videó)",
       "url": "https://szeged365.hu/2026/11/12/szeged365-family-ezt-hallanotok-kell-detari-vilmos-olyan-bejelentest-tett-ami-sok-csaladnak-jelenthet-konnyebbseget-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Felújíták a Szent-Györgyi Albert teret és a Somogyi utca egy szakaszát, de a forgalmat is gyorsítják Szegeden",
-      "url": "https://szeged365.hu/2026/11/12/felujitak-a-szent-gyorgyi-albert-teret-es-a-somogyi-utca-egy-szakaszat-de-a-forgalmat-is-gyorsitjak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Ő mindig másokon segített, most rajtunk a sor!” – Alapítvány őrzi tovább a tragikusan elhunyt szegedi tűzoltó, Fülöp Gábor emlékét",
-      "url": "https://szeged365.hu/2026/11/12/o-mindig-masokon-segitett-most-rajtunk-a-sor-alapitvany-orzi-tovabb-a-tragikusan-elhunyt-szegedi-tuzolto-fulop-gabor-emleket/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt megcsinálták a szegediek! Másodszor is országos díjat nyert a Novotel Szeged, most megmutatjuk, kik állnak a hatalmas siker mögött (videó)",
-      "url": "https://szeged365.hu/2026/11/12/ezt-megcsinaltak-a-szegediek-masodszor-is-orszagos-dijat-nyert-a-novotel-szeged-most-megmutatjuk-kik-allnak-a-hatalmas-siker-mogott-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:08:38.928243Z"
+  "updated_at": "2026-11-13T19:08:24.959706Z"
 }

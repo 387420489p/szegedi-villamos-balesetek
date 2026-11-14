@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-14T16:03:49.756808Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, készen álltok? Nem sokára érkezik a Dugonics térre Rudi! (galériák)",
+      "url": "https://szeged365.hu/2026/11/14/szeged365-family-keszen-alltok-nem-sokara-erkezik-a-dugonics-terre-rudi-galeriak/"
+    },
+    {
+      "first_seen": "2026-11-14T16:03:49.756808Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb szuper szegedi sporthír: Kéri Valentina kick-box Európa-bajnoki bronzérmes lett",
+      "url": "https://szeged365.hu/2026/11/14/ujabb-szuper-szegedi-sporthir-keri-valentina-kick-box-europa-bajnoki-bronzermes-lett/"
+    },
+    {
+      "first_seen": "2026-11-14T16:03:49.756808Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Imádják a szegediek a Képregényfesztivált a Somogyi-könyvtárban – mi is kilátogattunk (galéria)",
+      "url": "https://szeged365.hu/2026/11/14/imadjak-a-szegediek-a-kepregenyfesztivalt-a-somogyi-konyvtarban-mi-is-kilatogattunk-galeria/"
+    },
+    {
+      "first_seen": "2026-11-14T16:03:49.756808Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Órási szegedi győzelem – kempo és K-1 világbajnokot győzött le Szalai Gréta élete első profi meccsén (Szeged365 videóval)",
+      "url": "https://szeged365.hu/2026/11/14/orasi-szegedi-gyozelem-kempo-es-k-1-vilagbajnokot-gyozott-le-szalai-greta-elete-elso-profi-meccsen-szeged365-videoval/"
+    },
+    {
       "first_seen": "2026-11-14T13:01:51.909888Z",
       "published_at": "2026-11-14T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Még egy nap esős időt kapunk a nyakunkba, majd a hétvégén visszatér a napsütés Szegedre",
       "url": "https://szeged365.hu/2026/11/12/meg-egy-nap-esos-idot-kapunk-a-nyakunkba-majd-a-hetvegen-visszater-a-napsutes-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-12T19:06:49.047882Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nem semmi: kétszeres kick-box Európa-bajnok lett Kovács Marianna!",
-      "url": "https://szeged365.hu/2026/11/12/nem-semmi-ketszeres-kick-box-europa-bajnok-lett-kovacs-marianna/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Botka László: “Szeged megkapta az MTA Honoris Causa Tudománybarát Település elismerését!”",
-      "url": "https://szeged365.hu/2026/11/12/botka-laszlo-szeged-megkapta-az-mta-honoris-causa-tudomanybarat-telepules-elismereset/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "November elejéig 257 lakóépület gyulladt ki Csongrád-Csanád megyében, a legtöbb embert a szegedi Vértói útról szállították kórházba",
-      "url": "https://szeged365.hu/2026/11/12/november-elejeig-257-lakoepulet-gyulladt-ki-csongrad-csanad-megyeben-a-legtobb-embert-a-szegedi-vertoi-utrol-szallitottak-korhazba/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egész évben másokra figyelsz? Az ünnepekre magadnak is válassz a szegedi Context Woman kínálatából! (videó)",
-      "url": "https://szeged365.hu/2026/11/12/egesz-evben-masokra-figyelsz-az-unnepekre-magadnak-is-valassz-a-szegedi-context-woman-kinalatabol-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:01:51.909888Z"
+  "updated_at": "2026-11-14T16:03:49.756808Z"
 }

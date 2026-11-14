@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-14T07:05:39.399365Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéses szombatnak nézünk elébe, jön a PICK Szeged-Veszprém meccs, és képregényfesztivált is szerveznek ma Szegeden",
+      "url": "https://szeged365.hu/2026/11/14/napi-pakk-napsuteses-szombatnak-nezunk-elebe-szegeden-kepregenyfesztival-egeszseg-szepseg-expo-es-koncertek-is-lesznek-ma-a-varosban/"
+    },
+    {
       "first_seen": "2026-11-13T19:08:24.959706Z",
       "published_at": "2026-11-13T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: csütörtökön is folytatódik az esős idő Szegeden, és AI és robotok szállják meg a TIK-et",
       "url": "https://szeged365.hu/2026/11/12/napi-pakk-csutortokon-is-folytatodik-az-esos-ido-szegeden-es-ai-es-robotok-szalljak-meg-a-tik-et/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, ezt hallanotok kell! Détári Vilmos olyan bejelentést tett, ami sok családnak jelenthet könnyebbséget Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/11/12/szeged365-family-ezt-hallanotok-kell-detari-vilmos-olyan-bejelentest-tett-ami-sok-csaladnak-jelenthet-konnyebbseget-szegeden-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:08:24.959706Z"
+  "updated_at": "2026-11-14T07:05:39.399365Z"
 }

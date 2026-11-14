@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-14T13:01:51.909888Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi siker: Szabó Ádám gokartversenyző világbajnok lett Portugáliában (videó)",
+      "url": "https://szeged365.hu/2026/11/14/oriasi-szegedi-siker-szabo-adam-gokartversenyzo-vilagbajnok-lett-portugaliaban-video/"
+    },
+    {
+      "first_seen": "2026-11-14T13:01:51.909888Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Amikor a rock, a big band és a szimfonikus hangzás összeér a Queen dalaiban – Szegedre érkezik a nagyszabású koncert",
+      "url": "https://szeged365.hu/2026/11/14/amikor-a-rock-a-big-band-es-a-szimfonikus-hangzas-osszeer-a-queen-dalaiban-szegedre-erkezik-a-nagyszabasu-koncert/"
+    },
+    {
+      "first_seen": "2026-11-14T13:01:51.909888Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jó hírt közölt Nagy Sándor: több szegedi utcában is nagy erőkkel zajlik az útfelújítás",
+      "url": "https://szeged365.hu/2026/11/14/jo-hirt-kozolt-nagy-sandor-nagy-erokkel-zajlik-a-valasztokeruleteben-az-utfelujitas/"
+    },
+    {
       "first_seen": "2026-11-14T10:04:38.001171Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Egész évben másokra figyelsz? Az ünnepekre magadnak is válassz a szegedi Context Woman kínálatából! (videó)",
       "url": "https://szeged365.hu/2026/11/12/egesz-evben-masokra-figyelsz-az-unnepekre-magadnak-is-valassz-a-szegedi-context-woman-kinalatabol-video/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatalmas büszkeség: négy szegedi versenyző is van “2026 legjobbja” kajak-kenu díjazottjai között",
-      "url": "https://szeged365.hu/2026/11/12/hatalmas-buszkeseg-negy-szegedi-versenyzo-is-van-2026-legjobbja-kajak-kenu-dijazottjai-kozott/"
-    },
-    {
-      "first_seen": "2026-11-12T16:02:09.575811Z",
-      "published_at": "2026-11-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napközben zakóban helytáll, este pulóverben lazít: a szegedi Context Men kínálatában a párod mindkét szettjét megtalálod (videó)",
-      "url": "https://szeged365.hu/2026/11/03/napkozben-zakoban-helytall-este-puloverben-lazit-a-szegedi-context-men-kinalataban-a-parod-mindket-szettjet-megtalalod-video/"
-    },
-    {
-      "first_seen": "2026-11-12T13:06:34.291289Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: faggyal indul a reggel Szegeden, estefelé pedig újra jön a Light Friday",
-      "url": "https://szeged365.hu/2026/11/06/napi-pakk-faggyal-indul-a-reggel-szegeden-estefele-pedig-ujra-jon-a-light-friday/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:04:38.001171Z"
+  "updated_at": "2026-11-14T13:01:51.909888Z"
 }

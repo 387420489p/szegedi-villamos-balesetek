@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-14T19:02:17.912540Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási csatában döntetlen: 30–30 a Szeged–Veszprém szuperrangadón",
+      "url": "https://szeged365.hu/2026/11/14/oriasi-csataban-dontetlen-30-30-a-szeged-veszprem-szuperrangadon/"
+    },
+    {
       "first_seen": "2026-11-14T16:03:49.756808Z",
       "published_at": "2026-11-14T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Óriási tócsák a Rókusi körúton: kellemetlen lehet, ha valakit “telibe kap”",
       "url": "https://szeged365.hu/2026/11/12/oriasi-tocsak-a-rokusi-koruton-kellemetlen-lehet-ha-valakit-telibe-kap/"
-    },
-    {
-      "first_seen": "2026-11-12T19:06:49.047882Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Még egy nap esős időt kapunk a nyakunkba, majd a hétvégén visszatér a napsütés Szegedre",
-      "url": "https://szeged365.hu/2026/11/12/meg-egy-nap-esos-idot-kapunk-a-nyakunkba-majd-a-hetvegen-visszater-a-napsutes-szegedre/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:03:49.756808Z"
+  "updated_at": "2026-11-14T19:02:17.912540Z"
 }

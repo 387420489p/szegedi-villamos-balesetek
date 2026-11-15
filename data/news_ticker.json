@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-15T16:01:41.932880Z",
+      "published_at": "2026-11-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elkészült a MÁV új menetrendje, minden vonat hamarabb indul Szegedről Budapestre és nő a menetidő",
+      "url": "https://szeged365.hu/2026/11/15/elkeszult-a-mav-uj-menetrendje-minden-vonat-hamarabb-indul-szegedrol-budapestre-es-no-a-menetido/"
+    },
+    {
+      "first_seen": "2026-11-15T16:01:41.932880Z",
+      "published_at": "2026-11-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ismét hatalmas a torlódás az M5-ösön, ezúttal Kecskemétnél",
+      "url": "https://szeged365.hu/2026/11/15/ismet-hatalmas-a-torlodas-az-m5-oson-ezuttal-kecskemetnel/"
+    },
+    {
       "first_seen": "2026-11-15T13:07:51.917349Z",
       "published_at": "2026-11-14T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Marilyn Monroe életét dolgozta fel a Szegedi Kortárs Balett, a sztárlétről szól az új produkció",
       "url": "https://szeged365.hu/2026/11/13/marilyn-monroe-eletet-dolgozta-fel-a-szegedi-kortars-balett-a-sztarletrol-szol-az-uj-produkcio/"
-    },
-    {
-      "first_seen": "2026-11-13T07:01:11.118633Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: marad az esős idő, elstartol az SZTE fesztiválja",
-      "url": "https://szeged365.hu/2026/11/13/napi-pakk-marad-az-esos-ido-elrajtol-az-szte-fesztivalja-ma-is-var-a-naturtex-outlet-vasara/"
-    },
-    {
-      "first_seen": "2026-11-12T19:06:49.047882Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vívás, kötélugrás, asztalitenisz – új korszak kezdődik a Karolina Iskola testnevelésóráin",
-      "url": "https://szeged365.hu/2026/11/12/vivas-kotelugras-asztalitenisz-uj-korszak-kezdodik-a-karolina-iskola-testnevelesorain/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-15T13:07:51.917349Z"
+  "updated_at": "2026-11-15T16:01:41.932880Z"
 }

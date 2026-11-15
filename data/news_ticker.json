@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-15T13:07:51.917349Z",
+      "published_at": "2026-11-14T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási szegedi siker: Szabó Ádám gokartversenyző világbajnok lett Portugáliában (videó) (frissítve)",
+      "url": "https://szeged365.hu/2026/11/14/oriasi-szegedi-siker-szabo-adam-gokartversenyzo-vilagbajnok-lett-portugaliaban-video/"
+    },
+    {
+      "first_seen": "2026-11-15T13:07:51.917349Z",
+      "published_at": "2026-11-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Lakossági panaszt kaptunk: balesetveszélyessé vált a domaszéki körforgalom",
+      "url": "https://szeged365.hu/2026/11/15/lakossagi-panaszt-kaptunk-balesetveszelyesse-valt-a-domaszeki-korforgalom/"
+    },
+    {
       "first_seen": "2026-11-15T07:07:31.848846Z",
       "published_at": "2026-11-15T00:00:00",
       "reason": "prefiltered",
@@ -47,14 +63,6 @@
       "source_name": "Szeged365",
       "title": "Órási szegedi győzelem – kempo és K-1 világbajnokot győzött le Szalai Gréta élete első profi meccsén (Szeged365 videóval)",
       "url": "https://szeged365.hu/2026/11/14/orasi-szegedi-gyozelem-kempo-es-k-1-vilagbajnokot-gyozott-le-szalai-greta-elete-elso-profi-meccsen-szeged365-videoval/"
-    },
-    {
-      "first_seen": "2026-11-14T13:01:51.909888Z",
-      "published_at": "2026-11-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási szegedi siker: Szabó Ádám gokartversenyző világbajnok lett Portugáliában (videó)",
-      "url": "https://szeged365.hu/2026/11/14/oriasi-szegedi-siker-szabo-adam-gokartversenyzo-vilagbajnok-lett-portugaliaban-video/"
     },
     {
       "first_seen": "2026-11-14T13:01:51.909888Z",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Vívás, kötélugrás, asztalitenisz – új korszak kezdődik a Karolina Iskola testnevelésóráin",
       "url": "https://szeged365.hu/2026/11/12/vivas-kotelugras-asztalitenisz-uj-korszak-kezdodik-a-karolina-iskola-testnevelesorain/"
-    },
-    {
-      "first_seen": "2026-11-12T19:06:49.047882Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Zokogott, mivel az egy emlék róla” – idős néni keresi egy szegedi buszon elhagyott esernyőjét",
-      "url": "https://szeged365.hu/2026/11/12/zokogott-mivel-az-egy-emlek-rola-idos-neni-keresi-egy-szegedi-buszon-elhagyott-esernyojet/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-15T07:07:31.848846Z"
+  "updated_at": "2026-11-15T13:07:51.917349Z"
 }

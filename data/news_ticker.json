@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-15T07:07:31.848846Z",
+      "published_at": "2026-11-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: borús, ködös idő lesz, lilába borul a szegedi Dóm és a Rektori Hivatal",
+      "url": "https://szeged365.hu/2026/11/15/napi-pakk-borus-kodos-ido-lesz-lilaba-borul-a-szegedi-dom-es-a-rektori-hivatal/"
+    },
+    {
       "first_seen": "2026-11-14T19:02:17.912540Z",
       "published_at": "2026-11-14T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "“Zokogott, mivel az egy emlék róla” – idős néni keresi egy szegedi buszon elhagyott esernyőjét",
       "url": "https://szeged365.hu/2026/11/12/zokogott-mivel-az-egy-emlek-rola-idos-neni-keresi-egy-szegedi-buszon-elhagyott-esernyojet/"
-    },
-    {
-      "first_seen": "2026-11-12T19:06:49.047882Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási tócsák a Rókusi körúton: kellemetlen lehet, ha valakit “telibe kap”",
-      "url": "https://szeged365.hu/2026/11/12/oriasi-tocsak-a-rokusi-koruton-kellemetlen-lehet-ha-valakit-telibe-kap/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T19:02:17.912540Z"
+  "updated_at": "2026-11-15T07:07:31.848846Z"
 }

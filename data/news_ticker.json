@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
+      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
+      "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-06T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "22 ezer szavazat, elképesztő fordulatok és egy 6300 voksnál járó szegedi tehetség – mutatjuk, hogy áll jelenleg a Legszegedibb Szegediek versenye!",
+      "url": "https://szeged365.hu/2026/11/06/22-ezer-szavazat-elkepeszto-fordulatok-es-egy-6300-voksnal-jaro-szegedi-tehetseg-mutatjuk-hogy-all-jelenleg-a-legszegedibb-szegediek-versenye/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Rumini és a kelta kocsmapunk veszi be szombaton a Szeged Városi Rock Klubot",
+      "url": "https://szeged365.hu/2026/11/16/rumini-es-a-kelta-kocsmapunk-veszi-be-szombaton-a-szeged-varosi-rock-klubot/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatályon kívül helyezték a szegedi ügyészek határozatát az aranykonvoj-ügyben",
+      "url": "https://szeged365.hu/2026/11/16/hatalyon-kivul-helyeztek-a-szegedi-ugyeszek-hatarozatat-az-aranykonvoj-ugyben/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Borra fel, Szeged! Villányi borokkal és ötfogásos libás vacsorával készül a Fasor Vendéglő november 20-án",
+      "url": "https://szeged365.hu/2026/11/16/borra-fel-szeged-villanyi-borokkal-es-otfogasos-libas-vacsoraval-keszul-a-fasor-vendeglo-november-20-an/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb csodás fotókat kaptunk a megyében állomásozó darvakról",
+      "url": "https://szeged365.hu/2026/11/16/ujabb-csodas-fotokat-kaptunk-a-megyeben-allomasozo-darvakrol/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Queen-slágerek nagyzenekari kísérettel: Wolf Kati, Kocsis Tibor és Király Viktor hozza el a legendás dalokat Szegedre!",
+      "url": "https://szeged365.hu/2026/11/16/queen-slagerek-nagyzenekari-kiserettel-wolf-kati-kocsis-tibor-es-kiraly-viktor-hozza-el-a-legendas-dalokat-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-16T19:04:37.318619Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kitart az ősz: kedden is erősen felhős, borult időre számíthatunk Szeged",
+      "url": "https://szeged365.hu/2026/11/16/kitart-az-osz-kedden-is-erosen-felhos-borult-idore-szamithatunk-szeged/"
+    },
+    {
       "first_seen": "2026-11-16T16:08:29.326748Z",
       "published_at": "2026-11-04T00:00:00",
       "reason": "prefiltered",
@@ -58,14 +130,6 @@
     },
     {
       "first_seen": "2026-11-16T13:00:51.249313Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-16T13:00:51.249313Z",
       "published_at": "2026-11-16T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -95,14 +159,6 @@
       "source_name": "Szeged365",
       "title": "Igazán büszkék lehetünk: a világ legjobb 1000 teniszezője között szerepel a szegedi Vitéz SE játékosa, Bíró Melinda",
       "url": "https://szeged365.hu/2026/11/16/igazan-buszkek-lehetunk-a-vilag-legjobb-1000-teniszezoje-kozott-szerepel-a-szegedi-vitez-se-jatekosa-biro-melinda/"
-    },
-    {
-      "first_seen": "2026-11-16T13:00:51.249313Z",
-      "published_at": "2026-11-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
-      "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
     },
     {
       "first_seen": "2026-11-16T13:00:51.249313Z",
@@ -175,14 +231,6 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: visszatér az esős, borús idő, pótlóbuszok közlekednek Vásárhely és Szeged között",
       "url": "https://szeged365.hu/2026/11/16/napi-pakk-visszater-az-esos-borus-ido-potlobuszok-kozlekednek-vasarhely-es-szeged-kozott/"
-    },
-    {
-      "first_seen": "2026-11-16T07:09:14.299961Z",
-      "published_at": "2026-11-06T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "22 ezer szavazat, elképesztő fordulatok és egy 6300 voksnál járó szegedi tehetség – mutatjuk, hogy áll jelenleg a Legszegedibb Szegediek versenye!",
-      "url": "https://szeged365.hu/2026/11/06/22-ezer-szavazat-elkepeszto-fordulatok-es-egy-6300-voksnal-jaro-szegedi-tehetseg-mutatjuk-hogy-all-jelenleg-a-legszegedibb-szegediek-versenye/"
     },
     {
       "first_seen": "2026-11-15T16:01:41.932880Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Amikor a rock, a big band és a szimfonikus hangzás összeér a Queen dalaiban – Szegedre érkezik a nagyszabású koncert",
       "url": "https://szeged365.hu/2026/11/14/amikor-a-rock-a-big-band-es-a-szimfonikus-hangzas-osszeer-a-queen-dalaiban-szegedre-erkezik-a-nagyszabasu-koncert/"
-    },
-    {
-      "first_seen": "2026-11-14T13:01:51.909888Z",
-      "published_at": "2026-11-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó hírt közölt Nagy Sándor: több szegedi utcában is nagy erőkkel zajlik az útfelújítás",
-      "url": "https://szeged365.hu/2026/11/14/jo-hirt-kozolt-nagy-sandor-nagy-erokkel-zajlik-a-valasztokeruleteben-az-utfelujitas/"
-    },
-    {
-      "first_seen": "2026-11-14T10:04:38.001171Z",
-      "published_at": "2026-11-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Jó hír érkezett szombat reggelre: helyreálltak a Microsoft szolgáltatásai",
-      "url": "https://szeged365.hu/2026/11/14/jo-hir-erkezett-szombat-reggelre-helyrealltak-a-microsoft-szolgaltatasai/"
-    },
-    {
-      "first_seen": "2026-11-14T07:05:39.399365Z",
-      "published_at": "2026-11-14T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: napsütéses szombatnak nézünk elébe, jön a PICK Szeged-Veszprém meccs, és képregényfesztivált is szerveznek ma Szegeden",
-      "url": "https://szeged365.hu/2026/11/14/napi-pakk-napsuteses-szombatnak-nezunk-elebe-szegeden-kepregenyfesztival-egeszseg-szepseg-expo-es-koncertek-is-lesznek-ma-a-varosban/"
-    },
-    {
-      "first_seen": "2026-11-13T19:08:24.959706Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Ez a mérkőzés egy döntővel ér fel!” – újabb fontos hazai meccs vár a Szedeákra, a Pécs érkezik Szegedre",
-      "url": "https://szeged365.hu/2026/11/13/ez-a-merkozes-egy-dontovel-er-fel-ujabb-fontos-hazai-meccs-var-a-szedeakra-a-pecs-erkezik-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-13T19:08:24.959706Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Búcsúznak a felhők: szombaton végre kisüt a nap Szegeden",
-      "url": "https://szeged365.hu/2026/11/13/bucsuznak-a-felhok-szombaton-vegre-kisut-a-nap-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-13T19:08:24.959706Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Szombaton mindenkire nagy szükségünk lesz” – a PICK Aréna ad otthont a legendás Szeged–Veszprém párharc újabb fejezetének",
-      "url": "https://szeged365.hu/2026/11/13/szombaton-mindenkire-nagy-szuksegunk-lesz-a-pick-arena-ad-otthont-a-legendas-szeged-veszprem-parharc-ujabb-fejezetenek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-16T16:08:29.326748Z"
+  "updated_at": "2026-11-16T19:04:37.318619Z"
 }

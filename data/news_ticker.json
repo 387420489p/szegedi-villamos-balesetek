@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-04T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Fontos elismernünk azt, hogy igenis szükségünk van jó tanítókra” – a 2025-ös Legszegedibb Tanító díj nyertese, Prónay Szabolcs, mindenkit arra bíztat, hogy szavazzon az idei Legszegedibb Szegediek jelöltjeire (videó)",
+      "url": "https://szeged365.hu/2026/11/04/fontos-elismernunk-azt-hogy-igenis-szuksegunk-van-jo-tanitokra-a-2025-os-legszegedibb-tanito-dij-nyertese-pronay-szabolcs-mindenkit-arra-biztat-hogy-szavazzon-az-idei-l/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
+      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Környezeti Megtakarítás Díjat nyert az SZTE energiahatékony épületfelújítása (galéria)",
+      "url": "https://szeged365.hu/2026/11/16/kornyezeti-megtakaritas-dijat-nyert-az-szte-energiahatekony-epuletfelujitasa-galeria/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megvan, mi legyen az ebéd? A Hummus Plus két hétig ingyen viszi házhoz – elindult a Black Weeks!",
+      "url": "https://szeged365.hu/2026/11/16/megvan-mi-legyen-az-ebed-a-hummus-plus-ket-hetig-ingyen-viszi-hazhoz-elindult-a-black-weeks/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fordult a kocka a lakáspiacon: most a vevők kerülhetnek jobb helyzetbe? Mutatjuk, mi történik Szegeden! (videó + galéria)",
+      "url": "https://szeged365.hu/2026/11/16/fordult-a-kocka-a-lakaspiacon-most-a-vevok-kerulhetnek-jobb-helyzetbe-mutatjuk-mi-tortenik-szegeden-video-galeria/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Igazán büszkék lehetünk: a világ legjobb 1000 teniszezője között szerepel a szegedi Vitéz SE játékosa, Bíró Melinda",
+      "url": "https://szeged365.hu/2026/11/16/igazan-buszkek-lehetunk-a-vilag-legjobb-1000-teniszezoje-kozott-szerepel-a-szegedi-vitez-se-jatekosa-biro-melinda/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
+      "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
+    },
+    {
+      "first_seen": "2026-11-16T13:00:51.249313Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ilyen jövő várhat ránk Szegeden? Humanoid robotok, mesterséges intelligencia és élő hackertámadás, Tóth Gábor exkluzív interjúban mesélt a SzeBIT legnagyobb élményeiről (videó + galéria)",
+      "url": "https://szeged365.hu/2026/11/16/ilyen-jovo-varhat-rank-szegeden-humanoid-robotok-mesterseges-intelligencia-es-elo-hackertamadas-toth-gabor-exkluziv-interjuban-meselt-a-szebit-legnagyobb-elmenyeirol-video-galeria/"
+    },
+    {
       "first_seen": "2026-11-16T10:05:30.295104Z",
       "published_at": "2026-11-16T00:00:00",
       "reason": "prefiltered",
@@ -39,14 +103,6 @@
       "source_name": "Szeged365",
       "title": "Hamarosan megkezdhetik a sorozatgyártást a BYD szegedi gyárában",
       "url": "https://szeged365.hu/2026/11/16/hamarosan-megkezdhetik-a-sorozatgyartast-a-byd-szegedi-gyaraban/"
-    },
-    {
-      "first_seen": "2026-11-16T07:09:14.299961Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Fontos elismernünk azt, hogy igenis szükségünk van jó tanítókra” – a 2025-ös Legszegedibb Tanító díj nyertese, Prónay Szabolcs, mindenkit arra bíztat, hogy szavazzon az idei Legszegedibb Szegediek jelöltjeire (videó)",
-      "url": "https://szeged365.hu/2026/11/04/fontos-elismernunk-azt-hogy-igenis-szuksegunk-van-jo-tanitokra-a-2025-os-legszegedibb-tanito-dij-nyertese-pronay-szabolcs-mindenkit-arra-biztat-hogy-szavazzon-az-idei-l/"
     },
     {
       "first_seen": "2026-11-16T07:09:14.299961Z",
@@ -186,14 +242,6 @@
     },
     {
       "first_seen": "2026-11-14T10:04:38.001171Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-14T10:04:38.001171Z",
       "published_at": "2026-11-14T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megáll az ész: sártengerré vált a zöldterület az egyik újszegedi csomagpont környékén (galéria)",
       "url": "https://szeged365.hu/2026/11/13/megall-az-esz-sartengerre-valt-a-zoldterulet-az-egyik-ujszegedi-csomagpont-kornyeken-galeria/"
-    },
-    {
-      "first_seen": "2026-11-13T16:08:38.928243Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt Molnár János, a szegedi Orvostudományi Karának egykori tanszékvezetője és a szegedi orvosképzés meghatározó alakja",
-      "url": "https://szeged365.hu/2026/11/13/elhunyt-molnar-janos-a-szegedi-orvostudomanyi-karanak-egykori-tanszekvezetoje-es-a-szegedi-orvoskepzes-meghatarozo-alakja/"
-    },
-    {
-      "first_seen": "2026-11-13T13:05:32.290422Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Őszi hangulat, olasz stílus: a szegedi Vivissimában az egyedi tényleg egyedi",
-      "url": "https://szeged365.hu/2026/11/13/oszi-hangulat-olasz-stilus-a-szegedi-vivissimaban-az-egyedi-tenyleg-egyedi/"
-    },
-    {
-      "first_seen": "2026-11-13T13:05:32.290422Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bontják a Szolnok-Szeged 220 kilovoltos távvezetéket (galéria)",
-      "url": "https://szeged365.hu/2026/11/13/bontjak-a-szolnok-szeged-220-kilovoltos-tavvezeteket-galeria/"
-    },
-    {
-      "first_seen": "2026-11-13T13:05:32.290422Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eső ide vagy oda, ezt a 2790 forintos újdonságot most megéri kipróbálni Szeged szívében (videó)",
-      "url": "https://szeged365.hu/2026/11/13/eso-ide-vagy-oda-ezt-a-2790-forintos-ujdonsagot-most-megeri-kiprobalni-szeged-sziveben-video/"
-    },
-    {
-      "first_seen": "2026-11-13T13:05:32.290422Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az alkotmánybíróvá választott Szomora Zsolt helyére a Politológiai Tanszék vezetője kerül az SZTE alapítványának kuratóriumába",
-      "url": "https://szeged365.hu/2026/11/13/az-alkotmanybirova-valasztott-szomora-zsolt-helyere-a-politologiai-tanszek-vezetoje-kerul-az-szte-alapitvanyanak-kuratoriumaba/"
-    },
-    {
-      "first_seen": "2026-11-13T13:05:32.290422Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Teljes szélességében lezárják a Bérkert utcát: folytatódik a vízvezeték-rekonstrukció Újszegeden",
-      "url": "https://szeged365.hu/2026/11/13/folytatodik-a-vizvezetek-rekonstrukcio-ujszegeden-a-kovetkezo-fazisban-teljes-szelessegeben-lezarjak-a-berkert-utcat/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-16T10:05:30.295104Z"
+  "updated_at": "2026-11-16T13:00:51.249313Z"
 }

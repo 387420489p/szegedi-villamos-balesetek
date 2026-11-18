@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-17T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: folytatódik a borús idő a Napfény Városában és Szeged és Hódmezővásárhely között ma este is pótlóbuszok járnak",
+      "url": "https://szeged365.hu/2026/11/17/napi-pakk-folytatodik-a-borus-ido-es-a-vaganyzar-is-szeged-es-hodmezovasarhely-kozott/"
+    },
+    {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatályon kívül helyezték a szegedi ügyészek határozatát az aranykonvoj-ügyben",
+      "url": "https://szeged365.hu/2026/11/16/hatalyon-kivul-helyeztek-a-szegedi-ugyeszek-hatarozatat-az-aranykonvoj-ugyben/"
+    },
+    {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A világ egyik legnagyobb árbevételű gyógyszeripari vállalatával kötött együttműködési megállapodást a Szegedi Tudományegyetem",
+      "url": "https://szeged365.hu/2026/11/18/a-vilag-egyik-legnagyobb-arbevetelu-gyogyszeripari-vallalataval-kotott-egyuttmukodesi-megallapodast-a-szegedi-tudomanyegyetem/"
+    },
+    {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: újabb hidegfront érkezik, előadásokkal, koncerttel vár a 30. Őszi Kulturális Fesztivál",
+      "url": "https://szeged365.hu/2026/11/18/napi-pakk-ujabb-hidegfront-erkezik-eloadasokkal-koncerttel-var-a-30-oszi-kulturalis-fesztival/"
+    },
+    {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási csaták zajlanak a 2026-os Legszegedibb Szegediek versenyében, már közel 30 ezren adták le a voksukat – mutatjuk a friss állást!",
+      "url": "https://szeged365.hu/2026/11/09/oriasi-csatak-zajlanak-a-2026-os-legszegedibb-szegediek-versenyeben-mar-kozel-30-ezren-adtak-le-a-voksukat-mutatjuk-a-friss-allast/"
+    },
+    {
+      "first_seen": "2026-11-18T07:05:11.320309Z",
+      "published_at": "2026-11-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: csütörtökön is folytatódik az esős idő Szegeden, és AI és robotok szállják meg a TIK-et",
+      "url": "https://szeged365.hu/2026/11/12/napi-pakk-csutortokon-is-folytatodik-az-esos-ido-szegeden-es-ai-es-robotok-szalljak-meg-a-tik-et/"
+    },
+    {
       "first_seen": "2026-11-17T19:02:31.163270Z",
       "published_at": "2026-11-17T00:00:00",
       "reason": "prefiltered",
@@ -202,14 +250,6 @@
     },
     {
       "first_seen": "2026-11-17T07:04:31.307332Z",
-      "published_at": "2026-11-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: folytatódik a borús idő a Napfény Városában és Szeged és Hódmezővásárhely között ma este is pótlóbuszok járnak",
-      "url": "https://szeged365.hu/2026/11/17/napi-pakk-folytatodik-a-borus-ido-es-a-vaganyzar-is-szeged-es-hodmezovasarhely-kozott/"
-    },
-    {
-      "first_seen": "2026-11-17T07:04:31.307332Z",
       "published_at": "2026-11-08T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -266,14 +306,6 @@
     },
     {
       "first_seen": "2026-11-16T19:04:37.318619Z",
-      "published_at": "2026-11-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hatályon kívül helyezték a szegedi ügyészek határozatát az aranykonvoj-ügyben",
-      "url": "https://szeged365.hu/2026/11/16/hatalyon-kivul-helyeztek-a-szegedi-ugyeszek-hatarozatat-az-aranykonvoj-ugyben/"
-    },
-    {
-      "first_seen": "2026-11-16T19:04:37.318619Z",
       "published_at": "2026-11-20T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb csodás fotókat kaptunk a megyében állomásozó darvakról",
       "url": "https://szeged365.hu/2026/11/16/ujabb-csodas-fotokat-kaptunk-a-megyeben-allomasozo-darvakrol/"
-    },
-    {
-      "first_seen": "2026-11-16T19:04:37.318619Z",
-      "published_at": "2026-12-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Queen-slágerek nagyzenekari kísérettel: Wolf Kati, Kocsis Tibor és Király Viktor hozza el a legendás dalokat Szegedre!",
-      "url": "https://szeged365.hu/2026/11/16/queen-slagerek-nagyzenekari-kiserettel-wolf-kati-kocsis-tibor-es-kiraly-viktor-hozza-el-a-legendas-dalokat-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-16T19:04:37.318619Z",
-      "published_at": "2026-11-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kitart az ősz: kedden is erősen felhős, borult időre számíthatunk Szeged",
-      "url": "https://szeged365.hu/2026/11/16/kitart-az-osz-kedden-is-erosen-felhos-borult-idore-szamithatunk-szeged/"
-    },
-    {
-      "first_seen": "2026-11-16T16:08:29.326748Z",
-      "published_at": "2026-11-04T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Fontos elismernünk azt, hogy igenis szükségünk van jó tanítókra” – a 2025-ös Legszegedibb Tanító díj nyertese, Prónay Szabolcs, mindenkit arra bíztat, hogy szavazzon az idei Legszegedibb Szegediek jelöltjeire (videó)",
-      "url": "https://szeged365.hu/2026/11/04/fontos-elismernunk-azt-hogy-igenis-szuksegunk-van-jo-tanitokra-a-2025-os-legszegedibb-tanito-dij-nyertese-pronay-szabolcs-mindenkit-arra-biztat-hogy-szavazzon-az-idei-l/"
-    },
-    {
-      "first_seen": "2026-11-16T16:08:29.326748Z",
-      "published_at": "2026-11-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Én is szavazok, szavazzatok Ti is a kedvenceitekre” – videóban üzent a Legszegedibb Művész díjas Tatár Botond! (videó)",
-      "url": "https://szeged365.hu/2026/11/15/en-is-szavazok-szavazzatok-ti-is-a-kedvenceitekre-videoban-uzent-a-legszegedibb-muvesz-dijas-tatar-botond-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-17T19:02:31.163270Z"
+  "updated_at": "2026-11-18T07:05:11.320309Z"
 }

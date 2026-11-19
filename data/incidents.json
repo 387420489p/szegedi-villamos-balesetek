@@ -7223,8 +7223,40 @@
       "status": "published",
       "summary": "A 4-es villamos elütött egy kukát toló gyalogost Szegeden, a Petőfi Sándor sugárút 14. szám előtt. A nő agyrázkódást szenvedett.",
       "updated_at": "2026-10-29T16:07:59.537464Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-11-19T19:06:51.604176Z",
+      "event_date": "2026-11-19",
+      "event_time": "18:30",
+      "event_type": "collision",
+      "id": "szvb-20261119-001",
+      "injuries": "none",
+      "location": "Tisza Lajos körút (Glattfelder Gyula tér és Kálvin tér között, a Gróf-palota előtt)",
+      "location_normalized": "palota elott x tisza lajos korut glattfelder gyula ter es kalvin ter kozott a grof",
+      "mode": "tram",
+      "other_party": "car",
+      "sources": [
+        {
+          "added_at": "2026-11-19T19:06:51.604176Z",
+          "published_at": "2026-11-19T00:00:00",
+          "source_name": "Szeged365",
+          "title": "Újabb baleset Szeged belvárosában – busz, villamos és autó is érintett (frissítve) - Szegedi hírek | Szeged365",
+          "url": "https://szeged365.hu/2026/11/19/ujabb-baleset-szeged-belvarosaban-busz-villamos-es-auto-is-erintett/"
+        },
+        {
+          "added_at": "2026-11-19T19:06:51.604176Z",
+          "published_at": "2026-11-19T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Busz, személyautó és villamos ütközött a Tisza Lajos körúton",
+          "url": "https://webradio.hu/hirek/belfold/busz-szemelyauto-es-villamos-utkozott-a-tisza-lajos-koruton"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden a Tisza Lajos körúton, a Gróf-palota előtt egy személyautó ütközött villamossal, majd egy helyi járatos busz is beléjük hajtott. Személyi sérülés nem történt, a 3-as, 3F-es és 4-es villamosok helyett részlegesen pótlóbuszok közlekedtek.",
+      "updated_at": "2026-11-19T19:06:51.604176Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:07:59.537464+00:00"
+  "updated_at": "2026-11-19T19:06:51.604176+00:00"
 }

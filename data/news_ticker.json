@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Exkluzív interjú: illegális graffitikkel kezdte, ma Mone Szeged kedvence falfestője (galériák)",
+      "url": "https://szeged365.hu/2026/11/18/exkluziv-interju-illegalis-graffitikkel-kezdte-ma-mone-szeged-kedvence-falfestoje-galeriak/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Árhullám vonul le a Maroson, csütörtök este pedig érkezik Veronika: nagy szél és zivatarok várhatók Szegeden is",
+      "url": "https://szeged365.hu/2026/11/18/arhullam-vonul-le-a-maroson-csutortok-este-pedig-erkezik-veronika-nagy-szel-es-zivatarok-varhatok-szegeden-is/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-18T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyikük ír, másikuk zenét szerez: két szegedi alkotó tart zenés irodalomórát a Somogyi-könyvtárban (videó)",
+      "url": "https://szeged365.hu/2026/11/18/egyikuk-ir-masikuk-zenet-szerez-ket-szegedi-alkoto-tart-zenes-irodalomorat-a-somogyi-konyvtarban-video/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Darth Vader is benézett a Porsche Szegedhez – az új Audi Q7 egy birodalmi hangárban is megállná a helyét (videó)",
+      "url": "https://szeged365.hu/2026/11/19/darth-vader-is-benezett-a-porsche-szegedhez-az-uj-audi-q7-egy-birodalmi-hangarban-is-megallna-a-helyet-video/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Aranyérmet szerzett a Szegedi Fegyház és Börtön őrmestere a TEK BUDO Gáláján (galéria)",
+      "url": "https://szeged365.hu/2026/11/19/judo-aranyermet-szerzett-a-szegedi-fegyhaz-es-borton-ormestere-a-tek-budo-galajan-galeria/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatfős csapatvacsorától az ötvenfős céges évzáróig: benéztünk a szegedi Trattoria Il Divo pincéjébe (videó)",
+      "url": "https://szeged365.hu/2026/11/19/hatfos-csapatvacsoratol-az-otvenfos-ceges-evzaroig-beneztunk-a-szegedi-trattoria-il-divo-pincejebe-video/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-09T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Óriási csaták zajlanak a 2026-os Legszegedibb Szegediek versenyében, már közel 30 ezren adták le a voksukat – mutatjuk a friss állást!",
+      "url": "https://szeged365.hu/2026/11/09/oriasi-csatak-zajlanak-a-2026-os-legszegedibb-szegediek-versenyeben-mar-kozel-30-ezren-adtak-le-a-voksukat-mutatjuk-a-friss-allast/"
+    },
+    {
+      "first_seen": "2026-11-19T16:06:23.736886Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
+      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
+    },
+    {
       "first_seen": "2026-11-19T13:09:56.307129Z",
       "published_at": "2026-11-19T00:00:00",
       "reason": "prefiltered",
@@ -205,14 +277,6 @@
       "published_at": "2026-11-18T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Exkluzív interjú: illegális graffitikkel kezdte, ma Mone Szeged kedvence falfestője (galériák)",
-      "url": "https://szeged365.hu/2026/11/18/exkluziv-interju-illegalis-graffitikkel-kezdte-ma-mone-szeged-kedvence-falfestoje-galeriak/"
-    },
-    {
-      "first_seen": "2026-11-18T16:05:27.332627Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Ismét baleset az M5-ösön: ezúttal egy kisteherautó és egy személygépkocsi ütközött",
       "url": "https://szeged365.hu/2026/11/18/ismet-baleset-az-m5-oson-ezuttal-egy-kisteherauto-es-egy-szemelygepkocsi-utkozott/"
     },
@@ -223,22 +287,6 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Family, megvan a szombati programod? Szombaton bárki díjmentesen ellátogathat Szeged új filmfesztiváljára (videó)",
       "url": "https://szeged365.hu/2026/11/18/szeged365-family-megvan-a-szombati-programod-szombaton-barki-dijmentesen-ellatogathat-szeged-uj-filmfesztivaljara-video/"
-    },
-    {
-      "first_seen": "2026-11-18T16:05:27.332627Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Árhullám vonul le a Maroson, csütörtök este pedig érkezik Veronika: nagy szél és zivatarok várhatók Szegeden is",
-      "url": "https://szeged365.hu/2026/11/18/arhullam-vonul-le-a-maroson-csutortok-este-pedig-erkezik-veronika-nagy-szel-es-zivatarok-varhatok-szegeden-is/"
-    },
-    {
-      "first_seen": "2026-11-18T16:05:27.332627Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyikük ír, másikuk zenét szerez: két szegedi alkotó tart zenés irodalomórát a Somogyi-könyvtárban (videó)",
-      "url": "https://szeged365.hu/2026/11/18/egyikuk-ir-masikuk-zenet-szerez-ket-szegedi-alkoto-tart-zenes-irodalomorat-a-somogyi-konyvtarban-video/"
     },
     {
       "first_seen": "2026-11-18T16:05:27.332627Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Rendezték Iványi Gáborék a tartozásaikat, most a kormánynál pattog a labda – mikor nyithat újra a szegedi Wesley-iskola?",
       "url": "https://szeged365.hu/2026/11/18/rendeztek-ivanyi-gaborek-a-tartozasaikat-most-a-kormanynal-pattog-a-labda-mikor-nyithat-ujra-a-szegedi-wesley-iskola/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ha fáj, szólhatsz, és megállunk – fogászati félelmekről beszélgettünk az újszegedi Holistodentben (videó)",
-      "url": "https://szeged365.hu/2026/11/18/ha-faj-szolhatsz-es-megallunk-fogaszati-felelmekrol-beszelgettunk-az-ujszegedi-holistodentben-video/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyre több közbiztonsági problémát tapasztalnak, szóba került a Budapest-Szeged vasútvonal is",
-      "url": "https://szeged365.hu/2026/11/18/egyre-tobb-kozbiztonsagi-problemat-tapasztalnak-szoba-kerult-a-budapest-szeged-vasutvonal-is/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Na, ezt ne nézd éhesen! Brutál szaftos újdonságot kóstoltunk Szeged szívében, és az árától is leesik az állad (videó)",
-      "url": "https://szeged365.hu/2026/11/18/na-ezt-ne-nezd-ehesen-brutal-szaftos-ujdonsagot-kostoltunk-szeged-sziveben-es-az-aratol-is-leesik-az-allad-video/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt még mindig alig hisszük el! Özönlenek a gratulációk, egy egész város büszke a Novotel Szeged hatalmas sikerére (videó)",
-      "url": "https://szeged365.hu/2026/11/18/ezt-meg-mindig-alig-hisszuk-el-ozonlenek-a-gratulaciok-egy-egesz-varos-buszke-a-novotel-szeged-hatalmas-sikerere-video/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási szakmai siker, Szeged mellől: nemzetközi minősítést és országos OTP-díjat is nyert a deszki KöltözzMa – új szintre lépett a grafitos MgO SIP paneles gyorsházépítés",
-      "url": "https://szeged365.hu/2026/11/18/oriasi-szakmai-siker-szeged-mellol-nemzetkozi-minositest-es-orszagos-otp-dijat-is-nyert-a-deszki-koltozzma-uj-szintre-lepett-a-grafitos-mgo-sip-paneles-gyorshazepites/"
-    },
-    {
-      "first_seen": "2026-11-18T13:04:13.355949Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vajon íróként születni kell, vagy bárkiből lehet jó tollú alkotó? Ma este erről is szó lesz a Szó-Szín-Pódiumban Szegeden!",
-      "url": "https://szeged365.hu/2026/11/18/vajon-irokent-szuletni-kell-vagy-barkibol-lehet-jo-tollu-alkoto-ma-este-errol-is-szo-lesz-a-szo-szin-podiumban-szegeden/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-19T13:09:56.307129Z"
+  "updated_at": "2026-11-19T16:06:23.736886Z"
 }

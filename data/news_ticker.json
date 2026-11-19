@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-19T07:09:57.322708Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Madárgyűrűzés, teljesítménytúra és kisvonatozás a halvasúton – ismét darvadozást rendeznek a Szegedi Fehér-tónál",
+      "url": "https://szeged365.hu/2026/11/19/madargyuruzes-teljesitmenytura-es-kisvonatozas-a-halvasuton-ismet-darvadozast-rendeznek-a-szegedi-feher-tonal/"
+    },
+    {
+      "first_seen": "2026-11-19T07:09:57.322708Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Nobel-díjas kutatóval találkozhatnak a Nemzeti Tudósképző Akadémia növendékei, több mint négyezer diák, pedagógus és mentor jön Szegedre",
+      "url": "https://szeged365.hu/2026/11/19/nobel-dijas-kutatoval-talalkozhatnak-a-nemzeti-tudoskepzo-akademia-novendekei-tobb-mint-negyezer-diak-pedagogus-es-mentor-jon-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-19T07:09:57.322708Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: csütörtökön elbújik a nap a Napfény Városában, a Somogyi-könyvtárban pedig zenés irodalomóra lesz",
+      "url": "https://szeged365.hu/2026/11/19/napi-pakk-csutortokon-elbujik-a-nap-a-napfeny-varosaban-a-somogyi-konyvtarban-pedig-zenes-irodalomora-lesz/"
+    },
+    {
       "first_seen": "2026-11-18T19:02:31.394614Z",
       "published_at": "2026-11-17T00:00:00",
       "reason": "prefiltered",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Felhős-napos, és olykor záporos időt hoz a szerda Szegedre",
       "url": "https://szeged365.hu/2026/11/17/felhos-napos-es-olykor-zaporos-idot-hoz-a-szerda-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-17T19:02:31.163270Z",
-      "published_at": "2026-11-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Silent Hill balra, harmadik világi Cyberpunk jobbra” – olvasónk szerint sártengerré vált a szegedi Kombinát köz, látványos fotókat is küldött",
-      "url": "https://szeged365.hu/2026/11/17/silent-hill-balra-harmadik-vilagi-cyberpunk-jobbra-olvasonk-szerint-sartengerre-valt-a-szegedi-kombinat-koz-latvanyos-fotokat-is-kuldott/"
-    },
-    {
-      "first_seen": "2026-11-17T16:09:21.337751Z",
-      "published_at": "2026-11-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Füstölt egy busz Szegeden, a Római körútnál leszállították az utasokat (videó és fotó)",
-      "url": "https://szeged365.hu/2026/11/17/fustolt-egy-busz-szegeden-a-romai-korutnal-leszallitottak-az-utasokat-video-es-foto/"
-    },
-    {
-      "first_seen": "2026-11-17T16:09:21.337751Z",
-      "published_at": "2026-11-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ekkora lehetőség még soha nem volt a szegedi Szent Vincentnél! Détári Vilmos 30%-os extra karácsonyi kedvezményt jelentett be minden kezelésre (videó)",
-      "url": "https://szeged365.hu/2026/11/17/ekkora-lehetoseg-meg-soha-nem-volt-a-szegedi-szent-vincentnel-detari-vilmos-30-os-extra-karacsonyi-kedvezmenyt-jelentett-be-minden-kezelesre-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-18T19:02:31.394614Z"
+  "updated_at": "2026-11-19T07:09:57.322708Z"
 }

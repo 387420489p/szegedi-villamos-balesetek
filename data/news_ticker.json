@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
+      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
+      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Eltűnt szegedi férfit keres a rendőrség, segítsünk megtalálni!",
+      "url": "https://szeged365.hu/2026/11/20/eltunt-szegedi-ferfit-keres-a-rendoseg-segitsunk-megtalalni/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már közel 59 ezer szavazat érkezett a 2026-os Legszegedibb Szegediek versenyére: 101 voks dönt a sportolóknál, a művészeknél még ennél is szorosabb a helyzet!",
+      "url": "https://szeged365.hu/2026/11/20/mar-kozel-59-ezer-szavazat-erkezett-a-2026-os-legszegedibb-szegediek-versenyere-101-voks-dont-a-sportoloknal-a-muveszeknel-meg-ennel-is-szorosabb-a-helyzet/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, ezt ne hagyjátok ki! Két ingyenes koncert is lesz az ÁRKÁD-ban november végén, mutatjuk, kik érkeznek!",
+      "url": "https://szeged365.hu/2026/11/20/szeged365-family-ezt-ne-hagyjatok-ki-ket-ingyenes-koncert-is-lesz-az-arkad-ban-november-vegen-mutatjuk-kik-erkeznek/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ez kemény: 1148 km/h-val száguldott egy utasszállító repülőgép Szegednél",
+      "url": "https://szeged365.hu/2026/11/20/ez-kemeny-1148-km-h-val-szaguldott-egy-utasszallito-repulogep-szegednel/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A nyílt utcán támadt nevelőapjára egy férfi Szegeden – a közelben tartózkodók hívtak mentőt a súlyos sérülést szenvedett sértetthez",
+      "url": "https://szeged365.hu/2026/11/20/a-nyilt-utcan-tamadt-neveloapjara-egy-ferfi-szegeden-a-kozelben-tartozkodok-hivtak-mentot-a-sulyos-serulest-szenvedett-sertetthez/"
+    },
+    {
+      "first_seen": "2026-11-20T10:00:17.609655Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden vizsgálták azt a 100 millió éves csigafajt, amit a The Prodigy egykori énekeséről, Keith Flintről neveztek el",
+      "url": "https://szeged365.hu/2026/11/20/szegeden-vizsgaltak-azt-a-100-millio-eves-csigafajt-amit-a-the-prodigy-egykori-enekeserol-keith-flintrol-neveztek-el/"
+    },
+    {
       "first_seen": "2026-11-20T07:09:51.696535Z",
       "published_at": "2026-11-09T00:00:00",
       "reason": "prefiltered",
@@ -23,14 +95,6 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: záporok még előfordulhatnak, ma még jelentkezhetsz statisztának a Szegedi Szabadtérire",
       "url": "https://szeged365.hu/2026/11/20/napi-pakk-zaporok-meg-elofordulhatnak-ma-meg-jelentkezhetsz-statisztanak-a-szegedi-szabadterire/"
-    },
-    {
-      "first_seen": "2026-11-20T07:09:51.696535Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
-      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
     },
     {
       "first_seen": "2026-11-19T19:06:51.604176Z",
@@ -117,24 +181,8 @@
       "published_at": "2026-11-19T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
-    },
-    {
-      "first_seen": "2026-11-19T16:06:23.736886Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Hatfős csapatvacsorától az ötvenfős céges évzáróig: benéztünk a szegedi Trattoria Il Divo pincéjébe (videó)",
       "url": "https://szeged365.hu/2026/11/19/hatfos-csapatvacsoratol-az-otvenfos-ceges-evzaroig-beneztunk-a-szegedi-trattoria-il-divo-pincejebe-video/"
-    },
-    {
-      "first_seen": "2026-11-19T16:06:23.736886Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
     },
     {
       "first_seen": "2026-11-19T13:09:56.307129Z",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Madárgyűrűzés, teljesítménytúra és kisvonatozás a halvasúton – ismét darvadozást rendeznek a Szegedi Fehér-tónál",
       "url": "https://szeged365.hu/2026/11/19/madargyuruzes-teljesitmenytura-es-kisvonatozas-a-halvasuton-ismet-darvadozast-rendeznek-a-szegedi-feher-tonal/"
-    },
-    {
-      "first_seen": "2026-11-19T07:09:57.322708Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Nobel-díjas kutatóval találkozhatnak a Nemzeti Tudósképző Akadémia növendékei, több mint négyezer diák, pedagógus és mentor jön Szegedre",
-      "url": "https://szeged365.hu/2026/11/19/nobel-dijas-kutatoval-talalkozhatnak-a-nemzeti-tudoskepzo-akademia-novendekei-tobb-mint-negyezer-diak-pedagogus-es-mentor-jon-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-19T07:09:57.322708Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: csütörtökön elbújik a nap a Napfény Városában, a Somogyi-könyvtárban pedig zenés irodalomóra lesz",
-      "url": "https://szeged365.hu/2026/11/19/napi-pakk-csutortokon-elbujik-a-nap-a-napfeny-varosaban-a-somogyi-konyvtarban-pedig-zenes-irodalomora-lesz/"
-    },
-    {
-      "first_seen": "2026-11-18T19:02:31.394614Z",
-      "published_at": "2026-11-17T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elkapták a Magyar Péterről készült sajtófotó vásárhelyi megrongálásával gyanúsított férfit – a helyreállított kép már Szegeden van kiállítva",
-      "url": "https://szeged365.hu/2026/11/17/elkaptak-a-magyar-peterrol-keszult-sajtofoto-vasarhelyi-megrongalasaval-gyanusitott-ferfit-a-helyreallitott-kep-mar-szegeden-van-kiallitva/"
-    },
-    {
-      "first_seen": "2026-11-18T19:02:31.394614Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kiállítás nyílik Halmi-Horváth István festőművész alkotásaiból a szegedi Reök-palotában",
-      "url": "https://szeged365.hu/2026/11/18/kiallitas-nyilik-halmi-horvath-istvan-festomuvesz-alkotasaibol-a-szegedi-reok-palotaban/"
-    },
-    {
-      "first_seen": "2026-11-18T19:02:31.394614Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási SZEGEDI büszkeség: a REÖK Cukrászda nyerte az Év Bejglije versenyt, egyszerre négy (!) díjat is elhoztak",
-      "url": "https://szeged365.hu/2026/11/18/oriasi-szegedi-buszkeseg-a-reok-cukraszda-nyerte-az-ev-bejglije-versenyt-egyszerre-negy-dijat-is-elhoztak/"
-    },
-    {
-      "first_seen": "2026-11-18T19:02:31.394614Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Egy kis odafigyelés sokat jelentene” – a szegedi buszsofőröket szólította meg egy lakos, kéréssel fordult hozzájuk",
-      "url": "https://szeged365.hu/2026/11/18/egy-kis-odafigyeles-sokat-jelentene-a-szegedi-buszsoforoket-szolitotta-meg-egy-lakos-keressel-fordult-hozzajuk/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-20T07:09:51.696535Z"
+  "updated_at": "2026-11-20T10:00:17.609655Z"
 }

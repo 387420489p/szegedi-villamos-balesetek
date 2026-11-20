@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Szegeden is: a 9-es troli helyett pótlóbuszok közlekednek (frissítve)",
+      "url": "https://szeged365.hu/2026/11/20/baleset-tortent-szegeden-is-a-9-es-troli-helyett-potlobuszok-kozlekednek/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: ingyenes filmfesztivál, Co Lee koncert és Európai Art Mozi Nap – mutatjuk, milyen programokkal vár hétvégén a Napfény Városa",
+      "url": "https://szeged365.hu/2026/11/20/szeged365-kikapcs-ingyenes-filmfesztival-co-lee-koncert-es-europai-art-mozi-nap-mutatjuk-milyen-programokkal-var-hetvegen-a-napfeny-varosa/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Algyő és Szeged között: két autó karambolozott (frissítve)",
+      "url": "https://szeged365.hu/2026/11/20/baleset-tortent-algyo-es-szeged-kozott-ket-auto-karambolozott/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meglepetés! Befutott városunk karácsonyfája a Klauzál térre, egy hét múlva indul a Szeged Advent",
+      "url": "https://szeged365.hu/2026/11/20/meglepetes-befutott-varosunk-karacsonyfaja-a-klauzal-terre-egy-het-mulva-indul-a-szeged-advent/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#KÖZÉLET",
+      "url": "https://szeged365.hu/kozelet/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#KIKAPCS",
+      "url": "https://szeged365.hu/kikapcs/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SPORT",
+      "url": "https://szeged365.hu/sport/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-08-31T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#MINDENMÁS",
+      "url": "https://szeged365.hu/mindenmas/"
+    },
+    {
+      "first_seen": "2026-11-20T13:01:26.087003Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#BLOG",
+      "url": "https://szeged365.hu/blog/"
+    },
+    {
       "first_seen": "2026-11-20T10:00:17.609655Z",
       "published_at": "2026-11-10T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ha szegedi vagy, ez már szinte kötelező kör: péntekig minden ajándéktárgy 10 százalékkal olcsóbb Mesi Virágoskertjében (fotók)",
       "url": "https://szeged365.hu/2026/11/19/ha-szegedi-vagy-ez-mar-szinte-kotelezo-kor-pentekig-minden-ajandektargy-10-szazalekkal-olcsobb-mesi-viragoskertjeben-fotok/"
-    },
-    {
-      "first_seen": "2026-11-19T13:09:56.307129Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Képzeld el, milyen boldog lesz, amikor kibontja! Szegeden most gyermekek karácsonyi kívánságait teljesíthetjük (videó)",
-      "url": "https://szeged365.hu/2026/11/19/kepzeld-el-milyen-boldog-lesz-amikor-kibontja-szegeden-most-gyermekek-karacsonyi-kivansagait-teljesithetjuk-video/"
-    },
-    {
-      "first_seen": "2026-11-19T13:09:56.307129Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Más időpontra csúsznak a munkálatok: ekkor fog burkolatot fog javítani a Magyar Közút az Algyői Tisza-hídon, dilatációt pedig a szegedi Bertalan hídon",
-      "url": "https://szeged365.hu/2026/11/19/a-jovo-hetre-csusztak-a-munkalatok-burkolatot-fog-javitani-a-magyar-kozut-az-algyoi-tisza-hidon-dilataciot-pedig-a-szegedi-bertalan-hidon/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ezt most rengeteg családnak hallania kell! Détári Vilmos már 2027 elejére is gondolt: 30%-os szálláskedvezménnyel segítik a rehabilitációra érkezőket Szegeden (videó)",
-      "url": "https://szeged365.hu/2026/11/19/ezt-most-rengeteg-csaladnak-hallania-kell-detari-vilmos-mar-2027-elejere-is-gondolt-30-os-szallaskedvezmennyel-segitik-a-rehabilitaciora-erkezoket-szegeden-video/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Valakinek nagyon hiányozhatnak” – több tucat liba úszkált a Tiszában Szegednél (videóval)",
-      "url": "https://szeged365.hu/2026/11/19/valakinek-nagyon-hianyozhatnak-tobb-tucat-liba-uszkalt-a-tiszaban-szegednel-videoval/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Viszlát, Peti! A szomszédos országba költözött a Szegedi Vadaspark borjúfókája",
-      "url": "https://szeged365.hu/2026/11/19/viszlat-peti-a-szomszedos-orszagba-koltozott-a-szegedi-vadaspark-borjufokaja/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“A befektetett energia úgy érzem, most kezd megtérülni” – Klebelsberg Kuno-díjat kapott Prof. Dr. Kovács Zoltán akadémikus, az SZTE egyetemi tanára",
-      "url": "https://szeged365.hu/2026/11/19/a-befektetett-energia-ugy-erzem-most-kezd-megterulni-klebelsberg-kuno-dijat-kapott-prof-dr-kovacs-zoltan-akademikus-az-szte-egyetemi-tanara/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Letartóztatták a tolvajt: fülbevalókat lopott az ékszerüzletből egy férfi Szegeden",
-      "url": "https://szeged365.hu/2026/11/19/letartoztattak-a-tolvajt-fulbevalokat-lopott-egy-ekszeruzletbol-a-ferfi-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-19T10:09:33.001901Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Őrület, a Makkosházi körúton: kitört Mesi Ajándékvására, péntektől péntekig minden ajándéktárgy akciós",
-      "url": "https://szeged365.hu/2026/11/13/orulet-a-makkoshazi-koruton-kitort-mesi-ajandekvasara-pentektol-pentekig-minden-ajandektargy-akcios-video/"
-    },
-    {
-      "first_seen": "2026-11-19T07:09:57.322708Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Madárgyűrűzés, teljesítménytúra és kisvonatozás a halvasúton – ismét darvadozást rendeznek a Szegedi Fehér-tónál",
-      "url": "https://szeged365.hu/2026/11/19/madargyuruzes-teljesitmenytura-es-kisvonatozas-a-halvasuton-ismet-darvadozast-rendeznek-a-szegedi-feher-tonal/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-20T10:00:17.609655Z"
+  "updated_at": "2026-11-20T13:01:26.087003Z"
 }

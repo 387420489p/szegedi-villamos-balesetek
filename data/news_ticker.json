@@ -1,20 +1,44 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-21T10:02:04.505275Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
+      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
+    },
+    {
+      "first_seen": "2026-11-21T10:02:04.505275Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bús Balázs napokon belül hazamehet a szegedi Csillagbörtönből",
+      "url": "https://szeged365.hu/2026/11/21/bus-balazs-napokon-belul-hazamehet-a-szegedi-csillagbortonbol/"
+    },
+    {
+      "first_seen": "2026-11-21T10:02:04.505275Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nem a Legszegedibb Jótevő vagyok, hanem egy híd az emberek között” – Kovács Dénes is üzent a szegedieknek a 2026-os Legszegedibb Szegediek kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/21/nem-a-legszegedibb-jotevo-vagyok-hanem-egy-hid-az-emberek-kozott-kovacs-denes-is-uzent-a-szegedieknek-a-2026-os-legszegedibb-szegediek-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-21T10:02:04.505275Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Bajnoki műhelyből az ünnepi asztalra: elindult az előrendelés a REÖK díjnyertes bejglijére",
+      "url": "https://szeged365.hu/2026/11/21/bajnoki-muhelybol-az-unnepi-asztalra-elindult-az-elorendeles-a-reok-dijnyertes-bejglijere/"
+    },
+    {
       "first_seen": "2026-11-21T07:08:07.291421Z",
       "published_at": "2026-11-21T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Napi pakk: napsütéses idővel indítjuk a hétvégét, új filmfesztivál debütál Szegeden, és darvadozás lesz a Fehér-tónál",
       "url": "https://szeged365.hu/2026/11/21/napi-pakk-napsuteses-idovel-inditjuk-a-hetveget-uj-filmfesztival-debutal-szegeden-es-darvadozas-lesz-a-feher-tonal/"
-    },
-    {
-      "first_seen": "2026-11-20T19:03:58.763040Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
-      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
     },
     {
       "first_seen": "2026-11-20T19:03:58.763040Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegedi szerző első regénye juthat a legjobb tíz közé Az Év Könyve szavazásán – segítsünk neki is!",
       "url": "https://szeged365.hu/2026/11/19/szegedi-szerzo-elso-regenye-juthat-a-legjobb-tiz-koze-az-ev-konyve-szavazasan-segitsunk-neki-is/"
-    },
-    {
-      "first_seen": "2026-11-19T19:06:51.604176Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Velünk maradnak a felhők: pénteken még egy-egy zápor benézhet Szegedre",
-      "url": "https://szeged365.hu/2026/11/19/velunk-maradnak-a-felhok-penteken-meg-egy-egy-zapor-benezhet-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-19T19:06:51.604176Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt Szegeden, a Híd utcában – egy motoros és egy kocsi ütközött, pótlóbuszok közlekednek (galéria)",
-      "url": "https://szeged365.hu/2026/11/19/baleset-tortent-szegeden-a-hid-utcaban-egy-motoros-es-egy-kocsi-utkozott-potlobuszok-kozlekednek-galeria/"
-    },
-    {
-      "first_seen": "2026-11-19T16:06:23.736886Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Exkluzív interjú: illegális graffitikkel kezdte, ma Mone Szeged kedvence falfestője (galériák)",
-      "url": "https://szeged365.hu/2026/11/18/exkluziv-interju-illegalis-graffitikkel-kezdte-ma-mone-szeged-kedvence-falfestoje-galeriak/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T07:08:07.291421Z"
+  "updated_at": "2026-11-21T10:02:04.505275Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-21T16:01:21.746839Z",
+      "published_at": "2025-09-03T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Döntött a bíróság: Bús Balázs elhagyhatja a szegedi Csillagbörtönt, bűnügyi felügyelet alá kerül",
+      "url": "https://szeged365.hu/2026/11/21/dontott-a-birosag-bus-balazs-elhagyhatja-a-szegedi-csillagbortont-bunugyi-felugyelet-ala-kerul/"
+    },
+    {
+      "first_seen": "2026-11-21T16:01:21.746839Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újrahasználás, értékmentés és nyitott íróműhely Szegeden – elindult az Európai Hulladékcsökkentési Hét",
+      "url": "https://szeged365.hu/2026/11/21/ujrahasznalas-ertekmentes-es-nyitott-iromuhely-szegeden-elindult-az-europai-hulladekcsokkentesi-het/"
+    },
+    {
       "first_seen": "2026-11-21T13:05:26.104278Z",
       "published_at": "2026-11-20T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szegeden vizsgálták azt a 100 millió éves csigafajt, amit a The Prodigy egykori énekeséről, Keith Flintről neveztek el",
       "url": "https://szeged365.hu/2026/11/20/szegeden-vizsgaltak-azt-a-100-millio-eves-csigafajt-amit-a-the-prodigy-egykori-enekeserol-keith-flintrol-neveztek-el/"
-    },
-    {
-      "first_seen": "2026-11-20T07:09:51.696535Z",
-      "published_at": "2026-11-09T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Óriási csaták zajlanak a 2026-os Legszegedibb Szegediek versenyében, már közel 30 ezren adták le a voksukat – mutatjuk a friss állást!",
-      "url": "https://szeged365.hu/2026/11/09/oriasi-csatak-zajlanak-a-2026-os-legszegedibb-szegediek-versenyeben-mar-kozel-30-ezren-adtak-le-a-voksukat-mutatjuk-a-friss-allast/"
-    },
-    {
-      "first_seen": "2026-11-20T07:09:51.696535Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megvan Szeged karácsonyfája! Egy 11 méteres kaukázusi jegenyefenyő díszíti majd városunk egyik legszebb terét",
-      "url": "https://szeged365.hu/2026/11/20/megvan-szeged-karacsonyfaja-egy-11-meteres-kaukazusi-jegenyefenyo-disziti-majd-varosunk-egyik-legszebb-teret/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T13:05:26.104278Z"
+  "updated_at": "2026-11-21T16:01:21.746839Z"
 }

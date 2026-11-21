@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-21T13:05:26.104278Z",
+      "published_at": "2026-11-20T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Baleset történt Szegeden is: kamion és személyautó ütközött, a 9-es troli helyett pótlóbuszok közlekednek (frissítve)",
+      "url": "https://szeged365.hu/2026/11/20/baleset-tortent-szegeden-is-a-9-es-troli-helyett-potlobuszok-kozlekednek/"
+    },
+    {
+      "first_seen": "2026-11-21T13:05:26.104278Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sztárokkal érkezik jövő nyáron a We Will Rock You a Szegedi Szabadtérire – már a szereposztás is kiderült",
+      "url": "https://szeged365.hu/2026/11/21/sztarokkal-erkezik-jovo-nyaron-a-we-will-rock-you-a-szegedi-szabadterire-mar-a-szereposztas-is-kiderult/"
+    },
+    {
+      "first_seen": "2026-11-21T13:05:26.104278Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden is emelkedett a koronavírus koncentrációja a szennyvízben – több fertőzés várható",
+      "url": "https://szeged365.hu/2026/11/21/szegeden-is-emelkedett-a-koronavirus-koncentracioja-a-szennyvizben-tobb-fertozes-varhato/"
+    },
+    {
+      "first_seen": "2026-11-21T13:05:26.104278Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újból lezárják a Mátyás téri körforgalmat Szegeden – mutatjuk a kerülőutakat és a buszjáratok változásait",
+      "url": "https://szeged365.hu/2026/11/21/ujbol-lezarjak-a-matyas-teri-korforgalmat-szegeden-mutatjuk-a-keruloutakat-es-a-buszjaratok-valtozasait/"
+    },
+    {
+      "first_seen": "2026-11-21T13:05:26.104278Z",
+      "published_at": "2026-12-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyenesen Dél-Karolinából érkezik az ünnepi hangulat: világszínvonalú amerikai gospel-show robban be a Szegedi Nemzeti Színházba! (videókkal)",
+      "url": "https://szeged365.hu/2026/11/13/egyenesen-del-karolinabol-erkezik-az-unnepi-hangulat-vilagszinvonalu-amerikai-gospel-show-robban-be-a-szegedi-nemzeti-szinhazba-videokkal/"
+    },
+    {
       "first_seen": "2026-11-21T10:02:04.505275Z",
       "published_at": "2026-11-10T00:00:00",
       "reason": "prefiltered",
@@ -149,14 +189,6 @@
       "published_at": "2026-11-20T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Baleset történt Szegeden is: a 9-es troli helyett pótlóbuszok közlekednek (frissítve)",
-      "url": "https://szeged365.hu/2026/11/20/baleset-tortent-szegeden-is-a-9-es-troli-helyett-potlobuszok-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-11-20T13:01:26.087003Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Szeged365 Kikapcs: ingyenes filmfesztivál, Co Lee koncert és Európai Art Mozi Nap – mutatjuk, milyen programokkal vár hétvégén a Napfény Városa",
       "url": "https://szeged365.hu/2026/11/20/szeged365-kikapcs-ingyenes-filmfesztival-co-lee-koncert-es-europai-art-mozi-nap-mutatjuk-milyen-programokkal-var-hetvegen-a-napfeny-varosa/"
     },
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Megvan Szeged karácsonyfája! Egy 11 méteres kaukázusi jegenyefenyő díszíti majd városunk egyik legszebb terét",
       "url": "https://szeged365.hu/2026/11/20/megvan-szeged-karacsonyfaja-egy-11-meteres-kaukazusi-jegenyefenyo-disziti-majd-varosunk-egyik-legszebb-teret/"
-    },
-    {
-      "first_seen": "2026-11-20T07:09:51.696535Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: záporok még előfordulhatnak, ma még jelentkezhetsz statisztának a Szegedi Szabadtérire",
-      "url": "https://szeged365.hu/2026/11/20/napi-pakk-zaporok-meg-elofordulhatnak-ma-meg-jelentkezhetsz-statisztanak-a-szegedi-szabadterire/"
-    },
-    {
-      "first_seen": "2026-11-19T19:06:51.604176Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megdöbbentő telet jósolnak a meteorológusok: durva hatása lesz az El Nino-nak Szegeden is",
-      "url": "https://szeged365.hu/2026/11/18/megdobbento-telet-josolnak-a-meteorologusok-durva-hatasa-lesz-az-el-nino-nak-szegeden-is/"
-    },
-    {
-      "first_seen": "2026-11-19T19:06:51.604176Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Késő este érkezik Veronika: viharos széllel és újabb esővel robog át Szeged térségén a ciklon",
-      "url": "https://szeged365.hu/2026/11/19/keso-este-erkezik-veronika-viharos-szellel-es-ujabb-esovel-robog-at-szeged-tersegen-a-ciklon/"
-    },
-    {
-      "first_seen": "2026-11-19T19:06:51.604176Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedi szerző első regénye juthat a legjobb tíz közé Az Év Könyve szavazásán – segítsünk neki is!",
-      "url": "https://szeged365.hu/2026/11/19/szegedi-szerzo-elso-regenye-juthat-a-legjobb-tiz-koze-az-ev-konyve-szavazasan-segitsunk-neki-is/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T10:02:04.505275Z"
+  "updated_at": "2026-11-21T13:05:26.104278Z"
 }

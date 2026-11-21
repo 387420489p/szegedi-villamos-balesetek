@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-21T07:08:07.291421Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: napsütéses idővel indítjuk a hétvégét, új filmfesztivál debütál Szegeden, és darvadozás lesz a Fehér-tónál",
+      "url": "https://szeged365.hu/2026/11/21/napi-pakk-napsuteses-idovel-inditjuk-a-hetveget-uj-filmfesztival-debutal-szegeden-es-darvadozas-lesz-a-feher-tonal/"
+    },
+    {
       "first_seen": "2026-11-20T19:03:58.763040Z",
       "published_at": "2026-11-10T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Exkluzív interjú: illegális graffitikkel kezdte, ma Mone Szeged kedvence falfestője (galériák)",
       "url": "https://szeged365.hu/2026/11/18/exkluziv-interju-illegalis-graffitikkel-kezdte-ma-mone-szeged-kedvence-falfestoje-galeriak/"
-    },
-    {
-      "first_seen": "2026-11-19T16:06:23.736886Z",
-      "published_at": "2026-11-18T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Árhullám vonul le a Maroson, csütörtök este pedig érkezik Veronika: nagy szél és zivatarok várhatók Szegeden is",
-      "url": "https://szeged365.hu/2026/11/18/arhullam-vonul-le-a-maroson-csutortok-este-pedig-erkezik-veronika-nagy-szel-es-zivatarok-varhatok-szegeden-is/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-20T19:03:58.763040Z"
+  "updated_at": "2026-11-21T07:08:07.291421Z"
 }

@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-21T19:01:41.767430Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vasárnap borús nappal után csapadékos estére számíthatunk Szegeden",
+      "url": "https://szeged365.hu/2026/11/21/vasarnap-borus-nappal-utan-csapadekos-estere-szamithatunk-szegeden/"
+    },
+    {
       "first_seen": "2026-11-21T16:01:21.746839Z",
       "published_at": "2025-09-03T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "A nyílt utcán támadt nevelőapjára egy férfi Szegeden – a közelben tartózkodók hívtak mentőt a súlyos sérülést szenvedett sértetthez",
       "url": "https://szeged365.hu/2026/11/20/a-nyilt-utcan-tamadt-neveloapjara-egy-ferfi-szegeden-a-kozelben-tartozkodok-hivtak-mentot-a-sulyos-serulest-szenvedett-sertetthez/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden vizsgálták azt a 100 millió éves csigafajt, amit a The Prodigy egykori énekeséről, Keith Flintről neveztek el",
-      "url": "https://szeged365.hu/2026/11/20/szegeden-vizsgaltak-azt-a-100-millio-eves-csigafajt-amit-a-the-prodigy-egykori-enekeserol-keith-flintrol-neveztek-el/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T16:01:21.746839Z"
+  "updated_at": "2026-11-21T19:01:41.767430Z"
 }

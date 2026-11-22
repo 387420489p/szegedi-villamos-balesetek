@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-22T19:01:59.254163Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Viharos hajnallal indulhat a hétfő Szegeden, de délutánra már a nap is kisüthet",
+      "url": "https://szeged365.hu/2026/11/22/viharos-hajnallal-indulhat-a-hetfo-szegeden-de-delutanra-mar-a-nap-is-kisuthet/"
+    },
+    {
       "first_seen": "2026-11-22T16:03:01.741351Z",
       "published_at": "2025-09-03T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Meglepetés! Befutott városunk karácsonyfája a Klauzál térre, egy hét múlva indul a Szeged Advent",
       "url": "https://szeged365.hu/2026/11/20/meglepetes-befutott-varosunk-karacsonyfaja-a-klauzal-terre-egy-het-mulva-indul-a-szeged-advent/"
-    },
-    {
-      "first_seen": "2026-11-20T13:01:26.087003Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#KÖZÉLET",
-      "url": "https://szeged365.hu/kozelet/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T16:03:01.741351Z"
+  "updated_at": "2026-11-22T19:01:59.254163Z"
 }

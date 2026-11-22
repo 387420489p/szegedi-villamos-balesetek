@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-22T07:07:03.268381Z",
+      "published_at": "2026-11-10T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
+      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
+    },
+    {
+      "first_seen": "2026-11-22T07:07:03.268381Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: visszatér a borús, csapadékos időjárás Szegedre, és a MÁV folytatja a karbantartási munkákat Szeged és Hódmezővásárhely között",
+      "url": "https://szeged365.hu/2026/11/22/napi-pakk-visszater-a-borus-csapadekos-idojaras-szegedre-es-a-mav-folytatja-a-karbantartasi-munkakat-szeged-es-hodmezovasarhely-kozott/"
+    },
+    {
+      "first_seen": "2026-11-22T07:07:03.268381Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Brutális verekedésről kaptunk videót Szeged belvárosából (videó) 18+",
+      "url": "https://szeged365.hu/2026/11/21/brutalis-verekedesrol-kaptunk-videot-szeged-belvarosabol-video/"
+    },
+    {
       "first_seen": "2026-11-21T19:01:41.767430Z",
       "published_at": "2026-11-21T00:00:00",
       "reason": "prefiltered",
@@ -63,14 +87,6 @@
       "source_name": "Szeged365",
       "title": "Egyenesen Dél-Karolinából érkezik az ünnepi hangulat: világszínvonalú amerikai gospel-show robban be a Szegedi Nemzeti Színházba! (videókkal)",
       "url": "https://szeged365.hu/2026/11/13/egyenesen-del-karolinabol-erkezik-az-unnepi-hangulat-vilagszinvonalu-amerikai-gospel-show-robban-be-a-szegedi-nemzeti-szinhazba-videokkal/"
-    },
-    {
-      "first_seen": "2026-11-21T10:02:04.505275Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
-      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
     },
     {
       "first_seen": "2026-11-21T10:02:04.505275Z",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Family, ezt ne hagyjátok ki! Két ingyenes koncert is lesz az ÁRKÁD-ban november végén, mutatjuk, kik érkeznek!",
       "url": "https://szeged365.hu/2026/11/20/szeged365-family-ezt-ne-hagyjatok-ki-ket-ingyenes-koncert-is-lesz-az-arkad-ban-november-vegen-mutatjuk-kik-erkeznek/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ez kemény: 1148 km/h-val száguldott egy utasszállító repülőgép Szegednél",
-      "url": "https://szeged365.hu/2026/11/20/ez-kemeny-1148-km-h-val-szaguldott-egy-utasszallito-repulogep-szegednel/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A nyílt utcán támadt nevelőapjára egy férfi Szegeden – a közelben tartózkodók hívtak mentőt a súlyos sérülést szenvedett sértetthez",
-      "url": "https://szeged365.hu/2026/11/20/a-nyilt-utcan-tamadt-neveloapjara-egy-ferfi-szegeden-a-kozelben-tartozkodok-hivtak-mentot-a-sulyos-serulest-szenvedett-sertetthez/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T19:01:41.767430Z"
+  "updated_at": "2026-11-22T07:07:03.268381Z"
 }

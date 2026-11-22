@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-22T10:01:04.263283Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kárász utcai verekedés: a polgárőrök választották szét a feleket és ők hívtak mentőt is",
+      "url": "https://szeged365.hu/2026/11/22/karasz-utcai-verekedes-a-polgarorok-valasztottak-szet-a-feleket-es-ok-hivtak-mentot-is/"
+    },
+    {
+      "first_seen": "2026-11-22T10:01:04.263283Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Kiss Gábor, a Szomszédok iskolaigazgatója, aki a Szegedi Nemzeti Színházban is játszott",
+      "url": "https://szeged365.hu/2026/11/22/elhunyt-kiss-gabor-a-szomszedok-iskolaigazgatoja-aki-a-szegedi-nemzeti-szinhazban-is-jatszott/"
+    },
+    {
       "first_seen": "2026-11-22T07:07:03.268381Z",
       "published_at": "2026-11-10T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
       "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Eltűnt szegedi férfit keres a rendőrség, segítsünk megtalálni!",
-      "url": "https://szeged365.hu/2026/11/20/eltunt-szegedi-ferfit-keres-a-rendoseg-segitsunk-megtalalni/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, ezt ne hagyjátok ki! Két ingyenes koncert is lesz az ÁRKÁD-ban november végén, mutatjuk, kik érkeznek!",
-      "url": "https://szeged365.hu/2026/11/20/szeged365-family-ezt-ne-hagyjatok-ki-ket-ingyenes-koncert-is-lesz-az-arkad-ban-november-vegen-mutatjuk-kik-erkeznek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T07:07:03.268381Z"
+  "updated_at": "2026-11-22T10:01:04.263283Z"
 }

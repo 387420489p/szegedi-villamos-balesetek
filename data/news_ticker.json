@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-22T13:08:30.518360Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vitézy Dávid: tízmilliárdos vasútfelújítás jön – rövidülhet a menetidő Szeged és Budapest között",
+      "url": "https://szeged365.hu/2026/11/22/vitezy-david-tizmilliardos-vasutfelujitas-jon-rovidulhet-a-menetido-szeged-es-budapest-kozott/"
+    },
+    {
+      "first_seen": "2026-11-22T13:08:30.518360Z",
+      "published_at": "2026-11-22T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "(18+) Megszólalt a rendőrség: íme az összes részlet a Kárász utcai tömegverekedés kapcsán (frissítve)",
+      "url": "https://szeged365.hu/2026/11/22/18-megszolalt-a-rendorseg-ime-az-osszes-reszlet-a-karasz-utcai-tomegverekedes-kapcsan/"
+    },
+    {
       "first_seen": "2026-11-22T10:01:04.263283Z",
       "published_at": "2026-11-22T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "#BLOG",
       "url": "https://szeged365.hu/blog/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
-    },
-    {
-      "first_seen": "2026-11-20T10:00:17.609655Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T10:01:04.263283Z"
+  "updated_at": "2026-11-22T13:08:30.518360Z"
 }

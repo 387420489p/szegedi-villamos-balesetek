@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nem a Legszegedibb Jótevő vagyok, hanem egy híd az emberek között” – Kovács Dénes is üzent a szegedieknek a 2026-os Legszegedibb Szegediek kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/21/nem-a-legszegedibb-jotevo-vagyok-hanem-egy-hid-az-emberek-kozott-kovacs-denes-is-uzent-a-szegedieknek-a-2026-os-legszegedibb-szegediek-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-15T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Én is szavazok, szavazzatok Ti is a kedvenceitekre” – videóban üzent a Legszegedibb Művész díjas Tatár Botond! (videó)",
+      "url": "https://szeged365.hu/2026/11/15/en-is-szavazok-szavazzatok-ti-is-a-kedvenceitekre-videoban-uzent-a-legszegedibb-muvesz-dijas-tatar-botond-video/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
+      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egyre több a légúti megbetegedés Szegeden – maszkviselési szabályokat vezettek be a SZTE Szent-Györgyi Albert Klinikai Központban",
+      "url": "https://szeged365.hu/2026/11/23/egyre-tobb-a-leguti-megbetegedes-szegeden-maszkviselesi-szabalyokat-vezettek-be-a-szte-szent-gyorgyi-albert-klinikai-kozpontban/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Folytatódik a vízvezeték-rekostrukció Újszegeden, a teljes lezárás helyett most részleges forgalomkorlátozás jön",
+      "url": "https://szeged365.hu/2026/11/23/folytatodik-a-vizvezetek-rekostrukcio-ujszegeden-a-teljes-lezaras-helyett-most-reszleges-forgalomkorlatozas-jon/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Még sosem próbáltad a Reformer Pilatest? Fedezd fel a tudatos mozgás élményét a szegedi Zen Dennél!",
+      "url": "https://szeged365.hu/2026/11/23/meg-sosem-probaltad-a-reformer-pilatest-fedezd-fel-a-tudatos-mozgas-elmenyet-a-szegedi-zen-dennel/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ötszáz évvel a mohácsi csata után Szegeden és Krakkóban is közösen kutatták a történelmi események hatásait",
+      "url": "https://szeged365.hu/2026/11/23/otszaz-evvel-a-mohacsi-csata-utan-szegeden-es-krakkoban-is-kozosen-kutattak-a-tortenelmi-esemenyek-hatasait/"
+    },
+    {
+      "first_seen": "2026-11-23T16:07:16.372765Z",
+      "published_at": "2024-08-08T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az év legjobb nyíltvízi úszói közé jelölték, a vb-n pedig modellként mutatkozik be a szegedi Fábián Bettina",
+      "url": "https://szeged365.hu/2026/11/23/az-ev-legjobb-nyiltvizi-uszoi-koze-jeloltek-a-vb-n-pedig-modellkent-mutatkozik-be-a-szegedi-fabian-bettina/"
+    },
+    {
       "first_seen": "2026-11-23T13:02:34.456818Z",
       "published_at": "2026-11-23T00:00:00",
       "reason": "prefiltered",
@@ -66,22 +130,6 @@
     },
     {
       "first_seen": "2026-11-23T10:03:43.251146Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nem a Legszegedibb Jótevő vagyok, hanem egy híd az emberek között” – Kovács Dénes is üzent a szegedieknek a 2026-os Legszegedibb Szegediek kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/21/nem-a-legszegedibb-jotevo-vagyok-hanem-egy-hid-az-emberek-kozott-kovacs-denes-is-uzent-a-szegedieknek-a-2026-os-legszegedibb-szegediek-kapcsan-video/"
-    },
-    {
-      "first_seen": "2026-11-23T10:03:43.251146Z",
-      "published_at": "2026-11-15T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Én is szavazok, szavazzatok Ti is a kedvenceitekre” – videóban üzent a Legszegedibb Művész díjas Tatár Botond! (videó)",
-      "url": "https://szeged365.hu/2026/11/15/en-is-szavazok-szavazzatok-ti-is-a-kedvenceitekre-videoban-uzent-a-legszegedibb-muvesz-dijas-tatar-botond-video/"
-    },
-    {
-      "first_seen": "2026-11-23T10:03:43.251146Z",
       "published_at": "2026-11-22T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -103,14 +151,6 @@
       "source_name": "Szeged365",
       "title": "A GTA már megérkezett, a vacsora is úton lehet: még egy hétig tart a szegedi Trója GRAND FREE DELIVERY akciója",
       "url": "https://szeged365.hu/2026/11/23/a-gta-mar-megerkezett-a-vacsora-is-uton-lehet-meg-egy-hetig-tart-a-szegedi-troja-grand-free-delivery-akcioja/"
-    },
-    {
-      "first_seen": "2026-11-23T10:03:43.251146Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
-      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
     },
     {
       "first_seen": "2026-11-23T10:03:43.251146Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Baleset történt Szegeden is: kamion és személyautó ütközött, a 9-es troli helyett pótlóbuszok közlekednek (frissítve)",
       "url": "https://szeged365.hu/2026/11/20/baleset-tortent-szegeden-is-a-9-es-troli-helyett-potlobuszok-kozlekednek/"
-    },
-    {
-      "first_seen": "2026-11-21T13:05:26.104278Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Sztárokkal érkezik jövő nyáron a We Will Rock You a Szegedi Szabadtérire – már a szereposztás is kiderült",
-      "url": "https://szeged365.hu/2026/11/21/sztarokkal-erkezik-jovo-nyaron-a-we-will-rock-you-a-szegedi-szabadterire-mar-a-szereposztas-is-kiderult/"
-    },
-    {
-      "first_seen": "2026-11-21T13:05:26.104278Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegeden is emelkedett a koronavírus koncentrációja a szennyvízben – több fertőzés várható",
-      "url": "https://szeged365.hu/2026/11/21/szegeden-is-emelkedett-a-koronavirus-koncentracioja-a-szennyvizben-tobb-fertozes-varhato/"
-    },
-    {
-      "first_seen": "2026-11-21T13:05:26.104278Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újból lezárják a Mátyás téri körforgalmat Szegeden – mutatjuk a kerülőutakat és a buszjáratok változásait",
-      "url": "https://szeged365.hu/2026/11/21/ujbol-lezarjak-a-matyas-teri-korforgalmat-szegeden-mutatjuk-a-keruloutakat-es-a-buszjaratok-valtozasait/"
-    },
-    {
-      "first_seen": "2026-11-21T13:05:26.104278Z",
-      "published_at": "2026-12-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyenesen Dél-Karolinából érkezik az ünnepi hangulat: világszínvonalú amerikai gospel-show robban be a Szegedi Nemzeti Színházba! (videókkal)",
-      "url": "https://szeged365.hu/2026/11/13/egyenesen-del-karolinabol-erkezik-az-unnepi-hangulat-vilagszinvonalu-amerikai-gospel-show-robban-be-a-szegedi-nemzeti-szinhazba-videokkal/"
-    },
-    {
-      "first_seen": "2026-11-21T10:02:04.505275Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Bús Balázs napokon belül hazamehet a szegedi Csillagbörtönből",
-      "url": "https://szeged365.hu/2026/11/21/bus-balazs-napokon-belul-hazamehet-a-szegedi-csillagbortonbol/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-23T13:02:34.456818Z"
+  "updated_at": "2026-11-23T16:07:16.372765Z"
 }

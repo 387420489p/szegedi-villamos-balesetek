@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Virágzó mandulafa a REÖK-ben: különleges kiállítással ünnepel a 30 éves Szegedi Művésztelep",
+      "url": "https://szeged365.hu/2026/11/23/viragzo-mandulafa-a-reok-ben-kulonleges-kiallitassal-unnepel-a-30-eves-szegedi-muvesztelep/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Fiatal karnagyok veszik át a főszerepet Szegeden: országos versenynek ad otthont az Agóra",
+      "url": "https://szeged365.hu/2026/11/23/fiatal-karnagyok-veszik-at-a-foszerepet-szegeden-orszagos-versenynek-ad-otthont-az-agora/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Black Week: háromnapos ékszer- és óraakció vár a szegedi Diamore-ban",
+      "url": "https://szeged365.hu/2026/11/23/black-friday-haromnapos-ekszer-es-oraakcio-var-a-szegedi-diamore-ban/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb Junior Príma-díjassal bővül a Petőfi musical szereplőgárdája: Radnay Csilla Laborfalvi Rózát alakítja a Szegedi Szabadtéri Játékokon (videó)",
+      "url": "https://szeged365.hu/2026/11/23/ujabb-junior-prima-dijassal-bovul-a-petofi-musical-szereplogardaja-radnay-csilla-laborfalvi-rozat-alakitja-a-szegedi-szabadteri-jatekokon-video/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Le a kalappal: 1000 tábla (!!) Milka csokit adományozott a Költözzma a Garden Bistro jótékonysági csokoládégyűjtésén",
+      "url": "https://szeged365.hu/2026/11/23/le-a-kalappal-1000-tabla-milka-csokit-adomanyozott-a-koltozzma-a-garden-bistro-jotekonysagi-csokoladegyujtesen/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Jönnek a hajnali fagyok: napsütéses, de hideg időt hoz a kedd Szegedre",
+      "url": "https://szeged365.hu/2026/11/23/jonnek-a-hajnali-fagyok-napsuteses-de-hideg-idot-hoz-a-kedd-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már 30 ezren látták a Picasso-kiállítást a szegedi Móra Ferenc Múzeumban",
+      "url": "https://szeged365.hu/2026/11/23/mar-30-ezren-lattak-a-picasso-kiallitast-a-szegedi-mora-ferenc-muzeumban/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Karambol történt a Rókusi körúton – egy autó és egy motoros ütközött, torlódás alakult ki (frissítve, fotókkal)",
+      "url": "https://szeged365.hu/2026/11/23/karambol-tortent-szegeden-egy-auto-es-egy-motoros-utkozott-torlodas-alakult-ki/"
+    },
+    {
+      "first_seen": "2026-11-23T19:00:32.361734Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kizuhant egy nő az emeletről a Csongrádi sugárúton – sajnos életét vesztette (+18)",
+      "url": "https://szeged365.hu/2026/11/23/kizuhant-egy-no-az-emeletrol-a-szegedi-csongradi-sugaruton-sajnos-eletet-vesztette/"
+    },
+    {
       "first_seen": "2026-11-23T16:07:16.372765Z",
       "published_at": "2026-11-21T00:00:00",
       "reason": "prefiltered",
@@ -247,80 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Matolcsy György, Orbán Áron, Seszták Miklós és más, addig még csatlakozó politikusok társaságában” – ismét börtönbe vonul a volt szegedi képviselő, Szabó Bálint",
       "url": "https://szeged365.hu/2026/11/22/matolcsy-gyorgy-orban-aron-sesztak-miklos-es-mas-addig-meg-csatlakozo-politikusok-tarsasagaban-ismet-bortonbe-vonul-a-volt-szegedi-kepviselo-szabo-balint/"
-    },
-    {
-      "first_seen": "2026-11-22T16:03:01.741351Z",
-      "published_at": "2026-11-12T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Legszegedibb Gyógyító, Dr. Rokszin Richárd is szavazásra motivál mindenkit a 2026-os Legszegedibb Szegediek versenyen! (videó)",
-      "url": "https://szeged365.hu/2026/11/12/a-legszegedibb-gyogyito-dr-rokszin-richard-is-szavazasra-motival-mindenkit-a-2026-os-legszegedibb-szegediek-versenyen-video/"
-    },
-    {
-      "first_seen": "2026-11-22T13:08:30.518360Z",
-      "published_at": "2026-11-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vitézy Dávid: tízmilliárdos vasútfelújítás jön – rövidülhet a menetidő Szeged és Budapest között",
-      "url": "https://szeged365.hu/2026/11/22/vitezy-david-tizmilliardos-vasutfelujitas-jon-rovidulhet-a-menetido-szeged-es-budapest-kozott/"
-    },
-    {
-      "first_seen": "2026-11-22T13:08:30.518360Z",
-      "published_at": "2026-11-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "(18+) Megszólalt a rendőrség: íme az összes részlet a Kárász utcai tömegverekedés kapcsán (frissítve)",
-      "url": "https://szeged365.hu/2026/11/22/18-megszolalt-a-rendorseg-ime-az-osszes-reszlet-a-karasz-utcai-tomegverekedes-kapcsan/"
-    },
-    {
-      "first_seen": "2026-11-22T10:01:04.263283Z",
-      "published_at": "2026-11-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Elhunyt Kiss Gábor, a Szomszédok iskolaigazgatója, aki a Szegedi Nemzeti Színházban is játszott",
-      "url": "https://szeged365.hu/2026/11/22/elhunyt-kiss-gabor-a-szomszedok-iskolaigazgatoja-aki-a-szegedi-nemzeti-szinhazban-is-jatszott/"
-    },
-    {
-      "first_seen": "2026-11-22T07:07:03.268381Z",
-      "published_at": "2026-11-10T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Idén csapattársáért izgulhat a Legszegedibb Sportoló díjas Bánhidi Bence, ő is szavazásra buzdít a 2026-os Legszegedibb Szegediek versenyen (videó)",
-      "url": "https://szeged365.hu/2026/11/10/a-legszegedibb-sportolo-dijas-banhidi-bence-iden-csapattarsaert-izgulhat-a-2026-os-legszegedibb-szegediek-versenyen-video/"
-    },
-    {
-      "first_seen": "2026-11-22T07:07:03.268381Z",
-      "published_at": "2026-11-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: visszatér a borús, csapadékos időjárás Szegedre, és a MÁV folytatja a karbantartási munkákat Szeged és Hódmezővásárhely között",
-      "url": "https://szeged365.hu/2026/11/22/napi-pakk-visszater-a-borus-csapadekos-idojaras-szegedre-es-a-mav-folytatja-a-karbantartasi-munkakat-szeged-es-hodmezovasarhely-kozott/"
-    },
-    {
-      "first_seen": "2026-11-21T19:01:41.767430Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Vasárnap borús nappal után csapadékos estére számíthatunk Szegeden",
-      "url": "https://szeged365.hu/2026/11/21/vasarnap-borus-nappal-utan-csapadekos-estere-szamithatunk-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-21T16:01:21.746839Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újrahasználás, értékmentés és nyitott íróműhely Szegeden – elindult az Európai Hulladékcsökkentési Hét",
-      "url": "https://szeged365.hu/2026/11/21/ujrahasznalas-ertekmentes-es-nyitott-iromuhely-szegeden-elindult-az-europai-hulladekcsokkentesi-het/"
-    },
-    {
-      "first_seen": "2026-11-21T13:05:26.104278Z",
-      "published_at": "2026-11-20T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset történt Szegeden is: kamion és személyautó ütközött, a 9-es troli helyett pótlóbuszok közlekednek (frissítve)",
-      "url": "https://szeged365.hu/2026/11/20/baleset-tortent-szegeden-is-a-9-es-troli-helyett-potlobuszok-kozlekednek/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-23T16:07:16.372765Z"
+  "updated_at": "2026-11-23T19:00:32.361734Z"
 }

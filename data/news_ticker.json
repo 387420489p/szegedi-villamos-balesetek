@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "first_seen": "2026-11-24T07:09:12.604903Z",
+      "first_seen": "2026-11-24T10:00:30.099367Z",
       "published_at": "2026-11-23T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
       "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
+    },
+    {
+      "first_seen": "2026-11-24T10:00:30.099367Z",
+      "published_at": "2026-11-13T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
+      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
+    },
+    {
+      "first_seen": "2026-11-24T10:00:30.099367Z",
+      "published_at": "2026-11-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„A mai napig erőt ad, hogy megérte és megéri küzdeni” – Détári Vilmos, a Legszegedibb Jótevő is szavazásra buzdít minden szegedit a 2026-os Legszegedibb Szegediek versenyen! (videó)",
+      "url": "https://szeged365.hu/2026/11/24/a-mai-napig-erot-ad-hogy-megerte-es-megeri-kuzdeni-detari-vilmos-a-legszegedibb-jotevo-is-szavazasra-buzdit-minden-szegedit-a-2026-os-legszegedibb-szegediek-versenyen-v/"
+    },
+    {
+      "first_seen": "2026-11-24T10:00:30.099367Z",
+      "published_at": "2026-11-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Születésnapi meglepetésekkel készül az Eau de Tihany Szegeden! Prosecco, sütemények és 10% kedvezmény vár Benneteket (videó)",
+      "url": "https://szeged365.hu/2026/11/24/szuletesnapi-meglepetesekkel-keszul-az-eau-de-tihany-szegeden-prosecco-sutemenyek-es-10-kedvezmeny-var-benneteket-video/"
+    },
+    {
+      "first_seen": "2026-11-24T10:00:30.099367Z",
+      "published_at": "2026-11-24T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Súlyos sérülésekkel szállítottak kórházba egy nőt a Mórahalomnál történt baleset helyszínéről",
+      "url": "https://szeged365.hu/2026/11/24/sulyos-serulesekkel-szallitottak-korhazba-egy-not-a-morahalomnal-tortent-baleset-helyszinerol/"
     },
     {
       "first_seen": "2026-11-24T07:09:12.604903Z",
@@ -31,14 +63,6 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: napos, de szeles idő lesz, ma is dolgoznak az Algyői Tisza-hídon, a Bertalan hídon pedig most kezdik a munkát",
       "url": "https://szeged365.hu/2026/11/24/napi-pakk-napos-de-szeles-ido-lesz-ma-is-dolgoznak-az-algyoi-tisza-hidon-a-bertalan-hidon-ma-kezdik-a-munkat/"
-    },
-    {
-      "first_seen": "2026-11-24T07:09:12.604903Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
     },
     {
       "first_seen": "2026-11-23T19:00:32.361734Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "Repülhetnek a plüssök a PICK Arénában! Plüssdobás lesz az év utolsó hazai mérkőzésén Szegeden",
       "url": "https://szeged365.hu/2026/11/23/repulhetnek-a-plussok-a-pick-arenaban-plussdobas-lesz-az-ev-utolso-hazai-merkozesen-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-23T07:05:53.977855Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: borongós reggel után napsütéssel indítjuk a hetet Szegeden, és több helyen munkálatok nehezítik a közlekedést",
-      "url": "https://szeged365.hu/2026/11/23/napi-pakk-borongos-reggel-utan-napsutessel-inditjuk-a-hetet-szegeden-es-tobb-helyen-munkalatok-nehezitik-a-kozlekedest/"
-    },
-    {
-      "first_seen": "2026-11-22T19:01:59.254163Z",
-      "published_at": "2026-11-22T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Viharos hajnallal indulhat a hétfő Szegeden, de délutánra már a nap is kisüthet",
-      "url": "https://szeged365.hu/2026/11/22/viharos-hajnallal-indulhat-a-hetfo-szegeden-de-delutanra-mar-a-nap-is-kisuthet/"
-    },
-    {
-      "first_seen": "2026-11-22T16:03:01.741351Z",
-      "published_at": "2025-09-03T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Döntött a bíróság: Bús Balázs elhagyhatja a szegedi Csillagbörtönt, bűnügyi felügyelet alá kerül (frissítve, videóval)",
-      "url": "https://szeged365.hu/2026/11/21/dontott-a-birosag-bus-balazs-elhagyhatja-a-szegedi-csillagbortont-bunugyi-felugyelet-ala-kerul/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-24T07:09:12.604903Z"
+  "updated_at": "2026-11-24T10:00:30.099367Z"
 }

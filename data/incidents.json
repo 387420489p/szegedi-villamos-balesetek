@@ -7255,8 +7255,33 @@
       "status": "published",
       "summary": "Szegeden a Tisza Lajos körúton, a Gróf-palota előtt egy személyautó ütközött villamossal, majd egy helyi járatos busz is beléjük hajtott. Személyi sérülés nem történt, a 3-as, 3F-es és 4-es villamosok helyett részlegesen pótlóbuszok közlekedtek.",
       "updated_at": "2026-11-19T19:06:51.604176Z"
+    },
+    {
+      "confidence": 0.85,
+      "created_at": "2026-11-25T16:04:13.240998Z",
+      "event_date": "2026-11-25",
+      "event_time": null,
+      "event_type": "derailment",
+      "id": "szvb-20261125-001",
+      "injuries": "none",
+      "location": "Dugonics tér",
+      "location_normalized": "dugonics ter",
+      "mode": "tram",
+      "other_party": "unknown",
+      "sources": [
+        {
+          "added_at": "2026-11-25T16:04:13.240998Z",
+          "published_at": "2026-11-25T00:00:00",
+          "source_name": "Webrádió",
+          "title": "Kisiklott egy Tatra villamos a Dugonics téren",
+          "url": "https://webradio.hu/hirek/belfold/kisiklott-egy-tatra-villamos-a-dugonics-teren"
+        }
+      ],
+      "status": "published",
+      "summary": "Szegeden a Dugonics téren forgalmi zavart okozott a 4-es vonalán egy Tatra villamos, amely a hírek szerint kisiklott vagy elterelődött. Az incidens során személyi sérülés és anyagi kár nem történt.",
+      "updated_at": "2026-11-25T16:04:13.240998Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-19T19:06:51.604176+00:00"
+  "updated_at": "2026-11-25T16:04:13.240998+00:00"
 }

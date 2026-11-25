@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-25T19:07:01.612563Z",
+      "published_at": "2026-11-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már most hatalmas az érdeklődés a 2027-es Szegedi Szabadtéri iránt: két musical is újabb előadást kap",
+      "url": "https://szeged365.hu/2026/11/25/mar-most-hatalmas-az-erdeklodes-a-2027-es-szegedi-szabadteri-irant-ket-musical-is-ujabb-eloadast-kap/"
+    },
+    {
+      "first_seen": "2026-11-25T19:07:01.612563Z",
+      "published_at": "2026-11-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A havazás még elkerül bennünket: csütörtökön borongós, esős idő várható Szegeden",
+      "url": "https://szeged365.hu/2026/11/25/a-havazas-meg-elkerul-bennunket-csutortokon-borongos-esos-ido-varhato-szegeden/"
+    },
+    {
       "first_seen": "2026-11-25T16:04:13.240998Z",
       "published_at": "2026-11-25T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Erre tényleg büszkék lehetünk! Szegeden működik Európa egyik legnagyobb geotermikus fűtési rendszere, és már a helyi lakóparkokban is hasznosítják a föld melegét",
       "url": "https://szeged365.hu/2026/11/24/erre-tenyleg-buszkek-lehetunk-szegeden-mukodik-europa-egyik-legnagyobb-geotermikus-futesi-rendszere-es-mar-a-helyi-lakoparkokban-is-hasznositjak-a-fold-meleget/"
-    },
-    {
-      "first_seen": "2026-11-24T13:04:30.677240Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Egyedüli magyar egyetemként két THE-elismerést is kapott a Szegedi Tudományegyetem",
-      "url": "https://szeged365.hu/2026/11/24/egyeduli-magyar-egyetemkent-ket-the-elismerest-is-kapott-a-szegedi-tudomanyegyetem/"
-    },
-    {
-      "first_seen": "2026-11-24T13:04:30.677240Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lehet, hogy késnek ma a nyugdíjak? Magára hagyott postás biciklire bukkantak Szegeden (fotó)",
-      "url": "https://szeged365.hu/2026/11/24/lehet-hogy-kesnek-ma-a-nyugdijak-magara-hagyott-postas-biciklire-bukkantak-szegeden-foto/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-25T16:04:13.240998Z"
+  "updated_at": "2026-11-25T19:07:01.612563Z"
 }

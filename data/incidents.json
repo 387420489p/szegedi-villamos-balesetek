@@ -7280,8 +7280,33 @@
       "status": "published",
       "summary": "Szegeden a Dugonics téren forgalmi zavart okozott a 4-es vonalán egy Tatra villamos, amely a hírek szerint kisiklott vagy elterelődött. Az incidens során személyi sérülés és anyagi kár nem történt.",
       "updated_at": "2026-11-25T16:04:13.240998Z"
+    },
+    {
+      "confidence": 0.95,
+      "created_at": "2026-11-25T19:07:01.612563Z",
+      "event_date": "2026-11-25",
+      "event_time": null,
+      "event_type": "collision",
+      "id": "szvb-20261125-002",
+      "injuries": "severe",
+      "location": "Kálvária sugárút 92.",
+      "location_normalized": "kalvaria sugarut 92",
+      "mode": "tram",
+      "other_party": "cyclist",
+      "sources": [
+        {
+          "added_at": "2026-11-25T19:07:01.612563Z",
+          "published_at": "2026-11-25T00:00:00",
+          "source_name": "szeged.hu",
+          "title": "Elütött a 3-as villamos egy tizenhárom éves fiút; ő volt figyelmetlen – Szegedi Híradó 2026. november 25.",
+          "url": "https://szeged.hu/cikk/elutott-a-3-as-villamos-egy-tizenharom-eves-fiut-o-volt-figyelmetlen-szegedi-hirado-2026-november-25"
+        }
+      ],
+      "status": "published",
+      "summary": "A 3-as villamos elütött egy elé kanyarodó 13 éves kerékpáros fiút a Kálvária sugárút 92. előtt. A balesetben a fiú nyolc napon túl gyógyuló, súlyos sérüléseket szenvedett.",
+      "updated_at": "2026-11-25T19:07:01.612563Z"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-25T16:04:13.240998+00:00"
+  "updated_at": "2026-11-25T19:07:01.612563+00:00"
 }

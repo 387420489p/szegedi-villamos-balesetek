@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-25T07:04:41.986070Z",
+      "published_at": "2026-11-25T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: szerdán visszatérhet az eső Szegedre, és a meccs előtt jótékonysági csokigyűjtést tartanak a kék-fehérek a PICK Arénában",
+      "url": "https://szeged365.hu/2026/11/25/napi-pakk-szerdan-visszaterhet-az-eso-szegedre-es-a-meccs-elott-jotekonysagi-csokigyujtest-tartanak-a-kek-feherek-a-pick-arenaban/"
+    },
+    {
       "first_seen": "2026-11-24T19:05:59.952535Z",
       "published_at": "2026-11-23T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Ötszáz évvel a mohácsi csata után Szegeden és Krakkóban is közösen kutatták a történelmi események hatásait",
       "url": "https://szeged365.hu/2026/11/23/otszaz-evvel-a-mohacsi-csata-utan-szegeden-es-krakkoban-is-kozosen-kutattak-a-tortenelmi-esemenyek-hatasait/"
-    },
-    {
-      "first_seen": "2026-11-23T16:07:16.372765Z",
-      "published_at": "2024-08-08T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az év legjobb nyíltvízi úszói közé jelölték, a vb-n pedig modellként mutatkozik be a szegedi Fábián Bettina",
-      "url": "https://szeged365.hu/2026/11/23/az-ev-legjobb-nyiltvizi-uszoi-koze-jeloltek-a-vb-n-pedig-modellkent-mutatkozik-be-a-szegedi-fabian-bettina/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-24T19:05:59.952535Z"
+  "updated_at": "2026-11-25T07:04:41.986070Z"
 }

@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-26T16:06:09.996704Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Kívül Csillagok háborúja, belül Buckingham-palota: behuppantunk az új Audi Q7-be a Porsche Szegednél (videó)",
+      "url": "https://szeged365.hu/2026/11/26/kivul-csillagok-haboruja-belul-buckingham-palota-behuppantunk-az-uj-audi-q7-be-a-porsche-szegednel-video/"
+    },
+    {
+      "first_seen": "2026-11-26T16:06:09.996704Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Makói képviselő a helytelenül elhelyezett forgalomlassító eszközök kapcsán: már felszedték, javítják a hibát",
+      "url": "https://szeged365.hu/2026/11/26/makoi-kepviselo-a-helytelenul-elhelyezett-forgalomlassito-eszkozok-kapcsan-mar-felszedtek-javitjak-a-hibat/"
+    },
+    {
       "first_seen": "2026-11-26T13:06:06.610499Z",
       "published_at": "2026-11-26T00:00:00",
       "reason": "prefiltered",
@@ -303,24 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: szerdán visszatérhet az eső Szegedre, és a meccs előtt jótékonysági csokigyűjtést tartanak a kék-fehérek a PICK Arénában",
       "url": "https://szeged365.hu/2026/11/25/napi-pakk-szerdan-visszaterhet-az-eso-szegedre-es-a-meccs-elott-jotekonysagi-csokigyujtest-tartanak-a-kek-feherek-a-pick-arenaban/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
-      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-26T13:06:06.610499Z"
+  "updated_at": "2026-11-26T16:06:09.996704Z"
 }

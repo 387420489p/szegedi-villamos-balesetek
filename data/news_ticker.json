@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-26T10:01:47.149177Z",
+      "published_at": "2026-12-12T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "We are the Champions! Kitört a Black Friday akció a szegedi QUEEN Pop-Rock-Symphonic Live koncertre!",
+      "url": "https://szeged365.hu/2026/11/26/we-are-the-champions-kitort-a-black-friday-akcio-a-szegedi-queen-pop-rock-symphonic-live-koncertre/"
+    },
+    {
+      "first_seen": "2026-11-26T10:01:47.149177Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Szeged szeretett költője, városunk irodalmi életének egyik kiemelkedő alakja",
+      "url": "https://szeged365.hu/2026/11/26/elhunyt-szeged-szeretett-koltoje-varosunk-irodalmi-eletenek-egyik-kiemelkedo-alakja/"
+    },
+    {
+      "first_seen": "2026-11-26T10:01:47.149177Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy kislány, aki már annyi mindent túlélt, most a mi segítségünkre is számít: álljunk Hanna mellé, Szeged!",
+      "url": "https://szeged365.hu/2026/11/26/egy-kislany-aki-mar-annyi-mindent-tulelt-most-a-mi-segitsegunkre-is-szamit-alljunk-hanna-melle-szeged/"
+    },
+    {
+      "first_seen": "2026-11-26T10:01:47.149177Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A novemberi hideg elől most érdemes a moziba menekülni, mutatjuk, mit vetítenek a hétvégén Újszegeden",
+      "url": "https://szeged365.hu/2026/11/26/a-novemberi-hideg-elol-most-erdemes-a-moziba-menekulni-mutatjuk-mit-vetitenek-a-hetvegen-ujszegeden/"
+    },
+    {
       "first_seen": "2026-11-26T07:03:23.740544Z",
       "published_at": "2026-11-26T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "„Uraim, ne késlekedjetek”: háromnapos Black Week ékszer- és óraakció vár a szegedi Diamore-ban (videó)",
       "url": "https://szeged365.hu/2026/11/24/uraim-ne-keslekedjetek-haromnapos-black-week-ekszer-es-oraakcio-var-a-szegedi-diamore-ban-video/"
-    },
-    {
-      "first_seen": "2026-11-24T16:08:36.112716Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Húszéves lány holttestére bukkantak Szegeden",
-      "url": "https://szeged365.hu/2026/11/24/husz-eves-lany-holttestere-bukkantak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-24T16:08:36.112716Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Fejszével ölte meg ismerősét, a Szegedi Ítélőtábla másodfokon súlyosította a büntetését",
-      "url": "https://szeged365.hu/2026/11/24/fejszevel-olte-meg-ismeroset-a-szegedi-itelotabla-masodfokon-sulyositotta-a-bunteteset/"
-    },
-    {
-      "first_seen": "2026-11-24T16:08:36.112716Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A szülők emlékétől a vidám dallamokig: két szegedi alkotó tartott zenés irodalomórát a Somogyi-könyvtárban (videó)",
-      "url": "https://szeged365.hu/2026/11/24/a-szulok-emleketol-a-vidam-dallamokig-ket-szegedi-alkoto-tartott-zenes-irodalomorat-a-somogyi-konyvtarban-video/"
-    },
-    {
-      "first_seen": "2026-11-24T16:08:36.112716Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Baleset Szegeden: a 9-es troli utolért egy személyautót, a vonalon késések várhatók",
-      "url": "https://szeged365.hu/2026/11/24/baleset-szegeden-a-9-es-troli-utolert-egy-szemelyautot-a-vonalon-kesesek-varhatok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-26T07:03:23.740544Z"
+  "updated_at": "2026-11-26T10:01:47.149177Z"
 }

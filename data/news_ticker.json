@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "A Central Perk helyett ezúttal a Cheers Barban gyűlnek össze a Jóbarátok rajongói: akkora az érdeklődés, hogy dupláznak Szegeden",
+      "url": "https://szeged365.hu/2026/11/26/a-central-perk-helyett-ezuttal-a-cheers-barban-gyulnek-ossze-a-jobaratok-rajongoi-akkora-az-erdeklodes-hogy-duplaznak-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Family, erről mindenképpen tudnotok kell! Soha nem látott karácsonyi kedvezménnyel készül Détári Vilmos a Szent Vincentben (videó)",
+      "url": "https://szeged365.hu/2026/11/26/szeged365-family-errol-mindenkeppen-tudnotok-kell-soha-nem-latott-karacsonyi-kedvezmennyel-keszul-detari-vilmos-a-szent-vincentben-video/"
+    },
+    {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Az álmaikért kitartóan dolgozó fiatalokat és elhivatott nevelőszüleiket díjazták Szegeden (galéria)",
+      "url": "https://szeged365.hu/2026/11/26/az-almaikert-kitartoan-dolgozo-fiatalokat-es-elhivatott-neveloszuleiket-dijaztak-szegeden-galeria/"
+    },
+    {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Vajon miről beszélget Alföldi Róbert és Stohl András, ha nincsenek megírt szerepek? Januárban Szegeden kiderül!",
+      "url": "https://szeged365.hu/2026/11/26/vajon-mirol-beszelget-alfoldi-robert-es-stohl-andras-ha-nincsenek-megirt-szerepek-januarban-szegeden-kiderul/"
+    },
+    {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Viszlát, Zelma és Etosha! Eszékre költözött két zebracsikó a Szegedi Vadasparkból",
+      "url": "https://szeged365.hu/2026/11/26/viszlat-zelma-es-etosha-eszekre-koltozott-ket-zebracsiko-a-szegedi-vadasparkbol/"
+    },
+    {
+      "first_seen": "2026-11-26T13:06:06.610499Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Vitézy Dávid: a MÁV 5 millió forintot ad a mezőkövesdi vonatbalesetben megsérült lány családjának",
+      "url": "https://szeged365.hu/2026/11/26/vitezy-david-a-mav-5-millio-forintot-ad-a-mezokovesdi-vonatbalesetben-megserult-lany-csaladjanak/"
+    },
+    {
       "first_seen": "2026-11-26T10:01:47.149177Z",
       "published_at": "2026-12-12T00:00:00",
       "reason": "prefiltered",
@@ -271,56 +319,8 @@
       "source_name": "Szeged365",
       "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
       "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„A mai napig erőt ad, hogy megérte és megéri küzdeni” – Détári Vilmos, a Legszegedibb Jótevő is szavazásra buzdít minden szegedit a 2026-os Legszegedibb Szegediek versenyen! (videó)",
-      "url": "https://szeged365.hu/2026/11/24/a-mai-napig-erot-ad-hogy-megerte-es-megeri-kuzdeni-detari-vilmos-a-legszegedibb-jotevo-is-szavazasra-buzdit-minden-szegedit-a-2026-os-legszegedibb-szegediek-versenyen-v/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Black Week: grandiózus, háromnapos ékszer- és óraakció vár a szegedi Diamondban",
-      "url": "https://szeged365.hu/2026/11/23/black-friday-haromnapos-ekszer-es-oraakcio-var-a-szegedi-diamore-ban/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hajsza a győri gyilkos után: a férfi helyi, jól ismert autószerelő",
-      "url": "https://szeged365.hu/2026/11/24/hajsza-a-gyori-gyilkos-utan-a-ferfi-helyi-jol-ismert-autoszerelo/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Még mindig nagy erőkkel keresi a rendőrség az eltűnt szegedi, fiatal férfit (fotó)",
-      "url": "https://szeged365.hu/2026/11/24/meg-mindig-nagy-erokkel-keresi-a-rendorseg-az-eltunt-szegedi-fiatal-ferfit-foto/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szegedre felhőket és esőt, északra viszont havazást hoz az érkező mediterrán ciklon",
-      "url": "https://szeged365.hu/2026/11/24/szegedre-felhoket-es-esot-eszakra-viszont-havazast-hoz-az-erkezo-mediterran-ciklon/"
-    },
-    {
-      "first_seen": "2026-11-24T19:05:59.952535Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Uraim, ne késlekedjetek”: háromnapos Black Week ékszer- és óraakció vár a szegedi Diamore-ban (videó)",
-      "url": "https://szeged365.hu/2026/11/24/uraim-ne-keslekedjetek-haromnapos-black-week-ekszer-es-oraakcio-var-a-szegedi-diamore-ban-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-26T10:01:47.149177Z"
+  "updated_at": "2026-11-26T13:06:06.610499Z"
 }

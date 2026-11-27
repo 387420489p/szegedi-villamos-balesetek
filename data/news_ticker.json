@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-16T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
+      "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Megnyílt a Dóm Látogatóközpont különleges kiállítása: több mint 170 betlehem érkezett Szegedre",
+      "url": "https://szeged365.hu/2026/11/26/megnyilt-a-dom-latogatokozpont-kulonleges-kiallitasa-tobb-mint-170-betlehem-erkezett-szegedre/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Buzdítalak benneteket, hogy szavazzatok” – a 2022-ben Legszegedibb Zenész címmel díjazott Czutor Zoltán videóüzenetet küldött az idei Legszegedibb Szegediek kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/26/buzditalak-benneteket-hogy-szavazzatok-a-2022-ben-legszegedibb-zenesz-cimmel-dijazott-czutor-zoltan-videouzenetet-kuldott-az-idei-legszegedibb-szegediek-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-21T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Nem a Legszegedibb Jótevő vagyok, hanem egy híd az emberek között” – Kovács Dénes is üzent a szegedieknek a 2026-os Legszegedibb Szegediek kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/21/nem-a-legszegedibb-jotevo-vagyok-hanem-egy-hid-az-emberek-kozott-kovacs-denes-is-uzent-a-szegedieknek-a-2026-os-legszegedibb-szegediek-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
+      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Elhunyt Melocco Miklós szobrászművész, a szegedi Szabadság pillangója alkotója",
+      "url": "https://szeged365.hu/2026/11/27/elhunyt-melocco-miklos-szobraszmuvesz-a-szegedi-szabadsag-pillangoja-alkotoja/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szeged365 Kikapcs: adventi varázslat, metálőrület és sztárparádé – mutatjuk, milyen programok várnak a hétvégén Szegeden",
+      "url": "https://szeged365.hu/2026/11/27/szeged365-kikapcs-adventi-varazslat-metalorulet-es-sztarparade-mutatjuk-milyen-programok-varnak-a-hetvegen-szegeden/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ma startol a Szeged Advent! A főszervezővel jártuk végig, mi vár ránk a Dóm téren és a belvárosban (videó)",
+      "url": "https://szeged365.hu/2026/11/27/ma-startol-a-szeged-advent-a-foszervezovel-jartuk-vegig-mi-var-rank-a-dom-teren-es-a-belvarosban-video/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szegeden és térségében csökkent leginkább a külföldi vendégek száma októberben",
+      "url": "https://szeged365.hu/2026/11/27/szegeden-es-tersegeben-csokkent-leginkabb-a-kulfoldi-vendegek-szama-oktoberben/"
+    },
+    {
+      "first_seen": "2026-11-27T13:06:27.749142Z",
+      "published_at": "2026-12-05T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Egy este Szegeden, ahol a konyha és a bor ugyanazt a nyelvet beszéli: Kurucz Attila és Maurer Oszkár borvacsorája a Próbafülkében",
+      "url": "https://szeged365.hu/2026/11/27/egy-este-szegeden-ahol-a-konyha-es-a-bor-ugyanazt-a-nyelvet-beszeli-kurucz-attila-es-maurer-oszkar-borvacsoraja-a-probafulkeben/"
+    },
+    {
       "first_seen": "2026-11-27T10:07:01.000388Z",
       "published_at": "2026-11-27T00:00:00",
       "reason": "prefiltered",
@@ -34,14 +122,6 @@
     },
     {
       "first_seen": "2026-11-27T07:06:44.760111Z",
-      "published_at": "2026-11-16T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
-      "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
-    },
-    {
-      "first_seen": "2026-11-27T07:06:44.760111Z",
       "published_at": "2026-11-26T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -63,14 +143,6 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: borongós időben startol a Szeged Advent",
       "url": "https://szeged365.hu/2026/11/27/napi-pakk-borongos-idoben-startol-a-szeged-advent/"
-    },
-    {
-      "first_seen": "2026-11-27T07:06:44.760111Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
     },
     {
       "first_seen": "2026-11-27T07:06:44.760111Z",
@@ -101,24 +173,8 @@
       "published_at": "2026-11-26T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Megnyílt a Dóm Látogatóközpont különleges kiállítása: több mint 170 betlehem érkezett Szegedre",
-      "url": "https://szeged365.hu/2026/11/26/megnyilt-a-dom-latogatokozpont-kulonleges-kiallitasa-tobb-mint-170-betlehem-erkezett-szegedre/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Makacsul ragaszkodnak a felhők Szegedhez, pénteken is borongós időnk lesz",
       "url": "https://szeged365.hu/2026/11/26/makacsul-ragaszkodnak-szegedhez-a-felhok-penteken-is-borongos-idonk-lesz/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "“Buzdítalak benneteket, hogy szavazzatok” – a 2022-ben Legszegedibb Zenész címmel díjazott Czutor Zoltán videóüzenetet küldött az idei Legszegedibb Szegediek kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/26/buzditalak-benneteket-hogy-szavazzatok-a-2022-ben-legszegedibb-zenesz-cimmel-dijazott-czutor-zoltan-videouzenetet-kuldott-az-idei-legszegedibb-szegediek-kapcsan-video/"
     },
     {
       "first_seen": "2026-11-26T19:04:12.742327Z",
@@ -135,22 +191,6 @@
       "source_name": "Szeged365",
       "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
       "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-21T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Nem a Legszegedibb Jótevő vagyok, hanem egy híd az emberek között” – Kovács Dénes is üzent a szegedieknek a 2026-os Legszegedibb Szegediek kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/21/nem-a-legszegedibb-jotevo-vagyok-hanem-egy-hid-az-emberek-kozott-kovacs-denes-is-uzent-a-szegedieknek-a-2026-os-legszegedibb-szegediek-kapcsan-video/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
-      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
     },
     {
       "first_seen": "2026-11-26T16:06:09.996704Z",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Már most hatalmas az érdeklődés a 2027-es Szegedi Szabadtéri iránt: két musical is újabb előadást kap",
       "url": "https://szeged365.hu/2026/11/25/mar-most-hatalmas-az-erdeklodes-a-2027-es-szegedi-szabadteri-irant-ket-musical-is-ujabb-eloadast-kap/"
-    },
-    {
-      "first_seen": "2026-11-25T19:07:01.612563Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A havazás még elkerül bennünket: csütörtökön borongós, esős idő várható Szegeden",
-      "url": "https://szeged365.hu/2026/11/25/a-havazas-meg-elkerul-bennunket-csutortokon-borongos-esos-ido-varhato-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Még el sem indult a Szeged Advent, már másodszor rongálták meg a világító SZEGED-feliratot a Dóm téren",
-      "url": "https://szeged365.hu/2026/11/25/meg-el-sem-indult-a-szeged-advent-mar-masodszor-rongaltak-meg-a-vilagito-szeged-feliratot-a-dom-teren/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Amikor rád csukódik a ketrec ajtaja, megszűnik a külvilág” – óriási győzelemmel mutatkozott be a profik között a Legszegedibb Sportolónő, Szalai Gréta (videó)",
-      "url": "https://szeged365.hu/2026/11/25/amikor-rad-csukodik-a-ketrec-ajtaja-megszunik-a-kulvilag-oriasi-gyozelemmel-mutatkozott-be-a-profik-kozott-a-legszegedibb-sportolono-szalai-greta-video/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Lopás miatt keresnek egy férfit Szegeden – a rendőrség az állampolgárok segítségét kéri a megtalálásában",
-      "url": "https://szeged365.hu/2026/11/25/lopas-miatt-keresnek-egy-ferfit-szegeden-a-rendorseg-az-allampolgarok-segitseget-keri-a-megtalalasaban/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Mielőtt beköszönt a december, bulizzunk még egy nagyot, Szeged365 Family! Mutatjuk a JATE Klub hétvégi programjait (galéria)",
-      "url": "https://szeged365.hu/2026/11/25/mielott-bekoszont-a-december-bulizzunk-meg-egy-nagyot-szeged365-family-mutatjuk-a-jate-klub-hetvegi-programjait-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T10:07:01.000388Z"
+  "updated_at": "2026-11-27T13:06:27.749142Z"
 }

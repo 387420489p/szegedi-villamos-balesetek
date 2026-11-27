@@ -1,12 +1,60 @@
 {
   "items": [
     {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
+      "first_seen": "2026-11-27T07:06:44.760111Z",
       "published_at": "2026-11-16T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
       "title": "Közel 50 ezer voksnál jár a 2026-os Legszegedibb Szegediek versenye – mutatjuk, kik állnak jelenleg a kategóriák élén",
       "url": "https://szeged365.hu/2026/11/16/kozel-50-ezer-voksnal-jar-a-2026-os-legszegedibb-szegediek-versenye-mutatjuk-kik-allnak-jelenleg-a-kategoriak-elen/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: esős, szeles napunk lesz, nyílt napot tart az SZTE, hamarosan startol a Szeged Advent",
+      "url": "https://szeged365.hu/2026/11/26/napi-pakk-esos-szeles-napunk-lesz-nyilt-napot-tart-az-szte-hamarosan-startol-a-szeged-advent/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Finom ecsetvonások, rendkívüli precizitás” – új kiállítás nyílik a Reök-palotában, Halmi-Horváth István nyolcvan alkotását csodálhatjuk meg",
+      "url": "https://szeged365.hu/2026/11/27/finom-ecsetvonasok-rendkivuli-precizitas-uj-kiallitas-nyilik-a-reok-palotaban-halmi-horvath-istvan-nyolcvan-alkotasat-csodalhatjuk-meg/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: borongós időben startol a Szeged Advent",
+      "url": "https://szeged365.hu/2026/11/27/napi-pakk-borongos-idoben-startol-a-szeged-advent/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-26T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SZEGEDI ARCOK",
+      "url": "https://szeged365.hu/szegediarcok/"
+    },
+    {
+      "first_seen": "2026-11-27T07:06:44.760111Z",
+      "published_at": "2026-11-24T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "#SMART SZEGED",
+      "url": "https://szeged365.hu/smartszeged/"
     },
     {
       "first_seen": "2026-11-26T19:04:12.742327Z",
@@ -193,14 +241,6 @@
       "url": "https://szeged365.hu/2026/11/26/magabiztos-gyozelmet-aratott-a-pick-szeged-tizennyolc-golos-siker-szuletett-a-pler-budapest-ellen/"
     },
     {
-      "first_seen": "2026-11-26T07:03:23.740544Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Napi pakk: esős, szeles napunk lesz, nyílt napot tart az SZTE, hamarosan startol a Szeged Advent",
-      "url": "https://szeged365.hu/2026/11/26/napi-pakk-esos-szeles-napunk-lesz-nyilt-napot-tart-az-szte-hamarosan-startol-a-szeged-advent/"
-    },
-    {
       "first_seen": "2026-11-25T19:07:01.612563Z",
       "published_at": "2026-11-25T00:00:00",
       "reason": "prefiltered",
@@ -279,48 +319,8 @@
       "source_name": "Szeged365",
       "title": "Hét különleges fafajta, új zöld oázis és 43 milliós fejlesztés – mutatjuk, mit hoztak össze Szeged belvárosában (galéria)",
       "url": "https://szeged365.hu/2026/11/25/het-kulonleges-fafajta-uj-zold-oazis-es-43-millios-fejlesztes-mutatjuk-mit-hoztak-ossze-szeged-belvarosaban-galeria/"
-    },
-    {
-      "first_seen": "2026-11-25T13:09:29.000083Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Megérkezett a szezon első havazása – mutatjuk, elér-e Szegedig",
-      "url": "https://szeged365.hu/2026/11/25/esik-a-ho-budapesten-mutatjuk-eler-e-szegedig/"
-    },
-    {
-      "first_seen": "2026-11-25T13:09:29.000083Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Két fontos gyógyszerből is hiány van: Csongrád-Csanádban egyetlen szegedi patikát jelöltek ki a kiváltásukra",
-      "url": "https://szeged365.hu/2026/11/25/ket-fontos-gyogyszerbol-is-hiany-van-csongrad-csanadban-egyetlen-szegedi-patikat-jeloltek-ki-a-kivaltasukra/"
-    },
-    {
-      "first_seen": "2026-11-25T13:09:29.000083Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Száz kiló mézzel indult volna, végül több mint egy tonna adományt pakoltak az autókba a szegediek (galéria)",
-      "url": "https://szeged365.hu/2026/11/25/szaz-kilo-mezzel-indult-volna-vegul-tobb-mint-egy-tonna-adomanyt-pakoltak-az-autokba-a-szegediek-galeria/"
-    },
-    {
-      "first_seen": "2026-11-25T13:09:29.000083Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Laborlátogatások és felvételi tájékoztatók: kétnapos nyílt napot tart az SZTE",
-      "url": "https://szeged365.hu/2026/11/25/laborlatogatasok-es-felveteli-tajekoztatok-ketnapos-nyilt-napot-tart-az-szte/"
-    },
-    {
-      "first_seen": "2026-11-25T13:09:29.000083Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Csajok, mikor volt utoljára egy igazán jó közös estétek? Szeged szívében meg is találtuk hozzá a tökéletes helyet! (videó)",
-      "url": "https://szeged365.hu/2026/11/25/csajok-mikor-volt-utoljara-egy-igazan-jo-kozos-estetek-szeged-sziveben-meg-is-talaltuk-hozza-a-tokeletes-helyet-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-26T19:04:12.742327Z"
+  "updated_at": "2026-11-27T07:06:44.760111Z"
 }

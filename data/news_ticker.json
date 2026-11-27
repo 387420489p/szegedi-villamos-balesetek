@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-27T10:07:01.000388Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Minden tisztségéről lemond Jellinek Dániel, nem ő lesz a Szeged Plaza bevásárlóközpontot is tulajdonló Indotek-csoport vezetője",
+      "url": "https://szeged365.hu/2026/11/27/minden-tisztsegerol-lemond-jellinek-daniel-nem-o-lesz-a-szeged-plaza-bevasarlokozpontot-is-tulajdonlo-indotek-csoport-vezetoje/"
+    },
+    {
+      "first_seen": "2026-11-27T10:07:01.000388Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Ének az Életért – jótékonysági gospel koncertet szerveznek a szegedi babákért a Honvéd téri református templomban",
+      "url": "https://szeged365.hu/2026/11/27/enek-az-eletert-jotekonysagi-gospel-koncertet-szerveznek-a-szegedi-babakert-a-honved-teri-reformatus-templomban/"
+    },
+    {
+      "first_seen": "2026-11-27T10:07:01.000388Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "“Itt többé nem lesz posta” – lebontották az egyik bezárt hivatal épületét Újszegeden",
+      "url": "https://szeged365.hu/2026/11/27/itt-tobbe-nem-lesz-posta-lebontottak-az-egyik-bezart-hivatal-epuletet-ujszegeden/"
+    },
+    {
+      "first_seen": "2026-11-27T10:07:01.000388Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Több kamera is rögzítette a mezőkövesdi balesetet, mire riasztották a mozdonyvezetőt, a vonat már óránként száz kilométerrel haladt",
+      "url": "https://szeged365.hu/2026/11/27/tobb-kamera-is-rogzitette-a-mezokovesdi-balesetet-mire-riasztottak-a-mozdonyvezetot-a-vonat-mar-orankent-szaz-kilometerrel-haladt/"
+    },
+    {
       "first_seen": "2026-11-27T07:06:44.760111Z",
       "published_at": "2026-11-16T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Mielőtt beköszönt a december, bulizzunk még egy nagyot, Szeged365 Family! Mutatjuk a JATE Klub hétvégi programjait (galéria)",
       "url": "https://szeged365.hu/2026/11/25/mielott-bekoszont-a-december-bulizzunk-meg-egy-nagyot-szeged365-family-mutatjuk-a-jate-klub-hetvegi-programjait-galeria/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Thrash metaltól a grunge-ig: három fiatal zenekar zúz szombaton a Városi Rock Klubban Szegeden",
-      "url": "https://szeged365.hu/2026/11/25/thrash-metaltol-a-grunge-ig-harom-fiatal-zenekar-zuz-szombaton-a-varosi-rock-klubban-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ki mondta, hogy egy jó estéhez meg kell várni a hétvégét? Mutatjuk, hol érdemes összeülni a barátokkal Szegeden",
-      "url": "https://szeged365.hu/2026/11/25/ki-mondta-hogy-egy-jo-estehez-meg-kell-varni-a-hetveget-mutatjuk-hol-erdemes-osszeulni-a-baratokkal-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Ma van a magyar labdarúgás napja – a szegedi focisták Grosics Gyula szobránál tartottak megemlékezést (galéria)",
-      "url": "https://szeged365.hu/2026/11/25/ma-van-a-magyar-labdarugas-napja-a-szegedi-focistak-grosics-gyula-szobranal-tartottak-megemlekezest-galeria/"
-    },
-    {
-      "first_seen": "2026-11-25T16:04:13.240998Z",
-      "published_at": "2026-11-25T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Hét különleges fafajta, új zöld oázis és 43 milliós fejlesztés – mutatjuk, mit hoztak össze Szeged belvárosában (galéria)",
-      "url": "https://szeged365.hu/2026/11/25/het-kulonleges-fafajta-uj-zold-oazis-es-43-millios-fejlesztes-mutatjuk-mit-hoztak-ossze-szeged-belvarosaban-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T07:06:44.760111Z"
+  "updated_at": "2026-11-27T10:07:01.000388Z"
 }

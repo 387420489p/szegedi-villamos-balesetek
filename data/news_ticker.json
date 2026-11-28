@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-28T07:01:37.980619Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Napi pakk: felhőket és 4 fokot hoz a hétvége első napja városunkba, Jégszobrász show kápráztat el bennünket a Szeged Adventen",
+      "url": "https://szeged365.hu/2026/11/28/napi-pakk-felhoket-es-4-fokot-hoz-a-hetvege-elso-napja-varosunkba-jegszobrasz-show-kapraztat-el-bennunket-a-szeged-adventen/"
+    },
+    {
       "first_seen": "2026-11-27T19:08:24.686021Z",
       "published_at": "2026-11-26T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Szeged365 Family, erről mindenképpen tudnotok kell! Soha nem látott karácsonyi kedvezménnyel készül Détári Vilmos a Szent Vincentben (videó)",
       "url": "https://szeged365.hu/2026/11/26/szeged365-family-errol-mindenkeppen-tudnotok-kell-soha-nem-latott-karacsonyi-kedvezmennyel-keszul-detari-vilmos-a-szent-vincentben-video/"
-    },
-    {
-      "first_seen": "2026-11-26T13:06:06.610499Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Az álmaikért kitartóan dolgozó fiatalokat és elhivatott nevelőszüleiket díjazták Szegeden (galéria)",
-      "url": "https://szeged365.hu/2026/11/26/az-almaikert-kitartoan-dolgozo-fiatalokat-es-elhivatott-neveloszuleiket-dijaztak-szegeden-galeria/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T19:08:24.686021Z"
+  "updated_at": "2026-11-28T07:01:37.980619Z"
 }

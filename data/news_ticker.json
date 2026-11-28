@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-28T13:02:41.042001Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Szállást keresel, advent idejére? Egy igazi ékszerdoboz vár Rád Szeged szívében! (videó)",
+      "url": "https://szeged365.hu/2026/11/28/szallast-keresel-advent-idejere-egy-igazi-ekszerdoboz-var-rad-szeged-sziveben-video/"
+    },
+    {
+      "first_seen": "2026-11-28T13:02:41.042001Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Zöldül Szeged: megérkezett az első kamionnyi facsemete a városba (fotók)",
+      "url": "https://szeged365.hu/2026/11/28/zoldul-szeged-megerkezett-az-elso-kamionnyi-facsemete-a-varosba-fotok/"
+    },
+    {
+      "first_seen": "2026-11-28T13:02:41.042001Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Meccsnap: az év utolsó mérkőzése vár a Szeged-Csanád GA-ra, hazai pályán küzdenek meg az FC Ajkával",
+      "url": "https://szeged365.hu/2026/11/28/meccsnap-az-ev-utolso-merkozese-var-a-szeged-csanad-ga-ra-hazai-palyan-kuzdenek-meg-az-fc-ajkaval/"
+    },
+    {
+      "first_seen": "2026-11-28T13:02:41.042001Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "ai_rejected",
+      "source_name": "Szeged365",
+      "title": "Döbbenetes videót kaptunk: nyitott ajtóval száguld a Napfény InterCity!",
+      "url": "https://szeged365.hu/2026/11/28/dobbenetes-videot-kaptunk-nyitott-ajtoval-szaguld-a-napfeny-intercity/"
+    },
+    {
       "first_seen": "2026-11-28T07:01:37.980619Z",
       "published_at": "2026-11-28T00:00:00",
       "reason": "prefiltered",
@@ -287,40 +319,8 @@
       "source_name": "Szeged365",
       "title": "Makacsul ragaszkodnak a felhők Szegedhez, pénteken is borongós időnk lesz",
       "url": "https://szeged365.hu/2026/11/26/makacsul-ragaszkodnak-szegedhez-a-felhok-penteken-is-borongos-idonk-lesz/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-13T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Újabb izgalmas fordulatok a Legszegedibb Szegediek 2026-os versenyében: alig néhány szavazat különbségek alakultak ki a jelöltek között!",
-      "url": "https://szeged365.hu/2026/11/13/ujabb-izgalmas-fordulatok-a-legszegedibb-szegediek-2026-os-versenyeben-alig-nehany-szavazat-kulonbsegek-alakultak-ki-a-jeloltek-kozott/"
-    },
-    {
-      "first_seen": "2026-11-26T16:06:09.996704Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Kívül Csillagok háborúja, belül Buckingham-palota: behuppantunk az új Audi Q7-be a Porsche Szegednél (videó)",
-      "url": "https://szeged365.hu/2026/11/26/kivul-csillagok-haboruja-belul-buckingham-palota-behuppantunk-az-uj-audi-q7-be-a-porsche-szegednel-video/"
-    },
-    {
-      "first_seen": "2026-11-26T13:06:06.610499Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "A Central Perk helyett ezúttal a Cheers Barban gyűlnek össze a Jóbarátok rajongói: akkora az érdeklődés, hogy dupláznak Szegeden",
-      "url": "https://szeged365.hu/2026/11/26/a-central-perk-helyett-ezuttal-a-cheers-barban-gyulnek-ossze-a-jobaratok-rajongoi-akkora-az-erdeklodes-hogy-duplaznak-szegeden/"
-    },
-    {
-      "first_seen": "2026-11-26T13:06:06.610499Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Szeged365 Family, erről mindenképpen tudnotok kell! Soha nem látott karácsonyi kedvezménnyel készül Détári Vilmos a Szent Vincentben (videó)",
-      "url": "https://szeged365.hu/2026/11/26/szeged365-family-errol-mindenkeppen-tudnotok-kell-soha-nem-latott-karacsonyi-kedvezmennyel-keszul-detari-vilmos-a-szent-vincentben-video/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-28T07:01:37.980619Z"
+  "updated_at": "2026-11-28T13:02:41.042001Z"
 }

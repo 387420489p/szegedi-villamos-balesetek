@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-19T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
+      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-23T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
+      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Sajnos elhunyt a mezőkövesdi vonatbaleset áldozata (frissítve)",
+      "url": "https://szeged365.hu/2026/11/27/sajnos-elhunyt-a-mezokovesdi-vonatbaleset-aldozata/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-27T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Már több mint 73 ezer voks érkezett a Legszegedibb Szegediek versenyére: fordult a kocka a nőknél, a tanítóknál pedig 68 szavazat dönt!",
+      "url": "https://szeged365.hu/2026/11/27/mar-tobb-mint-73-ezer-voks-erkezett-a-legszegedibb-szegediek-versenyere-fordult-a-kocka-a-noknel-a-tanitoknal-pedig-68-szavazat-dont/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Hatalmas győzelem: kettős emberhátrányban nyert a Szeged-Csanád GA Ajka ellen!",
+      "url": "https://szeged365.hu/2026/11/28/hatalmas-gyozelem-kettos-emberhatranyban-nyert-a-szeged-csanad-ga-ajka-ellen/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "PSA Satellite- verseny érkezett Szegedre, a MyDay Sportcentrumban csapnak össze a fallabda ászai",
+      "url": "https://szeged365.hu/2026/11/28/psa-satellite-verseny-erkezett-szegedre-a-myday-sportcentrumban-csapnak-ossze-a-fallabda-aszai/"
+    },
+    {
+      "first_seen": "2026-11-28T16:04:06.238958Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Forgalomkorlátozások lesznek Szegeden vasárnap a XI. Szegedi Jótékonysági Félmaraton ideje alatt",
+      "url": "https://szeged365.hu/2026/11/28/forgalomkorlatozasok-lesznek-szegeden-vasarnap-a-xi-szegedi-jotekonysagi-felmaraton-ideje-alatt/"
+    },
+    {
       "first_seen": "2026-11-28T13:02:41.042001Z",
       "published_at": "2026-11-28T00:00:00",
       "reason": "prefiltered",
@@ -98,22 +154,6 @@
     },
     {
       "first_seen": "2026-11-27T16:00:54.631867Z",
-      "published_at": "2026-11-19T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "„Szavazzatok idén is mindenkire, mert erős a mezőny!” – Szalai Gréta is üzent a szegedieknek a Legszegedibb Szegediek 2026-os évadának kapcsán (videó)",
-      "url": "https://szeged365.hu/2026/11/19/szavazzatok-iden-is-mindenkire-mert-eros-a-mezony-szalai-greta-is-uzent-a-szegedieknek-a-legszegedibb-szegediek-2026-os-evadanak-kapcsan-video/"
-    },
-    {
-      "first_seen": "2026-11-27T16:00:54.631867Z",
-      "published_at": "2026-11-23T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "65 ezer voks érkezett a Legszegedibb Szegediek 2026-os versenyére: két kategóriában is kiélezett az első helyezett!",
-      "url": "https://szeged365.hu/2026/11/23/65-ezer-voks-erkezett-a-legszegedibb-szegediek-2026-os-versenyere-ket-kategoriaban-is-kielezett-az-elso-helyezett/"
-    },
-    {
-      "first_seen": "2026-11-27T16:00:54.631867Z",
       "published_at": "2026-11-27T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
@@ -133,24 +173,8 @@
       "published_at": "2026-11-27T00:00:00",
       "reason": "prefiltered",
       "source_name": "Szeged365",
-      "title": "Sajnos elhunyt a mezőkövesdi vonatbaleset áldozata",
-      "url": "https://szeged365.hu/2026/11/27/sajnos-elhunyt-a-mezokovesdi-vonatbaleset-aldozata/"
-    },
-    {
-      "first_seen": "2026-11-27T16:00:54.631867Z",
-      "published_at": "2026-11-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
       "title": "Forever Black Friday a szegedi Kalmár Motornál: egy hónapon át 20% kedvezményt adnak a motoros ruházatra (videó)",
       "url": "https://szeged365.hu/2026/11/27/forever-black-friday-a-szegedi-kalmar-motornal-egy-honapon-at-20-kedvezmenyt-adnak-a-motoros-ruhazatra-video/"
-    },
-    {
-      "first_seen": "2026-11-27T16:00:54.631867Z",
-      "published_at": "2026-11-27T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Már több mint 73 ezer voks érkezett a Legszegedibb Szegediek versenyére: fordult a kocka a nőknél, a tanítóknál pedig 68 szavazat dönt!",
-      "url": "https://szeged365.hu/2026/11/27/mar-tobb-mint-73-ezer-voks-erkezett-a-legszegedibb-szegediek-versenyere-fordult-a-kocka-a-noknel-a-tanitoknal-pedig-68-szavazat-dont/"
     },
     {
       "first_seen": "2026-11-27T16:00:54.631867Z",
@@ -295,32 +319,8 @@
       "source_name": "Szeged365",
       "title": "#SZEGEDI ARCOK",
       "url": "https://szeged365.hu/szegediarcok/"
-    },
-    {
-      "first_seen": "2026-11-27T07:06:44.760111Z",
-      "published_at": "2026-11-24T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SMART SZEGED",
-      "url": "https://szeged365.hu/smartszeged/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Gólyalábas felvonulással, extravagáns szikra show-val és jégszobrászattal rajtol a Szeged Advent – mutatjuk az első hétvége részletes programját!",
-      "url": "https://szeged365.hu/2026/11/26/golyalabas-felvonulassal-extravagans-szikra-show-val-es-jegszobraszattal-rajtol-a-szegedi-karacsonyi-hetek-mutatjuk-az-elso-hetvege-reszletes-programjat/"
-    },
-    {
-      "first_seen": "2026-11-26T19:04:12.742327Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "Makacsul ragaszkodnak a felhők Szegedhez, pénteken is borongós időnk lesz",
-      "url": "https://szeged365.hu/2026/11/26/makacsul-ragaszkodnak-szegedhez-a-felhok-penteken-is-borongos-idonk-lesz/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-28T13:02:41.042001Z"
+  "updated_at": "2026-11-28T16:04:06.238958Z"
 }

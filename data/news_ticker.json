@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "first_seen": "2026-11-28T19:09:47.363256Z",
+      "published_at": "2026-11-28T00:00:00",
+      "reason": "prefiltered",
+      "source_name": "Szeged365",
+      "title": "Még mindig borús, de száraz hideg várható Szegeden vasárnap",
+      "url": "https://szeged365.hu/2026/11/28/meg-mindig-borus-de-szaraz-hideg-varhato-szegeden-vasarnap/"
+    },
+    {
       "first_seen": "2026-11-28T16:04:06.238958Z",
       "published_at": "2026-11-19T00:00:00",
       "reason": "prefiltered",
@@ -311,16 +319,8 @@
       "source_name": "Szeged365",
       "title": "Napi pakk: borongós időben startol a Szeged Advent",
       "url": "https://szeged365.hu/2026/11/27/napi-pakk-borongos-idoben-startol-a-szeged-advent/"
-    },
-    {
-      "first_seen": "2026-11-27T07:06:44.760111Z",
-      "published_at": "2026-11-26T00:00:00",
-      "reason": "prefiltered",
-      "source_name": "Szeged365",
-      "title": "#SZEGEDI ARCOK",
-      "url": "https://szeged365.hu/szegediarcok/"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-28T16:04:06.238958Z"
+  "updated_at": "2026-11-28T19:09:47.363256Z"
 }
